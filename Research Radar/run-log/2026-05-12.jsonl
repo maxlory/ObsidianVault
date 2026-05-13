@@ -3,3 +3,4 @@
 {"command": "aihot_daily", "failures": [], "signals": 28, "time": "2026-05-12T00:20:15.492827+00:00"}
 {"command": "weekly_review", "failures": [{"category": "只归档", "discovered_at": "2026-05-12T08:17:19.493983+08:00", "first_seen": "2026-05-11T11:23:27.335489+08:00", "follow_up": "检查数据源是否限流或地址失效。", "id": "4dede2d00763568d", "kind": "failure", "last_seen": "2026-05-12T08:17:19.493983+08:00", "published": "", "reason": "source failure logged", "score": 0, "seen_count": 2, "source": "System", "sources": ["System"], "summary": "HTTP Error 400: Bad Request", "tags": ["failure"], "title": "Hugging Face fetch failed", "url": "https://huggingface.co/api/models?sort=trending&direction=-1&limit=20"}], "signals": 386, "time": "2026-05-12T01:30:15.913359+00:00"}
 {"command": "aihot_daily", "failures": [], "signals": 28, "time": "2026-05-12T01:52:28.387747+00:00"}
+{"command": "vault_maintenance", "failures": [], "signals": 0, "time": "2026-05-12T13:45:22.628367+00:00"}
