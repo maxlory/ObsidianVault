@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W20
-date: 2026-05-14
+date: 2026-05-15
 tags:
   - weekly-review
   - research-radar
@@ -23,6 +23,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 93** | 开源工具html-anything助力Agent生成高质量HTML
+> **标题**：开源工具html-anything助力Agent生成高质量HTML
+> **原文链接**：🔗 [打开原文](https://x.com/xiaohu/status/2054925632061231431)
+> **source**：AI HOT / X：小互 (@xiaohu)
+> **kind**：`product`
+> **reason**：matches topics: agent, claude code, codex; high-value terms: agent, codex, claude code
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：用户分享了对开源项目html-anything的积极体验。该项目旨在让AI Agent能将任何数据转换为具有世界级设计水准的HTML代码。该项目历时三天开发，包含约一万五千行代码，支持75套Skills和9种导出格式，并能兼容包括Claude Code、Codex、OpenClaw、Hermes在内的多种代码生成Agent。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 93** | Claude Code v2.1.139 版本更新
 > **标题**：Claude Code v2.1.139 版本更新
 > **原文链接**：🔗 [打开原文](https://github.com/anthropics/claude-code/releases/tag/v2.1.139)
@@ -36,6 +49,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 90** | BestBlogs早报：AI智能体工程化实战与安全架构
+> **标题**：BestBlogs早报：AI智能体工程化实战与安全架构
+> **原文链接**：🔗 [打开原文](https://x.com/hongming731/status/2054701978924859865)
+> **source**：AI HOT / X：洪明 (@hongming731)
+> **kind**：`article`
+> **reason**：matches topics: agent, codex, openai, anthropic; high-value terms: agent, codex
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：BestBlogs早报聚焦AI智能体的工程化落地。Anthropic官方指南详解Claude Computer Use最佳实践，包括解决点击偏移的根本原因、推荐分辨率策略及必须采用虚拟机隔离与人工确认门控的安全原则。OpenAI工程师分享了为Codex构建Windows安全沙箱的历程，其最终方案通过专属安全标识符和写受限令牌，实现了操作系统层面的强制文件系统隔离。早报同时指出，基准测试优异的RAG Agent在生产环境中可能出现高达30%的幻觉率。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | eugeniughelbur/obsidian-second-brain
 > **标题**：eugeniughelbur/obsidian-second-brain
 > **原文链接**：🔗 [打开原文](https://github.com/eugeniughelbur/obsidian-second-brain)
@@ -44,6 +70,19 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Cross-CLI skill for Obsidian. Turns your vault into a living AI-first second brain across Claude Code, Codex CLI, Gemini CLI, and OpenCode. 32 commands, vault-first research, scheduled agents, write-time AI-first validator.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | aliyanfauzi361-create/skillify-skill
+> **标题**：aliyanfauzi361-create/skillify-skill
+> **原文链接**：🔗 [打开原文](https://github.com/aliyanfauzi361-create/skillify-skill)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, mcp; high-value terms: agent, agents, mcp, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Capture a session as a reusable agentskills.io skill file for Claude Code, Cursor, Copilot, Gemini CLI, and other agent tools
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -75,6 +114,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 86** | Claude 工具 v2.1.141 版本更新
+> **标题**：Claude 工具 v2.1.141 版本更新
+> **原文链接**：🔗 [打开原文](https://github.com/anthropics/claude-code/releases/tag/v2.1.141)
+> **source**：AI HOT / Claude Code：GitHub Releases（RSS）
+> **kind**：`product`
+> **reason**：matches topics: agent, agents, anthropic; high-value terms: agent, agents
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Claude 工具发布 v2.1.141 版本，带来多项功能新增与优化。主要更新包括：为钩子输出添加 `terminalSequence` 字段以支持无控制终端的桌面通知；新增 `CLAUDE_CODE_PLUGIN_PREFER_HTTPS` 环境变量，便于通过 HTTPS 克隆插件源码；引入 `ANTHROPIC_WORKSPACE_ID` 变量以在多工作区联盟中限定令牌范围。会话管理方面，`claude agents` 命令新增 `--cwd` 参数用于按目录筛选，并优化后台代理的状态归类。用户体验改进包括：在倒带菜单添加"总结至此"选项以压缩早期上下文；长思考超时后旋转指示器变色提供更明确反馈；此外，还修复了 Markdown 表格渲染异常、权限提示逻辑、历史记录管理等超过 30 项问题。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 86** | Anthropic开源金融AI全栈模板，定义行业落地新标准
 > **标题**：Anthropic开源金融AI全栈模板，定义行业落地新标准
 > **原文链接**：🔗 [打开原文](https://x.com/frxiaobei/status/2053861985008431398)
@@ -83,58 +135,6 @@ tags:
 > **reason**：matches topics: openai, anthropic, mcp; high-value terms: mcp, api
 > **follow_up**：判断是否需要沉淀为长期主题笔记。
 > **summary**：Anthropic在GitHub开源了金融服务行业AI解决方案完整模板库，包含10个端到端智能体、7个垂直行业插件及11家主流金融数据商的MCP连接器，覆盖投研、投行、风控等核心工作流。该库提供了从个人插件到企业API的部署方式，支持集成至Microsoft 365及私有云。此举为金融AI落地提供了开箱即用的标准作业程序，与OpenAI的消费级路线形成鲜明对比，凸显了其深耕企业场景、通过开源构建行业生态的战略意图。
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | afterthings7/local-ai-stack
-> **标题**：afterthings7/local-ai-stack
-> **原文链接**：🔗 [打开原文](https://github.com/afterthings7/local-ai-stack)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：🔍 Build local AI infrastructure on M2 MacBook Air with zero cloud dependencies, ensuring unlimited usage and complete privacy.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 84** | 在Claude Code中安装官方插件调用Codex
-> **标题**：在Claude Code中安装官方插件调用Codex
-> **原文链接**：🔗 [打开原文](https://x.com/vista8/status/2054218925005816077)
-> **source**：AI HOT / X：Vista (@vista8)
-> **kind**：`article`
-> **reason**：matches topics: claude code, codex, openai; high-value terms: codex, claude code
-> **follow_up**：判断是否需要沉淀为长期主题笔记。
-> **summary**：本文介绍了在Claude Code中通过插件市场安装OpenAI官方Codex插件的具体步骤：添加库、安装插件、重新加载及配置。其核心实践动机源于HeavySkill论文提出的"重思考"方法，即让多个AI模型并行独立推理，再由一个模型（如Codex）作为主持人综合思路以提升回答质量。作者正依此构建由Claude Code推理、Codex主持的Skill。
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 83** | Agentick: A Unified Benchmark for General Sequential Decision-Making Agents
-> **标题**：Agentick: A Unified Benchmark for General Sequential Decision-Making Agents
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.06869)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, research, benchmark; high-value terms: benchmark, agent, agents
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2605.06869v1 Announce Type: new Abstract: AI agent research spans a wide spectrum: from RL agents that learn from scratch to foundation model agents that leverage pre-trained knowledge, yet no unified benchmark enables fair comparison across these approaches. We present Agentick, a benchmark...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 83** | When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning
-> **标题**：When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.06772)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm, research; high-value terms: agent, agents, reasoning
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2605.06772v1 Announce Type: new Abstract: As large language models (LLMs) show increasing promise on research-level physics reasoning tasks and agentic AI becomes more common, a practical question emerges: How does the interaction between researchers and agents affect the results? We study th...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -156,6 +156,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | aliyanfauzi361-create/skillify-skill
+> **标题**：aliyanfauzi361-create/skillify-skill
+> **原文链接**：🔗 [打开原文](https://github.com/aliyanfauzi361-create/skillify-skill)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, mcp; high-value terms: agent, agents, mcp, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Capture a session as a reusable agentskills.io skill file for Claude Code, Cursor, Copilot, Gemini CLI, and other agent tools
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | saurabhmain/a-mem-mcp-server
 > **标题**：saurabhmain/a-mem-mcp-server
 > **原文链接**：🔗 [打开原文](https://github.com/saurabhmain/a-mem-mcp-server)
@@ -164,19 +177,6 @@ tags:
 > **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp, eval
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：🧠 Enhance LLM agents with an agentic memory system, featuring automatic note construction, dynamic memory updates, and intelligent semantic retrieval.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | afterthings7/local-ai-stack
-> **标题**：afterthings7/local-ai-stack
-> **原文链接**：🔗 [打开原文](https://github.com/afterthings7/local-ai-stack)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：🔍 Build local AI infrastructure on M2 MacBook Air with zero cloud dependencies, ensuring unlimited usage and complete privacy.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -237,14 +237,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 77** | PYTHALAB-MERA: Validation-Grounded Memory, Retrieval, and Acceptance Control for Frozen-LLM Coding Agents
-> **标题**：PYTHALAB-MERA: Validation-Grounded Memory, Retrieval, and Acceptance Control for Frozen-LLM Coding Agents
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.08468)
+> [!info]+ **今日必须看 / 77** | Deep Reasoning in General Purpose Agents via Structured Meta-Cognition
+> **标题**：Deep Reasoning in General Purpose Agents via Structured Meta-Cognition
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.11388)
 > **source**：cs.CL updates on arXiv.org
 > **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, eval
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, reasoning
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2605.08468v1 Announce Type: new Abstract: Local LLM-based coding agents increasingly work in settings where correctness is earned through execution feedback, persistent state, and bounded repair, not through a single fluent answer. Static retrieval, long-context prompting, self-refinement, ex...
+> **summary**：arXiv:2605.11388v1 Announce Type: new Abstract: Humans intuitively solve complex problems by flexibly shifting among reasoning modes: they plan, execute, revise intermediate goals, resolve ambiguity through associative judgment, and apply formal procedures to well-specified subproblems. Current LLM...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -257,33 +257,33 @@ tags:
 > **kind**：`paper`
 > **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, eval
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2605.08374v1 Announce Type: new Abstract: Episodic memory allows LLM agents to accumulate and retrieve experience, but current methods treat each memory independently, i.e., evaluating retrieval quality in isolation without accounting for the dependency chains through which memories enable th...
+> **summary**：arXiv:2605.08374v2 Announce Type: new Abstract: Episodic memory allows LLM agents to accumulate and retrieve experience, but current methods treat each memory independently, i.e., evaluating retrieval quality in isolation without accounting for the dependency chains through which memories enable th...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 77** | Do Benchmarks Underestimate LLM Performance? Evaluating Hallucination Detection With LLM-First Human-Adjudicated Assessment
-> **标题**：Do Benchmarks Underestimate LLM Performance? Evaluating Hallucination Detection With LLM-First Human-Adjudicated Assessment
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.08462)
-> **source**：cs.CL updates on arXiv.org
+> [!info]+ **今日必须看 / 77** | Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents
+> **标题**：Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.12620)
+> **source**：cs.AI updates on arXiv.org
 > **kind**：`paper`
-> **reason**：matches topics: agent, llm, benchmark; high-value terms: benchmark, agent, eval
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, reasoning
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2605.08462v1 Announce Type: new Abstract: Hallucination remains a persistent challenge in Large Language Models (LLMs), particularly in context-grounded settings such as RAG and agentic AI systems. This study focuses on contextual hallucination detection in summarization tasks. We analyze the...
+> **summary**：arXiv:2605.12620v1 Announce Type: new Abstract: Building generalist embodied agents capable of solving complex real-world tasks remains a fundamental challenge in AI. Multimodal Large Language Models (MLLMs) have significantly advanced the reasoning capabilities of such agents through strong vision...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **可延后 / 70** | Do Agents Need to Plan Step-by-Step? Rethinking Planning Horizon in Data-Centric Tool Calling
-> **标题**：Do Agents Need to Plan Step-by-Step? Rethinking Planning Horizon in Data-Centric Tool Calling
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.08477)
-> **source**：cs.CL updates on arXiv.org
+> [!info]+ **今日必须看 / 77** | Beyond Cooperative Simulators: Generating Realistic User Personas for Robust Evaluation of LLM Agents
+> **标题**：Beyond Cooperative Simulators: Generating Realistic User Personas for Robust Evaluation of LLM Agents
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.12894)
+> **source**：cs.AI updates on arXiv.org
 > **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, eval
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2605.08477v1 Announce Type: new Abstract: Explicit planning is a critical capability for LLM-based agents solving complex data-centric tasks, which require precise tool calling over external data sources. Existing strategies fall into two paradigms based on planning horizon: (1) full-horizon...
+> **summary**：arXiv:2605.12894v1 Announce Type: new Abstract: Large Language Model (LLM) agents are increasingly deployed in settings where they interact with a wide variety of people, including users who are unclear, impatient, or reluctant to share information. However, collecting real interaction data at scal...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -318,14 +318,27 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | 15496-debug/vs-code-agents
-> **标题**：15496-debug/vs-code-agents
-> **原文链接**：🔗 [打开原文](https://github.com/15496-debug/vs-code-agents)
+> [!info]+ **今日必须看 / 85** | Corryrevokable963/claude-code-book
+> **标题**：Corryrevokable963/claude-code-book
+> **原文链接**：🔗 [打开原文](https://github.com/Corryrevokable963/claude-code-book)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, security
+> **reason**：matches topics: agent, claude code, llm, mcp; high-value terms: agent, mcp, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：🛠️ Structure your AI-assisted development with specialized agents for planning, coding, reviewing, and security in VS Code.
+> **summary**：Explore Claude Code's Agent Harness architecture with a clear breakdown of its runtime, tools, and control flow for AI agent builders
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | HIDORAKAI002/ai-workspace-archive
+> **标题**：HIDORAKAI002/ai-workspace-archive
+> **原文链接**：🔗 [打开原文](https://github.com/HIDORAKAI002/ai-workspace-archive)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：A massive, self-updating local archive of AI tools — 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cline), and 30+ system prompt collections. One repo to rule them all.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -344,6 +357,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 79** | 15496-debug/vs-code-agents
+> **标题**：15496-debug/vs-code-agents
+> **原文链接**：🔗 [打开原文](https://github.com/15496-debug/vs-code-agents)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, security
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：🛠️ Structure your AI-assisted development with specialized agents for planning, coding, reviewing, and security in VS Code.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 79** | qssalim/AI-Agents-Orchestrator
 > **标题**：qssalim/AI-Agents-Orchestrator
 > **原文链接**：🔗 [打开原文](https://github.com/qssalim/AI-Agents-Orchestrator)
@@ -352,19 +378,6 @@ tags:
 > **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：🤖 Orchestrate AI agents effortlessly with a streamlined framework using Python, Vue.js, and Docker for scalable development.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 78** | An AI coding agent, used to write code, needs to reduce your maintenance costs
-> **标题**：An AI coding agent, used to write code, needs to reduce your maintenance costs
-> **原文链接**：🔗 [打开原文](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
-> **source**：Hacker News
-> **kind**：`community`
-> **reason**：matches topics: agent, agents; high-value terms: agent, agents; strong public engagement
-> **follow_up**：阅读讨论区，提炼争议点和实践经验。
-> **summary**：347 points | 101 comments
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -383,40 +396,27 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 76** | datawhalechina/hello-agents
-> **标题**：datawhalechina/hello-agents
-> **原文链接**：🔗 [打开原文](https://github.com/datawhalechina/hello-agents)
-> **source**：GitHub Trending
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents; high-value terms: agent, agents
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **可延后 / 74** | Natural-language messages between LLM agents are an architectural anti-pattern
-> **标题**：Natural-language messages between LLM agents are an architectural anti-pattern
-> **原文链接**：🔗 [打开原文](https://novaberg.de/papers/clipboard-pattern.html)
+> [!info]+ **今日必须看 / 78** | An AI coding agent, used to write code, needs to reduce your maintenance costs
+> **标题**：An AI coding agent, used to write code, needs to reduce your maintenance costs
+> **原文链接**：🔗 [打开原文](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
 > **source**：Hacker News
 > **kind**：`community`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents
+> **reason**：matches topics: agent, agents; high-value terms: agent, agents; strong public engagement
 > **follow_up**：阅读讨论区，提炼争议点和实践经验。
-> **summary**：21 points | 6 comments
+> **summary**：347 points | 101 comments
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **可延后 / 72** | turegnassefa2024/SiliconFlow-Toolkit
-> **标题**：turegnassefa2024/SiliconFlow-Toolkit
-> **原文链接**：🔗 [打开原文](https://github.com/turegnassefa2024/SiliconFlow-Toolkit)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, llm, mcp; high-value terms: agent, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：🚀 Streamline data flow management with SiliconFlow-Toolkit, enhancing your development experience in the SuperAgent ecosystem.
+> [!info]+ **今日必须看 / 77** | Deep Reasoning in General Purpose Agents via Structured Meta-Cognition
+> **标题**：Deep Reasoning in General Purpose Agents via Structured Meta-Cognition
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.11388)
+> **source**：cs.CL updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, reasoning
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.11388v1 Announce Type: new Abstract: Humans intuitively solve complex problems by flexibly shifting among reasoning modes: they plan, execute, revise intermediate goals, resolve ambiguity through associative judgment, and apply formal procedures to well-specified subproblems. Current LLM...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
