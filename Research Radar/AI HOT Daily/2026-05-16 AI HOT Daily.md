@@ -1,0 +1,380 @@
+---
+title: AI HOT Daily 2026-05-16
+date: 2026-05-16
+tags:
+  - aihot
+  - daily
+  - research-radar
+---
+
+# 2026-05-16 AI HOT Daily
+
+## AI HOT 官方日报
+
+### matches topics: openai; high-value terms: api
+
+> [!info]+ **今日必须看 / 86** | MiniMax M2.7模型上线OrcaRouter平台
+> **标题**：MiniMax M2.7模型上线OrcaRouter平台
+> **原文链接**：🔗 [打开原文](https://x.com/MiniMax_AI/status/2055331545402245246)
+> **source**：AI HOT Daily / X：MiniMax (@MiniMax_AI)
+> **kind**：`model`
+> **reason**：matches topics: openai; high-value terms: api
+> **follow_up**：检查模型卡、license、benchmark 和可部署性。
+> **summary**：M2.7已在@OrcaRouter上线——可通过单一OpenAI兼容API访问。 今天就来试试吧！🐋
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### matches topics: hugging face; high-value terms: eval
+
+> [!info]+ **今日必须看 / 86** | SenseNova发布增强版信息图表生成模型SenseNova-U1-8B-MoT-Infographic
+> **标题**：SenseNova发布增强版信息图表生成模型SenseNova-U1-8B-MoT-Infographic
+> **原文链接**：🔗 [打开原文](https://x.com/SenseTime_AI/status/2055315819165597702)
+> **source**：AI HOT Daily / X：商汤 SenseTime (@SenseTime_AI)
+> **kind**：`model`
+> **reason**：matches topics: hugging face; high-value terms: eval
+> **follow_up**：检查模型卡、license、benchmark 和可部署性。
+> **summary**：SenseNova近日推出专为信息图表生成设计的增强模型SenseNova-U1-8B-MoT-Infographic。该模型能够根据指令生成多种视觉格式内容，包括海报、图表、食谱卡、明信片以及学术风格的arXiv页面等。在性能方面，模型在BizGenEval（困难版）和IGenBench（Q-ACC）两项基准测试上表现突出，相比其基础U1模型分别提升了6.8分和18.2分。目前，该模型已在Hugging Face平台开源，并提供了超过100个多样化的生成示例，供开发者和研究者参考与试用。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### 模型发布/更新
+
+> [!info]+ **可延后 / 71** | inclusionAI/ARGenSeg-8B
+> **标题**：inclusionAI/ARGenSeg-8B
+> **原文链接**：🔗 [打开原文](https://huggingface.co/inclusionAI/ARGenSeg-8B)
+> **source**：AI HOT Daily / 蚂蚁 inclusionAI：HuggingFace 新模型
+> **kind**：`model`
+> **reason**：AI HOT official daily section: 模型发布/更新
+> **follow_up**：检查模型卡、license、benchmark 和可部署性。
+> **summary**：包容性AI团队发布ARGenSeg-8B模型，致力于通过开源和开放科学推动人工智能的进步与普及。该举措强调技术民主化，使更广泛的社区能够参与AI研发与应用。开源策略将促进协作创新，加速AI工具在多元场景中的落地，降低技术门槛，推动产业生态的开放发展。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### matches topics: agent; high-value terms: agent
+
+> [!info]+ **今日必须看 / 81** | Runway Agent一键生成完整广告
+> **标题**：Runway Agent一键生成完整广告
+> **原文链接**：🔗 [打开原文](https://x.com/runwayml/status/2055364605979869229)
+> **source**：AI HOT Daily / X：Runway (@runwayml)
+> **kind**：`product`
+> **reason**：matches topics: agent; high-value terms: agent
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Runway Agent 让你仅需一次会话，就能从产品照片和想法转变为完全制作完成的广告。 立即通过下方链接开始体验。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 79** | 微软研究院发布AI新工具与模型
+> **标题**：微软研究院发布AI新工具与模型
+> **原文链接**：🔗 [打开原文](https://x.com/MSFTResearch/status/2055303919497089337)
+> **source**：AI HOT Daily / X：Microsoft Research (@MSFTResearch)
+> **kind**：`article`
+> **reason**：matches topics: agent; high-value terms: agent
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：微软研究院的新工具、模型、代码库和论文现已发布。 使用AI和智能体？值得关注： • MSR AI Frontiers的MagenticLite • 智能体化GitHub工作流 • 验证优先智能体 • 意义匹配微调 • AI转型与经济发展
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 79** | 牛津大学博士后开源视频翻译工具Violin，支持多语言翻译与视频对话
+> **标题**：牛津大学博士后开源视频翻译工具Violin，支持多语言翻译与视频对话
+> **原文链接**：🔗 [打开原文](https://x.com/berryxia/status/2055093068085547507)
+> **source**：AI HOT Daily / X：Berry Xia (@berryxia)
+> **kind**：`article`
+> **reason**：matches topics: agent; high-value terms: agent
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：牛津大学博士后Kevin Lin开源视频翻译工具Violin，旨在打破高质量视频内容的语言壁垒。该工具将语音识别、大语言模型翻译与语音合成整合为自动化流水线，支持多语言互译与个性化翻译风格调整，例如将学术报告转化为儿童易懂版本。用户还能直接与视频内容进行对话并获取相关答案。Violin提供Web应用、命令行界面和Agent Skill三种使用方式，所有功能基于MIT协议开源，由Together Compute提供技术支持，适用于内容创作、教育及多模态智能体开发等领域。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### 产品发布/更新
+
+> [!info]+ **可延后 / 66** | Krea 2正式上线面向专业用户
+> **标题**：Krea 2正式上线面向专业用户
+> **原文链接**：🔗 [打开原文](https://x.com/krea_ai/status/2055371934452642107)
+> **source**：AI HOT Daily / X：Krea AI (@krea_ai)
+> **kind**：`product`
+> **reason**：AI HOT official daily section: 产品发布/更新
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：从今天起，Krea 2 正式为 Pro 用户上线。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 66** | X平台开源“For You”信息流推荐算法
+> **标题**：X平台开源“For You”信息流推荐算法
+> **原文链接**：🔗 [打开原文](https://x.com/cb_doge/status/2055280665583898691)
+> **source**：AI HOT Daily / X：cb_doge (@cb_doge)
+> **kind**：`product`
+> **reason**：AI HOT official daily section: 产品发布/更新
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：X平台在GitHub开源了其“For You”信息流的最新推荐算法。该算法融合来自已关注账号的内容和通过相似性搜索发现的网络外内容，并利用基于Grok架构的Phoenix Transformer模型进行统一评分。模型通过分析用户近期互动，同时预测点赞、回复、转发等多种互动概率，并综合成最终相关性分数。排序过程包括候选内容收集、上下文信息补充、AI模型评分、多样性调整及垃圾信息过滤等步骤。此次开源提供了完整的可运行管道、预训练模型、内容理解服务及内置广告混合模块，核心计算完全由Transformer模型驱动。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 66** | 语义代码审查工具clawpatch发布
+> **标题**：语义代码审查工具clawpatch发布
+> **原文链接**：🔗 [打开原文](https://x.com/steipete/status/2055364630709448970)
+> **source**：AI HOT Daily / X：Peter Steinberger (@steipete)
+> **kind**：`product`
+> **reason**：AI HOT official daily section: 产品发布/更新
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：🩹 clawpatch 0.1.0 已上线： Clawpatch 将代码库映射成语义功能切片，审查其中的错误和质量问题，并记录经过验证的明确修复尝试。 您会发现它能发现的问题之多令人惊讶。 npm install -g clawpatch https://clawpatch.ai
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 66** | OpenRouter BYOK三大升级 支持多密钥轮换
+> **标题**：OpenRouter BYOK三大升级 支持多密钥轮换
+> **原文链接**：🔗 [打开原文](https://x.com/OpenRouter/status/2055305259287801865)
+> **source**：AI HOT Daily / X：OpenRouter (@OpenRouter)
+> **kind**：`product`
+> **reason**：AI HOT official daily section: 产品发布/更新
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：OpenRouter BYOK 三项重大升级 🔑 1/ 可在同一工作空间为同一服务商添加多个密钥，并设置调用顺序。 便于在速率限制间轮换、区分开发与生产凭证，或在团队账户间分配使用量！
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### matches topics: claude code; high-value terms: claude code
+
+> [!info]+ **今日必须看 / 81** | 开源3D生成工具包：单张图片快速构建可交互3D世界
+> **标题**：开源3D生成工具包：单张图片快速构建可交互3D世界
+> **原文链接**：🔗 [打开原文](https://x.com/berryxia/status/2055086814009180316)
+> **source**：AI HOT Daily / X：Berry Xia (@berryxia)
+> **kind**：`product`
+> **reason**：matches topics: claude code; high-value terms: claude code
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：开发者@neilsonks开源了一套专为Claude Code设计的完整3D生成工具包。该工具能将输入的单张图片自动拆解，生成包含环境、网格、物理、灯光和音频的全套可交互3D场景。其流程首先利用图像与3D生成技术提取物体并生成高质量网格，随后移除物体以得到静态背景，最后为整个场景添加物理模拟、实时灯光和环境音效。配套查看器支持对生成物体的点击编辑与一键导出。此工具将以往需数天的2D转3D工作流程缩短至几分钟，适用于游戏开发、世界构建和产品可视化等项目。项目已在GitHub开源。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### matches topics: agent, research; high-value terms: agent
+
+> [!info]+ **今日必须看 / 89** | 将Grok接入Hermes智能体
+> **标题**：将Grok接入Hermes智能体
+> **原文链接**：🔗 [打开原文](https://x.ai/news/grok-hermes)
+> **source**：AI HOT Daily / xAI：News（网页）
+> **kind**：`product`
+> **reason**：matches topics: agent, research; high-value terms: agent
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：xAI宣布，用户现可将Grok订阅账户接入Nous Research的开源自改进智能体Hermes Agent。该集成对所有订阅层级开放，允许用户在Hermes环境中直接使用Grok 4.3进行文本对话与高级推理、调用其文本转语音功能生成语音回复，并利用Grok Imagine创建图像与视频。Hermes Agent可持久运行于电脑、沙盒或VPS，具备跨会话长期记忆能力，并能连接WhatsApp、Discord等通讯平台。用户通过安装Hermes Agent并选择Grok提供商即可完成配置。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### matches topics: openai
+
+> [!info]+ **可延后 / 74** | ChatGPT 推出全新个人理财体验
+> **标题**：ChatGPT 推出全新个人理财体验
+> **原文链接**：🔗 [打开原文](https://openai.com/index/personal-finance-chatgpt)
+> **source**：AI HOT Daily / OpenAI：官网动态（RSS · 排除企业/客户案例）
+> **kind**：`product`
+> **reason**：matches topics: openai
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：OpenAI 为美国地区的 ChatGPT Pro 用户推出个人理财功能预览版。用户可安全连接个人金融账户，获取基于自身财务状况、目标和优先级生成的 AI 洞察与指导。该体验通过账户关联实现个性化分析，标志着 ChatGPT 正式向个人金融助手领域拓展。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 72** | 为 OpenAI 累计投入超 1000 亿美元，纳德拉称微软当年投资时“没人愿意下注”
+> **标题**：为 OpenAI 累计投入超 1000 亿美元，纳德拉称微软当年投资时“没人愿意下注”
+> **原文链接**：🔗 [打开原文](https://www.ithome.com/0/950/728.htm)
+> **source**：AI HOT Daily / IT之家（RSS）
+> **kind**：`article`
+> **reason**：matches topics: openai
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：在“马斯克诉奥尔特曼”庭审中，微软企业发展负责人确认，微软对OpenAI的累计投入已超过1000亿美元，其中包括130亿美元原始投资及大量Azure基础设施成本。此次合作已为微软带来约300亿美元营收。CEO纳德拉表示，微软是在“没人愿意下注”时承担了风险。双方已续签非独家协议，微软不再支付收入分成，并将OpenAI的分成上限设为到2030年累计380亿美元，此举较原协议节省约970亿美元。此外，微软正评估收购AI初创公司以补强人才，并调整资源投向自研模型与超级智能领域。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 72** | 开源项目OpenSquilla：智能路由降低AI成本近十倍，兼容多平台与模型
+> **标题**：开源项目OpenSquilla：智能路由降低AI成本近十倍，兼容多平台与模型
+> **原文链接**：🔗 [打开原文](https://x.com/xiaohu/status/2055299820215300380)
+> **source**：AI HOT Daily / X：小互 (@xiaohu)
+> **kind**：`article`
+> **reason**：matches topics: openai
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：开源项目OpenSquilla通过智能路由架构，在保持与OpenClaw相近性能（0.9251分）的同时，将复杂AI任务处理成本从6美元大幅降至0.68美元。其核心是将简单任务分配给廉价模型，仅复杂任务调用Opus等顶级模型。系统具备四层记忆结构模拟人脑认知，支持按需加载16种工具，并设有三档代码沙箱安全防护。项目提供统一后端，支持网页、命令行及Slack、飞书等平台接入，兼容OpenAI、Claude、Gemini、DeepSeek等20余家主流模型。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### matches topics: anthropic
+
+> [!info]+ **可延后 / 72** | Anthropic估值与营收飙升
+> **标题**：Anthropic估值与营收飙升
+> **原文链接**：🔗 [打开原文](https://x.com/kimmonismus/status/2055222524774846576)
+> **source**：AI HOT Daily / X：Kim (@kimmonismus)
+> **kind**：`article`
+> **reason**：matches topics: anthropic
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Anthropic简况： 估值： 2026年2月：3500亿美元 2026年5月：9000亿美元 三个月内增长近3倍。 年度经常性收入： 2025年底：90亿美元 2026年5月底：450亿美元 五个月内增长近5倍。 天啊。 via FT
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 72** | 英国多部门联合警告：当前最先进 AI 模型网络攻击能力已远超专业人员，企业应做好防范措施
+> **标题**：英国多部门联合警告：当前最先进 AI 模型网络攻击能力已远超专业人员，企业应做好防范措施
+> **原文链接**：🔗 [打开原文](https://www.ithome.com/0/951/144.htm)
+> **source**：AI HOT Daily / IT之家（RSS）
+> **kind**：`article`
+> **reason**：matches topics: anthropic
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：英国财政部、英格兰银行及金融行为监管局联合警告，当前最先进的AI模型已具备远超普通专业人员的网络攻击能力，其攻击速度更快、范围更广、成本更低。若被恶意利用，将严重威胁企业运营安全、客户数据、金融市场稳定性乃至整个金融体系。英格兰银行行长安德鲁·贝利此前已点名Anthropic的Mythos产品，网络安全专家亦警告此类AI可能强化复杂攻击，对银行业及金融技术体系构成新挑战。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### 行业动态
+
+> [!info]+ **可延后 / 64** | 戛纳倒计时 | Kling AI大会主讲阵容揭晓！
+> **标题**：戛纳倒计时 | Kling AI大会主讲阵容揭晓！
+> **原文链接**：🔗 [打开原文](https://x.com/Kling_ai/status/2055302191129473502)
+> **source**：AI HOT Daily / X：可灵 Kling AI (@Kling_ai)
+> **kind**：`article`
+> **reason**：AI HOT official daily section: 行业动态
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：2026年戛纳电影节Kling AI大会将汇聚三位世界级电影制作人，展示他们运用Kling AI技术创作的标杆作品。中国动画导演魏立将分享AI生成动画《Born of the Tide》；Jon Erwin将解析为Amazon Prime制作的剧集《House of David》；Eekjun Yang则将介绍院线电影《RAPHAEL》的创作过程。三位讲者将深入探讨Kling AI在电影制作中的幕后应用，共同探索AI为影视创作带来的新可能性。活动定于2026年5月18日15:30至17:30，在戛纳影节宫主舞台举行。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### matches topics: llm
+
+> [!info]+ **可延后 / 72** | Show HN: 根据基准测试排名，为您的硬件寻找最适合的本地 LLM
+> **标题**：Show HN: 根据基准测试排名，为您的硬件寻找最适合的本地 LLM
+> **原文链接**：🔗 [打开原文](https://github.com/Andyyyy64/whichllm)
+> **source**：AI HOT Daily / Hacker News 热门（buzzing.cc 中文翻译）
+> **kind**：`article`
+> **reason**：matches topics: llm
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：一个名为“WhichLLM”的开源工具已在GitHub发布，可根据用户硬件配置推荐最适合的本地大语言模型。该工具通过基准测试对各类模型进行排名，帮助用户依据自身设备的性能指标选择最优模型。项目在Hacker News上获得116点热度，显示出社区对本地化AI部署效率工具的积极关注。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### matches topics: agent, mcp; high-value terms: agent, mcp
+
+> [!info]+ **今日必须看 / 94** | 飞书开源CLI工具45天获万星，AI操作可见可控引关注
+> **标题**：飞书开源CLI工具45天获万星，AI操作可见可控引关注
+> **原文链接**：🔗 [打开原文](https://x.com/AYi_AInotes/status/2055263164145504501)
+> **source**：AI HOT Daily / X：阿易 AI Notes (@AYi_AInotes)
+> **kind**：`article`
+> **reason**：matches topics: agent, mcp; high-value terms: agent, mcp
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：飞书开源命令行工具lark-cli在45天内获得超过1万GitHub star，成为国内首个破万星的办公套件开源项目。该工具允许AI通过命令行直接操作飞书，执行建群、建文档等任务，且每一步操作都可预览、可审查，与云端不可见的MCP模式形成对比。其主干代码已合并10位外部开发者的贡献，而同类产品钉钉和企业微信则为零。这种可见、可控的特性被视为开发者放心将任务交给AI Agent的前提，预示着一句话指令驱动完整项目流程成为可能。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### matches topics: codex; high-value terms: codex
+
+> [!info]+ **今日必须看 / 79** | 无视令牌成本，用百个AI实例自动化驱动开源项目
+> **标题**：无视令牌成本，用百个AI实例自动化驱动开源项目
+> **原文链接**：🔗 [打开原文](https://x.com/steipete/status/2055405041843052792)
+> **source**：AI HOT Daily / X：Peter Steinberger (@steipete)
+> **kind**：`article`
+> **reason**：matches topics: codex; high-value terms: codex
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：作者在OpenClaw项目中大规模运用AI，探索在“令牌成本无关紧要”的未来如何构建软件。团队持续运行约100个Codex实例，自动化处理多项核心工作：审查代码与安全问题、去重归类议题、自动重现复杂测试环境并录制验证视频、从会议讨论中主动创建任务、过滤垃圾评论以及监控性能回归。通过clawpatch.ai等工具将项目拆分为功能单元进行审查，并整合Vercel DeepSec等进行安全分析。整套自动化体系使得项目能够以极精简的团队高效运作。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### matches topics: anthropic, llm
+
+> [!info]+ **今日必须看 / 80** | 推理的一阶导数：AI浪潮下的增长逻辑
+> **标题**：推理的一阶导数：AI浪潮下的增长逻辑
+> **原文链接**：🔗 [打开原文](https://www.tomtunguz.com/first-derivative-of-inference)
+> **source**：AI HOT Daily / Tomer Tunguz 博客（VC 分析）
+> **kind**：`article`
+> **reason**：matches topics: anthropic, llm
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：AI推理是当今规模最大、增长最快的技术市场，预计七年内将达到2500亿美元。直接销售或转售推理服务的公司增长迅猛，如Anthropic和谷歌云。在AI时代前的软件公司中，Datadog和Twilio作为“推理的一阶导数”脱颖而出：Datadog的LLM可观测产品数据量近一季增长近两倍，其约20%的AI客户贡献了约80%的年度经常性收入；Twilio则通过AI重构的语音服务吸引客户。当前周期呈现高度集中特点，少数客户能驱动巨大收益。对于非AI原生公司，核心战略在于如何转售推理服务或从其客户的大量采购中获益。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### 技巧与观点
+
+> [!info]+ **可延后 / 64** | 英伟达CEO称技工前景优于计算机科学毕业生
+> **标题**：英伟达CEO称技工前景优于计算机科学毕业生
+> **原文链接**：🔗 [打开原文](https://x.com/kimmonismus/status/2055403142913884288)
+> **source**：AI HOT Daily / X：Kim (@kimmonismus)
+> **kind**：`article`
+> **reason**：AI HOT official daily section: 技巧与观点
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：英伟达CEO Jensen Huang在卡内基梅隆大学告诉2026届计算机科学毕业生，电工、水管工等技工比他们更有前景。数据支持这一观点：Randstad分析显示技工需求增长是白领职位的三倍，机器人技术员职位增长107%，而斯坦福研究发现AI相关职位早期就业下降16%。顶级电工年薪超10.6万美元，无需学位负债。科技公司今年投资7000亿美元建设数据中心，全球到2030年预计达7万亿美元，这些基础设施依赖人力完成，但制造业面临劳动力短缺，每100名新工人进入就有102人离开。AI时代最大赢家是能建设数据中心的技工，而非提示工程师。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### matches topics: openai, anthropic, llm
+
+> [!info]+ **今日必须看 / 88** | 杨立昆访谈：剖析LLM局限，畅谈AI未来与创业新途
+> **标题**：杨立昆访谈：剖析LLM局限，畅谈AI未来与创业新途
+> **原文链接**：🔗 [打开原文](https://x.com/ylecun/status/2055346714039464373)
+> **source**：AI HOT Daily / X：Yann LeCun (@ylecun)
+> **kind**：`article`
+> **reason**：matches topics: openai, anthropic, llm
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：在Unsupervised Learning播客中，AI先驱杨立昆阐述了其对大型语言模型局限性的反主流观点，并探讨了机器人技术的发展路径。他解释了离开Meta的原因，以及与Geoff Hinton、Yoshua Bengio在图灵奖观点上的重大分歧。访谈还涵盖了他对2027年的预测、新公司AMI对世界模型的押注，并将OpenAI和Anthropic比作Sun Microsystems。此外，他建议博士生停止研究LLM，并分享了对AI安全、突破性研究发生机制以及Meta FAIR得失的尖锐见解。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
