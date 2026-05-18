@@ -1,0 +1,316 @@
+---
+title: AI HOT Daily 2026-05-17
+date: 2026-05-17
+tags:
+  - aihot
+  - daily
+  - research-radar
+---
+
+# 2026-05-17 AI HOT Daily
+
+## AI HOT 官方日报
+
+### matches topics: llm
+
+> [!info]+ **今日必须看 / 79** | 社区协作再创佳绩，vLLM支持万亿级模型
+> **标题**：社区协作再创佳绩，vLLM支持万亿级模型
+> **原文链接**：🔗 [打开原文](https://x.com/AntLingAGI/status/2055689329339760829)
+> **source**：AI HOT Daily / X：蚂蚁百灵 (@AntLingAGI)
+> **kind**：`model`
+> **reason**：matches topics: llm
+> **follow_up**：检查模型卡、license、benchmark 和可部署性。
+> **summary**：又一次Day0协作，又一次社区胜利。感谢@vllm_project团队始终可靠的支持~ 🫡🫡
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### 模型发布/更新
+
+> [!info]+ **可延后 / 71** | SANA-WM：一个用于生成1分钟720p视频的26亿级开源世界模型
+> **标题**：SANA-WM：一个用于生成1分钟720p视频的26亿级开源世界模型
+> **原文链接**：🔗 [打开原文](https://nvlabs.github.io/Sana/WM)
+> **source**：AI HOT Daily / Hacker News 热门（buzzing.cc 中文翻译）
+> **kind**：`model`
+> **reason**：AI HOT official daily section: 模型发布/更新
+> **follow_up**：检查模型卡、license、benchmark 和可部署性。
+> **summary**：NVIDIA研究团队发布了SANA-WM，这是一个参数规模达26亿的开源世界模型，专门用于生成长达1分钟、分辨率为720p的视频。该模型已在GitHub页面开源，旨在推动高质量长视频生成的研发。其在Hacker News社区获得了107点热度，显示出业界对该技术进展的关注。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 71** | Ring-2.6-1T开源并上线OpenRouter，专为智能体工作流设计
+> **标题**：Ring-2.6-1T开源并上线OpenRouter，专为智能体工作流设计
+> **原文链接**：🔗 [打开原文](https://x.com/AntLingAGI/status/2055681163033997815)
+> **source**：AI HOT Daily / X：蚂蚁百灵 (@AntLingAGI)
+> **kind**：`model`
+> **reason**：AI HOT official daily section: 模型发布/更新
+> **follow_up**：检查模型卡、license、benchmark 和可部署性。
+> **summary**：Ring-2.6-1T模型现已开源，并上线OpenRouter平台，5月底前享有75%折扣。该模型由AntLingAGI开发，是一个为现实世界智能体构建的万亿级推理模型，其核心设计目标不仅是回答问题，更是执行任务。它专注于规划步骤、使用工具、维持上下文和完成复杂工作流，具备强大的智能体执行能力和高推理模式，并采用了Async RL与IcePop训练方法。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### matches topics: codex; high-value terms: codex
+
+> [!info]+ **今日必须看 / 81** | Codex新增键盘快捷键自定义功能
+> **标题**：Codex新增键盘快捷键自定义功能
+> **原文链接**：🔗 [打开原文](https://x.com/thsottiaux/status/2055735802894954612)
+> **source**：AI HOT Daily / X：Tibo (@thsottiaux)
+> **kind**：`product`
+> **reason**：matches topics: codex; high-value terms: codex
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：不知为何我们选择周六发布更新，但Codex确实迎来了一系列优化。 这些改进让使用体验愉悦许多，实在不该拖到周二再公布。 键盘快捷键现已支持自定义。 根据实际工作方式配置Codex，通过设置调整快捷键，不必再迁就默认设定。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 81** | 按需定制快捷键，优化工作流效率
+> **标题**：按需定制快捷键，优化工作流效率
+> **原文链接**：🔗 [打开原文](https://x.com/OpenAIDevs/status/2055717793841221796)
+> **source**：AI HOT Daily / X：OpenAI Developers (@OpenAIDevs)
+> **kind**：`product`
+> **reason**：matches topics: codex; high-value terms: codex
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：处理大家的反馈让我们感到太有趣了。 （请继续反馈。） 键盘快捷键现已支持自定义。 围绕你的实际工作方式设置 Codex，然后通过设置调整快捷键，无需再适应我们的默认配置。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 79** | MagicPath与Codex深度整合，设计开发流程合二为一
+> **标题**：MagicPath与Codex深度整合，设计开发流程合二为一
+> **原文链接**：🔗 [打开原文](https://x.com/berryxia/status/2055766210512560416)
+> **source**：AI HOT Daily / X：Berry Xia (@berryxia)
+> **kind**：`article`
+> **reason**：matches topics: codex; high-value terms: codex
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：MagicPath AI CEO @skirano 演示了其产品与Codex的深度整合。用户现可将MagicPath作为原生画布直接在Codex中运行，通过拖拽设计UI，Codex能实时感知项目并自动生成、编辑代码，实现设计与开发的无缝衔接，无需在Figma和IDE间切换。安装简便，只需在Codex中粘贴一条命令即可完成配置。此举将“设计-开发-迭代”流程整合于单一窗口，显著缩短了从创意到可运行应用的距离。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 79** | Codex实现多设备远程控制与上下文共享
+> **标题**：Codex实现多设备远程控制与上下文共享
+> **原文链接**：🔗 [打开原文](https://x.com/op7418/status/2055561525633642762)
+> **source**：AI HOT Daily / X：歸藏 (@op7418)
+> **kind**：`article`
+> **reason**：matches topics: codex; high-value terms: codex
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Codex除了通过ChatGPT连接和远程控制外，还能控制另一台电脑，实现在ChatGPT上直接管理多台设备而无需切换，只需切换项目即可访问不同设备的上下文和文件。引用推文补充，此功能还支持通过远程SSH设置其他VMs等，增强了多设备协作的灵活性和实用性。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### matches topics: agent; high-value terms: agent, api
+
+> [!info]+ **今日必须看 / 88** | Notion推出开发者平台及CLI工具
+> **标题**：Notion推出开发者平台及CLI工具
+> **原文链接**：🔗 [打开原文](https://x.com/oran_ge/status/2055539910212460878)
+> **source**：AI HOT Daily / X：Oran Ge (@oran_ge)
+> **kind**：`product`
+> **reason**：matches topics: agent; high-value terms: agent, api
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Notion正式推出开发者平台，核心组件包括Notion CLI终端工具、Workers计算服务、数据库同步功能以及多种Agent工具与API。平台旨在让开发者更便捷地在Notion基础设施上运行代码、连接外部数据源并构建自动化工作流。未来，即使非开发者也能通过AI Agent在Notion上构建应用。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### 行业动态
+
+> [!info]+ **可延后 / 64** | 美国开始出现人工智能相关岗位的大规模裁员
+> **标题**：美国开始出现人工智能相关岗位的大规模裁员
+> **原文链接**：🔗 [打开原文](https://www.bloomberg.com/news/articles/2026-05-15/us-is-starting-to-see-heavy-job-losses-in-roles-exposed-to-ai)
+> **source**：AI HOT Daily / Hacker News 热门（buzzing.cc 中文翻译）
+> **kind**：`article`
+> **reason**：AI HOT official daily section: 行业动态
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：美国人工智能相关岗位正出现大规模裁员。根据彭博社报道，受AI影响的职位开始经历严重的就业岗位流失。这一趋势表明AI技术对劳动力市场的冲击已从理论讨论进入现实阶段，具体裁员数字和涉及的行业领域在进一步显现中。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 64** | 杭州基地启用，机器人有了国家级职业技能训练场
+> **标题**：杭州基地启用，机器人有了国家级职业技能训练场
+> **原文链接**：🔗 [打开原文](https://www.ithome.com/0/951/390.htm)
+> **source**：AI HOT Daily / IT之家（RSS）
+> **kind**：`article`
+> **reason**：AI HOT official daily section: 行业动态
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：国家人工智能应用中试基地（具身智能）5月16日在浙江杭州挂牌启用，为机器人提供国家级职业技能训练场。该基地是集场景体验、技术展示、研发合作、产业赋能于一体的综合性平台，旨在推动具身智能技术从实验室迈向现实应用。杭州市于5月1日施行首部具身智能机器人地方性法规，支持核心研发、平台建设和场景开放。目前杭州已集聚机器人产业相关企业700余家，2025年具身智能产业集群产值达1068亿元。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### matches topics: anthropic
+
+> [!info]+ **可延后 / 72** | 研究人员利用Anthropic Mythos工具构建macOS内核漏洞，绕过苹果M5芯片内存完整性执行安全系统
+> **标题**：研究人员利用Anthropic Mythos工具构建macOS内核漏洞，绕过苹果M5芯片内存完整性执行安全系统
+> **原文链接**：🔗 [打开原文](https://x.com/kimmonismus/status/2055571960260645125)
+> **source**：AI HOT Daily / X：Kim (@kimmonismus)
+> **kind**：`article`
+> **reason**：matches topics: anthropic
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：三名研究人员借助Anthropic的Mythos工具，成功开发出一个可绕过苹果M5芯片内存完整性执行（MIE）安全机制的macOS内核漏洞利用程序。MIE是苹果耗时五年、投入巨资为M5和A19芯片打造的旗舰安全功能，旨在彻底消除内存损坏漏洞。研究团队于4月25日发现漏洞，5月1日即完成开发，并亲自前往苹果园区提交报告。该攻击采用纯数据攻击方式，无需操纵指针，仅通过非特权用户的标准系统调用即可获取根权限。完整技术报告将在苹果发布补丁后公开。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### matches topics: codex, openai, anthropic; high-value terms: codex, api
+
+> [!info]+ **今日必须看 / 100** | 突发！OpenAI 大规模重组，总裁 Brockman 夺权挂帅
+> **标题**：突发！OpenAI 大规模重组，总裁 Brockman 夺权挂帅
+> **原文链接**：🔗 [打开原文](https://www.ithome.com/0/951/258.htm)
+> **source**：AI HOT Daily / IT之家（RSS）
+> **kind**：`article`
+> **reason**：matches topics: codex, openai, anthropic; high-value terms: codex, api
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：OpenAI宣布进行史上最大规模重组，将ChatGPT、Codex和API三大核心产品线合并为统一组织。联合创始人兼总裁Greg Brockman正式全面接管产品战略，成为实际掌权者，而ChatGPT原负责人Nick Turley被调离核心岗位。此次重组旨在整合资源，聚焦“智能体时代”，并秘密开发集成多项功能的“超级应用”桌面端产品。与此同时，竞争对手Anthropic估值飙升至9000亿美元，使OpenAI面临严峻挑战。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### matches topics: openai
+
+> [!info]+ **可延后 / 72** | OpenAI 与马耳他合作，向所有公民提供 ChatGPT Plus
+> **标题**：OpenAI 与马耳他合作，向所有公民提供 ChatGPT Plus
+> **原文链接**：🔗 [打开原文](https://openai.com/index/malta-chatgpt-plus-partnership)
+> **source**：AI HOT Daily / OpenAI：官网动态（RSS · 排除企业/客户案例）
+> **kind**：`article`
+> **reason**：matches topics: openai
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：OpenAI 与马耳他政府达成合作，将向该国所有公民免费提供 ChatGPT Plus 订阅服务。此次合作旨在扩大人工智能技术的普及范围，并包含面向公民的 AI 技能实践培训，以帮助民众负责任地使用 AI。该计划是国家级大规模推广 ChatGPT Plus 的首例，预计将提升马耳他全民的 AI 素养与应用能力。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### 论文研究
+
+> [!info]+ **可延后 / 68** | 智能体驱动系统Articraft实现3D资产生成自动化，开源万件数据集降低门槛
+> **标题**：智能体驱动系统Articraft实现3D资产生成自动化，开源万件数据集降低门槛
+> **原文链接**：🔗 [打开原文](https://x.com/berryxia/status/2055444087684407505)
+> **source**：AI HOT Daily / X：Berry Xia (@berryxia)
+> **kind**：`paper`
+> **reason**：AI HOT official daily section: 论文研究
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：剑桥大学团队推出Articraft，这是一个由智能体驱动的编码系统，能全自动生成带关节、可运动的交互式3D资产。系统通过AI智能体自主编写代码、执行并接收物理反馈迭代优化，将以往需数日甚至数周的创作过程极大简化。团队同时开源了Articraft-10K数据集，包含超1万个物体，覆盖250个类别，所有资产均仿真就绪。此举显著降低了机器人训练和物理AI领域对高质量3D资产的数据门槛，为解决“数据饥渴”问题提供了高效的自动化方案。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### 技巧与观点
+
+> [!info]+ **可延后 / 64** | 藏师傅PPT Skills更新，AI自动美化截图
+> **标题**：藏师傅PPT Skills更新，AI自动美化截图
+> **原文链接**：🔗 [打开原文](https://x.com/op7418/status/2055477163579891897)
+> **source**：AI HOT Daily / X：歸藏 (@op7418)
+> **kind**：`article`
+> **reason**：AI HOT official daily section: 技巧与观点
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：藏师傅PPT Skills产品更新，新增截图美化功能。该功能无需消耗GPT-Image 2.0资源，即可根据用户截图的大小、长宽比以及当前PPT的模板类型和颜色主题，自动匹配合适的背景图，实现类似CleanShot X等专业软件的截图美化效果。AI还能处理过长等有问题的图片，例如将其自动裁剪并排成两列展示。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 64** | Show HN: 烧吧，宝贝，烧吧（那些代币）
+> **标题**：Show HN: 烧吧，宝贝，烧吧（那些代币）
+> **原文链接**：🔗 [打开原文](https://github.com/dtnewman/burn-baby-burn)
+> **source**：AI HOT Daily / Hacker News 热门（buzzing.cc 中文翻译）
+> **kind**：`article`
+> **reason**：AI HOT official daily section: 技巧与观点
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：开发者发布了一个名为“烧吧，宝贝，烧吧”的开源项目，旨在通过销毁代币来应对加密货币领域的通胀问题。该项目提供了一个工具，允许用户主动销毁自己持有的代币，从而减少总供应量。此举可能提升剩余代币的稀缺性与潜在价值。项目已在GitHub上开源，并在Hacker News上获得了100点的社区热度。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 64** | 工具使用代理认知与行动脱节机制研究
+> **标题**：工具使用代理认知与行动脱节机制研究
+> **原文链接**：🔗 [打开原文](https://x.com/omarsar0/status/2055750162526715926)
+> **source**：AI HOT Daily / X：Elvis Saravia (@omarsar0, DAIR.AI)
+> **kind**：`article`
+> **reason**：AI HOT official daily section: 技巧与观点
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：该可解释性论文聚焦工具使用代理，通过探测隐藏状态发现模型常能识别应调用工具，但实际调用失败，不匹配率达26%-54%。问题完全集中于认知到行动的过渡阶段，而非认知本身。内部探测方向可解码，但后期层的最后令牌机制使信号旋转，几乎与产生的行动正交。研究旨在预测干预措施效果，指出常见归因如提示或训练不足可能忽略后期层几何结构，这为工具使用提示A/B测试中的性能上限提供了合理解释。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 64** | 最新开源成果（#21）：开源模型盛宴！Gemma 4、DeepSeek V4、Kimi K2.6、MiMo 2.5、GLM-5.1 等。基于CAISI的V4评估。
+> **标题**：最新开源成果（#21）：开源模型盛宴！Gemma 4、DeepSeek V4、Kimi K2.6、MiMo 2.5、GLM-5.1 等。基于CAISI的V4评估。
+> **原文链接**：🔗 [打开原文](https://www.interconnects.ai/p/latest-open-artifacts-21-open-model)
+> **source**：AI HOT Daily / Nathan Lambert：Interconnects（RSS）
+> **kind**：`article`
+> **reason**：AI HOT official daily section: 技巧与观点
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：本月开源AI模型领域迎来密集发布，包括Gemma 4、DeepSeek V4、Kimi K2.6、MiMo 2.5和GLM-5.1等一系列重要新版本。这些模型均在CAISI的V4评估框架下进行了性能评测。多个团队几乎同期推出旗舰级更新，反映出开源社区当前高速迭代的竞争态势。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### matches topics: agent, claude code, anthropic; high-value terms: agent, claude code
+
+> [!info]+ **今日必须看 / 100** | Anthropic《Founder's Playbook》：AI提高创业失败率的警示
+> **标题**：Anthropic《Founder's Playbook》：AI提高创业失败率的警示
+> **原文链接**：🔗 [打开原文](https://x.com/berryxia/status/2055635826462130227)
+> **source**：AI HOT Daily / X：Berry Xia (@berryxia)
+> **kind**：`article`
+> **reason**：matches topics: agent, claude code, anthropic; high-value terms: agent, claude code
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Anthropic发布内部手册《Founder's Playbook》，核心观点是AI（如Claude Code）将提高创业失败率，而非降低。手册指出，AI能快速生成原型，易使创始人混淆“能运行”与“有市场需求”，并通过确认偏误和研究引擎强化错误想法。它将创业分为Idea、MVP、Launch、Scale四阶段，剖析AI放大的风险：如原型不等于验证、Agentic技术债、创始人成为决策瓶颈等。最终结论是，AI极大降低执行成本，使得判断力成为最稀缺资源，真正护城河在于将垂直领域知识结构化沉淀为专属Skills。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### matches topics: deepmind
+
+> [!info]+ **可延后 / 72** | Eric Jang分享从零构建AlphaGo的经历与见解
+> **标题**：Eric Jang分享从零构建AlphaGo的经历与见解
+> **原文链接**：🔗 [打开原文](https://x.com/pmarca/status/2055723987850690927)
+> **source**：AI HOT Daily / X：Marc Andreessen (@pmarca, a16z)
+> **kind**：`article`
+> **reason**：matches topics: deepmind
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Eric Jang在过去几个月从零开始实现AlphaGo，这是2016年激发他进入深度学习的AI突破。他最初理解AlphaGo为“通过自我对弈训练的搜索增强深度神经网络”，但通过亲手构建获得了更深层次的理解。他指出，前沿深度学习研究虽昂贵，但特定能力的实现成本下降迅速；在2026年，训练强大围棋AI仅需几千美元租赁算力，无需DeepMind级别的资源。他荣幸受邀在播客中分享这一过程，并提供了详细教程和代码，同时谦虚自称围棋与AlphaGo学徒，对任何事实错误负责。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略

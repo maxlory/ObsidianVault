@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W20
-date: 2026-05-16
+date: 2026-05-17
 tags:
   - weekly-review
   - research-radar
@@ -75,6 +75,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | hunhee98/pluck
+> **标题**：hunhee98/pluck
+> **原文链接**：🔗 [打开原文](https://github.com/hunhee98/pluck)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp, eval
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：MCP-native code retrieval for AI agents — 84-88% fewer read tokens, BM25F + semantic search, AST chunks, session dedup
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | JKHeadley/instar
 > **标题**：JKHeadley/instar
 > **原文链接**：🔗 [打开原文](https://github.com/JKHeadley/instar)
@@ -127,22 +140,22 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | Wintersta7e/nexum
-> **标题**：Wintersta7e/nexum
-> **原文链接**：🔗 [打开原文](https://github.com/Wintersta7e/nexum)
+
+## 值得试用的工具 / 模型
+
+> [!info]+ **今日必须看 / 89** | hunhee98/pluck
+> **标题**：hunhee98/pluck
+> **原文链接**：🔗 [打开原文](https://github.com/hunhee98/pluck)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, claude code, codex, mcp; high-value terms: agent, mcp, codex, claude code
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp, eval
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Cross-agent memory for AI coding tools (Claude Code, Codex CLI), with cryptographic provenance via SSH-signed git commits
+> **summary**：MCP-native code retrieval for AI agents — 84-88% fewer read tokens, BM25F + semantic search, AST chunks, session dedup
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-
-## 值得试用的工具 / 模型
-
 > [!info]+ **今日必须看 / 89** | JKHeadley/instar
 > **标题**：JKHeadley/instar
 > **原文链接**：🔗 [打开原文](https://github.com/JKHeadley/instar)
@@ -164,19 +177,6 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Cross-CLI skill for Obsidian. Turns your vault into a living AI-first second brain across Claude Code, Codex CLI, Gemini CLI, and OpenCode. 32 commands, vault-first research, scheduled agents, write-time AI-first validator.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | aliyanfauzi361-create/skillify-skill
-> **标题**：aliyanfauzi361-create/skillify-skill
-> **原文链接**：🔗 [打开原文](https://github.com/aliyanfauzi361-create/skillify-skill)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, mcp; high-value terms: agent, agents, mcp, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Capture a session as a reusable agentskills.io skill file for Claude Code, Cursor, Copilot, Gemini CLI, and other agent tools
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -305,6 +305,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | hunhee98/pluck
+> **标题**：hunhee98/pluck
+> **原文链接**：🔗 [打开原文](https://github.com/hunhee98/pluck)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp, eval
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：MCP-native code retrieval for AI agents — 84-88% fewer read tokens, BM25F + semantic search, AST chunks, session dedup
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | JKHeadley/instar
 > **标题**：JKHeadley/instar
 > **原文链接**：🔗 [打开原文](https://github.com/JKHeadley/instar)
@@ -344,6 +357,45 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | torsday/omnifocus-mcp
+> **标题**：torsday/omnifocus-mcp
+> **原文链接**：🔗 [打开原文](https://github.com/torsday/omnifocus-mcp)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：An MCP server exposing the full OmniFocus surface to LLM agents.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | wlsdks/oh-my-ontology
+> **标题**：wlsdks/oh-my-ontology
+> **原文链接**：🔗 [打开原文](https://github.com/wlsdks/oh-my-ontology)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, obsidian, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：AI-native codebase ontology workbench — humans + AI agents author the same vault. Markdown frontmatter is the graph.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | elloloop/llmrouter
+> **标题**：elloloop/llmrouter
+> **原文链接**：🔗 [打开原文](https://github.com/elloloop/llmrouter)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, openai, anthropic; high-value terms: agent, agents, api
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Polyglot Go client for OpenAI, Anthropic, Bedrock, Vertex, Gemini, Cohere + 18 more. Chat, embeddings, TTS, STT, realtime sessions. One OpenAI-shaped API. Build LLM gateways and voice agents.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 85** | HIDORAKAI002/ai-workspace-archive
 > **标题**：HIDORAKAI002/ai-workspace-archive
 > **原文链接**：🔗 [打开原文](https://github.com/HIDORAKAI002/ai-workspace-archive)
@@ -357,66 +409,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | ModyD/kaggle-AI-agents-google-capstone
-> **标题**：ModyD/kaggle-AI-agents-google-capstone
-> **原文链接**：🔗 [打开原文](https://github.com/ModyD/kaggle-AI-agents-google-capstone)
+> [!info]+ **今日必须看 / 85** | bug-ops/zeph
+> **标题**：bug-ops/zeph
+> **原文链接**：🔗 [打开原文](https://github.com/bug-ops/zeph)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, security
+> **reason**：matches topics: agent, agents, openai, llm; high-value terms: agent, agents, mcp
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：🛡️ Enhance security response with this AI-driven incident triage agent, leveraging the Google ADK for efficient automation in enterprise environments.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | 15496-debug/vs-code-agents
-> **标题**：15496-debug/vs-code-agents
-> **原文链接**：🔗 [打开原文](https://github.com/15496-debug/vs-code-agents)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, security
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：🛠️ Structure your AI-assisted development with specialized agents for planning, coding, reviewing, and security in VS Code.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | qssalim/AI-Agents-Orchestrator
-> **标题**：qssalim/AI-Agents-Orchestrator
-> **原文链接**：🔗 [打开原文](https://github.com/qssalim/AI-Agents-Orchestrator)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：🤖 Orchestrate AI agents effortlessly with a streamlined framework using Python, Vue.js, and Docker for scalable development.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | manuelalba1021/weather-mcp-a2a
-> **标题**：manuelalba1021/weather-mcp-a2a
-> **原文链接**：🔗 [打开原文](https://github.com/manuelalba1021/weather-mcp-a2a)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：🌤️ Transform weather data with the Weather MCP Agent, an advanced AI system integrating real-time intelligence and the Model Context Protocol for seamless insights.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 78** | Finance Agents
-> **标题**：Finance Agents
-> **原文链接**：🔗 [打开原文](https://www.anthropic.com/news/finance-agents)
-> **source**：Anthropic
-> **kind**：`article`
-> **reason**：matches topics: agent, agents, anthropic; high-value terms: agent, agents
-> **follow_up**：判断是否需要沉淀为长期主题笔记。
-> **summary**：No summary.
+> **summary**：Memory-first Rust AI agent for long-running work. Temporal graph memory, self-learning skills, multi-model cascade routing. Hybrid inference: Ollama · Claude · Gemini · OpenAI · GGUF · TEE. MCP + ACP + A2A. Sub-agents. One binary.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库

@@ -1,16 +1,16 @@
 ---
-title: News Radar Week 2026-W20
+title: News Radar Last 30 Days 2026-05-17
 date: 2026-05-17
 tags:
   - news-radar
-  - weekly-review
+  - last30days-review
 ---
 
-# 2026-W20 News Radar
+# 2026-05-17 Last 30 Days News Review
 
 ## 复盘方法
 
-- 汇总过去 7 天持续升温和跨来源重复出现的议题。
+- 借鉴 last30days-skill：近期变化、关键节点、趋势判断、后续观察。
 - 排序原则：先看热度和重复出现，再看分类标签。
 
 ## 过去阶段最高热度
