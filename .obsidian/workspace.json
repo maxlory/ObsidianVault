@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "35c68867bbf66d27",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbb0f4a4fcb033ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e77dc2859cd6b51f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "News Radar/Alerts/2026-05-15-1527-news-alerts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-15-1527-news-alerts"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0327a82db3eccdf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b77825c387522f3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eab5b08adf3b6c5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f50ba51413a0d012",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "07a03469ab538b4d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ae20f86e04483380",
+    "type": "split",
+    "children": [
+      {
+        "id": "f16b4aa544a416d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "308662e991ba8f8c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Research Radar/AI HOT Daily/2026-05-12 AI HOT Daily.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2026-05-12 AI HOT Daily 的反向链接列表"
+            }
+          },
+          {
+            "id": "2652d3cef3e7668c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Research Radar/AI HOT Daily/2026-05-12 AI HOT Daily.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2026-05-12 AI HOT Daily 的出链列表"
+            }
+          },
+          {
+            "id": "5c1fd2e1b6e0546f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "9e7ca947d41bb1a7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "26a3b6fe90523b26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Research Radar/AI HOT Daily/2026-05-12 AI HOT Daily.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2026-05-12 AI HOT Daily 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "eab5b08adf3b6c5f",
+  "lastOpenFiles": [
+    "News Radar/Daily/2026-05-18 News Daily.md",
+    "News Radar/run-log/2026-05-18.jsonl",
+    "News Radar/Alerts/2026-05-18-0903-news-alerts.md",
+    "News Radar/Inbox/2026-05-18-news-signals.md",
+    "Research Radar/run-log/2026-05-18-maintenance.md",
+    "Research Radar/AI HOT Daily/2026-05-18 AI HOT Daily.md",
+    "Research Radar/Alerts/2026-05-18-0902-alerts.md",
+    "Research Radar/Inbox/2026-05-18-signals.md",
+    "Research Radar/run-log/2026-05-18.jsonl",
+    "Daily Briefings/2026-05-18 Daily Intelligence.md",
+    "News Radar/Weekly/2026-05-17 Last 30 Days News Review.md",
+    "News Radar/Daily/2026-05-17 News Daily.md",
+    "Research Radar/AI HOT Daily/2026-05-17 AI HOT Daily.md",
+    "Research Radar/Alerts/2026-05-17-0817-alerts.md",
+    "Research Radar/Inbox/2026-05-17-signals.md",
+    "News Radar/run-log/2026-05-17.jsonl",
+    "News Radar/Alerts/2026-05-17-0817-news-alerts.md",
+    "News Radar/Inbox/2026-05-17-news-signals.md",
+    "Research Radar/run-log/2026-05-17.jsonl",
+    "Daily Briefings/2026-05-17 Daily Intelligence.md",
+    "Research Radar/run-log/2026-05-16-maintenance.md",
+    "News Radar/Weekly/2026-05-16 Last 30 Days News Review.md",
+    "News Radar/Weekly/2026-W20 News Trends.md",
+    "News Radar/Weekly",
+    "News Radar/Daily/2026-05-16 News Daily.md",
+    "Research Radar/AI HOT Daily/2026-05-16 AI HOT Daily.md",
+    "News Radar/run-log/2026-05-16.jsonl",
+    "News Radar/Alerts/2026-05-16-0817-news-alerts.md",
+    "News Radar/Inbox/2026-05-16-news-signals.md",
+    "Research Radar/Alerts/2026-05-16-0817-alerts.md",
+    "Research Radar/Inbox/2026-05-16-signals.md",
+    "Research Radar/run-log/2026-05-16.jsonl",
+    "Daily Briefings/2026-05-16 Daily Intelligence.md"
+  ]
+}
