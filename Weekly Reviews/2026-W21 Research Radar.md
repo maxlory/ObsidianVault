@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W21
-date: 2026-05-18
+date: 2026-05-19
 tags:
   - weekly-review
   - research-radar
@@ -36,19 +36,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 93** | Claude Code v2.1.139 版本更新
-> **标题**：Claude Code v2.1.139 版本更新
-> **原文链接**：🔗 [打开原文](https://github.com/anthropics/claude-code/releases/tag/v2.1.139)
-> **source**：AI HOT / Claude Code：GitHub Releases（RSS）
-> **kind**：`product`
-> **reason**：matches topics: agent, claude code, mcp; high-value terms: agent, mcp, claude code
-> **follow_up**：判断是否需要沉淀为长期主题笔记。
-> **summary**：本次更新引入了多项新功能与优化。核心新增包括：集中管理会话的Agent视图（研究预览）、可设置目标并持续工作的`/goal`命令、实时调整滚轮速度的`/scroll-speed`命令，以及查看插件详情的`claude plugin details`命令。交互界面导航与控制能力得到增强。底层优化涵盖MCP服务器可获取`CLAUDE_PROJECT_DIR`环境变量、`/context all`的令牌估算会考虑模型分词器并显示舍入值。此外，修复了超过20项问题，如凭证死锁、内存无限制增长、权限规则、UI显示错误及路径处理等缺陷。
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 93** | Claude Code v2.1.143 版本更新：插件管理与用户体验增强
 > **标题**：Claude Code v2.1.143 版本更新：插件管理与用户体验增强
 > **原文链接**：🔗 [打开原文](https://github.com/anthropics/claude-code/releases/tag/v2.1.143)
@@ -70,6 +57,19 @@ tags:
 > **reason**：matches topics: agent, codex, openai, anthropic; high-value terms: agent, codex
 > **follow_up**：判断是否需要沉淀为长期主题笔记。
 > **summary**：BestBlogs早报聚焦AI智能体的工程化落地。Anthropic官方指南详解Claude Computer Use最佳实践，包括解决点击偏移的根本原因、推荐分辨率策略及必须采用虚拟机隔离与人工确认门控的安全原则。OpenAI工程师分享了为Codex构建Windows安全沙箱的历程，其最终方案通过专属安全标识符和写受限令牌，实现了操作系统层面的强制文件系统隔离。早报同时指出，基准测试优异的RAG Agent在生产环境中可能出现高达30%的幻觉率。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | wlsdks/oh-my-ontology
+> **标题**：wlsdks/oh-my-ontology
+> **原文链接**：🔗 [打开原文](https://github.com/wlsdks/oh-my-ontology)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, mcp, codex
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Repo-native memory layer for Claude Code, Cursor, and Codex. Local-first markdown ontology + MCP tools so AI coding agents keep codebase context.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -127,14 +127,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | saurabhmain/a-mem-mcp-server
-> **标题**：saurabhmain/a-mem-mcp-server
-> **原文链接**：🔗 [打开原文](https://github.com/saurabhmain/a-mem-mcp-server)
+> [!info]+ **今日必须看 / 89** | Wintersta7e/nexum
+> **标题**：Wintersta7e/nexum
+> **原文链接**：🔗 [打开原文](https://github.com/Wintersta7e/nexum)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp, eval
+> **reason**：matches topics: agent, claude code, codex, mcp; high-value terms: agent, mcp, codex, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：🧠 Enhance LLM agents with an agentic memory system, featuring automatic note construction, dynamic memory updates, and intelligent semantic retrieval.
+> **summary**：Cross-agent memory for AI coding tools (Claude Code, Codex CLI), with cryptographic provenance via SSH-signed git commits
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -143,6 +143,19 @@ tags:
 
 ## 值得试用的工具 / 模型
 
+> [!info]+ **今日必须看 / 89** | wlsdks/oh-my-ontology
+> **标题**：wlsdks/oh-my-ontology
+> **原文链接**：🔗 [打开原文](https://github.com/wlsdks/oh-my-ontology)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, mcp, codex
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Repo-native memory layer for Claude Code, Cursor, and Codex. Local-first markdown ontology + MCP tools so AI coding agents keep codebase context.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | hunhee98/pluck
 > **标题**：hunhee98/pluck
 > **原文链接**：🔗 [打开原文](https://github.com/hunhee98/pluck)
@@ -169,19 +182,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | eugeniughelbur/obsidian-second-brain
-> **标题**：eugeniughelbur/obsidian-second-brain
-> **原文链接**：🔗 [打开原文](https://github.com/eugeniughelbur/obsidian-second-brain)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Cross-CLI skill for Obsidian. Turns your vault into a living AI-first second brain across Claude Code, Codex CLI, Gemini CLI, and OpenCode. 32 commands, vault-first research, scheduled agents, write-time AI-first validator.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 
 ## 论文到代码观察
 
@@ -193,32 +193,6 @@ tags:
 > **reason**：matches topics: agent, agents, llm, benchmark; high-value terms: benchmark, agent, agents, eval
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
 > **summary**：arXiv:2605.08503v1 Announce Type: new Abstract: Interactive narrative tasks require LLMs to sustain a coherent, evolving story while adapting to a user over multiple turns. However, suitable benchmarks for this setting are limited: existing evaluations often focus on static prompts, isolated story...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 83** | Agentick: A Unified Benchmark for General Sequential Decision-Making Agents
-> **标题**：Agentick: A Unified Benchmark for General Sequential Decision-Making Agents
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.06869)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, research, benchmark; high-value terms: benchmark, agent, agents
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2605.06869v1 Announce Type: new Abstract: AI agent research spans a wide spectrum: from RL agents that learn from scratch to foundation model agents that leverage pre-trained knowledge, yet no unified benchmark enables fair comparison across these approaches. We present Agentick, a benchmark...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 83** | When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning
-> **标题**：When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.06772)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm, research; high-value terms: agent, agents, reasoning
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2605.06772v1 Announce Type: new Abstract: As large language models (LLMs) show increasing promise on research-level physics reasoning tasks and agentic AI becomes more common, a practical question emerges: How does the interaction between researchers and agents affect the results? We study th...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -250,19 +224,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 81** | Towards Security-Auditable LLM Agents: A Unified Graph Representation
-> **标题**：Towards Security-Auditable LLM Agents: A Unified Graph Representation
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.06812)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, api, security
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2605.06812v1 Announce Type: new Abstract: LLM-based agentic systems are rapidly evolving to perform complex autonomous tasks through dynamic tool invocation, stateful memory management, and multi-agent collaboration. However, this semantics-driven execution paradigm creates a severe semantic...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 77** | Deep Reasoning in General Purpose Agents via Structured Meta-Cognition
 > **标题**：Deep Reasoning in General Purpose Agents via Structured Meta-Cognition
 > **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.11388)
@@ -289,6 +250,45 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 77** | Context Pruning for Coding Agents via Multi-Rubric Latent Reasoning
+> **标题**：Context Pruning for Coding Agents via Multi-Rubric Latent Reasoning
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.15315)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, reasoning
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.15315v1 Announce Type: new Abstract: LLM-powered coding agents spend the majority of their token budget reading repository files, yet much of the retrieved code is irrelevant to the task at hand. Existing learned pruners compress this context with a single-objective sequence labeler, col...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 77** | Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents
+> **标题**：Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.12620)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, reasoning
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.12620v1 Announce Type: new Abstract: Building generalist embodied agents capable of solving complex real-world tasks remains a fundamental challenge in AI. Multimodal Large Language Models (MLLMs) have significantly advanced the reasoning capabilities of such agents through strong vision...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 77** | Beyond Cooperative Simulators: Generating Realistic User Personas for Robust Evaluation of LLM Agents
+> **标题**：Beyond Cooperative Simulators: Generating Realistic User Personas for Robust Evaluation of LLM Agents
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.12894)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.12894v1 Announce Type: new Abstract: Large Language Model (LLM) agents are increasingly deployed in settings where they interact with a wide variety of people, including users who are unclear, impatient, or reluctant to share information. However, collecting real interaction data at scal...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 
 ## 反复出现的信号
 
@@ -300,6 +300,19 @@ tags:
 > **reason**：matches topics: agent, agents, claude code; high-value terms: agent, agents, claude code
 > **follow_up**：判断是否需要沉淀为长期主题笔记。
 > **summary**：Statewright 是一个通过状态机为AI智能体提供约束的系统，能控制其在各阶段可使用的工具，从而聚焦推理并提升可靠性。它将工作流定义为规划、实施、测试等多个阶段，自动执行工具限制与状态转换。在本地模型测试中，两个模型在5项SWE-bench子任务上应用约束后，正确率从2/10显著提升至10/10。该系统已集成到Claude Code等平台，一个修复测试失败的典型工作流可在46秒内完成。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | wlsdks/oh-my-ontology
+> **标题**：wlsdks/oh-my-ontology
+> **原文链接**：🔗 [打开原文](https://github.com/wlsdks/oh-my-ontology)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, mcp, codex
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Repo-native memory layer for Claude Code, Cursor, and Codex. Local-first markdown ontology + MCP tools so AI coding agents keep codebase context.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -344,19 +357,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | wlsdks/oh-my-ontology
-> **标题**：wlsdks/oh-my-ontology
-> **原文链接**：🔗 [打开原文](https://github.com/wlsdks/oh-my-ontology)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, obsidian, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：AI-native codebase ontology workbench — humans + AI agents author the same vault. Markdown frontmatter is the graph.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 85** | Corryrevokable963/claude-code-book
 > **标题**：Corryrevokable963/claude-code-book
 > **原文链接**：🔗 [打开原文](https://github.com/Corryrevokable963/claude-code-book)
@@ -365,6 +365,19 @@ tags:
 > **reason**：matches topics: agent, claude code, llm, mcp; high-value terms: agent, mcp, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Explore Claude Code's Agent Harness architecture with a clear breakdown of its runtime, tools, and control flow for AI agent builders
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | device-context-protocol/dcp
+> **标题**：device-context-protocol/dcp
+> **原文链接**：🔗 [打开原文](https://github.com/device-context-protocol/dcp)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Device Context Protocol — bridge LLM agents to physical devices. Sub-50-byte frames, <16KB MCU footprint, capability-scoped and safe by design. Complementary to MCP.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -404,19 +417,6 @@ tags:
 > **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：A massive, self-updating local archive of AI tools — 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cline), and 30+ system prompt collections. One repo to rule them all.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | bug-ops/zeph
-> **标题**：bug-ops/zeph
-> **原文链接**：🔗 [打开原文](https://github.com/bug-ops/zeph)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, openai, llm; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Memory-first Rust AI agent for long-running work. Temporal graph memory, self-learning skills, multi-model cascade routing. Hybrid inference: Ollama · Claude · Gemini · OpenAI · GGUF · TEE. MCP + ACP + A2A. Sub-agents. One binary.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库

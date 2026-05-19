@@ -20,5 +20,6 @@ tags:
 - Cleaned report metadata comments: 0
 
 ## Git
-- git add Daily Briefings Research Radar Weekly Reviews News Radar ok: 
-- git commit -m Update research and news radar 2026-05-18 failed: Author identity unknown *** Please tell me who you are. Run git config --global user.email "you@example.com" git config --global user.name "Your Name" to set your account's default identity. Omit --global to set the identity only in this repository. fatal: unable to auto-detect email address (got 'aa00158@bogon.(none)')
+- git add + commit ok (e21da1d)
+- git push FAILED: unable to connect to github.com:443 (network error)
+- git commit succeeded (e21da1d) after fixing git identity
