@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W21
-date: 2026-05-21
+date: 2026-05-22
 tags:
   - weekly-review
   - research-radar
@@ -36,19 +36,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 93** | 开源工具html-anything助力Agent生成高质量HTML
-> **标题**：开源工具html-anything助力Agent生成高质量HTML
-> **原文链接**：🔗 [打开原文](https://x.com/xiaohu/status/2054925632061231431)
-> **source**：AI HOT / X：小互 (@xiaohu)
-> **kind**：`product`
-> **reason**：matches topics: agent, claude code, codex; high-value terms: agent, codex, claude code
-> **follow_up**：判断是否需要沉淀为长期主题笔记。
-> **summary**：用户分享了对开源项目html-anything的积极体验。该项目旨在让AI Agent能将任何数据转换为具有世界级设计水准的HTML代码。该项目历时三天开发，包含约一万五千行代码，支持75套Skills和9种导出格式，并能兼容包括Claude Code、Codex、OpenClaw、Hermes在内的多种代码生成Agent。
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 93** | Claude托管代理新增两项安全功能
 > **标题**：Claude托管代理新增两项安全功能
 > **原文链接**：🔗 [打开原文](https://x.com/ClaudeDevs/status/2056740346529468717)
@@ -70,19 +57,6 @@ tags:
 > **reason**：matches topics: agent, agents, claude code; high-value terms: agent, agents, claude code
 > **follow_up**：判断是否需要沉淀为长期主题笔记。
 > **summary**：Claude Code 发布 v2.1.143 版本，重点增强了插件管理功能，包括强制执行插件依赖关系，并新增了插件市场的预估上下文成本显示。为方便直接编辑工作副本，增加了 `worktree.bgIsolation： "none"` 设置。多项体验得到改进：后台会话唤醒后保留模型与努力级别设置；Windows PowerShell 工具默认绕过执行策略；`claude agents` 命令新增多个参数以配置默认会话。此外，本次更新修复了大量错误，包括修复损坏的 `.credentials.json` 文件导致 CLI 启动卡住、Windows Terminal 中的右键粘贴问题、后台会话错误捕获 IDE 文件引用，以及 macOS 上后台作业读取特定目录文件的权限错误等。
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 90** | BestBlogs早报：AI智能体工程化实战与安全架构
-> **标题**：BestBlogs早报：AI智能体工程化实战与安全架构
-> **原文链接**：🔗 [打开原文](https://x.com/hongming731/status/2054701978924859865)
-> **source**：AI HOT / X：洪明 (@hongming731)
-> **kind**：`article`
-> **reason**：matches topics: agent, codex, openai, anthropic; high-value terms: agent, codex
-> **follow_up**：判断是否需要沉淀为长期主题笔记。
-> **summary**：BestBlogs早报聚焦AI智能体的工程化落地。Anthropic官方指南详解Claude Computer Use最佳实践，包括解决点击偏移的根本原因、推荐分辨率策略及必须采用虚拟机隔离与人工确认门控的安全原则。OpenAI工程师分享了为Codex构建Windows安全沙箱的历程，其最终方案通过专属安全标识符和写受限令牌，实现了操作系统层面的强制文件系统隔离。早报同时指出，基准测试优异的RAG Agent在生产环境中可能出现高达30%的幻觉率。
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -135,6 +109,32 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, llm; high-value terms: agent, agents, mcp, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | jeremylongshore/claude-code-plugins-plus-skills
+> **标题**：jeremylongshore/claude-code-plugins-plus-skills
+> **原文链接**：🔗 [打开原文](https://github.com/jeremylongshore/claude-code-plugins-plus-skills)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, mcp; high-value terms: agent, agents, mcp, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：425 plugins, 2,810 skills, 200 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI package manager.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | grossiweb/ToolRoute
+> **标题**：grossiweb/ToolRoute
+> **原文链接**：🔗 [打开原文](https://github.com/grossiweb/ToolRoute)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: benchmark, agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Intelligent routing layer for AI agents: recommends the best MCP server and LLM for any task, scored on 132+ real benchmark executions.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -224,6 +224,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 81** | Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On
+> **标题**：Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.19035)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, api, reasoning
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.19035v1 Announce Type: new Abstract: The rapid advancement of Large Language Models has given rise to autonomous LLM-based agents capable of complex reasoning and execution. As these agents transition from isolated operation to collaborative ecosystems, we witness the emergence of the Ag...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 81** | Collider-Bench: Benchmarking AI Agents with Particle Physics Analysis Reproduction
 > **标题**：Collider-Bench: Benchmarking AI Agents with Particle Physics Analysis Reproduction
 > **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.13950)
@@ -250,40 +263,27 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 81** | Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On
-> **标题**：Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.19035)
-> **source**：cs.AI updates on arXiv.org
+> [!info]+ **今日必须看 / 77** | CHI-Bench: Can AI Agents Automate End-to-End, Long-Horizon, Policy-Rich Healthcare Workflows?
+> **标题**：CHI-Bench: Can AI Agents Automate End-to-End, Long-Horizon, Policy-Rich Healthcare Workflows?
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.16679)
+> **source**：cs.CL updates on arXiv.org
 > **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, api, reasoning
+> **reason**：matches topics: agent, agents, benchmark; high-value terms: benchmark, agent, agents
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2605.19035v1 Announce Type: new Abstract: The rapid advancement of Large Language Models has given rise to autonomous LLM-based agents capable of complex reasoning and execution. As these agents transition from isolated operation to collaborative ecosystems, we witness the emergence of the Ag...
+> **summary**：arXiv:2605.16679v1 Announce Type: new Abstract: End-to-end automation of realistic healthcare operations stresses three capabilities underrepresented in current benchmarks: policy density, decisions must be grounded in a large library of medical, insurance, and operational rules; Multi-role composi...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 77** | Deep Reasoning in General Purpose Agents via Structured Meta-Cognition
-> **标题**：Deep Reasoning in General Purpose Agents via Structured Meta-Cognition
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.11388)
-> **source**：cs.CL updates on arXiv.org
+> [!info]+ **今日必须看 / 77** | Context Pruning for Coding Agents via Multi-Rubric Latent Reasoning
+> **标题**：Context Pruning for Coding Agents via Multi-Rubric Latent Reasoning
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.15315)
+> **source**：cs.AI updates on arXiv.org
 > **kind**：`paper`
 > **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, reasoning
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2605.11388v1 Announce Type: new Abstract: Humans intuitively solve complex problems by flexibly shifting among reasoning modes: they plan, execute, revise intermediate goals, resolve ambiguity through associative judgment, and apply formal procedures to well-specified subproblems. Current LLM...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 77** | MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs
-> **标题**：MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.08374)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, eval
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2605.08374v2 Announce Type: new Abstract: Episodic memory allows LLM agents to accumulate and retrieve experience, but current methods treat each memory independently, i.e., evaluating retrieval quality in isolation without accounting for the dependency chains through which memories enable th...
+> **summary**：arXiv:2605.15315v1 Announce Type: new Abstract: LLM-powered coding agents spend the majority of their token budget reading repository files, yet much of the retrieved code is irrelevant to the task at hand. Existing learned pruners compress this context with a single-objective sequence labeler, col...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -344,19 +344,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | Corryrevokable963/claude-code-book
-> **标题**：Corryrevokable963/claude-code-book
-> **原文链接**：🔗 [打开原文](https://github.com/Corryrevokable963/claude-code-book)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, claude code, llm, mcp; high-value terms: agent, mcp, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Explore Claude Code's Agent Harness architecture with a clear breakdown of its runtime, tools, and control flow for AI agent builders
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 85** | infektyd/sovereign-memory
 > **标题**：infektyd/sovereign-memory
 > **原文链接**：🔗 [打开原文](https://github.com/infektyd/sovereign-memory)
@@ -409,14 +396,27 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | HIDORAKAI002/ai-workspace-archive
-> **标题**：HIDORAKAI002/ai-workspace-archive
-> **原文链接**：🔗 [打开原文](https://github.com/HIDORAKAI002/ai-workspace-archive)
+> [!info]+ **今日必须看 / 85** | Signet-AI/signetai
+> **标题**：Signet-AI/signetai
+> **原文链接**：🔗 [打开原文](https://github.com/Signet-AI/signetai)
 > **source**：GitHub Search
 > **kind**：`github_repo`
 > **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：A massive, self-updating local archive of AI tools — 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cline), and 30+ system prompt collections. One repo to rule them all.
+> **summary**：Local-first identity, memory, and secrets for AI agents. Portable state across models and harnesses.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | bug-ops/zeph
+> **标题**：bug-ops/zeph
+> **原文链接**：🔗 [打开原文](https://github.com/bug-ops/zeph)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, openai, llm; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Memory-first Rust AI agent for long-running work. Temporal graph memory, self-learning skills, multi-model cascade routing. Hybrid inference: Ollama · Claude · Gemini · OpenAI · GGUF · TEE. MCP + ACP + A2A. Sub-agents. One binary.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
