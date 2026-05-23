@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W21
-date: 2026-05-22
+date: 2026-05-23
 tags:
   - weekly-review
   - research-radar
@@ -18,6 +18,19 @@ tags:
 > **reason**：matches topics: agent, claude code, mcp; high-value terms: agent, mcp, claude code, api
 > **follow_up**：判断是否需要沉淀为长期主题笔记。
 > **summary**：本次更新为Claude Code工具带来了多项功能增强与问题修复。新功能包括：新增JSON格式的会话列表命令以便脚本化操作，并在OTEL追踪中完善了Agent父子关系。插件浏览界面现可预览详细信息。在稳定性方面，修复了权限提示被绕过的安全问题、MCP参数校验错误、终端窗口调整后的显示冻结，以及非ASCII名称导致的API调用失败等问题。同时改进了Read工具的文件超限处理，并优化了任务列表排序和状态栏信息显示等交互细节，整体提升了工具的易用性与可靠性。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 93** | 谷歌I/O大会发布AI代理全套开发工具链
+> **标题**：谷歌I/O大会发布AI代理全套开发工具链
+> **原文链接**：🔗 [打开原文](https://x.com/GoogleAI/status/2057871583843135978)
+> **source**：AI HOT / X：Google AI (@GoogleAI)
+> **kind**：`product`
+> **reason**：matches topics: agent, deepmind, mcp; high-value terms: agent, mcp, api
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：谷歌在I/O开发者大会宣布，系统性构建面向AI代理（Agent）的开发与部署工具链。核心更新包括：独立桌面应用Antigravity 2.0及其命令行工具、SDK面世；Google AI Studio新增Kotlin支持，可一键开发安卓应用并发布，同时推出移动端App。此外，Gemini API推出托管代理服务，实现一键部署；WebMCP作为开放标准在Chrome 149中推出，允许网页向代理暴露工具；Chrome DevTools也开放给AI代理以自动化调试。企业级客户可直接连接Google Cloud项目，而DeepMind的科学技能包则加速特定领域研究。此举标志着谷歌正全面打造从开发、接口到部署的完整AI代理生态系统。
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -44,19 +57,6 @@ tags:
 > **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
 > **follow_up**：判断是否需要沉淀为长期主题笔记。
 > **summary**：我们为Claude Managed Agents增加了两项安全改进。 自托管沙箱将代理的执行环境保留在您的基础设施或托管沙箱提供商处。 MCP隧道让代理能够连接到您安全边界内的服务。
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 93** | Claude Code v2.1.143 版本更新：插件管理与用户体验增强
-> **标题**：Claude Code v2.1.143 版本更新：插件管理与用户体验增强
-> **原文链接**：🔗 [打开原文](https://github.com/anthropics/claude-code/releases/tag/v2.1.143)
-> **source**：AI HOT / Claude Code：GitHub Releases（RSS）
-> **kind**：`product`
-> **reason**：matches topics: agent, agents, claude code; high-value terms: agent, agents, claude code
-> **follow_up**：判断是否需要沉淀为长期主题笔记。
-> **summary**：Claude Code 发布 v2.1.143 版本，重点增强了插件管理功能，包括强制执行插件依赖关系，并新增了插件市场的预估上下文成本显示。为方便直接编辑工作副本，增加了 `worktree.bgIsolation： "none"` 设置。多项体验得到改进：后台会话唤醒后保留模型与努力级别设置；Windows PowerShell 工具默认绕过执行策略；`claude agents` 命令新增多个参数以配置默认会话。此外，本次更新修复了大量错误，包括修复损坏的 `.credentials.json` 文件导致 CLI 启动卡住、Windows Terminal 中的右键粘贴问题、后台会话错误捕获 IDE 文件引用，以及 macOS 上后台作业读取特定目录文件的权限错误等。
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -101,14 +101,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | JKHeadley/instar
-> **标题**：JKHeadley/instar
-> **原文链接**：🔗 [打开原文](https://github.com/JKHeadley/instar)
+> [!info]+ **今日必须看 / 89** | westbrookai/zipsa
+> **标题**：westbrookai/zipsa
+> **原文链接**：🔗 [打开原文](https://github.com/westbrookai/zipsa)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, llm; high-value terms: agent, agents, mcp, claude code
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, mcp, codex
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.
+> **summary**：Lightweight runtime container for AI agents (Claude Code, Codex, Gemini CLI) with MCP support
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -198,6 +198,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 87** | AgentAtlas: Beyond Outcome Leaderboards for LLM Agents
+> **标题**：AgentAtlas: Beyond Outcome Leaderboards for LLM Agents
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.20530)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm, benchmark; high-value terms: benchmark, agent, agents, eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.20530v1 Announce Type: new Abstract: Large language model agents now act on codebases, browsers, operating systems, calendars, files, and tool ecosystems, but the benchmarks used to evaluate them are fragmented: each emphasizes a different unit of measurement (final task success, tool-ca...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 83** | POLAR-Bench: A Diagnostic Benchmark for Privacy-Utility Trade-offs in LLM Agents
 > **标题**：POLAR-Bench: A Diagnostic Benchmark for Privacy-Utility Trade-offs in LLM Agents
 > **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.19127)
@@ -211,19 +224,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 83** | EvolveMem:Self-Evolving Memory Architecture via AutoResearch for LLM Agents
-> **标题**：EvolveMem:Self-Evolving Memory Architecture via AutoResearch for LLM Agents
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.13941)
-> **source**：cs.LG updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm, research; high-value terms: agent, agents, eval
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2605.13941v1 Announce Type: new Abstract: Long-term memory is essential for LLM agents that operate across multiple sessions, yet existing memory systems treat retrieval infrastructure as fixed: stored content evolves while scoring functions, fusion strategies, and answer-generation policies...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 81** | Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On
 > **标题**：Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On
 > **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.19035)
@@ -232,19 +232,6 @@ tags:
 > **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, api, reasoning
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
 > **summary**：arXiv:2605.19035v1 Announce Type: new Abstract: The rapid advancement of Large Language Models has given rise to autonomous LLM-based agents capable of complex reasoning and execution. As these agents transition from isolated operation to collaborative ecosystems, we witness the emergence of the Ag...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 81** | Collider-Bench: Benchmarking AI Agents with Particle Physics Analysis Reproduction
-> **标题**：Collider-Bench: Benchmarking AI Agents with Particle Physics Analysis Reproduction
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.13950)
-> **source**：cs.LG updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, benchmark; high-value terms: benchmark, agent, agents, eval
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2605.13950v1 Announce Type: new Abstract: Autonomous language-model agents are increasingly evaluated on long-horizon tool-use tasks, but existing benchmarks rarely capture the complexity and nuance of real scientific work. To address this gap, we introduce Collider-Bench, a benchmark for eva...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -284,6 +271,19 @@ tags:
 > **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, reasoning
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
 > **summary**：arXiv:2605.15315v1 Announce Type: new Abstract: LLM-powered coding agents spend the majority of their token budget reading repository files, yet much of the retrieved code is irrelevant to the task at hand. Existing learned pruners compress this context with a single-objective sequence labeler, col...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 77** | AgentKernelArena: Generalization-Aware Benchmarking of GPU Kernel Optimization Agents
+> **标题**：AgentKernelArena: Generalization-Aware Benchmarking of GPU Kernel Optimization Agents
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.16819)
+> **source**：cs.CL updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, benchmark; high-value terms: benchmark, agent, agents
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.16819v1 Announce Type: new Abstract: GPU kernel optimization is increasingly critical for efficient deep learning systems, but writing high-performance kernels still requires substantial low-level expertise. Recent AI coding agents can iteratively read code, invoke compilers and profiler...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -331,19 +331,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | JKHeadley/instar
-> **标题**：JKHeadley/instar
-> **原文链接**：🔗 [打开原文](https://github.com/JKHeadley/instar)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, llm; high-value terms: agent, agents, mcp, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 85** | infektyd/sovereign-memory
 > **标题**：infektyd/sovereign-memory
 > **原文链接**：🔗 [打开原文](https://github.com/infektyd/sovereign-memory)
@@ -352,6 +339,19 @@ tags:
 > **reason**：matches topics: agent, agents, llm, obsidian; high-value terms: agent, agents, mcp
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Local-first memory and governance layer for AI agents, with per-agent vaults, hybrid recall, review-first learning, handoffs, audit trails, and native AFM/bridge provider support.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | open-covenant/covenant
+> **标题**：open-covenant/covenant
+> **原文链接**：🔗 [打开原文](https://github.com/open-covenant/covenant)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：A capability-based operating layer for long-running autonomous software engineering agents. Rust daemon, signed capabilities, append-only audit, drift-aware memory, fail-closed sandbox dispatch, commit-scoped provenance.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
