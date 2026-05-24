@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W21
-date: 2026-05-23
+date: 2026-05-24
 tags:
   - weekly-review
   - research-radar
@@ -75,19 +75,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | hunhee98/pluck
-> **标题**：hunhee98/pluck
-> **原文链接**：🔗 [打开原文](https://github.com/hunhee98/pluck)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp, eval
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：MCP-native code retrieval for AI agents — 84-88% fewer read tokens, BM25F + semantic search, AST chunks, session dedup
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | CyberNerdsTechnologies/claude-agent-toolkit
 > **标题**：CyberNerdsTechnologies/claude-agent-toolkit
 > **原文链接**：🔗 [打开原文](https://github.com/CyberNerdsTechnologies/claude-agent-toolkit)
@@ -140,6 +127,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | BrianV1981/aim
+> **标题**：BrianV1981/aim
+> **原文链接**：🔗 [打开原文](https://github.com/BrianV1981/aim)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：A.I.M. – Actual Intelligent Memory: zero-token exoskeleton for long-running Gemini CLI/Chat GPT Codex/Claude Code agents. External SQLite memory, GitOps guardrails, DataJack cartridges. Alpha, trenches-first.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 
 ## 值得试用的工具 / 模型
 
@@ -156,19 +156,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | hunhee98/pluck
-> **标题**：hunhee98/pluck
-> **原文链接**：🔗 [打开原文](https://github.com/hunhee98/pluck)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp, eval
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：MCP-native code retrieval for AI agents — 84-88% fewer read tokens, BM25F + semantic search, AST chunks, session dedup
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | CyberNerdsTechnologies/claude-agent-toolkit
 > **标题**：CyberNerdsTechnologies/claude-agent-toolkit
 > **原文链接**：🔗 [打开原文](https://github.com/CyberNerdsTechnologies/claude-agent-toolkit)
@@ -177,6 +164,19 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, llm; high-value terms: agent, agents, claude code, reasoning
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：🛠️ Build and customize Claude Code agents with tools and Docker isolation for efficient production workflows and advanced reasoning capabilities.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | westbrookai/zipsa
+> **标题**：westbrookai/zipsa
+> **原文链接**：🔗 [打开原文](https://github.com/westbrookai/zipsa)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, mcp, codex
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Lightweight runtime container for AI agents (Claude Code, Codex, Gemini CLI) with MCP support
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -305,19 +305,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | hunhee98/pluck
-> **标题**：hunhee98/pluck
-> **原文链接**：🔗 [打开原文](https://github.com/hunhee98/pluck)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp, eval
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：MCP-native code retrieval for AI agents — 84-88% fewer read tokens, BM25F + semantic search, AST chunks, session dedup
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | CyberNerdsTechnologies/claude-agent-toolkit
 > **标题**：CyberNerdsTechnologies/claude-agent-toolkit
 > **原文链接**：🔗 [打开原文](https://github.com/CyberNerdsTechnologies/claude-agent-toolkit)
@@ -326,19 +313,6 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, llm; high-value terms: agent, agents, claude code, reasoning
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：🛠️ Build and customize Claude Code agents with tools and Docker isolation for efficient production workflows and advanced reasoning capabilities.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | infektyd/sovereign-memory
-> **标题**：infektyd/sovereign-memory
-> **原文链接**：🔗 [打开原文](https://github.com/infektyd/sovereign-memory)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, obsidian; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Local-first memory and governance layer for AI agents, with per-agent vaults, hybrid recall, review-first learning, handoffs, audit trails, and native AFM/bridge provider support.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -357,6 +331,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | infektyd/sovereign-memory
+> **标题**：infektyd/sovereign-memory
+> **原文链接**：🔗 [打开原文](https://github.com/infektyd/sovereign-memory)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm, obsidian; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Local-first memory and governance layer for AI agents, with per-agent vaults, hybrid recall, review-first learning, handoffs, audit trails, and native AFM/bridge provider support.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 85** | device-context-protocol/dcp
 > **标题**：device-context-protocol/dcp
 > **原文链接**：🔗 [打开原文](https://github.com/device-context-protocol/dcp)
@@ -365,32 +352,6 @@ tags:
 > **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Device Context Protocol — bridge LLM agents to physical devices. Sub-50-byte frames, <16KB MCU footprint, capability-scoped and safe by design. Complementary to MCP.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | torsday/omnifocus-mcp
-> **标题**：torsday/omnifocus-mcp
-> **原文链接**：🔗 [打开原文](https://github.com/torsday/omnifocus-mcp)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：An MCP server exposing the full OmniFocus surface to LLM agents.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | elloloop/llmrouter
-> **标题**：elloloop/llmrouter
-> **原文链接**：🔗 [打开原文](https://github.com/elloloop/llmrouter)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, openai, anthropic; high-value terms: agent, agents, api
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Polyglot Go client for OpenAI, Anthropic, Bedrock, Vertex, Gemini, Cohere + 18 more. Chat, embeddings, TTS, STT, realtime sessions. One OpenAI-shaped API. Build LLM gateways and voice agents.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -409,14 +370,53 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | bug-ops/zeph
-> **标题**：bug-ops/zeph
-> **原文链接**：🔗 [打开原文](https://github.com/bug-ops/zeph)
+> [!info]+ **今日必须看 / 83** | twis1d/agent-reasoning-evaluator
+> **标题**：twis1d/agent-reasoning-evaluator
+> **原文链接**：🔗 [打开原文](https://github.com/twis1d/agent-reasoning-evaluator)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, openai, llm; high-value terms: agent, agents, mcp
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, eval, reasoning
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Memory-first Rust AI agent for long-running work. Temporal graph memory, self-learning skills, multi-model cascade routing. Hybrid inference: Ollama · Claude · Gemini · OpenAI · GGUF · TEE. MCP + ACP + A2A. Sub-agents. One binary.
+> **summary**：🤖 Analyze and annotate AI agent reasoning with this lightweight web app, evaluating logical and factual accuracy for improved decision-making.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 83** | POLAR-Bench: A Diagnostic Benchmark for Privacy-Utility Trade-offs in LLM Agents
+> **标题**：POLAR-Bench: A Diagnostic Benchmark for Privacy-Utility Trade-offs in LLM Agents
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.19127)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm, benchmark; high-value terms: benchmark, agent, agents
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.19127v1 Announce Type: new Abstract: LLM agents increasingly have access to private user data and act on the user's behalf when interacting with third-party systems. The user defines what may and must not be shared, and the agent must robustly follow that intent even when third-party sys...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 83** | Qwen3.7：智能体前沿
+> **标题**：Qwen3.7：智能体前沿
+> **原文链接**：🔗 [打开原文](https://qwen.ai/blog?id=qwen3.7)
+> **source**：AI HOT / Qwen：Blog Retrieval（API）, Hacker News
+> **kind**：`model`
+> **reason**：matches topics: agent, agents; high-value terms: agent, agents
+> **follow_up**：检查模型卡、license、benchmark 和可部署性。
+> **summary**：Qwen Studio推出Qwen3.7模型，提供覆盖聊天机器人、图像与视频理解、图像生成、文档处理、网页搜索集成、工具调用及工件生成等功能。该模型整合了当前AI智能体的关键能力，旨在推动多模态交互与实际任务执行向更综合、自主的方向发展。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 81** | Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On
+> **标题**：Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.19035)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, api, reasoning
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.19035v1 Announce Type: new Abstract: The rapid advancement of Large Language Models has given rise to autonomous LLM-based agents capable of complex reasoning and execution. As these agents transition from isolated operation to collaborative ecosystems, we witness the emergence of the Ag...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
