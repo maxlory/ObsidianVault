@@ -159,6 +159,34 @@
       "title": "DecapodLabs/decapod",
       "url": "https://github.com/DecapodLabs/decapod"
     },
+    "0073da988b53c1c9": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "0073da988b53c1c9",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T23:16:57Z",
+      "rank": 0,
+      "reason": "matches topics: openai, anthropic",
+      "region": "",
+      "score": 52,
+      "seen_count": 2,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "1 points | 0 comments",
+      "tags": [
+        "anthropic",
+        "hn",
+        "openai"
+      ],
+      "title": "Anthropic and OpenAI race to embed engineers inside Wall Street workflows",
+      "url": "https://thenewstack.io/anthropic-openai-wall-street-ai-agents-developers/"
+    },
     "008301623f345566": {
       "category": "只归档",
       "discovered_at": "2026-05-19T08:17:23.171398+08:00",
@@ -235,6 +263,33 @@
       ],
       "title": "HerdCount is Live on the App Store — From Blog Post to Shipped Product in Two Weeks",
       "url": "https://dev.to/toddsullivan/herdcount-is-live-on-the-app-store-from-blog-post-to-shipped-product-in-two-weeks-1cok"
+    },
+    "00e60096c24fa2bd": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "00e60096c24fa2bd",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T09:04:49Z",
+      "rank": 0,
+      "reason": "matches topics: openai",
+      "region": "",
+      "score": 44,
+      "seen_count": 1,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "2 points | 0 comments",
+      "tags": [
+        "hn",
+        "openai"
+      ],
+      "title": "OpenAI and Nvidia Are Using Google's SynthID to Watermark AI Content",
+      "url": "https://firethering.com/openai-nvidia-using-google-synthid-ai-watermarking/"
     },
     "01081437e80fa075": {
       "category": "只归档",
@@ -1400,19 +1455,19 @@
     },
     "0498977f60ad20a3": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-24T08:17:45.805034+08:00",
       "follow_up": "判断是否需要沉淀为长期主题笔记。",
       "id": "0498977f60ad20a3",
       "kind": "product",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-21T21:14:40-07:00",
       "rank": 0,
       "reason": "baseline source relevance",
       "region": "",
       "score": 30,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "Product Hunt — The best new products, every day",
       "sources": [
         "Product Hunt — The best new products, every day"
@@ -2009,19 +2064,19 @@
     },
     "0682fa99f5d1bc3b": {
       "category": "可延后",
-      "discovered_at": "2026-05-21T08:17:20.735412+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-21T08:17:20.735412+08:00",
       "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
       "id": "0682fa99f5d1bc3b",
       "kind": "github_repo",
-      "last_seen": "2026-05-21T08:17:20.735412+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
-      "published": "2026-05-20T23:57:54Z",
+      "published": "2026-05-25T01:54:24Z",
       "rank": 0,
       "reason": "matches topics: agent, agents, obsidian; high-value terms: agent, agents",
       "region": "",
       "score": 72,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "GitHub Search",
       "sources": [
         "GitHub Search"
@@ -2248,6 +2303,35 @@
       ],
       "title": "Microsoft tried to kill the printer driver. Healthcare said no.",
       "url": "https://dev.to/thegdsks/microsoft-tried-to-kill-the-printer-driver-healthcare-said-no-28e7"
+    },
+    "074891abf1328845": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "074891abf1328845",
+      "kind": "product",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T04:00:09.000Z",
+      "rank": 0,
+      "reason": "high-value terms: release",
+      "region": "",
+      "score": 55,
+      "seen_count": 1,
+      "source": "AI HOT / X：OpenClaw (@openclaw)",
+      "sources": [
+        "AI HOT / X：OpenClaw (@openclaw)"
+      ],
+      "summary": "OpenClaw 2026.5.22 已上线 ⚡ Gateway/模型启动路径更精简 🧠 /models 响应时间降至约5毫秒 🔒 npm包现提供锁定依赖项 🪟 Windows安装/更新路径更安全 等待更少，意外更少。 https：//github.com/openclaw/openclaw/releases/tag/v2026.5.22",
+      "tags": [
+        "ai-products",
+        "aihot",
+        "product",
+        "selected"
+      ],
+      "title": "OpenClaw 2026.5.22发布：性能优化与安全加固",
+      "url": "https://x.com/openclaw/status/2058397616124072274"
     },
     "074c97461cc45b76": {
       "category": "可延后",
@@ -2837,19 +2921,19 @@
     },
     "09e2dacb42d1928b": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-11T11:23:27.335489+08:00",
       "follow_up": "判断是否需要沉淀为长期主题笔记。",
       "id": "09e2dacb42d1928b",
       "kind": "article",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-20T13:19:12+00:00",
       "rank": 0,
       "reason": "matches topics: anthropic",
       "region": "",
       "score": 48,
-      "seen_count": 14,
+      "seen_count": 15,
       "source": "Anthropic",
       "sources": [
         "Anthropic"
@@ -3260,16 +3344,19 @@
     },
     "0c7997d11d97df78": {
       "category": "可延后",
-      "discovered_at": "2026-05-11T11:23:27.335489+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-11T11:23:27.335489+08:00",
       "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
       "id": "0c7997d11d97df78",
       "kind": "github_repo",
-      "last_seen": "2026-05-11T11:23:27.335489+08:00",
-      "published": "2026-05-11T03:20:04Z",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:51:55Z",
+      "rank": 0,
       "reason": "matches topics: agent, agents; high-value terms: agent, agents",
+      "region": "",
       "score": 64,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "GitHub Search",
       "sources": [
         "GitHub Search"
@@ -4377,6 +4464,34 @@
       "title": "动作捕捉与角色动画制作更轻松",
       "url": "https://x.com/ViggleAI/status/2057947352195858568"
     },
+    "111ecbe3629c719b": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "111ecbe3629c719b",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:55:18Z",
+      "rank": 0,
+      "reason": "matches topics: claude code, mcp; high-value terms: mcp, claude code",
+      "region": "",
+      "score": 64,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "An MCP (Model Context Protocol) server that exposes .NET code coverage tooling as callable tools for AI assistants such as Claude Code or Gemini CLI",
+      "tags": [
+        "github",
+        "search",
+        "topic-mcp"
+      ],
+      "title": "Hyeonu-Cha/dotnet-coverage-mcp",
+      "url": "https://github.com/Hyeonu-Cha/dotnet-coverage-mcp"
+    },
     "11394b243d922690": {
       "category": "可延后",
       "discovered_at": "2026-05-20T08:17:37.779241+08:00",
@@ -4540,19 +4655,19 @@
     },
     "1171b6033612a04f": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-23T08:17:21.404730+08:00",
       "follow_up": "阅读讨论区，提炼争议点和实践经验。",
       "id": "1171b6033612a04f",
       "kind": "community",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-22T04:06:33.000-05:00",
       "rank": 0,
       "reason": "13 score, 42 comments",
       "region": "",
       "score": 28,
-      "seen_count": 2,
+      "seen_count": 3,
       "source": "Lobste.rs",
       "sources": [
         "Lobste.rs"
@@ -4754,6 +4869,33 @@
       "title": "X平台发布体验差，ChatGPT插件助发布",
       "url": "https://x.com/vista8/status/2057726749723840918"
     },
+    "120919642dca3f6f": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "120919642dca3f6f",
+      "kind": "article",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T19:55:03Z",
+      "rank": 0,
+      "reason": "matches topics: llm",
+      "region": "",
+      "score": 36,
+      "seen_count": 1,
+      "source": "Dev.to",
+      "sources": [
+        "Dev.to"
+      ],
+      "summary": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4 I Ditched Cloud LLMs...",
+      "tags": [
+        "devto",
+        "ai"
+      ],
+      "title": "I Ditched Cloud LLMs for Gemma 4 4B: A DevOps Engineer's 48-Hour Reality Check",
+      "url": "https://dev.to/asamaes/i-ditched-cloud-llms-for-gemma-4-4b-a-devops-engineers-48-hour-reality-check-a7d"
+    },
     "1219646e57365b4b": {
       "category": "可延后",
       "discovered_at": "2026-05-14T10:29:55.633079+08:00",
@@ -4860,19 +5002,19 @@
     },
     "1261f03c93da61bd": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-21T08:17:20.735412+08:00",
       "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
       "id": "1261f03c93da61bd",
       "kind": "github_repo",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "baseline source relevance",
       "region": "",
       "score": 46,
-      "seen_count": 5,
+      "seen_count": 6,
       "source": "GitHub Trending",
       "sources": [
         "GitHub Trending"
@@ -5506,19 +5648,19 @@
     },
     "1559744090ebe84a": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-24T08:17:45.805034+08:00",
       "follow_up": "判断是否需要沉淀为长期主题笔记。",
       "id": "1559744090ebe84a",
       "kind": "product",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-22T06:28:39-07:00",
       "rank": 0,
       "reason": "baseline source relevance",
       "region": "",
       "score": 30,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "Product Hunt — The best new products, every day",
       "sources": [
         "Product Hunt — The best new products, every day"
@@ -5587,19 +5729,19 @@
     },
     "159594a4e242f015": {
       "category": "可延后",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-24T08:17:45.805034+08:00",
       "follow_up": "阅读讨论区，提炼争议点和实践经验。",
       "id": "159594a4e242f015",
       "kind": "community",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-23T22:50:35Z",
       "rank": 0,
       "reason": "matches topics: codex, openai; high-value terms: codex",
       "region": "",
       "score": 59,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "Hacker News",
       "sources": [
         "Hacker News"
@@ -5877,19 +6019,19 @@
     },
     "18252e8f4658ce7c": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-24T08:17:45.805034+08:00",
       "follow_up": "判断是否需要沉淀为长期主题笔记。",
       "id": "18252e8f4658ce7c",
       "kind": "product",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-22T03:09:53-07:00",
       "rank": 0,
       "reason": "baseline source relevance",
       "region": "",
       "score": 30,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "Product Hunt — The best new products, every day",
       "sources": [
         "Product Hunt — The best new products, every day"
@@ -6638,6 +6780,35 @@
       "title": "InvestorFinder",
       "url": "https://www.producthunt.com/products/investorfinder"
     },
+    "1ab0a0bfdccdfaca": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "1ab0a0bfdccdfaca",
+      "kind": "article",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T16:24:31.000Z",
+      "rank": 0,
+      "reason": "matches topics: claude code; high-value terms: claude code",
+      "region": "",
+      "score": 61,
+      "seen_count": 1,
+      "source": "AI HOT / X：Kim (@kimmonismus)",
+      "sources": [
+        "AI HOT / X：Kim (@kimmonismus)"
+      ],
+      "summary": "一场名为\"TrapDoor\"的协调供应链攻击同时袭击了npm、PyPI和Crates.io，涉及34个恶意包，旨在窃取加密货币、AI和安全开发者的钱包、SSH密钥和云凭证。攻击的新手段是向流行开源项目提交Pull Request，注入被操纵的`CLAUDE.md`和`.cursorrules`配置文件。当开发者克隆仓库并使用Claude Code或Cursor等AI助手时，AI智能体会将这些文件当作可信指令执行，可能在开发者不知情下运行恶意命令。这是首次将AI助手作为攻击面。",
+      "tags": [
+        "aihot",
+        "article",
+        "industry",
+        "selected"
+      ],
+      "title": "TrapDoor供应链攻击：AI助手成新型攻击面",
+      "url": "https://x.com/kimmonismus/status/2058584943052161488"
+    },
     "1aee0c65083beb16": {
       "category": "可延后",
       "discovered_at": "2026-05-21T08:17:20.735412+08:00",
@@ -7155,6 +7326,33 @@
       "title": "EMA: Efficient Model Adaptation for Learning-based Systems",
       "url": "https://arxiv.org/abs/2605.13942"
     },
+    "1c76bd13479b931a": {
+      "category": "今日必须看",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "1c76bd13479b931a",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T13:02:06Z",
+      "rank": 0,
+      "reason": "matches topics: agent, agents; high-value terms: agent, agents; strong public engagement",
+      "region": "",
+      "score": 78,
+      "seen_count": 1,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "436 points | 197 comments",
+      "tags": [
+        "hn",
+        "agents"
+      ],
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "url": "https://esengine.github.io/DeepSeek-Reasonix/"
+    },
     "1c8c39ed3c359d68": {
       "category": "只归档",
       "discovered_at": "2026-05-13T08:17:20.766821+08:00",
@@ -7279,6 +7477,33 @@
       ],
       "title": "Ask HN: What are you working on (non-AI)?",
       "url": "https://news.ycombinator.com/item?id=48122103"
+    },
+    "1d013fffc6e18980": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "1d013fffc6e18980",
+      "kind": "article",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T19:23:29Z",
+      "rank": 0,
+      "reason": "matches topics: llm, local ai; high-value terms: api",
+      "region": "",
+      "score": 51,
+      "seen_count": 1,
+      "source": "Dev.to",
+      "sources": [
+        "Dev.to"
+      ],
+      "summary": "I Built a Local AI Gateway That Talks to Claude, ChatGPT, DeepSeek and Gemini — Without a...",
+      "tags": [
+        "devto",
+        "llm"
+      ],
+      "title": "I Built a Local AI Gateway That Talks to Claude, ChatGPT, DeepSeek and Gemini — Without a Single API Key",
+      "url": "https://dev.to/malikasana/i-built-a-local-ai-gateway-that-talks-to-claude-chatgpt-deepseek-and-gemini-without-a-single-62h"
     },
     "1d1f603ddb948b70": {
       "category": "今日必须看",
@@ -9016,6 +9241,33 @@
       "title": "BeeLlama v0.2.0: 164 tok/s on a 27B model, one RTX 3090",
       "url": "https://dev.to/thousand_miles_ai/beellama-v020-164-toks-on-a-27b-model-one-rtx-3090-346c"
     },
+    "2491920994c7fa05": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "2491920994c7fa05",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-23T20:38:02Z",
+      "rank": 0,
+      "reason": "HN engagement: 29 points, 8 comments",
+      "region": "",
+      "score": 36,
+      "seen_count": 1,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "29 points | 8 comments",
+      "tags": [
+        "hn",
+        "ai"
+      ],
+      "title": "Jimmy Carr on Why Everyone Is Wrong About AI [video]",
+      "url": "https://www.youtube.com/watch?v=jaYOskvlq18"
+    },
     "24949c13e4287639": {
       "category": "只归档",
       "discovered_at": "2026-05-20T08:17:37.779241+08:00",
@@ -9900,19 +10152,19 @@
     },
     "273a71f237e96247": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-24T08:17:45.805034+08:00",
       "follow_up": "判断是否需要沉淀为长期主题笔记。",
       "id": "273a71f237e96247",
       "kind": "product",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-22T07:16:45-07:00",
       "rank": 0,
       "reason": "baseline source relevance",
       "region": "",
       "score": 30,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "Product Hunt — The best new products, every day",
       "sources": [
         "Product Hunt — The best new products, every day"
@@ -10346,6 +10598,34 @@
       ],
       "title": "Andyyyy64/whichllm",
       "url": "https://github.com/Andyyyy64/whichllm"
+    },
+    "284c322cc9428988": {
+      "category": "今日必须看",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "284c322cc9428988",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:55:20Z",
+      "rank": 0,
+      "reason": "matches topics: agent, agents, llm, benchmark; high-value terms: benchmark, agent, agents",
+      "region": "",
+      "score": 85,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "Pain-weighted hybrid memory for LLM agents. FTS5 + sqlite-vec + RRF + KG. MIT, open source. Published benchmarks.",
+      "tags": [
+        "github",
+        "search",
+        "topic-llm"
+      ],
+      "title": "totobusnello/memoria-nox",
+      "url": "https://github.com/totobusnello/memoria-nox"
     },
     "2865ab6eab6f2c6d": {
       "category": "可延后",
@@ -10958,19 +11238,19 @@
     },
     "2ae9d3c0d2d47ee0": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-24T08:17:45.805034+08:00",
       "follow_up": "判断是否需要沉淀为长期主题笔记。",
       "id": "2ae9d3c0d2d47ee0",
       "kind": "product",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-22T19:56:16-07:00",
       "rank": 0,
       "reason": "baseline source relevance",
       "region": "",
       "score": 30,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "Product Hunt — The best new products, every day",
       "sources": [
         "Product Hunt — The best new products, every day"
@@ -12880,26 +13160,54 @@
       "title": "SenseNova U1图像生成模型登陆ComfyUI平台",
       "url": "https://x.com/SenseTime_AI/status/2053782644492525847"
     },
+    "3186c174c9173e5d": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "3186c174c9173e5d",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:42:45Z",
+      "rank": 0,
+      "reason": "matches topics: obsidian; strong public engagement",
+      "region": "",
+      "score": 54,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "File gIT (FIT) to sync your files across mobile and desktop devices using GitHub.",
+      "tags": [
+        "github",
+        "search",
+        "topic-obsidian"
+      ],
+      "title": "joshuakto/fit",
+      "url": "https://github.com/joshuakto/fit"
+    },
     "318b478828d10212": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-24T08:17:45.805034+08:00",
       "follow_up": "阅读讨论区，提炼争议点和实践经验。",
       "id": "318b478828d10212",
       "kind": "community",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-23T02:53:07.000-05:00",
       "rank": 0,
-      "reason": "15 score, 3 comments",
+      "reason": "19 score, 4 comments",
       "region": "",
       "score": 28,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "Lobste.rs",
       "sources": [
         "Lobste.rs"
       ],
-      "summary": "15 score | 3 comments",
+      "summary": "19 score | 4 comments",
       "tags": [
         "lobsters",
         "programming"
@@ -14473,24 +14781,24 @@
     },
     "3669cb5381b66162": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-24T08:17:45.805034+08:00",
       "follow_up": "阅读讨论区，提炼争议点和实践经验。",
       "id": "3669cb5381b66162",
       "kind": "community",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-23T22:53:03Z",
       "rank": 0,
       "reason": "matches topics: openai",
       "region": "",
       "score": 44,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "Hacker News",
       "sources": [
         "Hacker News"
       ],
-      "summary": "3 points | 1 comments",
+      "summary": "4 points | 1 comments",
       "tags": [
         "hn",
         "openai"
@@ -14500,19 +14808,19 @@
     },
     "368dd270b91e5c91": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-18T09:02:34.539467+08:00",
       "follow_up": "阅读讨论区，提炼争议点和实践经验。",
       "id": "368dd270b91e5c91",
       "kind": "community",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-16T23:07:41.000-05:00",
       "rank": 0,
       "reason": "12 score, 4 comments",
       "region": "",
       "score": 28,
-      "seen_count": 7,
+      "seen_count": 8,
       "source": "Lobste.rs",
       "sources": [
         "Lobste.rs"
@@ -14791,6 +15099,34 @@
       ],
       "title": "0motionguy/starscreener",
       "url": "https://github.com/0motionguy/starscreener"
+    },
+    "37f46da64a40a1dd": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "37f46da64a40a1dd",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:52:39Z",
+      "rank": 0,
+      "reason": "matches topics: obsidian",
+      "region": "",
+      "score": 42,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "A plugin for creating customized icons in Obsidian.md",
+      "tags": [
+        "github",
+        "search",
+        "topic-obsidian"
+      ],
+      "title": "gapmiss/iconoir-icons",
+      "url": "https://github.com/gapmiss/iconoir-icons"
     },
     "37f93b26b224e165": {
       "category": "可延后",
@@ -15445,6 +15781,60 @@
       "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
       "url": "https://github.com/adamjgmiller/adamsreview"
     },
+    "3a2ddaac17266a11": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "3a2ddaac17266a11",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T12:06:23Z",
+      "rank": 0,
+      "reason": "HN engagement: 6 points, 0 comments",
+      "region": "",
+      "score": 36,
+      "seen_count": 1,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "6 points | 0 comments",
+      "tags": [
+        "hn",
+        "hugging-face"
+      ],
+      "title": "Lance – native supports image and video understanding, generation, and editing",
+      "url": "https://huggingface.co/bytedance-research/Lance"
+    },
+    "3a2e18bce9211d2c": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "3a2e18bce9211d2c",
+      "kind": "article",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T08:13:34Z",
+      "rank": 0,
+      "reason": "19 reactions",
+      "region": "",
+      "score": 28,
+      "seen_count": 1,
+      "source": "Dev.to",
+      "sources": [
+        "Dev.to"
+      ],
+      "summary": "This is a submission for the Google I/O Writing Challenge Everyone walked away from Google I/O...",
+      "tags": [
+        "devto",
+        "ai"
+      ],
+      "title": "Everyone's Talking About Gemini 3.5 Flash. The Real Story at Google I/O 2026 Was a Skill File.",
+      "url": "https://dev.to/sreejit_/everyones-talking-about-gemini-35-flash-the-real-story-at-google-io-2026-was-a-skill-file-4f3c"
+    },
     "3a4a0a2c4cb238f5": {
       "category": "可延后",
       "discovered_at": "2026-05-18T09:02:34.539467+08:00",
@@ -15627,6 +16017,33 @@
       ],
       "title": "Elon Musk loses lawsuit against OpenAI",
       "url": "https://www.bbc.co.uk/news/articles/cewpyv79pw1o"
+    },
+    "3afb2152658acbff": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "3afb2152658acbff",
+      "kind": "product",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-21T14:20:06-07:00",
+      "rank": 0,
+      "reason": "baseline source relevance",
+      "region": "",
+      "score": 30,
+      "seen_count": 1,
+      "source": "Product Hunt — The best new products, every day",
+      "sources": [
+        "Product Hunt — The best new products, every day"
+      ],
+      "summary": "",
+      "tags": [
+        "product",
+        "product-hunt"
+      ],
+      "title": "Edgee Fallback Models",
+      "url": "https://www.producthunt.com/products/edgee"
     },
     "3b49e11898216924": {
       "category": "可延后",
@@ -16148,19 +16565,19 @@
     },
     "3de13b42e404c830": {
       "category": "可延后",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-20T08:17:37.779241+08:00",
       "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
       "id": "3de13b42e404c830",
       "kind": "github_repo",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "matches topics: anthropic",
       "region": "",
       "score": 54,
-      "seen_count": 6,
+      "seen_count": 7,
       "source": "GitHub Trending",
       "sources": [
         "GitHub Trending"
@@ -16815,6 +17232,35 @@
       "title": "Ask HN: Do you still spend time maintaining Claude.md / AGENTS.md files?",
       "url": "https://news.ycombinator.com/item?id=48160604"
     },
+    "4030b31ec0113f28": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "4030b31ec0113f28",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:55:07Z",
+      "rank": 0,
+      "reason": "matches topics: llm",
+      "region": "",
+      "score": 42,
+      "seen_count": 2,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "Ultimate AI Debate Panel Generator 2026 - Auto-Document Decision Synthesis",
+      "tags": [
+        "github",
+        "search",
+        "topic-ai",
+        "topic-llm"
+      ],
+      "title": "bloxfruitscripts1/debate-engine-synthesis",
+      "url": "https://github.com/bloxfruitscripts1/debate-engine-synthesis"
+    },
     "404e04bf17b983d9": {
       "category": "只归档",
       "discovered_at": "2026-05-13T08:17:20.766821+08:00",
@@ -17238,6 +17684,34 @@
       "title": "ChutaVeias/thiqah-ops",
       "url": "https://github.com/ChutaVeias/thiqah-ops"
     },
+    "41658520f123ecbe": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "41658520f123ecbe",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:55:42Z",
+      "rank": 0,
+      "reason": "matches topics: llm; strong public engagement",
+      "region": "",
+      "score": 54,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "autoupdate paper list",
+      "tags": [
+        "github",
+        "search",
+        "topic-llm"
+      ],
+      "title": "isLinXu/paper-list",
+      "url": "https://github.com/isLinXu/paper-list"
+    },
     "417abe1fefe927ee": {
       "category": "只归档",
       "discovered_at": "2026-05-12T08:17:19.493983+08:00",
@@ -17290,6 +17764,34 @@
       ],
       "title": "rmyndharis/OpenWA",
       "url": "https://github.com/rmyndharis/OpenWA"
+    },
+    "4181b3fcdad25abc": {
+      "category": "今日必须看",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "4181b3fcdad25abc",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:55:30Z",
+      "rank": 0,
+      "reason": "matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp",
+      "region": "",
+      "score": 85,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "Model Context Protocol (MCP) server in Rust 1.95 exposing POSIX baseutils-equivalent OS management to LLM agents over STDIO. 37 tools across 7 bounded contexts. Spec-as-source-of-truth (MADR/CUE/Gherkin/Rego/TLA+).",
+      "tags": [
+        "github",
+        "search",
+        "topic-mcp"
+      ],
+      "title": "farchanjo/substrate",
+      "url": "https://github.com/farchanjo/substrate"
     },
     "418ad50fd5db05b7": {
       "category": "只归档",
@@ -17476,27 +17978,28 @@
     },
     "424ee79c15dc89ee": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-24T08:17:45.805034+08:00",
       "follow_up": "阅读讨论区，提炼争议点和实践经验。",
       "id": "424ee79c15dc89ee",
       "kind": "community",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-23T21:45:46Z",
       "rank": 0,
       "reason": "matches topics: anthropic",
       "region": "",
       "score": 44,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "Hacker News",
       "sources": [
         "Hacker News"
       ],
-      "summary": "10 points | 10 comments",
+      "summary": "32 points | 17 comments",
       "tags": [
-        "hn",
-        "anthropic"
+        "ai",
+        "anthropic",
+        "hn"
       ],
       "title": "Anthropic blames dystopian sci-fi for training AI models to act \"evil\"",
       "url": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/"
@@ -18137,25 +18640,26 @@
     },
     "447bd53d556ce346": {
       "category": "只归档",
-      "discovered_at": "2026-05-22T08:17:35.368643+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-20T08:17:37.779241+08:00",
       "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
       "id": "447bd53d556ce346",
       "kind": "github_repo",
-      "last_seen": "2026-05-22T08:17:35.368643+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "baseline source relevance",
       "region": "",
       "score": 46,
-      "seen_count": 2,
+      "seen_count": 3,
       "source": "GitHub Trending",
       "sources": [
         "GitHub Trending"
       ],
       "summary": "",
       "tags": [
+        "all",
         "github",
         "python",
         "trending"
@@ -18292,6 +18796,35 @@
       ],
       "title": "Show HN: LLM post-training to speak like GenZ, costing less than a cup of coffee",
       "url": "https://github.com/aidarbek/genz-qwen"
+    },
+    "451b35c5a9f6e09c": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "451b35c5a9f6e09c",
+      "kind": "article",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T17:18:49.000Z",
+      "rank": 0,
+      "reason": "matches topics: codex; high-value terms: codex",
+      "region": "",
+      "score": 61,
+      "seen_count": 1,
+      "source": "AI HOT / X：Greg Brockman (@gdb)",
+      "sources": [
+        "AI HOT / X：Greg Brockman (@gdb)"
+      ],
+      "summary": "这是一个结构化的提示词，用于指导 Codex 自动分析其历史记录以识别并固化重复工作流。该框架要求 Codex 回顾会话、Memories 等数据，找出重复、耗时且有明确复用价值的任务。筛选标准包括至少出现两次、输入稳定、可提升效率等。最终，Codex 应以\"技能\"、子智能体或自动化工具等最小实用形式创建或扩展现有资产，避免冗余。流程包括生成候选清单、执行创建，并汇报结果与待验证项。",
+      "tags": [
+        "aihot",
+        "article",
+        "selected",
+        "tip"
+      ],
+      "title": "面向 Codex 的自我优化提示词框架",
+      "url": "https://x.com/gdb/status/2058598608224858442"
     },
     "4537a5e836ceb98a": {
       "category": "只归档",
@@ -18900,19 +19433,19 @@
     },
     "4730f3536e5b8f61": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-22T08:17:35.368643+08:00",
       "follow_up": "判断是否需要沉淀为长期主题笔记。",
       "id": "4730f3536e5b8f61",
       "kind": "product",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-19T22:19:28-07:00",
       "rank": 0,
       "reason": "baseline source relevance",
       "region": "",
       "score": 30,
-      "seen_count": 2,
+      "seen_count": 3,
       "source": "Product Hunt — The best new products, every day",
       "sources": [
         "Product Hunt — The best new products, every day"
@@ -19079,18 +19612,48 @@
       "title": "SemClone/mcp-semclone",
       "url": "https://github.com/SemClone/mcp-semclone"
     },
+    "47e8d231b2e934e3": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "47e8d231b2e934e3",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T15:21:28Z",
+      "rank": 0,
+      "reason": "strong public engagement",
+      "region": "",
+      "score": 48,
+      "seen_count": 1,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "152 points | 141 comments",
+      "tags": [
+        "hn",
+        "ai"
+      ],
+      "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
+      "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand"
+    },
     "47f5a48da0737d45": {
       "category": "只归档",
-      "discovered_at": "2026-05-15T08:17:17.572182+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-15T08:17:17.572182+08:00",
       "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
       "id": "47f5a48da0737d45",
       "kind": "github_repo",
-      "last_seen": "2026-05-15T08:17:17.572182+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
       "published": "",
+      "rank": 0,
       "reason": "baseline source relevance",
+      "region": "",
       "score": 46,
-      "seen_count": 2,
+      "seen_count": 3,
       "source": "GitHub Trending",
       "sources": [
         "GitHub Trending"
@@ -19449,19 +20012,19 @@
     },
     "4958947c95bad1a3": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-22T08:17:35.368643+08:00",
       "follow_up": "阅读讨论区，提炼争议点和实践经验。",
       "id": "4958947c95bad1a3",
       "kind": "community",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-21T08:34:58.000-05:00",
       "rank": 0,
       "reason": "10 score, 1 comments",
       "region": "",
       "score": 28,
-      "seen_count": 3,
+      "seen_count": 4,
       "source": "Lobste.rs",
       "sources": [
         "Lobste.rs"
@@ -19552,6 +20115,33 @@
       "title": "The database has to be a defensive boundary again",
       "url": "https://dev.to/debba/the-database-has-to-be-a-defensive-boundary-again-1o3e"
     },
+    "49a8ad6284b707ec": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "49a8ad6284b707ec",
+      "kind": "article",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T02:54:53Z",
+      "rank": 0,
+      "reason": "0 reactions",
+      "region": "",
+      "score": 28,
+      "seen_count": 1,
+      "source": "Dev.to",
+      "sources": [
+        "Dev.to"
+      ],
+      "summary": "Introducing Nova - A Deterministic C++ Logging Library With Domain-Based...",
+      "tags": [
+        "devto",
+        "opensource"
+      ],
+      "title": "Domain-Based C++ Logging With Nova",
+      "url": "https://dev.to/kleetus_mactavish/domain-based-c-logging-with-nova-o77"
+    },
     "49c9ee671c2cee78": {
       "category": "只归档",
       "discovered_at": "2026-05-24T08:17:45.805034+08:00",
@@ -19636,6 +20226,34 @@
       ],
       "title": "I Added Three Rules to Gemma 4. The MoE Searched. The Dense Model Refused.",
       "url": "https://dev.to/alimafana/i-added-three-rules-to-gemma-4-the-moe-searched-the-dense-model-refused-1j18"
+    },
+    "49f8c64753317d9a": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "49f8c64753317d9a",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:55:27Z",
+      "rank": 0,
+      "reason": "matches topics: agent, mcp; high-value terms: agent, mcp",
+      "region": "",
+      "score": 64,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "Mount Burr state-machine Applications as MCP servers. Stateful, auditable workflows an AI agent drives one enforced transition at a time.",
+      "tags": [
+        "github",
+        "search",
+        "topic-mcp"
+      ],
+      "title": "msradam/burrmcp",
+      "url": "https://github.com/msradam/burrmcp"
     },
     "4a02256f77c6c6f5": {
       "category": "只归档",
@@ -20542,19 +21160,19 @@
     },
     "4dede2d00763568d": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-11T11:23:27.335489+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "4dede2d00763568d",
       "kind": "failure",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 14,
+      "seen_count": 15,
       "source": "System",
       "sources": [
         "System"
@@ -21138,19 +21756,19 @@
     },
     "50576c5ab5b5ed80": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-24T08:17:45.805034+08:00",
       "follow_up": "阅读讨论区，提炼争议点和实践经验。",
       "id": "50576c5ab5b5ed80",
       "kind": "community",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-23T22:23:12Z",
       "rank": 0,
       "reason": "matches topics: llm",
       "region": "",
       "score": 44,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "Hacker News",
       "sources": [
         "Hacker News"
@@ -21510,6 +22128,35 @@
       "title": "Gemini Omni：迈向AGI的世界模型",
       "url": "https://x.com/kimmonismus/status/2056802929957568881"
     },
+    "5231b9aa1fc5f64c": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "5231b9aa1fc5f64c",
+      "kind": "article",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T12:05:42.000Z",
+      "rank": 0,
+      "reason": "matches topics: claude code; high-value terms: claude code",
+      "region": "",
+      "score": 61,
+      "seen_count": 1,
+      "source": "AI HOT / X：Boris Cherny (@bcherny)",
+      "sources": [
+        "AI HOT / X：Boris Cherny (@bcherny)"
+      ],
+      "summary": "人们常问我，用好Claude Code的最大技巧是什么。 如今我的头号技巧是：使用自动模式。 自动模式意味着不再有权限提示。它是实现\"多Claude并行\"的关键构件：启动一个会话，然后在其运行时，并行处理另一个会话。",
+      "tags": [
+        "aihot",
+        "article",
+        "selected",
+        "tip"
+      ],
+      "title": "Claude Code自动模式：多任务并行的关键技巧",
+      "url": "https://x.com/bcherny/status/2058519809214607704"
+    },
     "525c6f03a8666144": {
       "category": "只归档",
       "discovered_at": "2026-05-15T08:17:17.572182+08:00",
@@ -21744,19 +22391,19 @@
     },
     "52b03674c398defe": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-17T08:17:40.175663+08:00",
       "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
       "id": "52b03674c398defe",
       "kind": "github_repo",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "baseline source relevance",
       "region": "",
       "score": 46,
-      "seen_count": 8,
+      "seen_count": 9,
       "source": "GitHub Trending",
       "sources": [
         "GitHub Trending"
@@ -21990,19 +22637,19 @@
     },
     "535e98ddffa696cd": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-21T08:17:20.735412+08:00",
       "follow_up": "阅读讨论区，提炼争议点和实践经验。",
       "id": "535e98ddffa696cd",
       "kind": "community",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-20T15:09:55.000-05:00",
       "rank": 0,
       "reason": "3 score, 0 comments",
       "region": "",
       "score": 28,
-      "seen_count": 4,
+      "seen_count": 5,
       "source": "Lobste.rs",
       "sources": [
         "Lobste.rs"
@@ -22309,6 +22956,33 @@
       ],
       "title": "microsoft/agent-framework",
       "url": "https://github.com/microsoft/agent-framework"
+    },
+    "546222ac129ad36d": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "546222ac129ad36d",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T17:34:02Z",
+      "rank": 0,
+      "reason": "matches topics: claude code, anthropic; high-value terms: claude code",
+      "region": "",
+      "score": 59,
+      "seen_count": 1,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "10 points | 7 comments",
+      "tags": [
+        "hn",
+        "anthropic"
+      ],
+      "title": "Tell HN: Claude Code now allows Anthropic to remotely inject system prompts",
+      "url": "https://news.ycombinator.com/item?id=48259288"
     },
     "548973d099747cf9": {
       "category": "只归档",
@@ -22675,6 +23349,34 @@
       "title": "OpenAI Codex /goal功能正式发布及使用指南",
       "url": "https://x.com/dotey/status/2057672416071987378"
     },
+    "566f82abc317bc0a": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "566f82abc317bc0a",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:55:40Z",
+      "rank": 0,
+      "reason": "matches topics: agent, mcp; high-value terms: agent, mcp",
+      "region": "",
+      "score": 64,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "MCP server for AC Infinity grow controllers. AI agent integration for climate monitoring, port control, and grow automation — works with Claude, Cursor, and any MCP client.",
+      "tags": [
+        "github",
+        "search",
+        "topic-mcp"
+      ],
+      "title": "ober37/ac-infinity-mcp",
+      "url": "https://github.com/ober37/ac-infinity-mcp"
+    },
     "56b47ffb8ed7fe39": {
       "category": "只归档",
       "discovered_at": "2026-05-24T08:17:45.805034+08:00",
@@ -22701,6 +23403,35 @@
       ],
       "title": "An interactive linear algebra primer aimed at LLM readers",
       "url": "https://algo-rhythm.dev/en/"
+    },
+    "56b5778f46ca4cc7": {
+      "category": "今日必须看",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "56b5778f46ca4cc7",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:55:33Z",
+      "rank": 0,
+      "reason": "matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp",
+      "region": "",
+      "score": 79,
+      "seen_count": 2,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "Architecture diagrams that actually run, generated by AI agents",
+      "tags": [
+        "github",
+        "search",
+        "topic-ai",
+        "topic-mcp"
+      ],
+      "title": "tuongaz/seeflow",
+      "url": "https://github.com/tuongaz/seeflow"
     },
     "56bf17cc0034a55a": {
       "category": "只归档",
@@ -22935,6 +23666,33 @@
       ],
       "title": "Collider-Bench: Benchmarking AI Agents with Particle Physics Analysis Reproduction",
       "url": "https://arxiv.org/abs/2605.13950"
+    },
+    "57dc3e8e196d80d6": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "57dc3e8e196d80d6",
+      "kind": "article",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T05:13:39Z",
+      "rank": 0,
+      "reason": "matches topics: research",
+      "region": "",
+      "score": 36,
+      "seen_count": 1,
+      "source": "Dev.to",
+      "sources": [
+        "Dev.to"
+      ],
+      "summary": "I open-sourced the AAT / SFT research...",
+      "tags": [
+        "devto",
+        "opensource"
+      ],
+      "title": "I Open-Sourced the AAT / SFT Research Repository",
+      "url": "https://dev.to/iroha1203/i-open-sourced-the-aat-sft-research-repository-360h"
     },
     "57ddb06a952713fd": {
       "category": "只归档",
@@ -24305,19 +25063,19 @@
     },
     "5c67d6c0550df1a6": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-16T08:17:35.266956+08:00",
       "follow_up": "阅读讨论区，提炼争议点和实践经验。",
       "id": "5c67d6c0550df1a6",
       "kind": "community",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-14T22:03:11.000-05:00",
       "rank": 0,
       "reason": "5 score, 0 comments",
       "region": "",
       "score": 28,
-      "seen_count": 9,
+      "seen_count": 10,
       "source": "Lobste.rs",
       "sources": [
         "Lobste.rs"
@@ -24936,20 +25694,20 @@
       "url": "https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence"
     },
     "5ec7b25b67c38d3e": {
-      "category": "可延后",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-17T08:17:40.175663+08:00",
       "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
       "id": "5ec7b25b67c38d3e",
       "kind": "github_repo",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
-      "published": "2026-05-24T00:18:10Z",
+      "published": "2026-05-25T01:43:15Z",
       "rank": 0,
-      "reason": "matches topics: obsidian, mcp; high-value terms: mcp",
+      "reason": "matches topics: obsidian",
       "region": "",
-      "score": 57,
-      "seen_count": 9,
+      "score": 42,
+      "seen_count": 10,
       "source": "GitHub Search",
       "sources": [
         "GitHub Search"
@@ -25717,6 +26475,35 @@
       "title": "AI Agent Failure Modes Beyond Hallucination",
       "url": "https://dev.to/maximsaplin/ai-agent-failure-modes-beyond-hallucination-208g"
     },
+    "618e8fb74c6c24a0": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "618e8fb74c6c24a0",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "matches topics: anthropic",
+      "region": "",
+      "score": 54,
+      "seen_count": 2,
+      "source": "GitHub Trending",
+      "sources": [
+        "GitHub Trending"
+      ],
+      "summary": "",
+      "tags": [
+        "all",
+        "github",
+        "python",
+        "trending"
+      ],
+      "title": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins"
+    },
     "6198406283c1f83f": {
       "category": "可延后",
       "discovered_at": "2026-05-20T08:17:37.779241+08:00",
@@ -25743,6 +26530,33 @@
       ],
       "title": "Cursor Cloud Agents Down",
       "url": "https://forum.cursor.com/t/cloud-agents-broken-ii/161036"
+    },
+    "61d1acbe2835c567": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "61d1acbe2835c567",
+      "kind": "article",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T14:48:26Z",
+      "rank": 0,
+      "reason": "matches topics: agent, llm; high-value terms: agent",
+      "region": "",
+      "score": 51,
+      "seen_count": 1,
+      "source": "Dev.to",
+      "sources": [
+        "Dev.to"
+      ],
+      "summary": "Your agent does whatever it reasoned it should do. Sometimes that means finishing the task. Sometimes...",
+      "tags": [
+        "devto",
+        "llm"
+      ],
+      "title": "How to Lock Down an AI Agent Before It Goes Rogue",
+      "url": "https://dev.to/toxsec/how-to-lock-down-an-ai-agent-before-it-goes-rogue-15gd"
     },
     "621d2cb6e205e77b": {
       "category": "只归档",
@@ -26034,19 +26848,19 @@
     },
     "63df295225831a64": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-22T08:17:35.368643+08:00",
       "follow_up": "阅读讨论区，提炼争议点和实践经验。",
       "id": "63df295225831a64",
       "kind": "community",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-21T17:46:37.000-05:00",
       "rank": 0,
       "reason": "5 score, 0 comments",
       "region": "",
       "score": 28,
-      "seen_count": 3,
+      "seen_count": 4,
       "source": "Lobste.rs",
       "sources": [
         "Lobste.rs"
@@ -26302,27 +27116,27 @@
       "url": "https://x.com/MiniMax_AI/status/2057177048356180296"
     },
     "64acf8e56b388ce1": {
-      "category": "可延后",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-23T08:17:21.404730+08:00",
-      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
       "id": "64acf8e56b388ce1",
-      "kind": "community",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "kind": "article",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
-      "published": "2026-05-22T19:31:45Z",
+      "published": "2026-05-22T20:37:40+00:00",
       "rank": 0,
-      "reason": "matches topics: anthropic; strong public engagement",
+      "reason": "matches topics: anthropic",
       "region": "",
-      "score": 56,
-      "seen_count": 3,
-      "source": "Hacker News",
+      "score": 48,
+      "seen_count": 4,
+      "source": "Anthropic",
       "sources": [
         "AI HOT / Anthropic：Newsroom（网页）",
         "Anthropic",
         "Hacker News"
       ],
-      "summary": "523 points | 308 comments",
+      "summary": "",
       "tags": [
         "aihot",
         "anthropic",
@@ -26332,7 +27146,7 @@
         "selected",
         "sitemap"
       ],
-      "title": "Project Glasswing: An Initial Update",
+      "title": "Glasswing Initial Update",
       "url": "https://www.anthropic.com/research/glasswing-initial-update"
     },
     "64b9b1937ea6e19f": {
@@ -26854,19 +27668,19 @@
     },
     "66653906910cdb15": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-21T08:17:20.735412+08:00",
       "follow_up": "阅读讨论区，提炼争议点和实践经验。",
       "id": "66653906910cdb15",
       "kind": "community",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-20T09:45:26.000-05:00",
       "rank": 0,
       "reason": "1 score, 0 comments",
       "region": "",
       "score": 28,
-      "seen_count": 4,
+      "seen_count": 5,
       "source": "Lobste.rs",
       "sources": [
         "Lobste.rs"
@@ -27384,19 +28198,19 @@
     },
     "6866936031247c14": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-20T08:17:37.779241+08:00",
       "follow_up": "判断是否需要沉淀为长期主题笔记。",
       "id": "6866936031247c14",
       "kind": "article",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-20T00:29:29+00:00",
       "rank": 0,
       "reason": "matches topics: anthropic",
       "region": "",
       "score": 48,
-      "seen_count": 6,
+      "seen_count": 7,
       "source": "Anthropic",
       "sources": [
         "AI HOT / Anthropic：Newsroom（网页）",
@@ -27913,6 +28727,33 @@
       "title": "Sunnil07/AlphaCouncil",
       "url": "https://github.com/Sunnil07/AlphaCouncil"
     },
+    "69ba8baad40cc9f3": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "69ba8baad40cc9f3",
+      "kind": "product",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-22T09:29:50-07:00",
+      "rank": 0,
+      "reason": "baseline source relevance",
+      "region": "",
+      "score": 30,
+      "seen_count": 1,
+      "source": "Product Hunt — The best new products, every day",
+      "sources": [
+        "Product Hunt — The best new products, every day"
+      ],
+      "summary": "",
+      "tags": [
+        "product",
+        "product-hunt"
+      ],
+      "title": "ModelHub",
+      "url": "https://www.producthunt.com/products/modelhub"
+    },
     "69bf3762c454fd30": {
       "category": "可延后",
       "discovered_at": "2026-05-17T08:17:40.175663+08:00",
@@ -28259,6 +29100,33 @@
       "title": "SkillFlow: Flow-Driven Recursive Skill Evolution for Agentic Orchestration",
       "url": "https://arxiv.org/abs/2605.14089"
     },
+    "6b161d34bcdcb788": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "6b161d34bcdcb788",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T02:47:06Z",
+      "rank": 0,
+      "reason": "matches topics: anthropic",
+      "region": "",
+      "score": 44,
+      "seen_count": 1,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "4 points | 4 comments",
+      "tags": [
+        "hn",
+        "anthropic"
+      ],
+      "title": "Anthropic Says Mythos Has Found More Than 10k Vulnerabilities",
+      "url": "https://www.engadget.com/2180028/anthropic-claude-mythos-preview-project-glasswing-update/"
+    },
     "6b253ca8aaab8d80": {
       "category": "只归档",
       "discovered_at": "2026-05-19T08:17:23.171398+08:00",
@@ -28394,6 +29262,33 @@
       ],
       "title": "GitHub Got Breached Through a VS Code Extension. MCP Servers Are Next.",
       "url": "https://dev.to/niclydon/github-got-breached-through-a-vs-code-extension-mcp-servers-are-next-5dgc"
+    },
+    "6ba540d60d4f0424": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "6ba540d60d4f0424",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T00:19:16Z",
+      "rank": 0,
+      "reason": "matches topics: anthropic; high-value terms: api",
+      "region": "",
+      "score": 51,
+      "seen_count": 1,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "4 points | 0 comments",
+      "tags": [
+        "hn",
+        "anthropic"
+      ],
+      "title": "The unlikely Vatican-Anthropic relationship that's reshaping AI ethics debate",
+      "url": "https://religionnews.com/2026/05/22/why-anthropic-is-helping-unveil-the-popes-new-encyclical-on-ai/"
     },
     "6ba7b0998efea55d": {
       "category": "只归档",
@@ -28894,6 +29789,33 @@
       "title": "oven-sh/bun",
       "url": "https://github.com/oven-sh/bun"
     },
+    "6d114a6a371cdd04": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "6d114a6a371cdd04",
+      "kind": "product",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-23T12:24:38-07:00",
+      "rank": 0,
+      "reason": "baseline source relevance",
+      "region": "",
+      "score": 30,
+      "seen_count": 1,
+      "source": "Product Hunt — The best new products, every day",
+      "sources": [
+        "Product Hunt — The best new products, every day"
+      ],
+      "summary": "",
+      "tags": [
+        "product",
+        "product-hunt"
+      ],
+      "title": "DynamicNotch",
+      "url": "https://www.producthunt.com/products/dynamicnotch"
+    },
     "6d1b03d91e6b9e09": {
       "category": "可延后",
       "discovered_at": "2026-05-19T08:17:23.171398+08:00",
@@ -28923,19 +29845,19 @@
     },
     "6d234087c19e6a27": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-24T08:17:45.805034+08:00",
       "follow_up": "判断是否需要沉淀为长期主题笔记。",
       "id": "6d234087c19e6a27",
       "kind": "article",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-23T01:29:45Z",
       "rank": 0,
       "reason": "0 reactions",
       "region": "",
       "score": 28,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "Dev.to",
       "sources": [
         "Dev.to"
@@ -29105,6 +30027,33 @@
       ],
       "title": "Chrome's AI features may be hogging 4GB of your computer storage",
       "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features"
+    },
+    "6ddbca75f9613061": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "6ddbca75f9613061",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T19:35:59.000-05:00",
+      "rank": 0,
+      "reason": "4 score, 0 comments",
+      "region": "",
+      "score": 28,
+      "seen_count": 1,
+      "source": "Lobste.rs",
+      "sources": [
+        "Lobste.rs"
+      ],
+      "summary": "4 score | 0 comments",
+      "tags": [
+        "lobsters",
+        "programming"
+      ],
+      "title": "The Eternal Sloptember",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html"
     },
     "6de1d291dc82b478": {
       "category": "只归档",
@@ -29525,19 +30474,19 @@
     },
     "70bc5de5ac584470": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-22T08:17:35.368643+08:00",
       "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
       "id": "70bc5de5ac584470",
       "kind": "github_repo",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "baseline source relevance",
       "region": "",
       "score": 46,
-      "seen_count": 3,
+      "seen_count": 4,
       "source": "GitHub Trending",
       "sources": [
         "GitHub Trending"
@@ -31861,6 +32810,38 @@
       "title": "Google redesigned 13 Workspace icons last week. Here is where to grab the new SVGs.",
       "url": "https://dev.to/thegdsks/google-redesigned-13-workspace-icons-last-week-here-is-where-to-grab-the-new-svgs-bc0"
     },
+    "7a17cc2c29e8c744": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "7a17cc2c29e8c744",
+      "kind": "article",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T18:08:57.964Z",
+      "rank": 0,
+      "reason": "strong public engagement",
+      "region": "",
+      "score": 58,
+      "seen_count": 2,
+      "source": "AI HOT / Hacker News 热门（buzzing.cc 中文翻译）",
+      "sources": [
+        "AI HOT / Hacker News 热门（buzzing.cc 中文翻译）",
+        "Hacker News"
+      ],
+      "summary": "204 points | 2 comments",
+      "tags": [
+        "ai",
+        "aihot",
+        "article",
+        "hn",
+        "industry",
+        "selected"
+      ],
+      "title": "DeepSeek将对其旗舰AI模型实施永久性75%折扣",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model"
+    },
     "7a2d2aa13e8444c3": {
       "category": "只归档",
       "discovered_at": "2026-05-17T08:17:40.175663+08:00",
@@ -31965,6 +32946,33 @@
       ],
       "title": "Chert",
       "url": "https://www.producthunt.com/products/chert"
+    },
+    "7a750bb96a57ef1b": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "7a750bb96a57ef1b",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T03:31:24.000-05:00",
+      "rank": 0,
+      "reason": "2 score, 13 comments",
+      "region": "",
+      "score": 28,
+      "seen_count": 1,
+      "source": "Lobste.rs",
+      "sources": [
+        "Lobste.rs"
+      ],
+      "summary": "2 score | 13 comments",
+      "tags": [
+        "lobsters",
+        "ai"
+      ],
+      "title": "A Network Allow-List Won't Stop Exfiltration",
+      "url": "https://www.dergraf.org/notes/canister-egress-proxy-dlp/"
     },
     "7a8e39cf2b7b6ab0": {
       "category": "只归档",
@@ -32155,6 +33163,34 @@
       ],
       "title": "tellmefrankie/ai-investment-skills",
       "url": "https://github.com/tellmefrankie/ai-investment-skills"
+    },
+    "7b363dec71f78d7e": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "7b363dec71f78d7e",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:55:36Z",
+      "rank": 0,
+      "reason": "matches topics: mcp; high-value terms: mcp",
+      "region": "",
+      "score": 49,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "Japanese Business AI 2026 - Open-Source MCP Plugin for Public Intelligence & Grants",
+      "tags": [
+        "github",
+        "search",
+        "topic-mcp"
+      ],
+      "title": "GanieZ/japan-keiretsu-intelligence-mcp",
+      "url": "https://github.com/GanieZ/japan-keiretsu-intelligence-mcp"
     },
     "7b4fe2f05607cfaf": {
       "category": "可延后",
@@ -32503,6 +33539,34 @@
       "title": "Gemini升级：用户超9亿，推出智能代理功能",
       "url": "https://x.com/GeminiApp/status/2057974680242512071"
     },
+    "7c973691d4784c7a": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "7c973691d4784c7a",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:50:08Z",
+      "rank": 0,
+      "reason": "matches topics: agent, agents; high-value terms: agent, agents",
+      "region": "",
+      "score": 64,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "It takes a Skillage...Add, discover, vet, and materialize. Skills when and where you need them.",
+      "tags": [
+        "github",
+        "search",
+        "topic-agents"
+      ],
+      "title": "jarmak-personal/skillager",
+      "url": "https://github.com/jarmak-personal/skillager"
+    },
     "7cafe56f74fe198a": {
       "category": "可延后",
       "discovered_at": "2026-05-17T08:17:40.175663+08:00",
@@ -32553,6 +33617,33 @@
       ],
       "title": "Tell HN: Claude claims the AGPLv3 license violates it's content policy",
       "url": "https://news.ycombinator.com/item?id=48087073"
+    },
+    "7ce1eed22e7cf2c8": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "7ce1eed22e7cf2c8",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T16:31:29Z",
+      "rank": 0,
+      "reason": "strong public engagement",
+      "region": "",
+      "score": 48,
+      "seen_count": 1,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "295 points | 312 comments",
+      "tags": [
+        "hn",
+        "ai"
+      ],
+      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares"
     },
     "7ceec14e370c4d4b": {
       "category": "只归档",
@@ -32610,19 +33701,19 @@
     },
     "7d05fa7ae2c1b833": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-21T08:17:20.735412+08:00",
       "follow_up": "阅读讨论区，提炼争议点和实践经验。",
       "id": "7d05fa7ae2c1b833",
       "kind": "community",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-20T18:54:58.000-05:00",
       "rank": 0,
       "reason": "2 score, 0 comments",
       "region": "",
       "score": 28,
-      "seen_count": 4,
+      "seen_count": 5,
       "source": "Lobste.rs",
       "sources": [
         "Lobste.rs"
@@ -32898,6 +33989,34 @@
       ],
       "title": "Know When To Fold 'Em: Token-Efficient LLM Synthetic Data Generation via Multi-Stage In-Flight Rejection",
       "url": "https://arxiv.org/abs/2605.14062"
+    },
+    "7dc56f477fdd24a6": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "7dc56f477fdd24a6",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T05:07:07Z",
+      "rank": 0,
+      "reason": "matches topics: openai, anthropic",
+      "region": "",
+      "score": 52,
+      "seen_count": 2,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "4 points | 1 comments",
+      "tags": [
+        "anthropic",
+        "hn",
+        "openai"
+      ],
+      "title": "SpaceX, OpenAI and Anthropic IPOs set to test limits of AI boom",
+      "url": "https://www.ft.com/content/ae9bb47d-bd1d-473c-b4c5-abae0420cc12"
     },
     "7de25f35dbeff507": {
       "category": "可延后",
@@ -35297,6 +36416,33 @@
       "title": "Banning Agent PRs Won't Save Open Source",
       "url": "https://dev.to/entire/why-banning-agent-prs-wont-save-open-source-4822"
     },
+    "86b8476cb4a88719": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "86b8476cb4a88719",
+      "kind": "article",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T11:29:32Z",
+      "rank": 0,
+      "reason": "7 reactions",
+      "region": "",
+      "score": 28,
+      "seen_count": 1,
+      "source": "Dev.to",
+      "sources": [
+        "Dev.to"
+      ],
+      "summary": "Every bug hunter knows the feeling. You're deep in a session. You find something weird — an IDOR, a...",
+      "tags": [
+        "devto",
+        "opensource"
+      ],
+      "title": "I Got Tired of Forgetting. So I Built PwnLog.",
+      "url": "https://dev.to/toklas495/i-got-tired-of-forgetting-so-i-built-pwnlog-ggp"
+    },
     "86cbbeb9756d390e": {
       "category": "只归档",
       "discovered_at": "2026-05-24T08:17:45.805034+08:00",
@@ -35433,6 +36579,34 @@
       ],
       "title": "josephsenior/Grinta-Coding-Agent",
       "url": "https://github.com/josephsenior/Grinta-Coding-Agent"
+    },
+    "870a12766071014c": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "870a12766071014c",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:40:16Z",
+      "rank": 0,
+      "reason": "matches topics: obsidian",
+      "region": "",
+      "score": 42,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "obsidian bases without obsidian",
+      "tags": [
+        "github",
+        "search",
+        "topic-obsidian"
+      ],
+      "title": "s-zeng/crabase",
+      "url": "https://github.com/s-zeng/crabase"
     },
     "874c9f9b551f55f0": {
       "category": "只归档",
@@ -35941,6 +37115,34 @@
       "title": "What is random generation?",
       "url": "https://alperenkeles.com/posts/what-is-random-generation/"
     },
+    "892552aac89bc527": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "892552aac89bc527",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:55:40Z",
+      "rank": 0,
+      "reason": "matches topics: llm",
+      "region": "",
+      "score": 42,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "Local semantic index CLI that reduces LLM token usage 60-90% -- built in Rust, runs 100% offline",
+      "tags": [
+        "github",
+        "search",
+        "topic-ai"
+      ],
+      "title": "juninmd/tokenix",
+      "url": "https://github.com/juninmd/tokenix"
+    },
     "894073239b4c18c7": {
       "category": "只归档",
       "discovered_at": "2026-05-19T08:17:23.171398+08:00",
@@ -36018,19 +37220,19 @@
     },
     "89c06faa25cdcacc": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-23T08:17:21.404730+08:00",
       "follow_up": "阅读讨论区，提炼争议点和实践经验。",
       "id": "89c06faa25cdcacc",
       "kind": "community",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-22T00:38:44.000-05:00",
       "rank": 0,
       "reason": "2 score, 0 comments",
       "region": "",
       "score": 28,
-      "seen_count": 2,
+      "seen_count": 3,
       "source": "Lobste.rs",
       "sources": [
         "Lobste.rs"
@@ -36124,6 +37326,62 @@
       ],
       "title": "开源项目OpenSquilla：智能路由与本地检索，大幅降低LLM使用成本",
       "url": "https://x.com/vista8/status/2054757474100760626"
+    },
+    "8a837d8a9eb7f10b": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "8a837d8a9eb7f10b",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:55:07Z",
+      "rank": 0,
+      "reason": "48 stars | pushed 2026-05-25",
+      "region": "",
+      "score": 34,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "Cross-platform multi-terminal app with tiling layouts, floating panels, and a keyboard-driven workflow",
+      "tags": [
+        "github",
+        "search",
+        "topic-ai"
+      ],
+      "title": "InbarR/tmax",
+      "url": "https://github.com/InbarR/tmax"
+    },
+    "8a91eb2e09148e67": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "8a91eb2e09148e67",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:54:52Z",
+      "rank": 0,
+      "reason": "matches topics: agent, llm, mcp; high-value terms: agent, mcp",
+      "region": "",
+      "score": 72,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "Terminal-based AI coding agent built in Rust — powered by Grok (xAI) with MCP support, semantic memory, and a TUI",
+      "tags": [
+        "github",
+        "search",
+        "topic-llm"
+      ],
+      "title": "seanebones-lang/harness",
+      "url": "https://github.com/seanebones-lang/harness"
     },
     "8a9575e03abed8c8": {
       "category": "只归档",
@@ -36619,6 +37877,33 @@
       ],
       "title": "EydlinIlya/BlueSky-PhD-jobs",
       "url": "https://github.com/EydlinIlya/BlueSky-PhD-jobs"
+    },
+    "8d072d9dc19cbc47": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "8d072d9dc19cbc47",
+      "kind": "article",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T20:54:59Z",
+      "rank": 0,
+      "reason": "0 reactions",
+      "region": "",
+      "score": 28,
+      "seen_count": 1,
+      "source": "Dev.to",
+      "sources": [
+        "Dev.to"
+      ],
+      "summary": "A CLI and GitHub Action that scans AI-written pull requests for sketchy patterns and posts the findings back to the PR. Advisory by default.",
+      "tags": [
+        "devto",
+        "opensource"
+      ],
+      "title": "Audit AI-Generated PRs Before You Merge Them (Swarm Orchestrator 10.3.0)",
+      "url": "https://dev.to/moonrunnerkc/audit-ai-generated-prs-before-you-merge-them-swarm-orchestrator-1030-3a6e"
     },
     "8d19a629c50e84cc": {
       "category": "只归档",
@@ -37266,19 +38551,19 @@
     },
     "8fc980cc34fdf095": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-24T08:17:45.805034+08:00",
       "follow_up": "判断是否需要沉淀为长期主题笔记。",
       "id": "8fc980cc34fdf095",
       "kind": "article",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-23T14:37:31Z",
       "rank": 0,
       "reason": "matches topics: llm",
       "region": "",
       "score": 36,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "Dev.to",
       "sources": [
         "Dev.to"
@@ -37531,19 +38816,19 @@
     },
     "907f8608e00ba8d7": {
       "category": "可延后",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-24T08:17:45.805034+08:00",
       "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
       "id": "907f8608e00ba8d7",
       "kind": "github_repo",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
-      "published": "2026-05-24T00:13:52Z",
+      "published": "2026-05-25T01:50:53Z",
       "rank": 0,
       "reason": "matches topics: agent, agents; high-value terms: agent, agents",
       "region": "",
       "score": 64,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "GitHub Search",
       "sources": [
         "GitHub Search"
@@ -37643,19 +38928,19 @@
     },
     "90fc43f525ac5beb": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-13T08:17:20.766821+08:00",
       "follow_up": "阅读讨论区，提炼争议点和实践经验。",
       "id": "90fc43f525ac5beb",
       "kind": "community",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-12T19:14:29.000-05:00",
       "rank": 0,
       "reason": "3 score, 0 comments",
       "region": "",
       "score": 28,
-      "seen_count": 12,
+      "seen_count": 13,
       "source": "Lobste.rs",
       "sources": [
         "Lobste.rs"
@@ -38575,6 +39860,33 @@
       "title": "How frontier firms are pulling ahead",
       "url": "https://openai.com/index/introducing-b2b-signals"
     },
+    "94f854f8bd6e5363": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "94f854f8bd6e5363",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T11:54:35Z",
+      "rank": 0,
+      "reason": "matches topics: agent, agents; high-value terms: agent, agents",
+      "region": "",
+      "score": 66,
+      "seen_count": 1,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "8 points | 7 comments",
+      "tags": [
+        "hn",
+        "agents"
+      ],
+      "title": "Show HN: Kanban CLI (A local-first, agent-first task manager for the terminal)",
+      "url": "https://codeberg.org/hydrafog/kanban"
+    },
     "9568f693df2debd6": {
       "category": "只归档",
       "discovered_at": "2026-05-13T08:17:20.766821+08:00",
@@ -38654,6 +39966,33 @@
       ],
       "title": "Agentmemory",
       "url": "https://www.producthunt.com/products/agent-memory-dev"
+    },
+    "9574f915e572b4bb": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "9574f915e572b4bb",
+      "kind": "product",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-18T18:08:40-07:00",
+      "rank": 0,
+      "reason": "baseline source relevance",
+      "region": "",
+      "score": 30,
+      "seen_count": 1,
+      "source": "Product Hunt — The best new products, every day",
+      "sources": [
+        "Product Hunt — The best new products, every day"
+      ],
+      "summary": "",
+      "tags": [
+        "product",
+        "product-hunt"
+      ],
+      "title": "Freu AI",
+      "url": "https://www.producthunt.com/products/freu-cli"
     },
     "95ac5a635f6eb237": {
       "category": "只归档",
@@ -38923,6 +40262,34 @@
       "title": "amadhaziq/jkmaina.github.io",
       "url": "https://github.com/amadhaziq/jkmaina.github.io"
     },
+    "96d79c8eb850e220": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "96d79c8eb850e220",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:55:37Z",
+      "rank": 0,
+      "reason": "matches topics: llm",
+      "region": "",
+      "score": 42,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "🚀 MergeCrew 2026: Autonomous AI Dev Team - Daily PRs with Human Approval Gate",
+      "tags": [
+        "github",
+        "search",
+        "topic-llm"
+      ],
+      "title": "banchea129/auto-pr-approval-orchestrator",
+      "url": "https://github.com/banchea129/auto-pr-approval-orchestrator"
+    },
     "96dd75676ef3a11d": {
       "category": "只归档",
       "discovered_at": "2026-05-21T08:17:20.735412+08:00",
@@ -39056,6 +40423,33 @@
       "title": "juliofernandes/NeuroForm",
       "url": "https://github.com/juliofernandes/NeuroForm"
     },
+    "9731665615cd3717": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "9731665615cd3717",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T12:41:18Z",
+      "rank": 0,
+      "reason": "matches topics: llm",
+      "region": "",
+      "score": 44,
+      "seen_count": 1,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "2 points | 0 comments",
+      "tags": [
+        "hn",
+        "hugging-face"
+      ],
+      "title": "The guide to RL environments: building and scaling them in the LLM era",
+      "url": "https://huggingface.co/spaces/AdithyaSK/rl-environments-guide"
+    },
     "97527dfd1d56e48c": {
       "category": "只归档",
       "discovered_at": "2026-05-19T08:17:23.171398+08:00",
@@ -39141,19 +40535,19 @@
     },
     "9792028e02ebeab0": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-11T11:23:27.335489+08:00",
       "follow_up": "判断是否需要沉淀为长期主题笔记。",
       "id": "9792028e02ebeab0",
       "kind": "article",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-20T14:03:11+00:00",
       "rank": 0,
       "reason": "matches topics: anthropic",
       "region": "",
       "score": 48,
-      "seen_count": 8,
+      "seen_count": 9,
       "source": "Anthropic",
       "sources": [
         "Anthropic"
@@ -39750,19 +41144,19 @@
     },
     "997249af67fde7a0": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-11T11:23:27.335489+08:00",
       "follow_up": "阅读讨论区，提炼争议点和实践经验。",
       "id": "997249af67fde7a0",
       "kind": "community",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-04-16T03:40:23.000-05:00",
       "rank": 0,
       "reason": "6 score, 0 comments",
       "region": "",
       "score": 28,
-      "seen_count": 14,
+      "seen_count": 15,
       "source": "Lobste.rs",
       "sources": [
         "Lobste.rs"
@@ -40443,19 +41837,19 @@
     },
     "9c0ddb2d59a6955e": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-19T08:17:23.171398+08:00",
       "follow_up": "判断是否需要沉淀为长期主题笔记。",
       "id": "9c0ddb2d59a6955e",
       "kind": "article",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-19T18:06:44+00:00",
       "rank": 0,
       "reason": "matches topics: anthropic",
       "region": "",
       "score": 48,
-      "seen_count": 7,
+      "seen_count": 8,
       "source": "Anthropic",
       "sources": [
         "Anthropic",
@@ -40739,6 +42133,34 @@
       ],
       "title": "koala73/worldmonitor",
       "url": "https://github.com/koala73/worldmonitor"
+    },
+    "9d1c26e7f2b85aa9": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "9d1c26e7f2b85aa9",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:41:15Z",
+      "rank": 0,
+      "reason": "matches topics: obsidian",
+      "region": "",
+      "score": 42,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "notes, my hand crafted notes ~",
+      "tags": [
+        "github",
+        "search",
+        "topic-obsidian"
+      ],
+      "title": "nijuyonkadesu/preemptive-impressions",
+      "url": "https://github.com/nijuyonkadesu/preemptive-impressions"
     },
     "9d2ef1899e80191c": {
       "category": "只归档",
@@ -41292,6 +42714,33 @@
       ],
       "title": "百度发布面向大规模智能体应用的全栈AI云",
       "url": "https://x.com/Baidu_Inc/status/2054927298403688927"
+    },
+    "9eeab51075caeb85": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "9eeab51075caeb85",
+      "kind": "product",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-19T22:55:36-07:00",
+      "rank": 0,
+      "reason": "baseline source relevance",
+      "region": "",
+      "score": 30,
+      "seen_count": 1,
+      "source": "Product Hunt — The best new products, every day",
+      "sources": [
+        "Product Hunt — The best new products, every day"
+      ],
+      "summary": "",
+      "tags": [
+        "product",
+        "product-hunt"
+      ],
+      "title": "Stitch 3.0 by Google",
+      "url": "https://www.producthunt.com/products/stitch-by-google"
     },
     "9ef44a2f8210ce65": {
       "category": "只归档",
@@ -41896,24 +43345,24 @@
     },
     "a0f71e0048eaf834": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-23T08:17:21.404730+08:00",
       "follow_up": "阅读讨论区，提炼争议点和实践经验。",
       "id": "a0f71e0048eaf834",
       "kind": "community",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
-      "published": "2026-05-22T22:02:28Z",
+      "published": "2026-05-24T14:27:26Z",
       "rank": 0,
-      "reason": "HN engagement: 13 points, 6 comments",
+      "reason": "strong public engagement",
       "region": "",
-      "score": 36,
-      "seen_count": 2,
+      "score": 48,
+      "seen_count": 3,
       "source": "Hacker News",
       "sources": [
         "Hacker News"
       ],
-      "summary": "13 points | 6 comments",
+      "summary": "148 points | 215 comments",
       "tags": [
         "hn",
         "hugging-face"
@@ -42003,19 +43452,19 @@
     },
     "a17b402f65bfa6f1": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-15T08:17:17.572182+08:00",
       "follow_up": "阅读讨论区，提炼争议点和实践经验。",
       "id": "a17b402f65bfa6f1",
       "kind": "community",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-14T19:01:55.000-05:00",
       "rank": 0,
       "reason": "6 score, 0 comments",
       "region": "",
       "score": 28,
-      "seen_count": 10,
+      "seen_count": 11,
       "source": "Lobste.rs",
       "sources": [
         "Lobste.rs"
@@ -42772,6 +44221,33 @@
       "title": "rearendoh/synkro",
       "url": "https://github.com/rearendoh/synkro"
     },
+    "a61ae425615f0cb3": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "a61ae425615f0cb3",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T15:41:55Z",
+      "rank": 0,
+      "reason": "matches topics: llm",
+      "region": "",
+      "score": 44,
+      "seen_count": 1,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "4 points | 0 comments",
+      "tags": [
+        "hn",
+        "llm"
+      ],
+      "title": "Show HN: Strudel – Generate commit messages via Apple's on-device LLM",
+      "url": "https://github.com/Mechse/strudel"
+    },
     "a6201ba2282c8d52": {
       "category": "只归档",
       "discovered_at": "2026-05-20T08:17:37.779241+08:00",
@@ -42798,6 +44274,33 @@
       ],
       "title": "SignMuon: Communication-Efficient Distributed Muon Optimization",
       "url": "https://arxiv.org/abs/2605.16311"
+    },
+    "a64af7c38f2392b7": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "a64af7c38f2392b7",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T20:31:30Z",
+      "rank": 0,
+      "reason": "matches topics: agent, llm; high-value terms: agent",
+      "region": "",
+      "score": 59,
+      "seen_count": 1,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "3 points | 0 comments",
+      "tags": [
+        "hn",
+        "llm"
+      ],
+      "title": "A Language for Describing Agentic LLM Contexts",
+      "url": "https://arxiv.org/abs/2605.01920"
     },
     "a660c366ae7529ef": {
       "category": "只归档",
@@ -44022,6 +45525,33 @@
       "title": "Macro-Action Based Multi-Agent Instruction Following through Value Cancellation",
       "url": "https://arxiv.org/abs/2605.12655"
     },
+    "aa983124f7a8e971": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "aa983124f7a8e971",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T13:18:06Z",
+      "rank": 0,
+      "reason": "HN engagement: 1 points, 0 comments",
+      "region": "",
+      "score": 36,
+      "seen_count": 1,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "1 points | 0 comments",
+      "tags": [
+        "hn",
+        "hugging-face"
+      ],
+      "title": "Show HN: Pro Health Ledger – An open-source, net-neutral reputation system",
+      "url": "https://news.ycombinator.com/item?id=48257073"
+    },
     "aab81d183dbce210": {
       "category": "只归档",
       "discovered_at": "2026-05-15T08:17:17.572182+08:00",
@@ -44102,19 +45632,19 @@
     },
     "ab2f7811f6a34c62": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-24T08:17:45.805034+08:00",
       "follow_up": "判断是否需要沉淀为长期主题笔记。",
       "id": "ab2f7811f6a34c62",
       "kind": "article",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-23T04:38:27Z",
       "rank": 0,
       "reason": "matches topics: llm",
       "region": "",
       "score": 36,
-      "seen_count": 2,
+      "seen_count": 3,
       "source": "Dev.to",
       "sources": [
         "Dev.to"
@@ -44127,6 +45657,33 @@
       ],
       "title": "Diffusion Language Models: How NVIDIA Nemotron-Labs Diffusion Shatters the Autoregressive Speed Ceiling",
       "url": "https://dev.to/monuminu/diffusion-language-models-how-nvidia-nemotron-labs-diffusion-shatters-the-autoregressive-speed-3dak"
+    },
+    "ab563936c9b5e9ce": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "ab563936c9b5e9ce",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T02:04:57Z",
+      "rank": 0,
+      "reason": "matches topics: llm",
+      "region": "",
+      "score": 44,
+      "seen_count": 1,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "4 points | 0 comments",
+      "tags": [
+        "hn",
+        "llm"
+      ],
+      "title": "SSV: Sparse Speculative Verification for Efficient LLM Inference",
+      "url": "https://arxiv.org/abs/2605.19893"
     },
     "ab6bacc2dfd488fe": {
       "category": "只归档",
@@ -44341,19 +45898,19 @@
     },
     "ac464e9e4d7f3d70": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-24T08:17:45.805034+08:00",
       "follow_up": "判断是否需要沉淀为长期主题笔记。",
       "id": "ac464e9e4d7f3d70",
       "kind": "article",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-23T05:24:37Z",
       "rank": 0,
       "reason": "0 reactions",
       "region": "",
       "score": 28,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "Dev.to",
       "sources": [
         "Dev.to"
@@ -44368,19 +45925,19 @@
     },
     "ac893b2631bfcd5a": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-24T08:17:45.805034+08:00",
       "follow_up": "判断是否需要沉淀为长期主题笔记。",
       "id": "ac893b2631bfcd5a",
       "kind": "article",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-23T16:54:09Z",
       "rank": 0,
       "reason": "5 reactions",
       "region": "",
       "score": 28,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "Dev.to",
       "sources": [
         "Dev.to"
@@ -44932,6 +46489,33 @@
       "title": "Mixed Integer Goal Programming for Personalized Meal Optimization with User-Defined Serving Granularity",
       "url": "https://arxiv.org/abs/2605.13849"
     },
+    "ae20e1409b782b7e": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "ae20e1409b782b7e",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T12:31:54Z",
+      "rank": 0,
+      "reason": "HN engagement: 8 points, 2 comments",
+      "region": "",
+      "score": 36,
+      "seen_count": 1,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "8 points | 2 comments",
+      "tags": [
+        "hn",
+        "ai"
+      ],
+      "title": "Our AI just got better",
+      "url": "https://blog.ecosia.org/improving-our-ai/"
+    },
     "ae2f1176ce23380a": {
       "category": "只归档",
       "discovered_at": "2026-05-14T10:29:55.633079+08:00",
@@ -45088,6 +46672,35 @@
       ],
       "title": "The Aesthetic Problem of Namespacing",
       "url": "https://www.gingerbill.org/article/2026/05/13/aesthetic-namespacing/"
+    },
+    "ae6f86741ab079a9": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "ae6f86741ab079a9",
+      "kind": "article",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T15:05:15.000Z",
+      "rank": 0,
+      "reason": "AI HOT selected item",
+      "region": "",
+      "score": 46,
+      "seen_count": 1,
+      "source": "AI HOT / X：PixVerse (@PixVerse_)",
+      "sources": [
+        "AI HOT / X：PixVerse (@PixVerse_)"
+      ],
+      "summary": "在Pixverse中进行角色设计工作流测试 使用GPT Image 2.0为Lucas创建视觉形象，使用Seedance 2.0制作动画弹跳表演。 从静态概念图到电影级动态效果。 RT + Follow + Reply = 工作流",
+      "tags": [
+        "aihot",
+        "article",
+        "selected",
+        "tip"
+      ],
+      "title": "Pixverse角色设计工作流测试",
+      "url": "https://x.com/PixVerse_/status/2058564994669727803"
     },
     "ae7bea54f214c63f": {
       "category": "只归档",
@@ -45545,19 +47158,19 @@
     },
     "afed5d8434091237": {
       "category": "可延后",
-      "discovered_at": "2026-05-21T08:17:20.735412+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-21T08:17:20.735412+08:00",
       "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
       "id": "afed5d8434091237",
       "kind": "github_repo",
-      "last_seen": "2026-05-21T08:17:20.735412+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
-      "published": "2026-05-21T00:15:28Z",
+      "published": "2026-05-25T01:54:38Z",
       "rank": 0,
       "reason": "matches topics: agent, agents; high-value terms: agent, agents",
       "region": "",
       "score": 64,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "GitHub Search",
       "sources": [
         "GitHub Search"
@@ -45834,27 +47447,27 @@
     },
     "b0b8a73c5bfaef7a": {
       "category": "可延后",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-24T08:17:45.805034+08:00",
       "follow_up": "阅读讨论区，提炼争议点和实践经验。",
       "id": "b0b8a73c5bfaef7a",
       "kind": "community",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-23T21:11:40Z",
       "rank": 0,
       "reason": "matches topics: agent, agents; high-value terms: agent, agents",
       "region": "",
       "score": 66,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "Hacker News",
       "sources": [
         "Hacker News"
       ],
-      "summary": "10 points | 0 comments",
+      "summary": "12 points | 0 comments",
       "tags": [
-        "hn",
-        "agents"
+        "agents",
+        "hn"
       ],
       "title": "Kimi Is Quietly Beating Everyone – The Engineer Behind Agent Swarm Reveals Why",
       "url": "https://twitter.com/kirillk_web3/status/2057528102368977328/video/1"
@@ -45969,6 +47582,35 @@
       ],
       "title": "I/O 2026： 欢迎来到自主的 Gemini 时代",
       "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026"
+    },
+    "b12fc4bf055772a9": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "b12fc4bf055772a9",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:55:09Z",
+      "rank": 0,
+      "reason": "matches topics: agent, agents; high-value terms: agent, agents",
+      "region": "",
+      "score": 64,
+      "seen_count": 2,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "Ionic Capacitor Pro 2026: AI-Powered Hybrid App Builder for React, Angular & Vue",
+      "tags": [
+        "github",
+        "search",
+        "topic-agents",
+        "topic-ai"
+      ],
+      "title": "cs32dasdasd/ionik-capacitor-flux-patterns",
+      "url": "https://github.com/cs32dasdasd/ionik-capacitor-flux-patterns"
     },
     "b13516fc4c439c94": {
       "category": "可延后",
@@ -46369,27 +48011,56 @@
       "title": "AURIXA",
       "url": "https://www.producthunt.com/products/replit"
     },
+    "b36b43c9b6f12d41": {
+      "category": "今日必须看",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "b36b43c9b6f12d41",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T12:55:53Z",
+      "rank": 0,
+      "reason": "matches topics: agent, agents, llm; high-value terms: agent, agents; strong public engagement",
+      "region": "",
+      "score": 86,
+      "seen_count": 2,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "174 points | 86 comments",
+      "tags": [
+        "agents",
+        "hn",
+        "llm"
+      ],
+      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "url": "https://arxiv.org/abs/2605.06445"
+    },
     "b3718af977585a65": {
       "category": "只归档",
-      "discovered_at": "2026-05-19T08:17:23.171398+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-19T08:17:23.171398+08:00",
       "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
       "id": "b3718af977585a65",
       "kind": "github_repo",
-      "last_seen": "2026-05-19T08:17:23.171398+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "baseline source relevance",
       "region": "",
       "score": 46,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "GitHub Trending",
       "sources": [
         "GitHub Trending"
       ],
       "summary": "",
       "tags": [
+        "all",
         "github",
         "trending",
         "typescript"
@@ -46717,6 +48388,33 @@
       "title": "ashraffabdullah297-cmd/StockClaw",
       "url": "https://github.com/ashraffabdullah297-cmd/StockClaw"
     },
+    "b527f8c707f97908": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "b527f8c707f97908",
+      "kind": "article",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T12:46:29Z",
+      "rank": 0,
+      "reason": "8 reactions",
+      "region": "",
+      "score": 28,
+      "seen_count": 1,
+      "source": "Dev.to",
+      "sources": [
+        "Dev.to"
+      ],
+      "summary": "This is a submission for the GitHub Finish-Up-A-Thon Challenge What I Built Project...",
+      "tags": [
+        "devto",
+        "ai"
+      ],
+      "title": "From Govhack Win to Something That Actually Matters",
+      "url": "https://dev.to/ujja/from-govhack-win-to-something-that-actually-matters-2mmi"
+    },
     "b539d006c0020c0e": {
       "category": "只归档",
       "discovered_at": "2026-05-15T08:17:17.572182+08:00",
@@ -46845,21 +48543,49 @@
       "title": "Four LLM Workflows That Actually Survive Production",
       "url": "https://dev.to/nimesh_kulkarni_2f7a2057e/four-llm-workflows-that-actually-survive-production-48h9"
     },
+    "b638d2cd45ce00ce": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "b638d2cd45ce00ce",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:53:29Z",
+      "rank": 0,
+      "reason": "matches topics: agent, agents; high-value terms: agent, agents",
+      "region": "",
+      "score": 64,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "Your Ultimate Claude Skills Library & Hub 2026 – Integrate & Organize AI Workflows",
+      "tags": [
+        "github",
+        "search",
+        "topic-agents"
+      ],
+      "title": "phuati/claude-skills-arsenal",
+      "url": "https://github.com/phuati/claude-skills-arsenal"
+    },
     "b6773085f1281137": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-21T08:17:20.735412+08:00",
       "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
       "id": "b6773085f1281137",
       "kind": "github_repo",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "baseline source relevance",
       "region": "",
       "score": 46,
-      "seen_count": 3,
+      "seen_count": 4,
       "source": "GitHub Trending",
       "sources": [
         "GitHub Trending"
@@ -47118,6 +48844,35 @@
       "title": "一键生成F1进站时刻肖像特效",
       "url": "https://x.com/PixVerse_/status/2054939801435177238"
     },
+    "b781a4513fb9b930": {
+      "category": "今日必须看",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "b781a4513fb9b930",
+      "kind": "product",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T22:13:22.000Z",
+      "rank": 0,
+      "reason": "matches topics: agent, agents; high-value terms: agent, agents",
+      "region": "",
+      "score": 78,
+      "seen_count": 1,
+      "source": "AI HOT / X：Luma AI (@LumaLabsAI)",
+      "sources": [
+        "AI HOT / X：Luma AI (@LumaLabsAI)"
+      ],
+      "summary": "规模化的真实性曾是矛盾，如今已成现实。 定义简报，设定风格，Luma Agents 从这里构建每一条 UGC 风格广告。 让它真实 → http：//lumalabs.ai/app",
+      "tags": [
+        "ai-products",
+        "aihot",
+        "product",
+        "selected"
+      ],
+      "title": "Luma Agents 实现规模化真实 UGC 广告生成",
+      "url": "https://x.com/LumaLabsAI/status/2058672731705503959"
+    },
     "b788dc4ca98090da": {
       "category": "只归档",
       "discovered_at": "2026-05-15T08:17:17.572182+08:00",
@@ -47306,6 +49061,33 @@
       ],
       "title": "rubberneckrepair179/compliance-gpt",
       "url": "https://github.com/rubberneckrepair179/compliance-gpt"
+    },
+    "b80968c355915d17": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "b80968c355915d17",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T20:41:31Z",
+      "rank": 0,
+      "reason": "matches topics: agent, agents; high-value terms: agent, agents",
+      "region": "",
+      "score": 66,
+      "seen_count": 1,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "4 points | 1 comments",
+      "tags": [
+        "hn",
+        "agents"
+      ],
+      "title": "Layman with no degree directs AI agents to derive Newton's G to 1.86 ppm",
+      "url": "https://github.com/oldrich-research/gravitational-constant-relation"
     },
     "b861df808a78de24": {
       "category": "可延后",
@@ -47549,6 +49331,33 @@
       "title": "\"让 Token 消耗降低 61%\"：腾讯开源 Agent Memory",
       "url": "https://www.ithome.com/0/950/415.htm"
     },
+    "b99904f3fc2f7fa2": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "b99904f3fc2f7fa2",
+      "kind": "article",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T00:39:27Z",
+      "rank": 0,
+      "reason": "matches topics: llm; high-value terms: reasoning",
+      "region": "",
+      "score": 43,
+      "seen_count": 1,
+      "source": "Dev.to",
+      "sources": [
+        "Dev.to"
+      ],
+      "summary": "G Two weeks ago I shipped core/reasoning/budget.py to test whether per-call dynamic token budgets...",
+      "tags": [
+        "devto",
+        "llm"
+      ],
+      "title": "🔬 Direction 1 closure on JAMES — when the hypothesis fails but the data turns \"7-tier monotonic natural-stop gradient\"",
+      "url": "https://dev.to/hashevolution/direction-1-closure-on-james-when-the-hypothesis-fails-but-the-data-turns-7-tier-monotonic-5ao0"
+    },
     "ba19432080d1c2c2": {
       "category": "可延后",
       "discovered_at": "2026-05-16T08:17:35.266956+08:00",
@@ -47575,6 +49384,34 @@
       ],
       "title": "Dual Hierarchical Dialogue Policy Learning for Legal Inquisitive Conversational Agents",
       "url": "https://arxiv.org/abs/2605.14057"
+    },
+    "ba1b4a6648f38dd6": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "ba1b4a6648f38dd6",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:55:05Z",
+      "rank": 0,
+      "reason": "0 stars | pushed 2026-05-25",
+      "region": "",
+      "score": 34,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "Empathy Ledger — A culturally respectful storytelling platform for Indigenous communities. Editorial Warmth design system, multi-tenant Supabase, Gemini AI integration, OCAP-compliant data sovereignty.",
+      "tags": [
+        "github",
+        "search",
+        "topic-ai"
+      ],
+      "title": "Acurioustractor/empathy-ledger-v2",
+      "url": "https://github.com/Acurioustractor/empathy-ledger-v2"
     },
     "ba23a94ac5ac18a0": {
       "category": "只归档",
@@ -48131,6 +49968,34 @@
       "title": "Beyond Single Slot: Joint Optimization for Multi-Slot Guaranteed Display Advertising",
       "url": "https://arxiv.org/abs/2605.21556"
     },
+    "bc6226dbdf414510": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "bc6226dbdf414510",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:54:47Z",
+      "rank": 0,
+      "reason": "matches topics: llm",
+      "region": "",
+      "score": 42,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "Local-first personal AI assistant with CLI, web console, and WeChat (Weixin) connector support",
+      "tags": [
+        "github",
+        "search",
+        "topic-llm"
+      ],
+      "title": "ifnodoraemon/navi",
+      "url": "https://github.com/ifnodoraemon/navi"
+    },
     "bc62d27337124f9d": {
       "category": "只归档",
       "discovered_at": "2026-05-15T08:17:17.572182+08:00",
@@ -48184,19 +50049,19 @@
     },
     "bc8b438ebe404ba3": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-16T08:17:35.266956+08:00",
       "follow_up": "阅读讨论区，提炼争议点和实践经验。",
       "id": "bc8b438ebe404ba3",
       "kind": "community",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-14T23:53:22.000-05:00",
       "rank": 0,
       "reason": "matches topics: research",
       "region": "",
       "score": 36,
-      "seen_count": 9,
+      "seen_count": 10,
       "source": "Lobste.rs",
       "sources": [
         "Lobste.rs"
@@ -48365,19 +50230,19 @@
     },
     "bcca14076eaf4a67": {
       "category": "可延后",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-24T08:17:45.805034+08:00",
       "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
       "id": "bcca14076eaf4a67",
       "kind": "github_repo",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
-      "published": "2026-05-24T00:18:03Z",
+      "published": "2026-05-25T01:54:06Z",
       "rank": 0,
       "reason": "matches topics: agent, agents; high-value terms: agent, agents",
       "region": "",
       "score": 64,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "GitHub Search",
       "sources": [
         "GitHub Search"
@@ -49136,6 +51001,33 @@
       "title": "Double descent for least-squares interpolation on contaminated data: A simulation study",
       "url": "https://arxiv.org/abs/2605.21494"
     },
+    "bfd605245ee6a1cd": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "bfd605245ee6a1cd",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T09:22:54.000-05:00",
+      "rank": 0,
+      "reason": "8 score, 0 comments",
+      "region": "",
+      "score": 28,
+      "seen_count": 1,
+      "source": "Lobste.rs",
+      "sources": [
+        "Lobste.rs"
+      ],
+      "summary": "8 score | 0 comments",
+      "tags": [
+        "lobsters",
+        "programming"
+      ],
+      "title": "From AFSK to Goertzel",
+      "url": "https://uart.cz/2959/from-afsk-to-goertzel/"
+    },
     "bfdfc87028bf0381": {
       "category": "只归档",
       "discovered_at": "2026-05-19T08:17:23.171398+08:00",
@@ -49371,6 +51263,33 @@
       "title": "Data Fundamentals Primer for Learning LLM",
       "url": "https://algo-rhythm.dev/en/data/"
     },
+    "c064acfbf2fb8920": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "c064acfbf2fb8920",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T05:18:16Z",
+      "rank": 0,
+      "reason": "matches topics: openai",
+      "region": "",
+      "score": 44,
+      "seen_count": 1,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "3 points | 0 comments",
+      "tags": [
+        "hn",
+        "openai"
+      ],
+      "title": "The Verification Problem (On OpenAI's Erdős Disproof)",
+      "url": "https://korbonits.com/blog/2026-05-23-the-verification-problem/"
+    },
     "c083575d4b91ef55": {
       "category": "只归档",
       "discovered_at": "2026-05-15T08:17:17.572182+08:00",
@@ -49603,19 +51522,19 @@
     },
     "c153923e364e36e0": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-22T08:17:35.368643+08:00",
       "follow_up": "阅读讨论区，提炼争议点和实践经验。",
       "id": "c153923e364e36e0",
       "kind": "community",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-21T12:08:19.000-05:00",
       "rank": 0,
       "reason": "6 score, 0 comments",
       "region": "",
       "score": 28,
-      "seen_count": 3,
+      "seen_count": 4,
       "source": "Lobste.rs",
       "sources": [
         "Lobste.rs"
@@ -50666,19 +52585,19 @@
     },
     "c4c818e895dae39b": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-17T08:17:40.175663+08:00",
       "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
       "id": "c4c818e895dae39b",
       "kind": "github_repo",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
-      "published": "2026-05-24T00:18:09Z",
+      "published": "2026-05-25T01:55:29Z",
       "rank": 0,
-      "reason": "2 stars | pushed 2026-05-24",
+      "reason": "2 stars | pushed 2026-05-25",
       "region": "",
       "score": 34,
-      "seen_count": 6,
+      "seen_count": 7,
       "source": "GitHub Search",
       "sources": [
         "GitHub Search"
@@ -51017,6 +52936,33 @@
       "title": "DACA-GRPO: Denoising-Aware Credit Assignment for Reinforcement Learning in Diffusion Language Models",
       "url": "https://arxiv.org/abs/2605.16342"
     },
+    "c62db1794cbeeaf4": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "c62db1794cbeeaf4",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T07:54:20Z",
+      "rank": 0,
+      "reason": "matches topics: agent, agents; high-value terms: agent, agents",
+      "region": "",
+      "score": 66,
+      "seen_count": 1,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "4 points | 0 comments",
+      "tags": [
+        "hn",
+        "agents"
+      ],
+      "title": "Coding agents are giving everyone decision fatigue",
+      "url": "https://stackoverflow.blog/2026/05/21/coding-agents-are-giving-everyone-decision-fatigue/"
+    },
     "c687fb61792b29dc": {
       "category": "可延后",
       "discovered_at": "2026-05-11T11:23:27.335489+08:00",
@@ -51118,6 +53064,35 @@
       ],
       "title": "Dywave: Event-Aligned Dynamic Tokenization for Heterogeneous IoT Sensing Signal",
       "url": "https://arxiv.org/abs/2605.14014"
+    },
+    "c6c14fadee9b861a": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "c6c14fadee9b861a",
+      "kind": "article",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T14:09:49.425Z",
+      "rank": 0,
+      "reason": "matches topics: openai",
+      "region": "",
+      "score": 54,
+      "seen_count": 1,
+      "source": "AI HOT / Hacker News 热门（buzzing.cc 中文翻译）",
+      "sources": [
+        "AI HOT / Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "summary": "",
+      "tags": [
+        "aihot",
+        "article",
+        "selected",
+        "tip"
+      ],
+      "title": "格雷格·布罗克曼：那段差点让OpenAI覆灭的72小时",
+      "url": "https://fs.blog/knowledge-project-podcast/greg-brockman"
     },
     "c6c1e1c1428c34f2": {
       "category": "只归档",
@@ -51555,6 +53530,33 @@
       "title": "SuperGrok Heavy限时六折，Grok Build开放测试",
       "url": "https://x.com/cb_doge/status/2055017857352913319"
     },
+    "c86b52b7462ff62e": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "c86b52b7462ff62e",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T22:11:14Z",
+      "rank": 0,
+      "reason": "matches topics: llm",
+      "region": "",
+      "score": 44,
+      "seen_count": 1,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "3 points | 0 comments",
+      "tags": [
+        "hn",
+        "llm"
+      ],
+      "title": "Show HN: Local note engine uses LLM to organize notes into a knowledge graph",
+      "url": "https://github.com/AlexWasHeree/NoteCast"
+    },
     "c8949c6baee952fc": {
       "category": "只归档",
       "discovered_at": "2026-05-24T08:17:45.805034+08:00",
@@ -51608,6 +53610,33 @@
       ],
       "title": "Chromtuner",
       "url": "https://www.producthunt.com/products/chromtuner-chromatic-tuner-for-macos"
+    },
+    "c90f2dbaea77b5de": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "c90f2dbaea77b5de",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-23T20:09:13Z",
+      "rank": 0,
+      "reason": "strong public engagement",
+      "region": "",
+      "score": 48,
+      "seen_count": 1,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "128 points | 116 comments",
+      "tags": [
+        "hn",
+        "ai"
+      ],
+      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o"
     },
     "c91067f2d9801365": {
       "category": "只归档",
@@ -51918,6 +53947,33 @@
       "title": "Dimensional Balance Improves Large Scale Spatiotemporal Prediction Performance",
       "url": "https://arxiv.org/abs/2605.18793"
     },
+    "ca410a835281be31": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "ca410a835281be31",
+      "kind": "product",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-23T13:10:35-07:00",
+      "rank": 0,
+      "reason": "baseline source relevance",
+      "region": "",
+      "score": 30,
+      "seen_count": 1,
+      "source": "Product Hunt — The best new products, every day",
+      "sources": [
+        "Product Hunt — The best new products, every day"
+      ],
+      "summary": "",
+      "tags": [
+        "product",
+        "product-hunt"
+      ],
+      "title": "DockFlow",
+      "url": "https://www.producthunt.com/products/dockflow"
+    },
     "ca5a5c6183f61fe7": {
       "category": "只归档",
       "discovered_at": "2026-05-14T10:29:55.633079+08:00",
@@ -51944,19 +54000,19 @@
     },
     "ca6a9087d032f85c": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-22T08:17:35.368643+08:00",
       "follow_up": "阅读讨论区，提炼争议点和实践经验。",
       "id": "ca6a9087d032f85c",
       "kind": "community",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-21T13:58:07.000-05:00",
       "rank": 0,
       "reason": "7 score, 1 comments",
       "region": "",
       "score": 28,
-      "seen_count": 3,
+      "seen_count": 4,
       "source": "Lobste.rs",
       "sources": [
         "Lobste.rs"
@@ -52255,6 +54311,62 @@
       "title": "Higher Limits Spacex",
       "url": "https://www.anthropic.com/news/higher-limits-spacex"
     },
+    "cb89e7f0b06caecd": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "cb89e7f0b06caecd",
+      "kind": "article",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T13:50:05Z",
+      "rank": 0,
+      "reason": "10 reactions",
+      "region": "",
+      "score": 28,
+      "seen_count": 2,
+      "source": "Dev.to",
+      "sources": [
+        "Dev.to"
+      ],
+      "summary": "The first time I wrote a tokenizer, I did it with a for loop. I counted byte pairs by hand, merged...",
+      "tags": [
+        "ai",
+        "devto",
+        "opensource"
+      ],
+      "title": "Build It, Then Use It: How I wrote 435 AI engineering lessons from scratch",
+      "url": "https://dev.to/rohitg00/build-it-then-use-it-how-i-wrote-435-ai-engineering-lessons-from-scratch-5d2d"
+    },
+    "cb8c74e769983b52": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "cb8c74e769983b52",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "baseline source relevance",
+      "region": "",
+      "score": 46,
+      "seen_count": 1,
+      "source": "GitHub Trending",
+      "sources": [
+        "GitHub Trending"
+      ],
+      "summary": "",
+      "tags": [
+        "github",
+        "trending",
+        "python"
+      ],
+      "title": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish"
+    },
     "cb8ca02f4f555c48": {
       "category": "可延后",
       "discovered_at": "2026-05-22T08:17:35.368643+08:00",
@@ -52418,6 +54530,33 @@
       "title": "kleros/kleros-skills",
       "url": "https://github.com/kleros/kleros-skills"
     },
+    "cc6db57d2d7c8459": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "cc6db57d2d7c8459",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T00:57:03Z",
+      "rank": 0,
+      "reason": "matches topics: anthropic",
+      "region": "",
+      "score": 44,
+      "seen_count": 1,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "4 points | 0 comments",
+      "tags": [
+        "hn",
+        "anthropic"
+      ],
+      "title": "Guy Won the Anthropic Hackathon Solo. Then He Open-Sourced the Stack",
+      "url": "https://old.reddit.com/r/AIAgentsInAction/comments/1t84rlc/this_guy_won_the_anthropic_hackathon_solo_then_he/"
+    },
     "cc7f9797c2158307": {
       "category": "可延后",
       "discovered_at": "2026-05-20T08:17:37.779241+08:00",
@@ -52560,6 +54699,33 @@
       "title": "按需定制快捷键，优化工作流效率",
       "url": "https://x.com/OpenAIDevs/status/2055717793841221796"
     },
+    "cca661837f7bf905": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "cca661837f7bf905",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T06:40:34Z",
+      "rank": 0,
+      "reason": "matches topics: llm",
+      "region": "",
+      "score": 44,
+      "seen_count": 1,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "29 points | 12 comments",
+      "tags": [
+        "hn",
+        "llm"
+      ],
+      "title": "Local LLMs perform better when you teach them to ask before they answer",
+      "url": "https://www.xda-developers.com/local-llm-clarifying-questions-system-prompt/"
+    },
     "ccc489ee5abe43c6": {
       "category": "只归档",
       "discovered_at": "2026-05-24T08:17:45.805034+08:00",
@@ -52617,6 +54783,33 @@
       ],
       "title": "Pixverse模板：让你成为全场焦点",
       "url": "https://x.com/PixVerse_/status/2055245210184200497"
+    },
+    "ccec979f4949ee7b": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "ccec979f4949ee7b",
+      "kind": "article",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T02:53:03Z",
+      "rank": 0,
+      "reason": "matches topics: agent; high-value terms: agent",
+      "region": "",
+      "score": 43,
+      "seen_count": 1,
+      "source": "Dev.to",
+      "sources": [
+        "Dev.to"
+      ],
+      "summary": "Most guides on OpenCode Go start with the models. I want to start with the thing most guides get...",
+      "tags": [
+        "devto",
+        "opensource"
+      ],
+      "title": "OpenCode Go + Oh My OpenAgent: The Model Routing Config That Actually Saves Money",
+      "url": "https://dev.to/devansh365/opencode-go-oh-my-openagent-the-model-routing-config-that-actually-saves-money-3jmj"
     },
     "ccf8f62426d7ee5e": {
       "category": "只归档",
@@ -53173,6 +55366,33 @@
       "title": "Bi-Level Chaotic Fusion Based Graph Convolutional Network for Stock Market Prediction Interval",
       "url": "https://arxiv.org/abs/2605.16324"
     },
+    "cef3461159c05804": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "cef3461159c05804",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T01:35:48Z",
+      "rank": 0,
+      "reason": "matches topics: agent, agents; high-value terms: agent, agents",
+      "region": "",
+      "score": 66,
+      "seen_count": 1,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "4 points | 0 comments",
+      "tags": [
+        "hn",
+        "agents"
+      ],
+      "title": "A simple AI agent in Java",
+      "url": "https://github.com/machineswillrise/jagent"
+    },
     "cf76ef61b14897d2": {
       "category": "只归档",
       "discovered_at": "2026-05-15T08:17:17.572182+08:00",
@@ -53252,6 +55472,33 @@
       ],
       "title": "Claude Code v2.1.143 版本更新：插件管理与用户体验增强",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.143"
+    },
+    "cf9ff63da34271fe": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "cf9ff63da34271fe",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T01:00:49Z",
+      "rank": 0,
+      "reason": "HN engagement: 12 points, 2 comments",
+      "region": "",
+      "score": 36,
+      "seen_count": 1,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "12 points | 2 comments",
+      "tags": [
+        "hn",
+        "ai"
+      ],
+      "title": "AI didn't kill your junior pipeline. You did",
+      "url": "https://andrewmurphy.io/blog/ai-didnt-kill-your-junior-pipeline-you-did"
     },
     "cff26bc93d57d175": {
       "category": "只归档",
@@ -55012,19 +57259,19 @@
     },
     "d6a5d4f63a420bd9": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-20T08:17:37.779241+08:00",
       "follow_up": "判断是否需要沉淀为长期主题笔记。",
       "id": "d6a5d4f63a420bd9",
       "kind": "article",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-19T13:30:59+00:00",
       "rank": 0,
       "reason": "matches topics: anthropic",
       "region": "",
       "score": 48,
-      "seen_count": 6,
+      "seen_count": 7,
       "source": "Anthropic",
       "sources": [
         "AI HOT / Anthropic：Newsroom（网页）",
@@ -55069,6 +57316,33 @@
       ],
       "title": "mehdimin11/surf",
       "url": "https://github.com/mehdimin11/surf"
+    },
+    "d6bb96f7e3253c51": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "d6bb96f7e3253c51",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T08:43:11.000-05:00",
+      "rank": 0,
+      "reason": "4 score, 2 comments",
+      "region": "",
+      "score": 28,
+      "seen_count": 1,
+      "source": "Lobste.rs",
+      "sources": [
+        "Lobste.rs"
+      ],
+      "summary": "4 score | 2 comments",
+      "tags": [
+        "lobsters",
+        "programming"
+      ],
+      "title": "libwce: the entropy layer of a wavelet codec, on its own",
+      "url": "https://yogthos.net/posts/2026-05-24-libwce.html"
     },
     "d6bc984368116aa4": {
       "category": "只归档",
@@ -55412,6 +57686,35 @@
       ],
       "title": "微信读书Skill安装与使用指南",
       "url": "https://x.com/berryxia/status/2055865005271314528"
+    },
+    "d7cb4542579b2b03": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "d7cb4542579b2b03",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:55:29Z",
+      "rank": 0,
+      "reason": "matches topics: llm",
+      "region": "",
+      "score": 42,
+      "seen_count": 2,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "Local-first secure inference runtime with audit visibility, artifact tracking, and explicit lifecycle controls for llama.cpp-based LLM sessions.",
+      "tags": [
+        "github",
+        "search",
+        "topic-ai",
+        "topic-llm"
+      ],
+      "title": "ryanking3/nullcontext-runner",
+      "url": "https://github.com/ryanking3/nullcontext-runner"
     },
     "d7efadecd08d002e": {
       "category": "只归档",
@@ -55958,6 +58261,33 @@
       "title": "Building a Database Performance Testing Tool With AI: The Honest Breakdown",
       "url": "https://dev.to/m4rri4nne/building-a-database-performance-testing-tool-with-ai-the-honest-breakdown-3c0c"
     },
+    "da048846d4ea7761": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "da048846d4ea7761",
+      "kind": "product",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-22T07:23:28-07:00",
+      "rank": 0,
+      "reason": "baseline source relevance",
+      "region": "",
+      "score": 30,
+      "seen_count": 1,
+      "source": "Product Hunt — The best new products, every day",
+      "sources": [
+        "Product Hunt — The best new products, every day"
+      ],
+      "summary": "",
+      "tags": [
+        "product",
+        "product-hunt"
+      ],
+      "title": "WhatCable",
+      "url": "https://www.producthunt.com/products/whatcable"
+    },
     "da27efc117cddd8d": {
       "category": "只归档",
       "discovered_at": "2026-05-11T11:23:27.335489+08:00",
@@ -56497,6 +58827,34 @@
       "title": "Show HN: Full Stack HQ – Claude.md and Agent Stack for Claude Code",
       "url": "https://github.com/sabahattink/antigravity-fullstack-hq"
     },
+    "dc10f8a972bea79e": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "dc10f8a972bea79e",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "matches topics: anthropic; high-value terms: security",
+      "region": "",
+      "score": 61,
+      "seen_count": 1,
+      "source": "GitHub Trending",
+      "sources": [
+        "GitHub Trending"
+      ],
+      "summary": "",
+      "tags": [
+        "github",
+        "trending",
+        "python"
+      ],
+      "title": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
+    },
     "dc1180ad0918f78a": {
       "category": "只归档",
       "discovered_at": "2026-05-12T08:17:19.493983+08:00",
@@ -56831,6 +59189,33 @@
       ],
       "title": "playcanvas/supersplat",
       "url": "https://github.com/playcanvas/supersplat"
+    },
+    "dcd86c97f85511ff": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "dcd86c97f85511ff",
+      "kind": "article",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T05:29:24Z",
+      "rank": 0,
+      "reason": "5 reactions",
+      "region": "",
+      "score": 28,
+      "seen_count": 1,
+      "source": "Dev.to",
+      "sources": [
+        "Dev.to"
+      ],
+      "summary": "Published by the AI Alchemist (Eric Maddox) December 13, 2025 The Latency-Tolerant...",
+      "tags": [
+        "devto",
+        "ai"
+      ],
+      "title": "Real-Time Multimodal AI Integration: Bridging Computer Vision and Conversational Interfaces",
+      "url": "https://dev.to/ai-alchemist/real-time-multimodal-ai-integration-bridging-computer-vision-and-conversational-interfaces-1eg2"
     },
     "dcfc14614ceb5910": {
       "category": "可延后",
@@ -57394,6 +59779,35 @@
       "title": "Nexus-JPF/note-companion",
       "url": "https://github.com/Nexus-JPF/note-companion"
     },
+    "dec50d9ea1defe0c": {
+      "category": "今日必须看",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "dec50d9ea1defe0c",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:55:39Z",
+      "rank": 0,
+      "reason": "matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp",
+      "region": "",
+      "score": 85,
+      "seen_count": 2,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "Ultimate MCP Server Discovery & AI Jobs Hub 2026 – Build Smart Agents Fast",
+      "tags": [
+        "github",
+        "search",
+        "topic-llm",
+        "topic-mcp"
+      ],
+      "title": "Dan1el2109/mcp-agent-search-hub",
+      "url": "https://github.com/Dan1el2109/mcp-agent-search-hub"
+    },
     "ded1c3657861f501": {
       "category": "只归档",
       "discovered_at": "2026-05-24T08:17:45.805034+08:00",
@@ -57502,6 +59916,34 @@
       "title": "npm 生态遭大范围投毒：TanStack、Mistral AI、UiPath 等受波及，可窃取云密钥与 GitHub 令牌",
       "url": "https://www.ithome.com/0/949/178.htm"
     },
+    "df4e88e5ac60db54": {
+      "category": "今日必须看",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "df4e88e5ac60db54",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:50:51Z",
+      "rank": 0,
+      "reason": "matches topics: agent, agents; high-value terms: agent, agents, eval; strong public engagement",
+      "region": "",
+      "score": 83,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+      "tags": [
+        "github",
+        "search",
+        "topic-agents"
+      ],
+      "title": "google/adk-java",
+      "url": "https://github.com/google/adk-java"
+    },
     "df6477974c5fa6d0": {
       "category": "可延后",
       "discovered_at": "2026-05-16T08:17:35.266956+08:00",
@@ -57530,6 +59972,34 @@
       ],
       "title": "微软研究院发布AI新工具与模型",
       "url": "https://x.com/MSFTResearch/status/2055303919497089337"
+    },
+    "df75dfe996b75264": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "df75dfe996b75264",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "baseline source relevance",
+      "region": "",
+      "score": 46,
+      "seen_count": 1,
+      "source": "GitHub Trending",
+      "sources": [
+        "GitHub Trending"
+      ],
+      "summary": "",
+      "tags": [
+        "github",
+        "trending",
+        "python"
+      ],
+      "title": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling"
     },
     "df89e8f3ac0dd914": {
       "category": "可延后",
@@ -57746,19 +60216,19 @@
     },
     "dfeb5195c204f4af": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-24T08:17:45.805034+08:00",
       "follow_up": "判断是否需要沉淀为长期主题笔记。",
       "id": "dfeb5195c204f4af",
       "kind": "product",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-22T02:27:42-07:00",
       "rank": 0,
       "reason": "baseline source relevance",
       "region": "",
       "score": 30,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "Product Hunt — The best new products, every day",
       "sources": [
         "Product Hunt — The best new products, every day"
@@ -58143,6 +60613,33 @@
       "title": "Has the Anthropic Settlement Changed Everything?",
       "url": "https://writerbeware.blog/2026/05/22/has-the-anthropic-settlement-changed-everything/"
     },
+    "e205f2b0ff2c1892": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "e205f2b0ff2c1892",
+      "kind": "article",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T10:04:35Z",
+      "rank": 0,
+      "reason": "matches topics: llm",
+      "region": "",
+      "score": 36,
+      "seen_count": 1,
+      "source": "Dev.to",
+      "sources": [
+        "Dev.to"
+      ],
+      "summary": "I'll start with the moment that pushed me to build this. I was editing a 1,200-line README. Spotted...",
+      "tags": [
+        "devto",
+        "llm"
+      ],
+      "title": "Building Marksmith: lessons from making Markdown bearable in VS Code",
+      "url": "https://dev.to/rakkunn/building-marksmith-lessons-from-making-markdown-bearable-in-vs-code-a1d"
+    },
     "e2748f4c7976f5a0": {
       "category": "只归档",
       "discovered_at": "2026-05-16T08:17:35.266956+08:00",
@@ -58331,21 +60828,48 @@
       "title": "AI视频一致性始于动作之前",
       "url": "https://x.com/PixVerse_/status/2057114262145818752"
     },
+    "e3153afe9dc39aba": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "e3153afe9dc39aba",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T17:05:10Z",
+      "rank": 0,
+      "reason": "matches topics: agent, agents; high-value terms: agent, agents",
+      "region": "",
+      "score": 66,
+      "seen_count": 1,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "5 points | 8 comments",
+      "tags": [
+        "hn",
+        "agents"
+      ],
+      "title": "Agents Dont Want VMs",
+      "url": "https://zachsmith.ai/blog/agents-dont-want-vms/"
+    },
     "e343f1c56d376371": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-11T11:23:27.335489+08:00",
       "follow_up": "阅读讨论区，提炼争议点和实践经验。",
       "id": "e343f1c56d376371",
       "kind": "community",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-06T18:02:08.000-05:00",
       "rank": 0,
       "reason": "24 score, 4 comments",
       "region": "",
       "score": 28,
-      "seen_count": 14,
+      "seen_count": 15,
       "source": "Lobste.rs",
       "sources": [
         "Lobste.rs"
@@ -58597,24 +61121,24 @@
     },
     "e448ba1019d46724": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-23T08:17:21.404730+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "e448ba1019d46724",
       "kind": "failure",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 2,
+      "seen_count": 3,
       "source": "System",
       "sources": [
         "System"
       ],
-      "summary": "The read operation timed out",
+      "summary": "IncompleteRead(607872 bytes read)",
       "tags": [
         "failure"
       ],
@@ -59274,19 +61798,19 @@
     },
     "e75ac08397c70698": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-20T08:17:37.779241+08:00",
       "follow_up": "阅读讨论区，提炼争议点和实践经验。",
       "id": "e75ac08397c70698",
       "kind": "community",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-19T13:47:14.000-05:00",
       "rank": 0,
       "reason": "matches topics: llm",
       "region": "",
       "score": 36,
-      "seen_count": 5,
+      "seen_count": 6,
       "source": "Lobste.rs",
       "sources": [
         "Lobste.rs"
@@ -59939,6 +62463,33 @@
       "title": "PixVerse App上线图像生成功能",
       "url": "https://x.com/PixVerse_/status/2057777743027392848"
     },
+    "ea205f1e176b8cf8": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "ea205f1e176b8cf8",
+      "kind": "article",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T14:47:19Z",
+      "rank": 0,
+      "reason": "3 reactions",
+      "region": "",
+      "score": 28,
+      "seen_count": 1,
+      "source": "Dev.to",
+      "sources": [
+        "Dev.to"
+      ],
+      "summary": "My impression of AI use in programming as a principle engineer.",
+      "tags": [
+        "devto",
+        "ai"
+      ],
+      "title": "My Impression of AI in Programming",
+      "url": "https://dev.to/pauljlucas/my-impression-of-ai-in-programming-33ci"
+    },
     "ea375c2d1fd4f3f7": {
       "category": "只归档",
       "discovered_at": "2026-05-13T08:17:20.766821+08:00",
@@ -60409,6 +62960,61 @@
       "title": "MCPJam/inspector",
       "url": "https://github.com/MCPJam/inspector"
     },
+    "ece41217f66640a9": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "ece41217f66640a9",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T12:51:43Z",
+      "rank": 0,
+      "reason": "matches topics: llm",
+      "region": "",
+      "score": 44,
+      "seen_count": 1,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "3 points | 1 comments",
+      "tags": [
+        "hn",
+        "llm"
+      ],
+      "title": "Show HN: A picker that maps local LLMs to hardware, hardware to LLMs",
+      "url": "https://llmrequirements.com/"
+    },
+    "ed4ede375112ae10": {
+      "category": "可延后",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "ed4ede375112ae10",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:55:37Z",
+      "rank": 0,
+      "reason": "matches topics: agent, mcp; high-value terms: agent, mcp",
+      "region": "",
+      "score": 64,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "Agentic Site Score Check 2026 - Free GitHub CI Action for Not Human Search",
+      "tags": [
+        "github",
+        "search",
+        "topic-mcp"
+      ],
+      "title": "Isaac1909/site-soul-action",
+      "url": "https://github.com/Isaac1909/site-soul-action"
+    },
     "edbbbe31f3cf18ec": {
       "category": "只归档",
       "discovered_at": "2026-05-13T08:17:20.766821+08:00",
@@ -60858,6 +63464,33 @@
       ],
       "title": "PurpleAILAB/Decepticon",
       "url": "https://github.com/PurpleAILAB/Decepticon"
+    },
+    "eee2b271ca8a2d91": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "eee2b271ca8a2d91",
+      "kind": "article",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T07:06:20Z",
+      "rank": 0,
+      "reason": "matches topics: llm",
+      "region": "",
+      "score": 36,
+      "seen_count": 1,
+      "source": "Dev.to",
+      "sources": [
+        "Dev.to"
+      ],
+      "summary": "\"LLMs collapse the boundary between data and control. Here's how to reconstruct separation before...",
+      "tags": [
+        "devto",
+        "llm"
+      ],
+      "title": "The Control Plane is Leaking: When Context Becomes Command",
+      "url": "https://dev.to/toxy4ny/the-control-plane-is-leaking-when-context-becomes-command-29bp"
     },
     "eeeaab2f63db39d7": {
       "category": "只归档",
@@ -61531,6 +64164,34 @@
       ],
       "title": "infektyd/sovereign-memory",
       "url": "https://github.com/infektyd/sovereign-memory"
+    },
+    "f0d3997b001bc091": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "f0d3997b001bc091",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:54:34Z",
+      "rank": 0,
+      "reason": "matches topics: obsidian",
+      "region": "",
+      "score": 42,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "个人 Obsidian 笔记仓库",
+      "tags": [
+        "github",
+        "search",
+        "topic-obsidian"
+      ],
+      "title": "huizhiLLL/Obsidian",
+      "url": "https://github.com/huizhiLLL/Obsidian"
     },
     "f0e0bf706f752a09": {
       "category": "只归档",
@@ -62287,6 +64948,34 @@
       ],
       "title": "nocodb/nocodb",
       "url": "https://github.com/nocodb/nocodb"
+    },
+    "f415fc8dcbda92bc": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "f415fc8dcbda92bc",
+      "kind": "github_repo",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-25T01:46:22Z",
+      "rank": 0,
+      "reason": "matches topics: obsidian",
+      "region": "",
+      "score": 42,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "This repo containes notes whatever learnt by asyncpranav in markdown formate",
+      "tags": [
+        "github",
+        "search",
+        "topic-obsidian"
+      ],
+      "title": "asyncPranav/Obsidian",
+      "url": "https://github.com/asyncPranav/Obsidian"
     },
     "f468f8df58315686": {
       "category": "只归档",
@@ -63153,19 +65842,19 @@
     },
     "f7e0ea6700a016be": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-24T08:17:45.805034+08:00",
       "follow_up": "判断是否需要沉淀为长期主题笔记。",
       "id": "f7e0ea6700a016be",
       "kind": "article",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-23T14:33:01Z",
       "rank": 0,
       "reason": "0 reactions",
       "region": "",
       "score": 28,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "Dev.to",
       "sources": [
         "Dev.to"
@@ -63450,19 +66139,19 @@
     },
     "f907ac6167fd2eaa": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-16T08:17:35.266956+08:00",
       "follow_up": "阅读讨论区，提炼争议点和实践经验。",
       "id": "f907ac6167fd2eaa",
       "kind": "community",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-15T05:09:55.000-05:00",
       "rank": 0,
       "reason": "23 score, 6 comments",
       "region": "",
       "score": 28,
-      "seen_count": 9,
+      "seen_count": 10,
       "source": "Lobste.rs",
       "sources": [
         "Lobste.rs"
@@ -63878,19 +66567,19 @@
     },
     "faaddb8860365d08": {
       "category": "只归档",
-      "discovered_at": "2026-05-24T08:17:45.805034+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-17T08:17:40.175663+08:00",
       "follow_up": "阅读讨论区，提炼争议点和实践经验。",
       "id": "faaddb8860365d08",
       "kind": "community",
-      "last_seen": "2026-05-24T08:17:45.805034+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
       "published": "2026-05-16T11:38:55.000-05:00",
       "rank": 0,
       "reason": "11 score, 0 comments",
       "region": "",
       "score": 28,
-      "seen_count": 8,
+      "seen_count": 9,
       "source": "Lobste.rs",
       "sources": [
         "Lobste.rs"
@@ -64066,6 +66755,33 @@
       ],
       "title": "Anthropic is expanding to Colossus2. Will use GB200",
       "url": "https://xcancel.com/nottombrown/status/2057194829986300375"
+    },
+    "fb9d0f8753bebb47": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "fb9d0f8753bebb47",
+      "kind": "article",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T05:13:07Z",
+      "rank": 0,
+      "reason": "matches topics: llm",
+      "region": "",
+      "score": 36,
+      "seen_count": 1,
+      "source": "Dev.to",
+      "sources": [
+        "Dev.to"
+      ],
+      "summary": "Meta Description: NVIDIA just open-sourced Nemotron-Labs Diffusion — a family of 3B, 8B, and 14B...",
+      "tags": [
+        "devto",
+        "llm"
+      ],
+      "title": "Diffusion Language Models Are Here: Deep Dive into NVIDIA's Nemotron-Labs DLM Architecture",
+      "url": "https://dev.to/monuminu/diffusion-language-models-are-here-deep-dive-into-nvidias-nemotron-labs-dlm-architecture-2ke2"
     },
     "fba4ec997146e1fa": {
       "category": "只归档",
@@ -64592,24 +67308,24 @@
     },
     "fd481936253455ac": {
       "category": "可延后",
-      "discovered_at": "2026-05-20T08:17:37.779241+08:00",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
       "first_seen": "2026-05-20T08:17:37.779241+08:00",
       "follow_up": "阅读讨论区，提炼争议点和实践经验。",
       "id": "fd481936253455ac",
       "kind": "community",
-      "last_seen": "2026-05-20T08:17:37.779241+08:00",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
       "news_category": "",
-      "published": "2026-05-19T17:29:29Z",
+      "published": "2026-05-24T13:00:30Z",
       "rank": 0,
       "reason": "matches topics: openai, anthropic",
       "region": "",
       "score": 52,
-      "seen_count": 2,
+      "seen_count": 3,
       "source": "Hacker News",
       "sources": [
         "Hacker News"
       ],
-      "summary": "8 points | 1 comments",
+      "summary": "5 points | 1 comments",
       "tags": [
         "anthropic",
         "hn",
@@ -65739,6 +68455,33 @@
       ],
       "title": "Githubster free tool to track your GitHub followers and unfollowers",
       "url": "https://dev.to/madeburo/githubster-free-tool-to-track-your-github-followers-and-unfollowers-3f29"
+    },
+    "fffd5f80127165b8": {
+      "category": "只归档",
+      "discovered_at": "2026-05-25T09:55:23.445760+08:00",
+      "first_seen": "2026-05-25T09:55:23.445760+08:00",
+      "follow_up": "阅读讨论区，提炼争议点和实践经验。",
+      "id": "fffd5f80127165b8",
+      "kind": "community",
+      "last_seen": "2026-05-25T09:55:23.445760+08:00",
+      "news_category": "",
+      "published": "2026-05-24T23:14:37Z",
+      "rank": 0,
+      "reason": "matches topics: openai",
+      "region": "",
+      "score": 44,
+      "seen_count": 1,
+      "source": "Hacker News",
+      "sources": [
+        "Hacker News"
+      ],
+      "summary": "2 points | 1 comments",
+      "tags": [
+        "hn",
+        "openai"
+      ],
+      "title": "What to know about the AI models that are jolting Washington",
+      "url": "https://www.politico.com/news/2026/05/24/anthropic-openai-mythos-what-to-know-00934668"
     }
   },
   "version": 1
