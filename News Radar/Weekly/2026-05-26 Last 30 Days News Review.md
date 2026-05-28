@@ -1,16 +1,16 @@
 ---
-title: News Radar Week 2026-W22
-date: 2026-05-28
+title: News Radar Last 30 Days 2026-05-26
+date: 2026-05-26
 tags:
   - news-radar
-  - weekly-review
+  - last30days-review
 ---
 
-# 2026-W22 News Radar
+# 2026-05-26 Last 30 Days News Review
 
 ## 复盘方法
 
-- 汇总过去 7 天持续升温和跨来源重复出现的议题。
+- 借鉴 last30days-skill：近期变化、关键节点、趋势判断、后续观察。
 - 排序原则：先看热度和重复出现，再看分类标签。
 
 ## 过去阶段最高热度
@@ -23,7 +23,7 @@ tags:
 > **region**：美国/国际
 > **category**：科技
 > **rank**：#1
-> **reason**：rank #1; cross-source x10; source weight: GDELT; hot terms: 美国, ai, sanctions, ai
+> **reason**：rank #1; cross-source x9; source weight: GDELT; hot terms: 美国, ai, sanctions, ai
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260402T140000Z
 >
@@ -40,7 +40,7 @@ tags:
 > **region**：美国/国际
 > **category**：科技
 > **rank**：#5
-> **reason**：rank #5; cross-source x10; source weight: GDELT; hot terms: 美国, ai, us, ai
+> **reason**：rank #5; cross-source x9; source weight: GDELT; hot terms: 美国, ai, us, ai
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260428T171500Z
 >
@@ -57,7 +57,7 @@ tags:
 > **region**：美国/国际
 > **category**：科技
 > **rank**：#2
-> **reason**：rank #2; cross-source x10; source weight: GDELT; hot terms: 美国, ai, ai
+> **reason**：rank #2; cross-source x9; source weight: GDELT; hot terms: 美国, ai, ai
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260406T124500Z
 >
@@ -74,7 +74,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#1
-> **reason**：rank #1; cross-source x9; source weight: GDELT; hot terms: 美国, 军事, sanctions
+> **reason**：rank #1; cross-source x7; source weight: GDELT; hot terms: 美国, 军事, sanctions
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260426T114500Z
 >
@@ -91,7 +91,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#4
-> **reason**：rank #4; cross-source x8; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
+> **reason**：rank #4; cross-source x6; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260416T174500Z
 >
@@ -108,7 +108,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#5
-> **reason**：rank #5; cross-source x8; source weight: GDELT; hot terms: 美国, 军事, china, us
+> **reason**：rank #5; cross-source x6; source weight: GDELT; hot terms: 美国, 军事, china, us
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260514T130000Z
 >
@@ -125,9 +125,26 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#3
-> **reason**：rank #3; cross-source x8; source weight: GDELT; hot terms: 美国, 军事, 外交
+> **reason**：rank #3; cross-source x6; source weight: GDELT; hot terms: 美国, 军事, 外交
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260310T031500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | 삼성운용 , KODEX 차이나AI반도체TOP10 신규 상장
+> **标题**：삼성운용 , KODEX 차이나AI반도체TOP10 신규 상장
+> **原文链接**：🔗 [打开原文](https://www.newspim.com/news/view/20260225000415)
+> **source**：GDELT / newspim.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#2
+> **reason**：rank #2; cross-source x5; source weight: GDELT; hot terms: 美国, ai, ai
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260225T021500Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -151,6 +168,40 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 100** | Knights of Columbus Supreme Knight Patrick Kelly Joins U.S. Delegation at Annual International Military Pilgrimage to Marian Shrine at Lourdes - Knights of Columbus
+> **标题**：Knights of Columbus Supreme Knight Patrick Kelly Joins U.S. Delegation at Annual International Military Pilgrimage to Marian Shrine at Lourdes - Knights of Columbus
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMingFBVV95cUxNTDUyZ0tydWpnUDhZWTBGQVAtSjhGQl9xb2VZTy12ZnFxN19yLXhhOWozUFJZWmFjRGJ6ZDVaeEhseU9rVWJRYWlHQ20wamF3YmtKNUdQWFFJd3RYNzhyMGRVbmd6QlBIRms5VzFtME9Db1NoRTRZN0lWamZTTVdYNHprczZBRTdSdDNISklkRHVfQ3I2bHNYajhoYTJoUQ?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Knights of Columbus Supreme Knight Patrick Kelly Joins U.S. Delegation at Annual International Military Pilgrimage to Marian Shrine at Lourdes Knights of Columbus
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | Pope Leo Uses First Major Papal Text to Warn About Dangers of AI - Time Magazine
+> **标题**：Pope Leo Uses First Major Papal Text to Warn About Dangers of AI - Time Magazine
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxNWldUeU15OXhFWjlfTy12RWxqaUFYUXdEMXpFOV85RnAxeG8wZHVERC1pNENVN0hfYm5nRVl4R3JTd1l1NUo4MUdhY0lNMFZMOHhwNHlVcTJjVlVCOHRvYkNJYnZYNkNCR2RfVHQ5QVhxM2VEclNMb1d1S1FiVzV0VUJMM0FWUQ?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Pope Leo Uses First Major Papal Text to Warn About Dangers of AI Time Magazine
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 98** | La Chine cible lexpertise de Taïwan dans les puces pour contourner lendiguement mondial , selon Taipei
 > **标题**：La Chine cible lexpertise de Taïwan dans les puces pour contourner lendiguement mondial , selon Taipei
 > **原文链接**：🔗 [打开原文](https://www.zonebourse.com/actualite-bourse/la-chine-cible-l-expertise-de-taiwan-dans-les-puces-pour-contourner-l-endiguement-mondial-selon-tai-ce7e51d3db8af621)
@@ -159,7 +210,7 @@ tags:
 > **region**：美国/国际
 > **category**：科技
 > **rank**：#6
-> **reason**：rank #6; cross-source x10; source weight: GDELT; hot terms: 美国, ai, ai
+> **reason**：rank #6; cross-source x9; source weight: GDELT; hot terms: 美国, ai, ai
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260407T040000Z
 >
@@ -168,17 +219,17 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 98** | After AI chips , US lawmakers want to ban sale of key equipment to China ; Former White House AI czar David Sacks called it single most important export control
-> **标题**：After AI chips , US lawmakers want to ban sale of key equipment to China ; Former White House AI czar David Sacks called it single most important export control
-> **原文链接**：🔗 [打开原文](https://timesofindia.indiatimes.com/technology/tech-news/after-ai-chips-us-lawmakers-want-to-ban-sale-of-key-equipment-to-china-former-white-house-ai-czar-david-sacks-called-it-single-most-important-export-control/articleshow/130003523.cms)
-> **source**：GDELT / timesofindia.indiatimes.com
+> [!info]+ **今日必须看 / 97** | Pope calls for robust regulation of AI in manifesto that ponders the future of humanity - AP News
+> **标题**：Pope calls for robust regulation of AI in manifesto that ponders the future of humanity - AP News
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMinAFBVV95cUxQVjMxWVlpUUhJb1JjYnFPRXpkeE1qaTc3aDNQQXltRWZYNmo4T1dmN095X3R6bDY5NmkxdHBwTERrNkg1ajFIZDFZR09VQzd6a2oyalZTM2tkcjRwMFVyXzM5RUhkZWNQQ216cExQbkI1OGN0RS1CazVJV1dvTV9aYUt2cVVsc3Z6LVJDanZySTdMOHdEWmlIVTI4VVI?oc=5)
+> **source**：Google News / Global Markets Tech
 > **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#8
-> **reason**：rank #8; cross-source x10; source weight: GDELT; hot terms: 美国, ai, china, us
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260403T174500Z
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Pope calls for robust regulation of AI in manifesto that ponders the future of humanity AP News
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -193,7 +244,7 @@ tags:
 > **region**：美国/国际
 > **category**：科技
 > **rank**：#3
-> **reason**：rank #3; cross-source x10; source weight: GDELT; hot terms: 美国
+> **reason**：rank #3; cross-source x9; source weight: GDELT; hot terms: 美国
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260514T191500Z
 >
@@ -210,60 +261,9 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#7
-> **reason**：rank #7; cross-source x8; source weight: GDELT; hot terms: 中国, 美国, 军事
+> **reason**：rank #7; cross-source x6; source weight: GDELT; hot terms: 中国, 美国, 军事
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260506T074500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 96** | Gemini for Science: AI experiments and tools for a new era of discovery - blog.google
-> **标题**：Gemini for Science: AI experiments and tools for a new era of discovery - blog.google
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMijgFBVV95cUxPeHhUVm0xbHdMSVZPd1FfZDBZUlBZSEtRRy1nVmJVVkwxMGhFNmczSnlsbWl6a055cC1Mc1pJSU83S2NyREJVbjRtTlV2akwyNHJuLUFNdEZRMjBIQV83TmlxRjFraGFxYjhJck1NMXVCU0ZORVluRmVjZi11aEpoN0pwX2g4N202Q25HYndn?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#1
-> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: ai, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Gemini for Science: AI experiments and tools for a new era of discovery blog.google
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 96** | The Former Air Force Pilot Who Was Allegedly Recruited to Train China’s Military - WSJ
-> **标题**：The Former Air Force Pilot Who Was Allegedly Recruited to Train China’s Military - WSJ
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTnNDWmhUWkpaSXpKZmhpNUk4T0QwZUp4bnBOOWl3R2VEa0FXNGRiMS0ycUFvakY5OW5zWTl6OUI5ck1BMVlZTE50bHM1UW1CUnl4N2J0TVZ6bzdNNzNZVHpEMFFkRWp3MWxlOEZaMnU5a194VUpfNzBTVlRSNDNrUHdlanF2Z0JsZEItNGFmZ1JQYmMyNERmM1lkcVZGeThodzI2UDRrV3pDRExwXzdyVWY5WVc?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#3
-> **reason**：rank #3; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：The Former Air Force Pilot Who Was Allegedly Recruited to Train China’s Military WSJ
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 94** | Which Country is the Largest Producer of Semiconductors in the World ?
-> **标题**：Which Country is the Largest Producer of Semiconductors in the World ?
-> **原文链接**：🔗 [打开原文](https://www.jagranjosh.com/general-knowledge/largest-manufacturer-of-semiconductor-chips-in-the-world-1820007308-1)
-> **source**：GDELT / jagranjosh.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#4
-> **reason**：rank #4; cross-source x10; source weight: GDELT; hot terms: 美国
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260329T154500Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -280,7 +280,7 @@ tags:
 > **region**：美国/国际
 > **category**：科技
 > **rank**：#1
-> **reason**：rank #1; cross-source x10; source weight: GDELT; hot terms: 美国, ai, sanctions, ai
+> **reason**：rank #1; cross-source x9; source weight: GDELT; hot terms: 美国, ai, sanctions, ai
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260402T140000Z
 >
@@ -297,7 +297,7 @@ tags:
 > **region**：美国/国际
 > **category**：科技
 > **rank**：#5
-> **reason**：rank #5; cross-source x10; source weight: GDELT; hot terms: 美国, ai, us, ai
+> **reason**：rank #5; cross-source x9; source weight: GDELT; hot terms: 美国, ai, us, ai
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260428T171500Z
 >
@@ -314,7 +314,7 @@ tags:
 > **region**：美国/国际
 > **category**：科技
 > **rank**：#2
-> **reason**：rank #2; cross-source x10; source weight: GDELT; hot terms: 美国, ai, ai
+> **reason**：rank #2; cross-source x9; source weight: GDELT; hot terms: 美国, ai, ai
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260406T124500Z
 >
@@ -331,7 +331,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#1
-> **reason**：rank #1; cross-source x9; source weight: GDELT; hot terms: 美国, 军事, sanctions
+> **reason**：rank #1; cross-source x7; source weight: GDELT; hot terms: 美国, 军事, sanctions
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260426T114500Z
 >
@@ -348,7 +348,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#4
-> **reason**：rank #4; cross-source x8; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
+> **reason**：rank #4; cross-source x6; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260416T174500Z
 >
@@ -365,7 +365,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#5
-> **reason**：rank #5; cross-source x8; source weight: GDELT; hot terms: 美国, 军事, china, us
+> **reason**：rank #5; cross-source x6; source weight: GDELT; hot terms: 美国, 军事, china, us
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260514T130000Z
 >
@@ -382,9 +382,26 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#3
-> **reason**：rank #3; cross-source x8; source weight: GDELT; hot terms: 美国, 军事, 外交
+> **reason**：rank #3; cross-source x6; source weight: GDELT; hot terms: 美国, 军事, 外交
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260310T031500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | 삼성운용 , KODEX 차이나AI반도체TOP10 신규 상장
+> **标题**：삼성운용 , KODEX 차이나AI반도체TOP10 신규 상장
+> **原文链接**：🔗 [打开原文](https://www.newspim.com/news/view/20260225000415)
+> **source**：GDELT / newspim.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#2
+> **reason**：rank #2; cross-source x5; source weight: GDELT; hot terms: 美国, ai, ai
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260225T021500Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -416,26 +433,9 @@ tags:
 > **region**：美国/国际
 > **category**：科技
 > **rank**：#6
-> **reason**：rank #6; cross-source x10; source weight: GDELT; hot terms: 美国, ai, ai
+> **reason**：rank #6; cross-source x9; source weight: GDELT; hot terms: 美国, ai, ai
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260407T040000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 98** | After AI chips , US lawmakers want to ban sale of key equipment to China ; Former White House AI czar David Sacks called it single most important export control
-> **标题**：After AI chips , US lawmakers want to ban sale of key equipment to China ; Former White House AI czar David Sacks called it single most important export control
-> **原文链接**：🔗 [打开原文](https://timesofindia.indiatimes.com/technology/tech-news/after-ai-chips-us-lawmakers-want-to-ban-sale-of-key-equipment-to-china-former-white-house-ai-czar-david-sacks-called-it-single-most-important-export-control/articleshow/130003523.cms)
-> **source**：GDELT / timesofindia.indiatimes.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#8
-> **reason**：rank #8; cross-source x10; source weight: GDELT; hot terms: 美国, ai, china, us
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260403T174500Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -450,7 +450,7 @@ tags:
 > **region**：美国/国际
 > **category**：科技
 > **rank**：#3
-> **reason**：rank #3; cross-source x10; source weight: GDELT; hot terms: 美国
+> **reason**：rank #3; cross-source x9; source weight: GDELT; hot terms: 美国
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260514T191500Z
 >
@@ -467,7 +467,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#7
-> **reason**：rank #7; cross-source x8; source weight: GDELT; hot terms: 中国, 美国, 军事
+> **reason**：rank #7; cross-source x6; source weight: GDELT; hot terms: 中国, 美国, 军事
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260506T074500Z
 >
@@ -510,17 +510,17 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 94** | Which Country is the Largest Producer of Semiconductors in the World ?
-> **标题**：Which Country is the Largest Producer of Semiconductors in the World ?
-> **原文链接**：🔗 [打开原文](https://www.jagranjosh.com/general-knowledge/largest-manufacturer-of-semiconductor-chips-in-the-world-1820007308-1)
-> **source**：GDELT / jagranjosh.com
+> [!info]+ **今日必须看 / 95** | In pageantry and politics, China summit yields Xi’s goal — equal footing with U.S. - The Washington Post
+> **标题**：In pageantry and politics, China summit yields Xi’s goal — equal footing with U.S. - The Washington Post
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirAFBVV95cUxQMWJyZS1xTzE2U2YwbGFLQUxyZWF6TkVham5jNDB1UGh0WUZRenhCTkd4WjFBY0NESmxLWXBWb2tUQWRoVHRGTk9PRmRsOXBQVzlpX3JZeFR1S1U4QXctRnVQNE56VUZKR0tvUXhHdXFkWVcxdlVpUk0yaGVpYmVGdjFwNklJT0NIeVAzSDdHY19abHpTdnVZSkpCSGktd0wxVFVmenItb3pZWXlW?oc=5)
+> **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
-> **category**：科技
-> **rank**：#4
-> **reason**：rank #4; cross-source x10; source weight: GDELT; hot terms: 美国
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260329T154500Z
+> **category**：综合
+> **rank**：#5
+> **reason**：rank #5; cross-source x3; source weight: Google News; hot terms: 美国, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：In pageantry and politics, China summit yields Xi’s goal — equal footing with U.S. The Washington Post
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -541,7 +541,7 @@ tags:
 > **region**：美国/国际
 > **category**：科技
 > **rank**：#1
-> **reason**：rank #1; cross-source x10; source weight: GDELT; hot terms: 美国, ai, sanctions, ai
+> **reason**：rank #1; cross-source x9; source weight: GDELT; hot terms: 美国, ai, sanctions, ai
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260402T140000Z
 >
@@ -558,7 +558,7 @@ tags:
 > **region**：美国/国际
 > **category**：科技
 > **rank**：#5
-> **reason**：rank #5; cross-source x10; source weight: GDELT; hot terms: 美国, ai, us, ai
+> **reason**：rank #5; cross-source x9; source weight: GDELT; hot terms: 美国, ai, us, ai
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260428T171500Z
 >
@@ -575,7 +575,7 @@ tags:
 > **region**：美国/国际
 > **category**：科技
 > **rank**：#2
-> **reason**：rank #2; cross-source x10; source weight: GDELT; hot terms: 美国, ai, ai
+> **reason**：rank #2; cross-source x9; source weight: GDELT; hot terms: 美国, ai, ai
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260406T124500Z
 >
@@ -592,7 +592,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#1
-> **reason**：rank #1; cross-source x9; source weight: GDELT; hot terms: 美国, 军事, sanctions
+> **reason**：rank #1; cross-source x7; source weight: GDELT; hot terms: 美国, 军事, sanctions
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260426T114500Z
 >
@@ -609,7 +609,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#4
-> **reason**：rank #4; cross-source x8; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
+> **reason**：rank #4; cross-source x6; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260416T174500Z
 >
@@ -626,7 +626,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#5
-> **reason**：rank #5; cross-source x8; source weight: GDELT; hot terms: 美国, 军事, china, us
+> **reason**：rank #5; cross-source x6; source weight: GDELT; hot terms: 美国, 军事, china, us
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260514T130000Z
 >
@@ -643,9 +643,26 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#3
-> **reason**：rank #3; cross-source x8; source weight: GDELT; hot terms: 美国, 军事, 外交
+> **reason**：rank #3; cross-source x6; source weight: GDELT; hot terms: 美国, 军事, 外交
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260310T031500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | 삼성운용 , KODEX 차이나AI반도체TOP10 신규 상장
+> **标题**：삼성운용 , KODEX 차이나AI반도체TOP10 신규 상장
+> **原文链接**：🔗 [打开原文](https://www.newspim.com/news/view/20260225000415)
+> **source**：GDELT / newspim.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#2
+> **reason**：rank #2; cross-source x5; source weight: GDELT; hot terms: 美国, ai, ai
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260225T021500Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -669,34 +686,17 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 98** | La Chine cible lexpertise de Taïwan dans les puces pour contourner lendiguement mondial , selon Taipei
-> **标题**：La Chine cible lexpertise de Taïwan dans les puces pour contourner lendiguement mondial , selon Taipei
-> **原文链接**：🔗 [打开原文](https://www.zonebourse.com/actualite-bourse/la-chine-cible-l-expertise-de-taiwan-dans-les-puces-pour-contourner-l-endiguement-mondial-selon-tai-ce7e51d3db8af621)
-> **source**：GDELT / zonebourse.com
+> [!info]+ **今日必须看 / 100** | Knights of Columbus Supreme Knight Patrick Kelly Joins U.S. Delegation at Annual International Military Pilgrimage to Marian Shrine at Lourdes - Knights of Columbus
+> **标题**：Knights of Columbus Supreme Knight Patrick Kelly Joins U.S. Delegation at Annual International Military Pilgrimage to Marian Shrine at Lourdes - Knights of Columbus
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMingFBVV95cUxNTDUyZ0tydWpnUDhZWTBGQVAtSjhGQl9xb2VZTy12ZnFxN19yLXhhOWozUFJZWmFjRGJ6ZDVaeEhseU9rVWJRYWlHQ20wamF3YmtKNUdQWFFJd3RYNzhyMGRVbmd6QlBIRms5VzFtME9Db1NoRTRZN0lWamZTTVdYNHprczZBRTdSdDNISklkRHVfQ3I2bHNYajhoYTJoUQ?oc=5)
+> **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
-> **category**：科技
-> **rank**：#6
-> **reason**：rank #6; cross-source x10; source weight: GDELT; hot terms: 美国, ai, ai
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260407T040000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 98** | After AI chips , US lawmakers want to ban sale of key equipment to China ; Former White House AI czar David Sacks called it single most important export control
-> **标题**：After AI chips , US lawmakers want to ban sale of key equipment to China ; Former White House AI czar David Sacks called it single most important export control
-> **原文链接**：🔗 [打开原文](https://timesofindia.indiatimes.com/technology/tech-news/after-ai-chips-us-lawmakers-want-to-ban-sale-of-key-equipment-to-china-former-white-house-ai-czar-david-sacks-called-it-single-most-important-export-control/articleshow/130003523.cms)
-> **source**：GDELT / timesofindia.indiatimes.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#8
-> **reason**：rank #8; cross-source x10; source weight: GDELT; hot terms: 美国, ai, china, us
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260403T174500Z
+> **category**：综合
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Knights of Columbus Supreme Knight Patrick Kelly Joins U.S. Delegation at Annual International Military Pilgrimage to Marian Shrine at Lourdes Knights of Columbus
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -713,7 +713,7 @@ tags:
 > **region**：美国/国际
 > **category**：科技
 > **rank**：#1
-> **reason**：rank #1; cross-source x10; source weight: GDELT; hot terms: 美国, ai, sanctions, ai
+> **reason**：rank #1; cross-source x9; source weight: GDELT; hot terms: 美国, ai, sanctions, ai
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260402T140000Z
 >
@@ -730,7 +730,7 @@ tags:
 > **region**：美国/国际
 > **category**：科技
 > **rank**：#5
-> **reason**：rank #5; cross-source x10; source weight: GDELT; hot terms: 美国, ai, us, ai
+> **reason**：rank #5; cross-source x9; source weight: GDELT; hot terms: 美国, ai, us, ai
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260428T171500Z
 >
@@ -747,9 +747,43 @@ tags:
 > **region**：美国/国际
 > **category**：科技
 > **rank**：#2
-> **reason**：rank #2; cross-source x10; source weight: GDELT; hot terms: 美国, ai, ai
+> **reason**：rank #2; cross-source x9; source weight: GDELT; hot terms: 美国, ai, ai
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260406T124500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | 삼성운용 , KODEX 차이나AI반도체TOP10 신규 상장
+> **标题**：삼성운용 , KODEX 차이나AI반도체TOP10 신규 상장
+> **原文链接**：🔗 [打开原文](https://www.newspim.com/news/view/20260225000415)
+> **source**：GDELT / newspim.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#2
+> **reason**：rank #2; cross-source x5; source weight: GDELT; hot terms: 美国, ai, ai
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260225T021500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | Pope Leo Uses First Major Papal Text to Warn About Dangers of AI - Time Magazine
+> **标题**：Pope Leo Uses First Major Papal Text to Warn About Dangers of AI - Time Magazine
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxNWldUeU15OXhFWjlfTy12RWxqaUFYUXdEMXpFOV85RnAxeG8wZHVERC1pNENVN0hfYm5nRVl4R3JTd1l1NUo4MUdhY0lNMFZMOHhwNHlVcTJjVlVCOHRvYkNJYnZYNkNCR2RfVHQ5QVhxM2VEclNMb1d1S1FiVzV0VUJMM0FWUQ?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Pope Leo Uses First Major Papal Text to Warn About Dangers of AI Time Magazine
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -764,7 +798,7 @@ tags:
 > **region**：美国/国际
 > **category**：科技
 > **rank**：#6
-> **reason**：rank #6; cross-source x10; source weight: GDELT; hot terms: 美国, ai, ai
+> **reason**：rank #6; cross-source x9; source weight: GDELT; hot terms: 美国, ai, ai
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260407T040000Z
 >
@@ -773,17 +807,17 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 98** | After AI chips , US lawmakers want to ban sale of key equipment to China ; Former White House AI czar David Sacks called it single most important export control
-> **标题**：After AI chips , US lawmakers want to ban sale of key equipment to China ; Former White House AI czar David Sacks called it single most important export control
-> **原文链接**：🔗 [打开原文](https://timesofindia.indiatimes.com/technology/tech-news/after-ai-chips-us-lawmakers-want-to-ban-sale-of-key-equipment-to-china-former-white-house-ai-czar-david-sacks-called-it-single-most-important-export-control/articleshow/130003523.cms)
-> **source**：GDELT / timesofindia.indiatimes.com
+> [!info]+ **今日必须看 / 97** | Pope calls for robust regulation of AI in manifesto that ponders the future of humanity - AP News
+> **标题**：Pope calls for robust regulation of AI in manifesto that ponders the future of humanity - AP News
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMinAFBVV95cUxQVjMxWVlpUUhJb1JjYnFPRXpkeE1qaTc3aDNQQXltRWZYNmo4T1dmN095X3R6bDY5NmkxdHBwTERrNkg1ajFIZDFZR09VQzd6a2oyalZTM2tkcjRwMFVyXzM5RUhkZWNQQ216cExQbkI1OGN0RS1CazVJV1dvTV9aYUt2cVVsc3Z6LVJDanZySTdMOHdEWmlIVTI4VVI?oc=5)
+> **source**：Google News / Global Markets Tech
 > **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#8
-> **reason**：rank #8; cross-source x10; source weight: GDELT; hot terms: 美国, ai, china, us
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260403T174500Z
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Pope calls for robust regulation of AI in manifesto that ponders the future of humanity AP News
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -798,7 +832,7 @@ tags:
 > **region**：美国/国际
 > **category**：科技
 > **rank**：#3
-> **reason**：rank #3; cross-source x10; source weight: GDELT; hot terms: 美国
+> **reason**：rank #3; cross-source x9; source weight: GDELT; hot terms: 美国
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260514T191500Z
 >
@@ -832,43 +866,9 @@ tags:
 > **region**：美国/国际
 > **category**：科技
 > **rank**：#4
-> **reason**：rank #4; cross-source x10; source weight: GDELT; hot terms: 美国
+> **reason**：rank #4; cross-source x9; source weight: GDELT; hot terms: 美国
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260329T154500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 94** | كيفن وارش .. مروض للأسواق المالية يعول ترمب على خدماته
-> **标题**：كيفن وارش .. مروض للأسواق المالية يعول ترمب على خدماته
-> **原文链接**：🔗 [打开原文](https://www.aljazeera.net/ebusiness/2026/5/18/%D9%83%D9%8A%D9%81%D9%86-%D9%88%D8%A7%D8%B1%D8%B4-%D9%85%D8%B1%D9%88%D8%B6-%D9%84%D9%84%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%8A%D8%B9%D9%88%D9%84)
-> **source**：GDELT / aljazeera.net
-> **kind**：`news`
-> **region**：国际
-> **category**：财经
-> **rank**：#2
-> **reason**：rank #2; cross-source x5; source weight: GDELT
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：20260518T200000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 93** | Pope Leo Uses First Major Papal Text to Warn About Dangers of AI - Time Magazine
-> **标题**：Pope Leo Uses First Major Papal Text to Warn About Dangers of AI - Time Magazine
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxNWldUeU15OXhFWjlfTy12RWxqaUFYUXdEMXpFOV85RnAxeG8wZHVERC1pNENVN0hfYm5nRVl4R3JTd1l1NUo4MUdhY0lNMFZMOHhwNHlVcTJjVlVCOHRvYkNJYnZYNkNCR2RfVHQ5QVhxM2VEclNMb1d1S1FiVzV0VUJMM0FWUQ?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, us, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Pope Leo Uses First Major Papal Text to Warn About Dangers of AI Time Magazine
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库

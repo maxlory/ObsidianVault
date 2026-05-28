@@ -1,0 +1,3083 @@
+---
+title: Daily Intelligence 2026-05-26
+date: 2026-05-26
+tags:
+  - daily-briefing
+  - research-radar
+  - workbuddy
+---
+
+# 2026-05-26 Daily Intelligence
+
+## 今日概览
+
+- 今日信号总数：206
+- 今日必须看：6
+- 可延后：35
+- 处理建议：先看高分条目的 README / paper / release notes，再决定是否建立永久笔记。
+
+## AI HOT 官方日报
+
+### 模型发布/更新
+
+> [!info]+ **可延后 / 71** | 面壁智能联合清华等开源中国首个基于华为昇腾训练的 1.58-bit 端侧大模型 BitCPM-CANN
+> **标题**：面壁智能联合清华等开源中国首个基于华为昇腾训练的 1.58-bit 端侧大模型 BitCPM-CANN
+> **原文链接**：🔗 [打开原文](https://www.ithome.com/0/954/759.htm)
+> **source**：AI HOT Daily / IT之家（RSS）
+> **kind**：`model`
+> **reason**：AI HOT official daily section: 模型发布/更新
+> **follow_up**：检查模型卡、license、benchmark 和可部署性。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### 产品发布/更新
+
+> [!info]+ **可延后 / 66** | Grok Build Beta版向SuperGrok用户开放
+> **标题**：Grok Build Beta版向SuperGrok用户开放
+> **原文链接**：🔗 [打开原文](https://x.com/xai/status/2058973760708091907)
+> **source**：AI HOT Daily / X：xAI (@xai)
+> **kind**：`product`
+> **reason**：AI HOT official daily section: 产品发布/更新
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Grok Build 现已面向所有 SuperGrok 和 X Premium+ 用户推出 Beta 版。 使用 Plan Mode，通过 Imagine 创建图像和视频，并使用 CLI 构建自动化或编排器。 访问 http://x.ai/cli 开始使用。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 66** | Qwen3.7-Max隐式缓存功能上线
+> **标题**：Qwen3.7-Max隐式缓存功能上线
+> **原文链接**：🔗 [打开原文](https://x.com/Alibaba_Qwen/status/2058932656797368619)
+> **source**：AI HOT Daily / X：通义千问 / Qwen (@Alibaba_Qwen)
+> **kind**：`product`
+> **reason**：AI HOT official daily section: 产品发布/更新
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：✅隐式缓存现已在Qwen3.7-Max上线——自动启用，无需设置。 ⚡️开箱即用，更快更便宜。 需要更高、更确定的命中率？请尝试显式缓存。🙌 🔗最佳实践🔗：https://www.alibabacloud.com/help/en/model-studio/explicit-cache-best-practice
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### 行业动态
+
+> [!info]+ **可延后 / 64** | 苹果据称正使用定制版1.2T参数Google模型重塑下一代Siri
+> **标题**：苹果据称正使用定制版1.2T参数Google模型重塑下一代Siri
+> **原文链接**：🔗 [打开原文](https://x.com/kimmonismus/status/2058997271803674991)
+> **source**：AI HOT Daily / X：Kim (@kimmonismus)
+> **kind**：`article`
+> **reason**：AI HOT official daily section: 行业动态
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：据报道，苹果为改造下一代Siri，正使用一个定制版、参数规模达1.2T的Google大模型作为其核心，这显著大于预估约300B参数的Gemini 3.5 Flash。该模型将驱动Siri的部分功能，其中简单查询预期会在本地设备运行。苹果面临的关键挑战是确保该大模型能够足够快速地响应日常问题。此外，下个月AI领域预计将有多项重要发布，包括WWDC上的Apple Intelligence与Gemini整合、GPT-5.6、可能的Sonnet 4.8/Opus 4.8，以及已确认的Gemini 3.5 Pro。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 64** | 教皇里奥呼吁在AI时代保持“深刻的人性”
+> **标题**：教皇里奥呼吁在AI时代保持“深刻的人性”
+> **原文链接**：🔗 [打开原文](https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare)
+> **source**：AI HOT Daily / The Verge：AI（RSS）
+> **kind**：`article`
+> **reason**：AI HOT official daily section: 行业动态
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：教皇里奥十四世在首份重要通谕《Magnifica Humanitas》中警告了AI及不受约束的技术力量带来的风险。该通谕于2026年5月15日发布，是教皇关于“在人工智能时代守护人”的宣言。文件重点讨论了AI驱动战争的危险、AI对劳动的影响，以及建立新的法律和伦理框架来规范技术的必要性，强调AI的快速普及正造成经济和社会动荡，对个人的保护不足威胁着人类尊严。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### matches topics: codex, openai, anthropic; high-value terms: codex
+
+> [!info]+ **今日必须看 / 95** | OpenAI GPT-5.6 模型曝下月发布：AI 上下文 150 万 tokens
+> **标题**：OpenAI GPT-5.6 模型曝下月发布：AI 上下文 150 万 tokens
+> **原文链接**：🔗 [打开原文](https://www.ithome.com/0/955/078.htm)
+> **source**：AI HOT Daily / IT之家（RSS）
+> **kind**：`article`
+> **reason**：matches topics: codex, openai, anthropic; high-value terms: codex
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：多名开发者在 OpenAI Codex 后端日志中发现未官宣的 GPT-5.6 模型，内部代号 iris-alpha。该模型将支持 150 万 token 的上下文窗口，较当前 GPT-5.5 的 105 万 token 提升约 43%，有望于今年 6 月发布。测试显示，在输入达到 90 万 token 时仍能流畅响应。同系列还发现了 ember-alpha 与 beacon-alpha 版本。此外，GPT-5.6 在前端界面生成能力上也有所提升。基于爆料信息，Anthropic Claude、Google Gemini 及 xAI Grok 也可能瞄准同期发布新模型。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### matches topics: openai
+
+> [!info]+ **可延后 / 72** | OpenAI、Grupo Folha与Grupo UOL宣布战略内容合作
+> **标题**：OpenAI、Grupo Folha与Grupo UOL宣布战略内容合作
+> **原文链接**：🔗 [打开原文](https://openai.com/index/grupo-folha-grupo-uol-partnership)
+> **source**：AI HOT Daily / OpenAI：官网动态（RSS · 排除企业/客户案例）
+> **kind**：`article`
+> **reason**：matches topics: openai
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：OpenAI与巴西媒体集团Grupo Folha和Grupo UOL达成合作，将可信的巴西新闻内容引入ChatGPT，以扩展新闻访问渠道，并确保内容来源的归属与透明度。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### 论文研究
+
+> [!info]+ **可延后 / 68** | 微软 Copilot Cowork 存在文件泄露问题
+> **标题**：微软 Copilot Cowork 存在文件泄露问题
+> **原文链接**：🔗 [打开原文](https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files)
+> **source**：AI HOT Daily / Hacker News 热门（buzzing.cc 中文翻译）
+> **kind**：`paper`
+> **reason**：AI HOT official daily section: 论文研究
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 68** | 华为何庭波“韬定律”论文发布，逻辑折叠技术提升芯片性能
+> **标题**：华为何庭波“韬定律”论文发布，逻辑折叠技术提升芯片性能
+> **原文链接**：🔗 [打开原文](https://www.ithome.com/0/954/778.htm)
+> **source**：AI HOT Daily / IT之家（RSS）
+> **kind**：`paper`
+> **reason**：AI HOT official daily section: 论文研究
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：华为何庭波在ISCAS 2026上提出“韬定律”，并介绍逻辑折叠（LogicFolding）技术。该技术通过三维空间拓扑重组提升芯片性能，不依赖新光刻工艺。在麒麟2026芯片测试中，晶体管密度从155 MTr/mm²提升至238 MTr/mm²，性能核心能效提高41%，最大时钟频率提升近13%。论文显示，麒麟2027芯片已进入Silicon状态，后续规划包括麒麟2028、2029。AI芯片方面，昇腾990计划在2030年左右引入逻辑折叠，硬件集成预计到2035年提高超过100倍。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### matches topics: anthropic
+
+> [!info]+ **可延后 / 72** | Anthropic联合创始人Chris Olah在教皇通谕发布会上的讲话
+> **标题**：Anthropic联合创始人Chris Olah在教皇通谕发布会上的讲话
+> **原文链接**：🔗 [打开原文](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical)
+> **source**：AI HOT Daily / Anthropic：Newsroom（网页）
+> **kind**：`article`
+> **reason**：matches topics: anthropic
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Anthropic联合创始人Chris Olah在梵蒂冈出席教皇Leo XIV关于AI的通谕发布会。他指出，所有前沿AI实验室都面临商业、研究及地缘政治等多重压力，这可能与做正确的事相冲突，因此外部监督至关重要。他强调，AI模型并非像飞机那样被工程化构建，而是基于人类语言和思想“生长”出来的，其内在性质可能复杂难解。他提出三个需审慎思考的问题：如何确保AI发展的全球收益公平分享、如何思考AI时代的人类繁荣，以及AI模型内在性质的本质。他呼吁社会各界，尤其是宗教与民间团体，严肃审视AI发展并引导其向善。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### matches topics: agent, claude code, codex; high-value terms: agent, codex, claude code
+
+> [!info]+ **今日必须看 / 100** | Harness、Scaffold 与 AI 智能体术语辨析
+> **标题**：Harness、Scaffold 与 AI 智能体术语辨析
+> **原文链接**：🔗 [打开原文](https://huggingface.co/blog/agent-glossary)
+> **source**：AI HOT Daily / Hugging Face：Blog（RSS）
+> **kind**：`article`
+> **reason**：matches topics: agent, claude code, codex; high-value terms: agent, codex, claude code
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：本文旨在厘清 AI 智能体领域中易混淆的关键术语。文章指出，模型（如 Claude、GPT）本身是无记忆、无循环的大语言模型。其行为由“Scaffolding”（行为定义层，如系统提示、工具描述）塑造，而“Harness”（执行层）负责调用模型、处理工具调用与控制循环，是智能体运行的核心。两者结合，模型才能成为智能体。文章以 Claude Code、Codex 为例，说明同一模型搭配不同 Harness 会产生迥异体验，并提出了 Agent = Model + Harness 的常见理解框架。术语尚未统一，本文旨在提供一个实用的心智模型。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+## 今日必须看
+
+> [!info]+ **今日必须看 / 87** | GENSTRAT: Toward a Science of Strategic Reasoning in Large Language Models
+> **标题**：GENSTRAT: Toward a Science of Strategic Reasoning in Large Language Models
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.23238)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm, benchmark; high-value terms: benchmark, agent, agents, eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.23238v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as economic agents in marketplaces, auctions, and bidding settings. Anticipating their behavior in any specific deployment is hard. Existing strategic-reasoning benchmarks evaluate models on fixed...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 87** | Design and Report Benchmarks for Knowledge Work
+> **标题**：Design and Report Benchmarks for Knowledge Work
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.23262)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm, research; high-value terms: benchmark, agent, agents, eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.23262v1 Announce Type: new Abstract: The development of LLM agents has led to a growing body of work on knowledge-work AI, including coding, research, and healthcare. However, current knowledge-work evaluation and benchmark design still largely follow the logic of traditional NLP tasks....
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 83** | MCP is Deprecated
+> **标题**：MCP is Deprecated
+> **原文链接**：🔗 [打开原文](https://dev.to/nek12/mcp-is-deprecated-5d11)
+> **source**：Dev.to
+> **kind**：`article`
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp, security
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：MCP has fundamental architectural problems - it pollutes context, kills flexibility, and creates security risks. For agents with terminal access, CLI is a far better alternative, and it's time to stop using MCP.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 77** | OpenAI GPT-5.6 模型曝下月发布：AI 上下文 150 万 tokens
+> **标题**：OpenAI GPT-5.6 模型曝下月发布：AI 上下文 150 万 tokens
+> **原文链接**：🔗 [打开原文](https://www.ithome.com/0/955/078.htm)
+> **source**：AI HOT / IT之家（RSS）
+> **kind**：`article`
+> **reason**：matches topics: codex, openai, anthropic; high-value terms: codex
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：多名开发者在 OpenAI Codex 后端日志中发现未官宣的 GPT-5.6 模型，内部代号 iris-alpha。该模型将支持 150 万 token 的上下文窗口，较当前 GPT-5.5 的 105 万 token 提升约 43%，有望于今年 6 月发布。测试显示，在输入达到 90 万 token 时仍能流畅响应。同系列还发现了 ember-alpha 与 beacon-alpha 版本。此外，GPT-5.6 在前端界面生成能力上也有所提升。基于爆料信息，Anthropic Claude、Google Gemini 及 xAI Grok 也可能瞄准同期发布新模型。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 77** | RMA: an Agentic System for Research-Level Mathematical Problems
+> **标题**：RMA: an Agentic System for Research-Level Mathematical Problems
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22875)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, research; high-value terms: agent, agents, reasoning
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22875v1 Announce Type: new Abstract: We present $\textbf{Research Math Agents (RMA)}$, an agentic framework for automated reasoning on research-level mathematical problems. Unlike prior studies centered on competition mathematics or formal theorem proving, RMA targets research-level math...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 77** | I Scanned 35 MCP Servers for Security Vulnerabilities. 62% Had Issues.
+> **标题**：I Scanned 35 MCP Servers for Security Vulnerabilities. 62% Had Issues.
+> **原文链接**：🔗 [打开原文](https://dev.to/tana_shahh/i-scanned-35-mcp-servers-for-security-vulnerabilities-62-had-issues-10m8)
+> **source**：Dev.to
+> **kind**：`article`
+> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp, security
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：MCP (Model Context Protocol) is becoming the standard way AI agents connect to external tools....
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+## 可延后
+
+> [!info]+ **可延后 / 73** | Show HN: YourMemory, persistent memory layer with temporal reasoning for agents
+> **标题**：Show HN: YourMemory, persistent memory layer with temporal reasoning for agents
+> **原文链接**：🔗 [打开原文](https://news.ycombinator.com/item?id=48270325)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: agent, agents; high-value terms: agent, agents, reasoning
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：6 points | 3 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 70** | SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research
+> **标题**：SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22878)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, research; high-value terms: agent, agents
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22878v1 Announce Type: new Abstract: The exponential growth of global academic output has confronted researchers and AI agents with an unprecedented ``information explosion,'' where fragmented and unstructured knowledge organization impedes deep interdisciplinary integration. Current aca...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 70** | Parallel Context Compaction for Long-Horizon LLM Agent Serving
+> **标题**：Parallel Context Compaction for Long-Horizon LLM Agent Serving
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.23296)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.23296v1 Announce Type: new Abstract: Long-horizon LLM agents accumulate growing conversation histories that eventually exceed the model's context window. Context compaction via LLM-based summarization keeps the conversation bounded, but summarization is inherently lossy and the blocking...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 70** | How Far Will They Go? Red-Teaming Online Influence with Large Language Models
+> **标题**：How Far Will They Go? Red-Teaming Online Influence with Large Language Models
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22880)
+> **source**：cs.CL updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22880v1 Announce Type: new Abstract: As large language model (LLM)-based agents increasingly participate in online discourse, red-teaming their capacity to support political influence campaigns is critical for information integrity. In pursuit of this goal, we focus on locally deployed o...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 70** | Latent Cache Flow: Model-to-Model Communication Without Text
+> **标题**：Latent Cache Flow: Model-to-Model Communication Without Text
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22863)
+> **source**：cs.LG updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22863v1 Announce Type: new Abstract: LLM agents today communicate via text, which incurs considerable latency and information loss due to the need to autoregressively decode the sharer model's state and encode at the receiver model. Recent work such as Cache-to-Cache (C2C; Fu et al., 202...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 67** | DAAF: Rigorous+responsible data analysis/research with Claude Code (open-source)
+> **标题**：DAAF: Rigorous+responsible data analysis/research with Claude Code (open-source)
+> **原文链接**：🔗 [打开原文](https://daaf.openaugments.org/)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: claude code, openai, research; high-value terms: claude code
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：1 points | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 66** | Ask HN: What do you do at work while the coding agent is working?
+> **标题**：Ask HN: What do you do at work while the coding agent is working?
+> **原文链接**：🔗 [打开原文](https://news.ycombinator.com/item?id=48268985)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: agent, agents; high-value terms: agent, agents
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：5 points | 6 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 66** | Show HN: docs-cli - coding-agent project state in Markdown
+> **标题**：Show HN: docs-cli - coding-agent project state in Markdown
+> **原文链接**：🔗 [打开原文](https://artrichards.github.io/agent-playbook-suite/blog/)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: agent, agents; high-value terms: agent, agents
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：5 points | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 66** | Layman with no degree directs AI agents to derive Newton's G to 1.86 ppm
+> **标题**：Layman with no degree directs AI agents to derive Newton's G to 1.86 ppm
+> **原文链接**：🔗 [打开原文](https://github.com/oldrich-research/gravitational-constant-relation)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: agent, agents; high-value terms: agent, agents
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：4 points | 1 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 66** | SkillOpt: Executive Strategy for Self-Evolving Agent Skills
+> **标题**：SkillOpt: Executive Strategy for Self-Evolving Agent Skills
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.23904)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: agent, agents; high-value terms: agent, agents
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：4 points | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 66** | Don't orchestrate your agents, give them the tools to do it themselves
+> **标题**：Don't orchestrate your agents, give them the tools to do it themselves
+> **原文链接**：🔗 [打开原文](https://aweb.ai/orchestration)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: agent, agents; high-value terms: agent, agents
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：3 points | 1 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 66** | SmithDB, the data layer for agent observability
+> **标题**：SmithDB, the data layer for agent observability
+> **原文链接**：🔗 [打开原文](https://www.langchain.com/blog/introducing-smithdb)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: agent, agents; high-value terms: agent, agents
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：3 points | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 66** | Control Bilibili with CLI Commands for AI Agents (0 Token Cost)
+> **标题**：Control Bilibili with CLI Commands for AI Agents (0 Token Cost)
+> **原文链接**：🔗 [打开原文](https://mediause.dev/skills/bilibili)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: agent, agents; high-value terms: agent, agents
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：3 points | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 62** | Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems
+> **标题**：Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22883)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, benchmark; high-value terms: benchmark, agent
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22883v1 Announce Type: new Abstract: Current AI energy benchmarks measure consumption at the granularity of a single model invocation or training run. For classical single-turn workloads this unit remains coherent. For agentic systems - where a single user goal may trigger multi-step orc...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 62** | EVE-Agent: Evidence-Verifiable Self-Evolving Agents
+> **标题**：EVE-Agent: Evidence-Verifiable Self-Evolving Agents
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22905)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents; high-value terms: agent, agents
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22905v1 Announce Type: new Abstract: Self-evolving agents should not train on examples they cannot justify. Data-free self-evolving search agents offer a scalable route to systems that generate their own questions, answer them, and improve from their own feedback without human annotation...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 62** | Inductive Deductive Synthesis: Enabling AI to Generate Formally Verified Systems
+> **标题**：Inductive Deductive Synthesis: Enabling AI to Generate Formally Verified Systems
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.23109)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents; high-value terms: agent, agents
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.23109v1 Announce Type: new Abstract: AI agents increasingly excel at generating, testing, and refining code. However, they fall short on tasks requiring formal guarantees of full coverage that testing alone cannot provide. Distributed systems are a prime example: properties such as consi...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 62** | Foundation Protocol: A Coordination Layer for Agentic Society
+> **标题**：Foundation Protocol: A Coordination Layer for Agentic Society
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.23218)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents; high-value terms: agent, agents
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.23218v1 Announce Type: new Abstract: Autonomous agents are moving from tools into a layer of social infrastructure: they browse, purchase, deploy software, manage systems, and increasingly interact with one another. As these systems scale, the bottleneck shifts away from raw model capabi...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 62** | DART: Semantic Recoverability for Structured Tool Agents
+> **标题**：DART: Semantic Recoverability for Structured Tool Agents
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.23311)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents; high-value terms: agent, agents
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.23311v1 Announce Type: new Abstract: When a structured tool agent fails mid-execution, the runtime faces a dilemma: replaying the entire task is safe but wasteful, while restoring from a local checkpoint is efficient but can leave committed downstream work tied to an upstream history tha...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 62** | MARGIN: Runtime Confidence Calibration for Multi-Agent Foundation Model Coordination
+> **标题**：MARGIN: Runtime Confidence Calibration for Multi-Agent Foundation Model Coordination
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22949)
+> **source**：cs.LG updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents; high-value terms: agent, agents
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22949v1 Announce Type: new Abstract: Foundation model agents increasingly operate in multi-agent deployments where a coordinator must decide which agent's response to trust. The standard approach weights agents by their self-reported confidence, but recent evidence shows that foundation...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 61** | mukul975/Anthropic-Cybersecurity-Skills
+> **标题**：mukul975/Anthropic-Cybersecurity-Skills
+> **原文链接**：🔗 [打开原文](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+> **source**：GitHub Trending
+> **kind**：`github_repo`
+> **reason**：matches topics: anthropic; high-value terms: security
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 61** | microsoft/agent-governance-toolkit
+> **标题**：microsoft/agent-governance-toolkit
+> **原文链接**：🔗 [打开原文](https://github.com/microsoft/agent-governance-toolkit)
+> **source**：GitHub Trending
+> **kind**：`github_repo`
+> **reason**：matches topics: agent; high-value terms: agent
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 59** | A Language for Describing Agentic LLM Contexts
+> **标题**：A Language for Describing Agentic LLM Contexts
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.01920)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: agent, llm; high-value terms: agent
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：4 points | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 56** | Norway's 2 petabytes of Huawei flash storage and LLM training
+> **标题**：Norway's 2 petabytes of Huawei flash storage and LLM training
+> **原文链接**：🔗 [打开原文](https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: llm; strong public engagement
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：130 points | 67 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 55** | HawkesLLM: Semantic Uncertainty Propagation in Agentic Text Simulation
+> **标题**：HawkesLLM: Semantic Uncertainty Propagation in Agentic Text Simulation
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.23043)
+> **source**：cs.CL updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, llm; high-value terms: agent
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.23043v1 Announce Type: new Abstract: Agentic text-simulation systems write in sequence, with each item becoming possible context for later steps. That makes uncertainty path-dependent: an early ambiguity can affect later outputs. This paper studies this problem with HawkesLLM, a framewor...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 54** | Anthropic联合创始人Chris Olah在教皇通谕发布会上的讲话
+> **标题**：Anthropic联合创始人Chris Olah在教皇通谕发布会上的讲话
+> **原文链接**：🔗 [打开原文](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical)
+> **source**：AI HOT / Anthropic：Newsroom（网页）, Anthropic, Hacker News
+> **kind**：`article`
+> **reason**：matches topics: anthropic
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Anthropic联合创始人Chris Olah在梵蒂冈出席教皇Leo XIV关于AI的通谕发布会。他指出，所有前沿AI实验室都面临商业、研究及地缘政治等多重压力，这可能与做正确的事相冲突，因此外部监督至关重要。他强调，AI模型并非像飞机那样被工程化构建，而是基于人类语言和思想"生长"出来的，其内在性质可能复杂难解。他提出三个需审慎思考的问题：如何确保AI发展的全球收益公平分享、如何思考AI时代的人类繁荣，以及AI模型内在性质的本质。他呼吁社会各界，尤其是宗教与民间团体，严肃审视AI发展并引导其向善。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 54** | anthropics/knowledge-work-plugins
+> **标题**：anthropics/knowledge-work-plugins
+> **原文链接**：🔗 [打开原文](https://github.com/anthropics/knowledge-work-plugins)
+> **source**：GitHub Trending
+> **kind**：`github_repo`
+> **reason**：matches topics: anthropic
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 54** | Evaluating Large Language Models in a Complex Hidden Role Game
+> **标题**：Evaluating Large Language Models in a Complex Hidden Role Game
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22826)
+> **source**：cs.CL updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: llm; high-value terms: eval, reasoning
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22826v1 Announce Type: new Abstract: Quantifying the deceptive potential of Large Language Models (LLMs) is critical for AI safety, yet difficult to achieve in uncontrolled environments. This work investigates the reasoning, persuasion, and deceptive capabilities of LLMs within the socia...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 53** | 面壁智能联合清华等开源中国首个基于华为昇腾训练的 1.58-bit 端侧大模型 BitCPM-CANN
+> **标题**：面壁智能联合清华等开源中国首个基于华为昇腾训练的 1.58-bit 端侧大模型 BitCPM-CANN
+> **原文链接**：🔗 [打开原文](https://www.ithome.com/0/954/759.htm)
+> **source**：AI HOT / IT之家（RSS）
+> **kind**：`model`
+> **reason**：AI HOT selected item
+> **follow_up**：检查模型卡、license、benchmark 和可部署性。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 52** | Anthropic and OpenAI race to embed engineers inside Wall Street workflows
+> **标题**：Anthropic and OpenAI race to embed engineers inside Wall Street workflows
+> **原文链接**：🔗 [打开原文](https://thenewstack.io/anthropic-openai-wall-street-ai-agents-developers/)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: openai, anthropic
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：1 points | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 51** | Anthropic to release Mythos-class models to the public
+> **标题**：Anthropic to release Mythos-class models to the public
+> **原文链接**：🔗 [打开原文](https://www.theregister.com/security/2026/05/25/anthropic-to-release-mythos-class-models-to-the-public/5245596)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: anthropic; high-value terms: release
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：13 points | 2 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 51** | The Vatican-Anthropic relationship that's reshaping the AI ethics debate
+> **标题**：The Vatican-Anthropic relationship that's reshaping the AI ethics debate
+> **原文链接**：🔗 [打开原文](https://religionnews.com/2026/05/22/why-anthropic-is-helping-unveil-the-popes-new-encyclical-on-ai/)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: anthropic; high-value terms: api
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：2 points | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 51** | Running Local LLM - 0$ Personal Agentic AI Assistant - Part 3
+> **标题**：Running Local LLM - 0$ Personal Agentic AI Assistant - Part 3
+> **原文链接**：🔗 [打开原文](https://dev.to/akdevcraft/0-personal-agentic-ai-assistant-running-local-llm-part-3-4k2l)
+> **source**：Dev.to
+> **kind**：`article`
+> **reason**：matches topics: agent, llm; high-value terms: agent
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Introduction Part 3 of the Zero Dollar personal AI Assistant series, running Local LLMs on...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 51** | Agentic Architectures — Article 5: Harness Engineering and the Agent Runtime Layer
+> **标题**：Agentic Architectures — Article 5: Harness Engineering and the Agent Runtime Layer
+> **原文链接**：🔗 [打开原文](https://dev.to/topuzas/agentic-architectures-article-5-harness-engineering-and-the-agent-runtime-layer-2dj6)
+> **source**：Dev.to
+> **kind**：`article`
+> **reason**：matches topics: agent, llm; high-value terms: agent
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Agentic Architectures — Article 5: Harness Engineering and the Agent Runtime Layer There's...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 50** | 微软 Copilot Cowork 存在文件泄露问题
+> **标题**：微软 Copilot Cowork 存在文件泄露问题
+> **原文链接**：🔗 [打开原文](https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files)
+> **source**：AI HOT / Hacker News 热门（buzzing.cc 中文翻译）
+> **kind**：`paper`
+> **reason**：AI HOT selected item
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 50** | 华为何庭波"韬定律"论文发布，逻辑折叠技术提升芯片性能
+> **标题**：华为何庭波"韬定律"论文发布，逻辑折叠技术提升芯片性能
+> **原文链接**：🔗 [打开原文](https://www.ithome.com/0/954/778.htm)
+> **source**：AI HOT / IT之家（RSS）
+> **kind**：`paper`
+> **reason**：AI HOT selected item
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：华为何庭波在ISCAS 2026上提出"韬定律"，并介绍逻辑折叠（LogicFolding）技术。该技术通过三维空间拓扑重组提升芯片性能，不依赖新光刻工艺。在麒麟2026芯片测试中，晶体管密度从155 MTr/mm2提升至238 MTr/mm2，性能核心能效提高41%，最大时钟频率提升近13%。论文显示，麒麟2027芯片已进入Silicon状态，后续规划包括麒麟2028、2029。AI芯片方面，昇腾990计划在2030年左右引入逻辑折叠，硬件集成预计到2035年提高超过100倍。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+## 只归档
+
+> [!info]+ **只归档 / 48** | Grok Build Beta版向SuperGrok用户开放
+> **标题**：Grok Build Beta版向SuperGrok用户开放
+> **原文链接**：🔗 [打开原文](https://x.com/xai/status/2058973760708091907)
+> **source**：AI HOT / X：xAI (@xai)
+> **kind**：`product`
+> **reason**：AI HOT selected item
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Grok Build 现已面向所有 SuperGrok 和 X Premium+ 用户推出 Beta 版。 使用 Plan Mode，通过 Imagine 创建图像和视频，并使用 CLI 构建自动化或编排器。 访问 http：//x.ai/cli 开始使用。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 48** | Qwen3.7-Max隐式缓存功能上线
+> **标题**：Qwen3.7-Max隐式缓存功能上线
+> **原文链接**：🔗 [打开原文](https://x.com/Alibaba_Qwen/status/2058932656797368619)
+> **source**：AI HOT / X：通义千问 / Qwen (@Alibaba_Qwen)
+> **kind**：`product`
+> **reason**：AI HOT selected item
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：✅隐式缓存现已在Qwen3.7-Max上线--自动启用，无需设置。 ⚡️开箱即用，更快更便宜。 需要更高、更确定的命中率？请尝试显式缓存。🙌 🔗最佳实践🔗：https：//www.alibabacloud.com/help/en/model-studio/explicit-cache-best-practice
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 48** | Pope Leo XIV says AI must serve humanity, not the powerful few
+> **标题**：Pope Leo XIV says AI must serve humanity, not the powerful few
+> **原文链接**：🔗 [打开原文](https://religionnews.com/2026/05/25/in-his-first-encyclical-pope-leo-xiv-says-ai-must-serve-humanity-not-the-powerful-few/)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：strong public engagement
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：332 points | 68 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 48** | Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks
+> **标题**：Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks
+> **原文链接**：🔗 [打开原文](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：strong public engagement
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：261 points | 69 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 48** | Pope Leo: opaque AI run by few firms risks "New Forms of Dehumanization"
+> **标题**：Pope Leo: opaque AI run by few firms risks "New Forms of Dehumanization"
+> **原文链接**：🔗 [打开原文](https://variety.com/2026/biz/global/pope-leo-ai-encyclical-algorithms-threaten-dehumanisation-1236758186/)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：strong public engagement
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：163 points | 2 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 48** | Anthropic Acquires Stainless
+> **标题**：Anthropic Acquires Stainless
+> **原文链接**：🔗 [打开原文](https://www.anthropic.com/news/anthropic-acquires-stainless)
+> **source**：Anthropic
+> **kind**：`article`
+> **reason**：matches topics: anthropic
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 48** | Anthropic Kpmg
+> **标题**：Anthropic Kpmg
+> **原文链接**：🔗 [打开原文](https://www.anthropic.com/news/anthropic-kpmg)
+> **source**：Anthropic
+> **kind**：`article`
+> **reason**：matches topics: anthropic
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 48** | Widening Conversation Ai
+> **标题**：Widening Conversation Ai
+> **原文链接**：🔗 [打开原文](https://www.anthropic.com/news/widening-conversation-ai)
+> **source**：Anthropic
+> **kind**：`article`
+> **reason**：matches topics: anthropic
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 48** | Glasswing Initial Update
+> **标题**：Glasswing Initial Update
+> **原文链接**：🔗 [打开原文](https://www.anthropic.com/research/glasswing-initial-update)
+> **source**：Anthropic
+> **kind**：`article`
+> **reason**：matches topics: anthropic
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 48** | Natural Language Autoencoders
+> **标题**：Natural Language Autoencoders
+> **原文链接**：🔗 [打开原文](https://www.anthropic.com/research/natural-language-autoencoders)
+> **source**：Anthropic
+> **kind**：`article`
+> **reason**：matches topics: anthropic
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 48** | Teaching Claude Why
+> **标题**：Teaching Claude Why
+> **原文链接**：🔗 [打开原文](https://www.anthropic.com/research/teaching-claude-why)
+> **source**：Anthropic
+> **kind**：`article`
+> **reason**：matches topics: anthropic
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 47** | Redrawing the AI Map: A Theory of Accountability Boundaries in Agentic Ecosystems
+> **标题**：Redrawing the AI Map: A Theory of Accountability Boundaries in Agentic Ecosystems
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.23179)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent; high-value terms: agent
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.23179v1 Announce Type: new Abstract: Agentic AI orchestrators reduce the interface and assembly costs of composing information systems capabilities across organizational boundaries, seemingly accelerating modularization and organizational disaggregation. Yet AI-enabled capabilities whose...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 47** | Human-in-the-Loop Multi-Agent Ventilator Decision Support with Contextual Bandit Preference Learning
+> **标题**：Human-in-the-Loop Multi-Agent Ventilator Decision Support with Contextual Bandit Preference Learning
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.23320)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent; high-value terms: agent
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.23320v1 Announce Type: new Abstract: Ventilator decision support requires sequential decisions that track evolving physiology and disease trajectories while respecting safety boundaries and clinician specific tuning styles. Rule based approaches rarely generalize personalization, and end...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 47** | A Proactive Multi-Agent Dialogue Framework for Assessing Social Language Disorder Traits in Autism
+> **标题**：A Proactive Multi-Agent Dialogue Framework for Assessing Social Language Disorder Traits in Autism
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22993)
+> **source**：cs.CL updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent; high-value terms: agent
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22993v1 Announce Type: new Abstract: Characteristic linguistic behaviors associated with Social Language Disorder (SLD) in autism spectrum disorder, including echoic repetition, pronoun displacement, and stereotyped media quoting, are largely absent from spontaneous conversation and only...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 47** | When Do LLMs Reason? A Dynamical Systems View via Entropy Phase Transitions
+> **标题**：When Do LLMs Reason? A Dynamical Systems View via Entropy Phase Transitions
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22873)
+> **source**：cs.LG updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: llm; high-value terms: reasoning
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22873v1 Announce Type: new Abstract: Chain-of-thought (CoT) reasoning has become the default strategy for enhancing LLM capabilities, yet its application raises a fundamental question: when is explicit reasoning actually beneficial? Empirical evidence reveals a striking paradox: CoT ofte...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 46** | 苹果据称正使用定制版1.2T参数Google模型重塑下一代Siri
+> **标题**：苹果据称正使用定制版1.2T参数Google模型重塑下一代Siri
+> **原文链接**：🔗 [打开原文](https://x.com/kimmonismus/status/2058997271803674991)
+> **source**：AI HOT / X：Kim (@kimmonismus)
+> **kind**：`article`
+> **reason**：AI HOT selected item
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：据报道，苹果为改造下一代Siri，正使用一个定制版、参数规模达1.2T的Google大模型作为其核心，这显著大于预估约300B参数的Gemini 3.5 Flash。该模型将驱动Siri的部分功能，其中简单查询预期会在本地设备运行。苹果面临的关键挑战是确保该大模型能够足够快速地响应日常问题。此外，下个月AI领域预计将有多项重要发布，包括WWDC上的Apple Intelligence与Gemini整合、GPT-5.6、可能的Sonnet 4.8/Opus 4.8，以及已确认的Gemini 3.5 Pro。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 46** | 教皇里奥呼吁在AI时代保持"深刻的人性"
+> **标题**：教皇里奥呼吁在AI时代保持"深刻的人性"
+> **原文链接**：🔗 [打开原文](https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare)
+> **source**：AI HOT / The Verge：AI（RSS）
+> **kind**：`article`
+> **reason**：AI HOT selected item
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：教皇里奥十四世在首份重要通谕《Magnifica Humanitas》中警告了AI及不受约束的技术力量带来的风险。该通谕于2026年5月15日发布，是教皇关于"在人工智能时代守护人"的宣言。文件重点讨论了AI驱动战争的危险、AI对劳动的影响，以及建立新的法律和伦理框架来规范技术的必要性，强调AI的快速普及正造成经济和社会动荡，对个人的保护不足威胁着人类尊严。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 46** | Lum1104/Understand-Anything
+> **标题**：Lum1104/Understand-Anything
+> **原文链接**：🔗 [打开原文](https://github.com/Lum1104/Understand-Anything)
+> **source**：GitHub Trending
+> **kind**：`github_repo`
+> **reason**：baseline source relevance
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 46** | rohitg00/ai-engineering-from-scratch
+> **标题**：rohitg00/ai-engineering-from-scratch
+> **原文链接**：🔗 [打开原文](https://github.com/rohitg00/ai-engineering-from-scratch)
+> **source**：GitHub Trending
+> **kind**：`github_repo`
+> **reason**：baseline source relevance
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 46** | affaan-m/ECC
+> **标题**：affaan-m/ECC
+> **原文链接**：🔗 [打开原文](https://github.com/affaan-m/ECC)
+> **source**：GitHub Trending
+> **kind**：`github_repo`
+> **reason**：baseline source relevance
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 46** | colbymchenry/codegraph
+> **标题**：colbymchenry/codegraph
+> **原文链接**：🔗 [打开原文](https://github.com/colbymchenry/codegraph)
+> **source**：GitHub Trending
+> **kind**：`github_repo`
+> **reason**：baseline source relevance
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 46** | manaflow-ai/cmux
+> **标题**：manaflow-ai/cmux
+> **原文链接**：🔗 [打开原文](https://github.com/manaflow-ai/cmux)
+> **source**：GitHub Trending
+> **kind**：`github_repo`
+> **reason**：baseline source relevance
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 46** | multica-ai/andrej-karpathy-skills
+> **标题**：multica-ai/andrej-karpathy-skills
+> **原文链接**：🔗 [打开原文](https://github.com/multica-ai/andrej-karpathy-skills)
+> **source**：GitHub Trending
+> **kind**：`github_repo`
+> **reason**：baseline source relevance
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 46** | Fincept-Corporation/FinceptTerminal
+> **标题**：Fincept-Corporation/FinceptTerminal
+> **原文链接**：🔗 [打开原文](https://github.com/Fincept-Corporation/FinceptTerminal)
+> **source**：GitHub Trending
+> **kind**：`github_repo`
+> **reason**：baseline source relevance
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 46** | paperless-ngx/paperless-ngx
+> **标题**：paperless-ngx/paperless-ngx
+> **原文链接**：🔗 [打开原文](https://github.com/paperless-ngx/paperless-ngx)
+> **source**：GitHub Trending
+> **kind**：`github_repo`
+> **reason**：baseline source relevance
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 46** | shiyu-coder/Kronos
+> **标题**：shiyu-coder/Kronos
+> **原文链接**：🔗 [打开原文](https://github.com/shiyu-coder/Kronos)
+> **source**：GitHub Trending
+> **kind**：`github_repo`
+> **reason**：baseline source relevance
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 46** | st-tech/ppf-contact-solver
+> **标题**：st-tech/ppf-contact-solver
+> **原文链接**：🔗 [打开原文](https://github.com/st-tech/ppf-contact-solver)
+> **source**：GitHub Trending
+> **kind**：`github_repo`
+> **reason**：baseline source relevance
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 46** | moeru-ai/airi
+> **标题**：moeru-ai/airi
+> **原文链接**：🔗 [打开原文](https://github.com/moeru-ai/airi)
+> **source**：GitHub Trending
+> **kind**：`github_repo`
+> **reason**：baseline source relevance
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 46** | garrytan/gstack
+> **标题**：garrytan/gstack
+> **原文链接**：🔗 [打开原文](https://github.com/garrytan/gstack)
+> **source**：GitHub Trending
+> **kind**：`github_repo`
+> **reason**：baseline source relevance
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 46** | gitroomhq/postiz-app
+> **标题**：gitroomhq/postiz-app
+> **原文链接**：🔗 [打开原文](https://github.com/gitroomhq/postiz-app)
+> **source**：GitHub Trending
+> **kind**：`github_repo`
+> **reason**：baseline source relevance
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 46** | tldraw/tldraw
+> **标题**：tldraw/tldraw
+> **原文链接**：🔗 [打开原文](https://github.com/tldraw/tldraw)
+> **source**：GitHub Trending
+> **kind**：`github_repo`
+> **reason**：baseline source relevance
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 46** | twentyhq/twenty
+> **标题**：twentyhq/twenty
+> **原文链接**：🔗 [打开原文](https://github.com/twentyhq/twenty)
+> **source**：GitHub Trending
+> **kind**：`github_repo`
+> **reason**：baseline source relevance
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 46** | Adam-CAD/CADAM
+> **标题**：Adam-CAD/CADAM
+> **原文链接**：🔗 [打开原文](https://github.com/Adam-CAD/CADAM)
+> **source**：GitHub Trending
+> **kind**：`github_repo`
+> **reason**：baseline source relevance
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 45** | Pi Coding Agent
+> **标题**：Pi Coding Agent
+> **原文链接**：🔗 [打开原文](https://www.producthunt.com/products/pi-coding-agent-3)
+> **source**：Product Hunt — The best new products, every day
+> **kind**：`product`
+> **reason**：matches topics: agent; high-value terms: agent
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 44** | Show HN: PhoneDiffusion – Local AI image generation for iOS
+> **标题**：Show HN: PhoneDiffusion – Local AI image generation for iOS
+> **原文链接**：🔗 [打开原文](https://apps.apple.com/us/app/phonediffusion/id6762061991)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: local ai
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：10 points | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 44** | Show HN: Local note engine uses LLM to organize notes into a knowledge graph
+> **标题**：Show HN: Local note engine uses LLM to organize notes into a knowledge graph
+> **原文链接**：🔗 [打开原文](https://github.com/AlexWasHeree/NoteCast)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: llm
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：9 points | 4 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 44** | LLMs Locally With a CPU? I Tested 8 Models on Linux
+> **标题**：LLMs Locally With a CPU? I Tested 8 Models on Linux
+> **原文链接**：🔗 [打开原文](https://itsfoss.com/testing-local-llms-without-gpu/)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: llm
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：4 points | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 44** | Code-mapper: Free CLI tool to reduce LLM token usage on any codebases
+> **标题**：Code-mapper: Free CLI tool to reduce LLM token usage on any codebases
+> **原文链接**：🔗 [打开原文](https://github.com/damien220/code-mapper)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: llm
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：4 points | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 44** | Distributing LLM Inference in DwarfStar
+> **标题**：Distributing LLM Inference in DwarfStar
+> **原文链接**：🔗 [打开原文](https://antirez.com/news/167)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: llm
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：3 points | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 44** | Measuring LLMs' ability to develop exploits
+> **标题**：Measuring LLMs' ability to develop exploits
+> **原文链接**：🔗 [打开原文](https://red.anthropic.com/2026/exploit-evals/)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: llm
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：3 points | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 44** | 6502 Emulator Runs 1 Instruction/S (Written in Markdown, Running in an LLM)
+> **标题**：6502 Emulator Runs 1 Instruction/S (Written in Markdown, Running in an LLM)
+> **原文链接**：🔗 [打开原文](https://dunkels.com/adam/llm-6502-emulator/)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: llm
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：2 points | 1 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 44** | New OpenAI Phone
+> **标题**：New OpenAI Phone
+> **原文链接**：🔗 [打开原文](https://www.msn.com/en-us/news/technology/openai-is-reportedly-making-its-own-phone-here-s-what-to-know/ar-AA21QD28)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: openai
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：2 points | 1 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 44** | Open AI and YC
+> **标题**：Open AI and YC
+> **原文链接**：🔗 [打开原文](https://www.marginpoints.com/issues/2026-05-20-openai-and-yc-ipo-oxygen-hacky-sack)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: openai
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：2 points | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 44** | Show HN: I made Pokémon but with real animals in the real world
+> **标题**：Show HN: I made Pokémon but with real animals in the real world
+> **原文链接**：🔗 [打开原文](https://apps.apple.com/gb/app/animalis-game/id6762081213)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: openai
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：2 points | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 44** | What to know about the AI models that are jolting Washington
+> **标题**：What to know about the AI models that are jolting Washington
+> **原文链接**：🔗 [打开原文](https://www.politico.com/news/2026/05/24/anthropic-openai-mythos-what-to-know-00934668)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: openai
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：3 points | 1 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 44** | Introducing USB4STREAM Protocol for Linux – Opening Up Some Nifty Uses for USB4
+> **标题**：Introducing USB4STREAM Protocol for Linux – Opening Up Some Nifty Uses for USB4
+> **原文链接**：🔗 [打开原文](https://www.phoronix.com/news/Intel-Linux-USB4STREAM)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: openai
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：21 points | 2 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 44** | We built OpenLinker, an open-source channel manager
+> **标题**：We built OpenLinker, an open-source channel manager
+> **原文链接**：🔗 [打开原文](https://openlinker.io/en/blog/why-we-built-openlinker/)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: openai
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：1 points | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 44** | Anthropic's Olah says AI must be guided from outside Big Tech
+> **标题**：Anthropic's Olah says AI must be guided from outside Big Tech
+> **原文链接**：🔗 [打开原文](https://www.reuters.com/world/europe/anthropics-olah-says-ai-must-be-guided-outside-big-tech-2026-05-25/)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: anthropic
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：3 points | 1 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 44** | Anthropic onboarding day: Michael Scott introducing Karpathy
+> **标题**：Anthropic onboarding day: Michael Scott introducing Karpathy
+> **原文链接**：🔗 [打开原文](https://twitter.com/siddsax/status/2058556345566241092)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: anthropic
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：2 points | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 44** | Anthropic Cofounder Joins Pope Leo, Warns of AI Job Losses
+> **标题**：Anthropic Cofounder Joins Pope Leo, Warns of AI Job Losses
+> **原文链接**：🔗 [打开原文](https://www.forbes.com/sites/aliciapark/2026/05/25/anthropic-billionaire-cofounder-joins-pope-leo-warns-ai-job-losses-will-spark-moral-imperative-of-historic-proportions/)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: anthropic
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：2 points | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 44** | Pope Leo, Anthropic co-founder call for church-tech ethics partnership
+> **标题**：Pope Leo, Anthropic co-founder call for church-tech ethics partnership
+> **原文链接**：🔗 [打开原文](https://www.ncronline.org/vatican/vatican-news/pope-leo-anthropic-co-founder-call-church-tech-ethics-partnership-magnifica)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: anthropic
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：1 points | 2 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 44** | Anthropic's 'Mythos 1' Keeps Appearing Despite Restricted Access Claims
+> **标题**：Anthropic's 'Mythos 1' Keeps Appearing Despite Restricted Access Claims
+> **原文链接**：🔗 [打开原文](https://firethering.com/claude-mythos-anthropic-claude-code-public-release/)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: anthropic
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：1 points | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 43** | I Ran a 2-Billion Parameter AI Model in a Browser Tab. No Server.
+> **标题**：I Ran a 2-Billion Parameter AI Model in a Browser Tab. No Server.
+> **原文链接**：🔗 [打开原文](https://dev.to/gautamvhavle/i-ran-a-2-billion-parameter-ai-model-in-a-browser-tab-no-server-f61)
+> **source**：Dev.to
+> **kind**：`article`
+> **reason**：matches topics: llm; high-value terms: api
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：I ran a 2-billion-parameter language model entirely inside a browser tab. No server. No API key. No...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 43** | 🔬 Direction 1 closure on JAMES — when the hypothesis fails but the data turns "7-tier monotonic natural-stop gradient"
+> **标题**：🔬 Direction 1 closure on JAMES — when the hypothesis fails but the data turns "7-tier monotonic natural-stop gradient"
+> **原文链接**：🔗 [打开原文](https://dev.to/hashevolution/direction-1-closure-on-james-when-the-hypothesis-fails-but-the-data-turns-7-tier-monotonic-5ao0)
+> **source**：Dev.to
+> **kind**：`article`
+> **reason**：matches topics: llm; high-value terms: reasoning
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：G Two weeks ago I shipped core/reasoning/budget.py to test whether per-call dynamic token budgets...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 43** | If Microsoft and Uber can't afford AI coding, what chance do the rest of us have?
+> **标题**：If Microsoft and Uber can't afford AI coding, what chance do the rest of us have?
+> **原文链接**：🔗 [打开原文](https://dev.to/jon_at_backboardio/if-microsoft-and-uber-cant-afford-ai-coding-what-chance-do-the-rest-of-us-have-4odn)
+> **source**：Dev.to
+> **kind**：`article`
+> **reason**：matches topics: claude code; high-value terms: claude code
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Two stories landed in the same news cycle. Microsoft cancelled most internal Claude Code licenses....
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 43** | The AI Triforce of seed4j: Power, Wisdom, and Courage for Your Dev Agent
+> **标题**：The AI Triforce of seed4j: Power, Wisdom, and Courage for Your Dev Agent
+> **原文链接**：🔗 [打开原文](https://dev.to/avdev4j/the-ai-triforce-of-seed4j-power-wisdom-and-courage-for-your-dev-agent-2mlb)
+> **source**：Dev.to
+> **kind**：`article`
+> **reason**：matches topics: agent; high-value terms: agent
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：The AI Triforce of Seed4j: Power, Wisdom, and Courage for Your Dev Agent In the Legend of...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 40** | AutoResearch AI: Towards AI-Powered Research Automation for Scientific Discovery
+> **标题**：AutoResearch AI: Towards AI-Powered Research Automation for Scientific Discovery
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.23204)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: research
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.23204v1 Announce Type: new Abstract: Scientific research is being reshaped by AI systems that move beyond isolated assistance toward longer-horizon workflows spanning literature grounding, hypothesis generation, experimentation, validation, reporting, and revision. This shift marks a tra...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 40** | Graph Alignment Topology as an Inductive Bias for Grounding Detection
+> **标题**：Graph Alignment Topology as an Inductive Bias for Grounding Detection
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22963)
+> **source**：cs.CL updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: llm
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22963v1 Announce Type: new Abstract: Large Language Models (LLMs) are optimized to produce distributionally plausible continuations rather than to explicitly verify whether generated propositions are entailed by source documents. This inductive bias enables generalization, but it does no...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 40** | Can AI Guess What You Know? Performance Comparison of Large Language Models for Human Domain Knowledge Estimation From Communication Logs
+> **标题**：Can AI Guess What You Know? Performance Comparison of Large Language Models for Human Domain Knowledge Estimation From Communication Logs
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22971)
+> **source**：cs.CL updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: llm
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22971v1 Announce Type: new Abstract: Employees often struggle to identify ``who knows what,'' leading to organizational productivity losses. We investigate whether Large Language Models (LLMs) can infer individual domain knowledge directly from long-term Slack logs. Analyzing 27,188 mess...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 40** | When AI Takes Sides on Questions of Faith: Persistent Asymmetries in AI-Mediated Faith Guidance
+> **标题**：When AI Takes Sides on Questions of Faith: Persistent Asymmetries in AI-Mediated Faith Guidance
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22975)
+> **source**：cs.CL updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: llm
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22975v1 Announce Type: new Abstract: We ask whether large language models (LLMs) treat queries about religious conversion symmetrically. The answer is no. When asked for advice on hypothetical faith transitions from one religion to another, then asked the reversed question, models exhibi...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 40** | Brain-LLM Alignment Tracks Training Data, Not Typology
+> **标题**：Brain-LLM Alignment Tracks Training Data, Not Typology
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.23032)
+> **source**：cs.CL updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: llm
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.23032v1 Announce Type: new Abstract: Brain-LLM alignment is well established in English, yet the brain's language network is neuroanatomically universal across languages. Does alignment also generalize cross-linguistically, and what governs the variation? We test this using fMRI data fro...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 40** | Sparse Autoencoders Map Brain-LLM Alignment onto Cortical Semantic Topography
+> **标题**：Sparse Autoencoders Map Brain-LLM Alignment onto Cortical Semantic Topography
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.23035)
+> **source**：cs.CL updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: llm
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.23035v1 Announce Type: new Abstract: Intermediate layers of large language models (LLMs) best predict human brain responses to language, one of the most robust findings in computational neurolinguistics, yet why remains mechanistically unexplained. We address this gap by bridging sparse...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 40** | Multilingual Steering by Design: Multilingual Sparse Autoencoders and Principled Layer Selection
+> **标题**：Multilingual Steering by Design: Multilingual Sparse Autoencoders and Principled Layer Selection
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.23036)
+> **source**：cs.CL updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: llm
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.23036v1 Announce Type: new Abstract: Sparse autoencoders (SAEs) enable feature-level mechanistic interpretability and activation steering in large language models (LLMs), but SAE-based language control remains unreliable in multilingual settings: most SAEs are trained on English-only dat...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 40** | Do Language Models Know What Not to Say? Causal Evidence for Statistical Preemption in LLMs
+> **标题**：Do Language Models Know What Not to Say? Causal Evidence for Statistical Preemption in LLMs
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.23039)
+> **source**：cs.CL updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: llm
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.23039v1 Announce Type: new Abstract: How do learners acquire knowledge of what is unacceptable without negative evidence? Construction Grammar proposes statistical preemption: exposure to a conventional form (e.g., "donated the books to the library") preempts structurally possible but un...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 40** | Model Collapse as Cultural Evolution
+> **标题**：Model Collapse as Cultural Evolution
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.23054)
+> **source**：cs.CL updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: llm
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.23054v1 Announce Type: new Abstract: Model collapse, the progressive degradation of LLMs trained on their own outputs, has been characterized statistically but lacks a linguistic explanation for which structures degrade, in what order, and why. We show that iterated learning theory from...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 40** | From Residuals to Reasons: LLM-Guided Mechanism Inference from Tabular Data
+> **标题**：From Residuals to Reasons: LLM-Guided Mechanism Inference from Tabular Data
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22897)
+> **source**：cs.LG updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: llm
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22897v1 Announce Type: new Abstract: A persistent challenge in machine learning for scientific applications is jointly achieving prediction and understanding. Statistical models excel on structured data but operate as black boxes, while existing interpretability methods are largely inspe...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 39** | BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems
+> **标题**：BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22866)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：high-value terms: eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22866v1 Announce Type: new Abstract: Compound AI systems route tasks through hierarchies of specialised components. Attribution is dominated by Shapley-based methods (SHAP), which decompose a coalition value function into per-component marginal contributions and require evaluation of the...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 39** | ImProver 2: Iteratively Self-Improving LMs for Neurosymbolic Proof Optimization
+> **标题**：ImProver 2: Iteratively Self-Improving LMs for Neurosymbolic Proof Optimization
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22885)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：high-value terms: api
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22885v1 Announce Type: new Abstract: Formal mathematics libraries are rapidly expanding, creating a growing need to refactor verified proofs for maintainability and to improve training data quality for neural provers. However, scalable proof optimization is hindered by heterogeneous and...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 39** | PathCal: State-Aware Reflection-Marker Calibration for Efficient Reasoning
+> **标题**：PathCal: State-Aware Reflection-Marker Calibration for Efficient Reasoning
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.23074)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：high-value terms: reasoning
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.23074v1 Announce Type: new Abstract: The emergence of Large Reasoning Language Models (LRMs) has paved the way for tackling complex reasoning tasks through test-time scaling by generating long-form Chain-of-Thought (CoT) trajectories during inference. Meanwhile, these trajectories often...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 39** | Query-Adaptive Semantic Chunking for Retrieval-Augmented Generation: A Dynamic Strategy with Contextual Window Expansion
+> **标题**：Query-Adaptive Semantic Chunking for Retrieval-Augmented Generation: A Dynamic Strategy with Contextual Window Expansion
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22834)
+> **source**：cs.CL updates on arXiv.org
+> **kind**：`paper`
+> **reason**：high-value terms: eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22834v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) systems depend critically on document chunking quality for retrieving relevant context. Fixed chunking segments documents into uniform units irrespective of semantics or user intent, producing a precision-recall tr...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 39** | Learnability-Informed Fine-Tuning of Diffusion Language Models
+> **标题**：Learnability-Informed Fine-Tuning of Diffusion Language Models
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22939)
+> **source**：cs.CL updates on arXiv.org
+> **kind**：`paper`
+> **reason**：high-value terms: reasoning
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22939v1 Announce Type: new Abstract: We aim to improve the reasoning capabilities of diffusion language models (DLMs). While SFT is a popular post-training recipe for autoregressive models, its use in DLMs faces challenges and can even hurt performance, though the underlying causes remai...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 39** | A Reproducible Universal Dependencies-Style Pipeline for Katharevousa Greek Parliamentary Text
+> **标题**：A Reproducible Universal Dependencies-Style Pipeline for Katharevousa Greek Parliamentary Text
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22978)
+> **source**：cs.CL updates on arXiv.org
+> **kind**：`paper`
+> **reason**：high-value terms: eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22978v1 Announce Type: new Abstract: Katharevousa Greek remains poorly served by contemporary NLP pipelines despite its importance for legal, administrative, and parliamentary archives. We present a reproducible workflow for building and evaluating a Universal Dependencies-style parsing...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 39** | Reading Calibrated Uncertainty from Language Model Trajectories
+> **标题**：Reading Calibrated Uncertainty from Language Model Trajectories
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22864)
+> **source**：cs.LG updates on arXiv.org
+> **kind**：`paper`
+> **reason**：high-value terms: eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22864v1 Announce Type: new Abstract: The maximum softmax probability (MSP) represents a default approach when evaluating uncertainty quantification for language model generation with structured output. Although cheap, it is often miscalibrated. Methods that probe the model's internal act...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 39** | Pointwise Metrics Mislead: An Evaluation Protocol for Multimodal Inverse Problems
+> **标题**：Pointwise Metrics Mislead: An Evaluation Protocol for Multimodal Inverse Problems
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22891)
+> **source**：cs.LG updates on arXiv.org
+> **kind**：`paper`
+> **reason**：high-value terms: eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22891v1 Announce Type: new Abstract: Evaluation in scientific reconstruction is dominated by pointwise metrics - RMSE, MAE, per-event resolution - under the implicit assumption that lower error means better reconstruction. We show that this assumption fails structurally for inverse probl...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 39** | Transcoders Trace Visual Grounding and Hallucinations in Vision-Language Models
+> **标题**：Transcoders Trace Visual Grounding and Hallucinations in Vision-Language Models
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22902)
+> **source**：cs.LG updates on arXiv.org
+> **kind**：`paper`
+> **reason**：high-value terms: reasoning
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22902v1 Announce Type: new Abstract: Generative Vision-Language Models (VLMs) perform well on multimodal reasoning, but how visual inputs are transformed to text remains poorly understood. Existing interpretability work on VLMs uses Sparse Autoencoders (SAEs), which decompose static resi...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 39** | Certification from Examples is Hard for Circuits and Transformers under Minimal Overparametrization
+> **标题**：Certification from Examples is Hard for Circuits and Transformers under Minimal Overparametrization
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22964)
+> **source**：cs.LG updates on arXiv.org
+> **kind**：`paper`
+> **reason**：high-value terms: reasoning
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22964v1 Announce Type: new Abstract: As state-of-the-art neural networks are deployed on reasoning and algorithmic tasks, exactness guarantees become increasingly important. However, high average-case accuracy can still mask inconsistent behaviors. This motivates exact certification, whi...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 38** | LLMTest
+> **标题**：LLMTest
+> **原文链接**：🔗 [打开原文](https://www.producthunt.com/products/llmtest-2)
+> **source**：Product Hunt — The best new products, every day
+> **kind**：`product`
+> **reason**：matches topics: llm
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 36** | If you let AI do your writing, I will come to your house and kill you
+> **标题**：If you let AI do your writing, I will come to your house and kill you
+> **原文链接**：🔗 [打开原文](https://samkriss.substack.com/p/if-you-let-ai-do-your-writing-i-will)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：HN engagement: 34 points, 12 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：34 points | 12 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 36** | I'm the CEO of Goldman Sachs. The AI Job Apocalypse Is Overblown
+> **标题**：I'm the CEO of Goldman Sachs. The AI Job Apocalypse Is Overblown
+> **原文链接**：🔗 [打开原文](https://www.nytimes.com/2026/05/22/opinion/ai-job-crisis-goldman-sachs.html)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：HN engagement: 21 points, 7 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：21 points | 7 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 36** | Linus Torvalds Is Unhappy About the AI Influence in Linux Kernel Development
+> **标题**：Linus Torvalds Is Unhappy About the AI Influence in Linux Kernel Development
+> **原文链接**：🔗 [打开原文](https://ostechnix.com/linus-torvalds-ai-influence-linux-kernel-development/)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：HN engagement: 16 points, 5 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：16 points | 5 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 36** | Citing Gandalf, Pope Leo says we must "disarm" AI
+> **标题**：Citing Gandalf, Pope Leo says we must "disarm" AI
+> **原文链接**：🔗 [打开原文](https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：HN engagement: 9 points, 4 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：9 points | 4 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 36** | Show HN: Hackobar – One feed for AI news
+> **标题**：Show HN: Hackobar – One feed for AI news
+> **原文链接**：🔗 [打开原文](https://hackobar.com/)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：HN engagement: 5 points, 3 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：5 points | 3 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 36** | The AI Era Is Creating a Bug Hunting Arms Race
+> **标题**：The AI Era Is Creating a Bug Hunting Arms Race
+> **原文链接**：🔗 [打开原文](https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：HN engagement: 2 points, 0 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：2 points | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 36** | Diffusion Language Models: How NVIDIA Nemotron-Labs Diffusion Shatters the Autoregressive Speed Ceiling
+> **标题**：Diffusion Language Models: How NVIDIA Nemotron-Labs Diffusion Shatters the Autoregressive Speed Ceiling
+> **原文链接**：🔗 [打开原文](https://dev.to/monuminu/diffusion-language-models-how-nvidia-nemotron-labs-diffusion-shatters-the-autoregressive-speed-3dak)
+> **source**：Dev.to
+> **kind**：`article`
+> **reason**：matches topics: llm
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Meta Description: Diffusion language models (DLMs) are rewriting LLM inference. Dive deep into...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 36** | What Happens Inside an LLM During Inference: Tokens, KV Cache, and GPU Execution Explained
+> **标题**：What Happens Inside an LLM During Inference: Tokens, KV Cache, and GPU Execution Explained
+> **原文链接**：🔗 [打开原文](https://dev.to/murali8k/what-happens-inside-an-llm-during-inference-tokens-kv-cache-and-gpu-execution-explained-4j4c)
+> **source**：Dev.to
+> **kind**：`article`
+> **reason**：matches topics: llm
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：You type a prompt. You hit Enter. In under two seconds, a response starts streaming back — word by...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 36** | How We Built Dynamic NPC Dialogue with LLMs — Lessons from Early Access
+> **标题**：How We Built Dynamic NPC Dialogue with LLMs — Lessons from Early Access
+> **原文链接**：🔗 [打开原文](https://dev.to/maximilian32541spec/how-we-built-dynamic-npc-dialogue-with-llms-lessons-from-early-access-4bfe)
+> **source**：Dev.to
+> **kind**：`article`
+> **reason**：matches topics: llm
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：How We Built Dynamic NPC Dialogue with LLMs We're a small team at Vantage Digital Labs...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 32** | NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic
+> **标题**：NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22874)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：baseline source relevance
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22874v1 Announce Type: new Abstract: Effectively translating between natural language (NL) and formal logics like Linear Temporal Logic (LTL) requires expertise that limits formal verification's reach in safety-critical development. Template-based approaches sacrifice expressiveness for...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 32** | Mediative Fuzzy Logic: From Type-1 Foundations to Type-2, Type-3 and Quantum Extensions
+> **标题**：Mediative Fuzzy Logic: From Type-1 Foundations to Type-2, Type-3 and Quantum Extensions
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22900)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：baseline source relevance
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22900v1 Announce Type: new Abstract: Mediative Fuzzy Logic was conceived as a practical scheme for reconciling hesitant or conflicting assessments in fuzzy control and decision-making. However, its logical and semantic foundations remain underdeveloped, especially beyond operational type...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 32** | The Deterministic Horizon: Impossibility Results as Design Specifications for Trustworthy AI Systems
+> **标题**：The Deterministic Horizon: Impossibility Results as Design Specifications for Trustworthy AI Systems
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.23024)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：baseline source relevance
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.23024v1 Announce Type: new Abstract: Large language models now write software, draft legal documents, and produce clinical notes, yet fundamental limits, from Turing and Arrow to the No Free Lunch theorems, shape what computation can do. This thesis turns such impossibility results from...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 32** | Ontological Knowledge Blocks: Executable Compliance and Profile-Based Validation for Trustworthy AI Systems
+> **标题**：Ontological Knowledge Blocks: Executable Compliance and Profile-Based Validation for Trustworthy AI Systems
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.23297)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：baseline source relevance
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.23297v1 Announce Type: new Abstract: AI-enabled services deployed in critical digital infrastructure are subject to governance obligations spanning transparency, accountability, fairness, and traceability. Compliance today remains documentation-centric: obligations are described in prose...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 32** | A Survey of Text and Speech Resources for Hausa and Fongbe: Availability, Quality, and Gaps for NLP Development
+> **标题**：A Survey of Text and Speech Resources for Hausa and Fongbe: Availability, Quality, and Gaps for NLP Development
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22828)
+> **source**：cs.CL updates on arXiv.org
+> **kind**：`paper`
+> **reason**：baseline source relevance
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22828v1 Announce Type: new Abstract: This survey provides a comprehensive catalog of publicly available text and speech resources for two West African languages: Hausa, an Afroasiatic language with approximately 80-100 million speakers, and Fongbe, a Niger-Congo language spoken by approx...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 32** | Knowledge Distillation for Low-Resource Open-source Text-to-SQL Model
+> **标题**：Knowledge Distillation for Low-Resource Open-source Text-to-SQL Model
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22843)
+> **source**：cs.CL updates on arXiv.org
+> **kind**：`paper`
+> **reason**：baseline source relevance
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22843v1 Announce Type: new Abstract: Text-to-SQL converts natural language questions into executable SQL queries, enabling non-technical users to access relational databases for analytics and intelligent data services. In real-world scenarios, performance is often constrained by low-reso...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 32** | RAS: Reflection-Augmented Scaling with In-Context Learning for Executable Cypher Query Generation
+> **标题**：RAS: Reflection-Augmented Scaling with In-Context Learning for Executable Cypher Query Generation
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22937)
+> **source**：cs.CL updates on arXiv.org
+> **kind**：`paper`
+> **reason**：baseline source relevance
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22937v1 Announce Type: new Abstract: Inference-time scaling can reduce errors in structured query generation, but methods to allocate the compute for query code generation remains underexplored. We study Text2Cypher, where language models generate Cypher queries that execute against prop...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 32** | Memorization Dynamics of Fill-in-the-Middle Pretraining
+> **标题**：Memorization Dynamics of Fill-in-the-Middle Pretraining
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22981)
+> **source**：cs.CL updates on arXiv.org
+> **kind**：`paper`
+> **reason**：baseline source relevance
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22981v1 Announce Type: new Abstract: Fill-in-the-middle (FIM) is a pretraining objective widely used to equip causal language models with infilling ability, yet its effect on verbatim memorization remains underexplored. We study the memorization dynamics of FIM in a controlled setting by...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 32** | DreamerNLplus: Interpretable Modeling of Mental Health Dynamics from Social Media Timelines using Hybrid Rule-Based and RAG Methods
+> **标题**：DreamerNLplus: Interpretable Modeling of Mental Health Dynamics from Social Media Timelines using Hybrid Rule-Based and RAG Methods
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.23052)
+> **source**：cs.CL updates on arXiv.org
+> **kind**：`paper`
+> **reason**：baseline source relevance
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.23052v1 Announce Type: new Abstract: We present DreamerNLplus, a hybrid framework for modeling mental health dynamics from social media timelines in the CLPsych 2026 shared task. Our system addresses three tasks: psychological state modeling, temporal change detection, and sequence-level...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 32** | FusionSense: Tri-Stage Near-Sensor Learning for Runtime-Adaptive Multimodal Edge Intelligence
+> **标题**：FusionSense: Tri-Stage Near-Sensor Learning for Runtime-Adaptive Multimodal Edge Intelligence
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22868)
+> **source**：cs.LG updates on arXiv.org
+> **kind**：`paper`
+> **reason**：baseline source relevance
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22868v1 Announce Type: new Abstract: Autonomous systems and smart-industry deployments increasingly split computation across near-sensor, edge, and cloud resources, where tight energy, latency, and reliability budgets demand run-time adaptivity. In practice, deciding what to compute and...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 32** | FuRA: Full-Rank Parameter-Efficient Fine-Tuning with Spectral Preconditioning
+> **标题**：FuRA: Full-Rank Parameter-Efficient Fine-Tuning with Spectral Preconditioning
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22869)
+> **source**：cs.LG updates on arXiv.org
+> **kind**：`paper`
+> **reason**：baseline source relevance
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22869v1 Announce Type: new Abstract: Both full fine-tuning (Full FT) and parameter-efficient fine-tuning methods such as LoRA introduce weight updates without accounting for the spectral structure established during pretraining. As a result, noisy gradients from limited fine-tuning data...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 32** | The Readout Shortcut: Positional Number Copying Dominates Arithmetic CoT Readout in Small Language Models
+> **标题**：The Readout Shortcut: Positional Number Copying Dominates Arithmetic CoT Readout in Small Language Models
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22870)
+> **source**：cs.LG updates on arXiv.org
+> **kind**：`paper`
+> **reason**：baseline source relevance
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22870v1 Announce Type: new Abstract: Chain-of-thought (CoT) prompting is necessary for arithmetic in small language models, yet shuffling its steps preserves most performance. What does CoT contribute if not logical sequencing? In three 1-3B instruction-tuned LMs on GSM8K, we isolate the...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 32** | Approximate Machine Unlearning through Manifold Representation Forgetting Guided by Self Mode Connectivity
+> **标题**：Approximate Machine Unlearning through Manifold Representation Forgetting Guided by Self Mode Connectivity
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22871)
+> **source**：cs.LG updates on arXiv.org
+> **kind**：`paper`
+> **reason**：baseline source relevance
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22871v1 Announce Type: new Abstract: Machine unlearning is a fundamental mechanism that enforces the right to be forgotten. Existing unlearning studies that rely on label manipulation or task-gradient reversal often deliver limited unlearning effectiveness. Moreover, they can undermine t...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 32** | MedExpMem: Adapting Experience Memory for Differential Diagnosis
+> **标题**：MedExpMem: Adapting Experience Memory for Differential Diagnosis
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22872)
+> **source**：cs.LG updates on arXiv.org
+> **kind**：`paper`
+> **reason**：baseline source relevance
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22872v1 Announce Type: new Abstract: Experienced physicians develop diagnostic expertise through clinical practice, acquiring not only disease knowledge but also the ability to differentiate confusable conditions. Current medical vision-language models (VLMs) lack this capability -- thei...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 32** | WeCon: An Efficient Weight-Conditioned Neural Solver for Multi-Objective Combinatorial Optimization Problems
+> **标题**：WeCon: An Efficient Weight-Conditioned Neural Solver for Multi-Objective Combinatorial Optimization Problems
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22876)
+> **source**：cs.LG updates on arXiv.org
+> **kind**：`paper`
+> **reason**：baseline source relevance
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22876v1 Announce Type: new Abstract: Existing neural solvers for Multi-Objective Combinatorial Optimization Problems (MOCOPs) commonly adopt decomposition-based strategies that scalarize an MOCOP into multiple subproblems associated with distinct weight vectors. However, they either inje...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 32** | Tensor Cache: Eviction-conditioned Associative Memory for Transformers
+> **标题**：Tensor Cache: Eviction-conditioned Associative Memory for Transformers
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22884)
+> **source**：cs.LG updates on arXiv.org
+> **kind**：`paper`
+> **reason**：baseline source relevance
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22884v1 Announce Type: new Abstract: Autoregressive Transformer KV caches grow linearly with context length; sliding-window caching bounds memory but discards evicted tokens entirely, so relevant evidence outside the window becomes inaccessible. We introduce \emph{Tensor Cache}, a two-le...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 32** | FIRMA: FIbonacci Ring Model Aggregation for Privacy-preserving Federated Learning
+> **标题**：FIRMA: FIbonacci Ring Model Aggregation for Privacy-preserving Federated Learning
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22898)
+> **source**：cs.LG updates on arXiv.org
+> **kind**：`paper`
+> **reason**：baseline source relevance
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22898v1 Announce Type: new Abstract: Federated learning protocols face a structural trilemma: canonical server-based aggregation~\cite{mcmahan2017} creates a single point of failure and gradient inversion risk; decentralised ring-gossip alternatives~\cite{hu2019segmented} expose classifi...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 32** | Building a privacy-preserving Federated Recommender system for mobile devices
+> **标题**：Building a privacy-preserving Federated Recommender system for mobile devices
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22924)
+> **source**：cs.LG updates on arXiv.org
+> **kind**：`paper`
+> **reason**：baseline source relevance
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22924v1 Announce Type: new Abstract: Serving personalized content on mobile devices has traditionally required pooling sensitive user data on centralized servers, a practice increasingly at odds with modern privacy expectations and geographical regulations. We present a two-stage federat...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 32** | Human-Centered Learning Mechanics: A Dynamical Framework for Entropy-Regulated Representation Learning
+> **标题**：Human-Centered Learning Mechanics: A Dynamical Framework for Entropy-Regulated Representation Learning
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22940)
+> **source**：cs.LG updates on arXiv.org
+> **kind**：`paper`
+> **reason**：baseline source relevance
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22940v1 Announce Type: new Abstract: Deep learning is increasingly viewed as a dynamical process in parameter space, yet many existing theories still treat training as a closed optimization system. This view is limited for real-world AI, where models operate under uncertainty, resource c...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 32** | FederatedRSF : Federated Random Survival Forests for Partially Overlapping Medical Data
+> **标题**：FederatedRSF : Federated Random Survival Forests for Partially Overlapping Medical Data
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22954)
+> **source**：cs.LG updates on arXiv.org
+> **kind**：`paper`
+> **reason**：baseline source relevance
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22954v1 Announce Type: new Abstract: Multi-center survival prediction can improve robustness and generalizability, yet privacy regulations and institutional governance often prevent pooling patient-level clinical and genomic data across institutions. In practice, deployment is further co...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 32** | Learned Relay Representations for Forward-Thinking Discrete Diffusion Models
+> **标题**：Learned Relay Representations for Forward-Thinking Discrete Diffusion Models
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.22967)
+> **source**：cs.LG updates on arXiv.org
+> **kind**：`paper`
+> **reason**：baseline source relevance
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.22967v1 Announce Type: new Abstract: When Masked Diffusion Models (MDMs) generate sequences through iterative refinement, the rich internal computation over masked positions is discarded, forcing every subsequent refinement step to recompute the valuable internal information stored as mo...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 30** | Yansu
+> **标题**：Yansu
+> **原文链接**：🔗 [打开原文](https://www.producthunt.com/products/yansu)
+> **source**：Product Hunt — The best new products, every day
+> **kind**：`product`
+> **reason**：baseline source relevance
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 30** | tweet.md
+> **标题**：tweet.md
+> **原文链接**：🔗 [打开原文](https://www.producthunt.com/products/tweet-md)
+> **source**：Product Hunt — The best new products, every day
+> **kind**：`product`
+> **reason**：baseline source relevance
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 30** | Orchestria
+> **标题**：Orchestria
+> **原文链接**：🔗 [打开原文](https://www.producthunt.com/products/orchestria)
+> **source**：Product Hunt — The best new products, every day
+> **kind**：`product`
+> **reason**：baseline source relevance
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 30** | The Incident Challenge
+> **标题**：The Incident Challenge
+> **原文链接**：🔗 [打开原文](https://www.producthunt.com/products/the-incident-challenge)
+> **source**：Product Hunt — The best new products, every day
+> **kind**：`product`
+> **reason**：baseline source relevance
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 30** | Fred
+> **标题**：Fred
+> **原文链接**：🔗 [打开原文](https://www.producthunt.com/products/fred-the-uxr-shepherd)
+> **source**：Product Hunt — The best new products, every day
+> **kind**：`product`
+> **reason**：baseline source relevance
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 30** | Rixx
+> **标题**：Rixx
+> **原文链接**：🔗 [打开原文](https://www.producthunt.com/products/rixx)
+> **source**：Product Hunt — The best new products, every day
+> **kind**：`product`
+> **reason**：baseline source relevance
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 30** | Forum
+> **标题**：Forum
+> **原文链接**：🔗 [打开原文](https://www.producthunt.com/products/meta)
+> **source**：Product Hunt — The best new products, every day
+> **kind**：`product`
+> **reason**：baseline source relevance
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 30** | tldx
+> **标题**：tldx
+> **原文链接**：🔗 [打开原文](https://www.producthunt.com/products/tldx)
+> **source**：Product Hunt — The best new products, every day
+> **kind**：`product`
+> **reason**：baseline source relevance
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 30** | MashuPack
+> **标题**：MashuPack
+> **原文链接**：🔗 [打开原文](https://www.producthunt.com/products/mashupack)
+> **source**：Product Hunt — The best new products, every day
+> **kind**：`product`
+> **reason**：baseline source relevance
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 30** | own.page
+> **标题**：own.page
+> **原文链接**：🔗 [打开原文](https://www.producthunt.com/products/own-page)
+> **source**：Product Hunt — The best new products, every day
+> **kind**：`product`
+> **reason**：baseline source relevance
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 30** | Tiny CV
+> **标题**：Tiny CV
+> **原文链接**：🔗 [打开原文](https://www.producthunt.com/products/tiny-cv)
+> **source**：Product Hunt — The best new products, every day
+> **kind**：`product`
+> **reason**：baseline source relevance
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 30** | Stitch 3.0 by Google
+> **标题**：Stitch 3.0 by Google
+> **原文链接**：🔗 [打开原文](https://www.producthunt.com/products/stitch-by-google)
+> **source**：Product Hunt — The best new products, every day
+> **kind**：`product`
+> **reason**：baseline source relevance
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 30** | WhatCable
+> **标题**：WhatCable
+> **原文链接**：🔗 [打开原文](https://www.producthunt.com/products/whatcable)
+> **source**：Product Hunt — The best new products, every day
+> **kind**：`product`
+> **reason**：baseline source relevance
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 30** | DynamicNotch
+> **标题**：DynamicNotch
+> **原文链接**：🔗 [打开原文](https://www.producthunt.com/products/dynamicnotch)
+> **source**：Product Hunt — The best new products, every day
+> **kind**：`product`
+> **reason**：baseline source relevance
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 30** | DockFlow
+> **标题**：DockFlow
+> **原文链接**：🔗 [打开原文](https://www.producthunt.com/products/dockflow)
+> **source**：Product Hunt — The best new products, every day
+> **kind**：`product`
+> **reason**：baseline source relevance
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | Don’t let AI break your collective thinking: a practical guide for engineering teams
+> **标题**：Don’t let AI break your collective thinking: a practical guide for engineering teams
+> **原文链接**：🔗 [打开原文](https://dev.to/javz/dont-let-ai-break-your-collective-thinking-a-practical-guide-for-engineering-teams-41c4)
+> **source**：Dev.to
+> **kind**：`article`
+> **reason**：25 reactions
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Over the past few years, my workflow as an engineer has changed a lot. I went from the occasional...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | MIA: A Futuristic AI Desktop Assistant Built with Voice, Gestures, and Controlled Chaos
+> **标题**：MIA: A Futuristic AI Desktop Assistant Built with Voice, Gestures, and Controlled Chaos
+> **原文链接**：🔗 [打开原文](https://dev.to/trojanmocx/mia-a-futuristic-ai-desktop-assistant-built-with-voice-gestures-and-controlled-chaos-1259)
+> **source**：Dev.to
+> **kind**：`article`
+> **reason**：14 reactions
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Most desktop assistants today feel like they were designed by someone whose greatest ambition was...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | Every Tool Eventually Becomes Tuesday
+> **标题**：Every Tool Eventually Becomes Tuesday
+> **原文链接**：🔗 [打开原文](https://dev.to/evanlausier/every-tool-eventually-becomes-tuesday-47ak)
+> **source**：Dev.to
+> **kind**：`article`
+> **reason**：10 reactions
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：I opened my email this morning and there were three product announcements from companies I have never...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | Why does AI forget what you said (and how to fix it)
+> **标题**：Why does AI forget what you said (and how to fix it)
+> **原文链接**：🔗 [打开原文](https://dev.to/aws/why-does-ai-forget-what-you-said-and-how-to-fix-it-52f6)
+> **source**：Dev.to
+> **kind**：`article`
+> **reason**：14 reactions
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：I received following comment on my hallucinations blog post. Comment on Why...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | Now I See Why Translators Are Panicking Over AI—Should Coders Panic Too?
+> **标题**：Now I See Why Translators Are Panicking Over AI—Should Coders Panic Too?
+> **原文链接**：🔗 [打开原文](https://dev.to/canro91/now-i-see-why-translators-are-panicking-over-ai-should-coders-panic-too-2ca2)
+> **source**：Dev.to
+> **kind**：`article`
+> **reason**：7 reactions
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Last year, I met a young translator reinventing herself. She studied Translation for five years at a...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | Why AI-Generated Code Is Always Good Enough — And Never Great
+> **标题**：Why AI-Generated Code Is Always Good Enough — And Never Great
+> **原文链接**：🔗 [打开原文](https://dev.to/harsh2644/why-ai-generated-code-is-always-good-enough-and-never-great-4lhn)
+> **source**：Dev.to
+> **kind**：`article`
+> **reason**：25 reactions
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：AI wrote a function for me last week It worked Tests passed Edge cases handled I shipped it. But...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | I Built a Neural Network Engine in C# That Runs in Your Browser - No ONNX Runtime, No JavaScript Bridge, No Native Binaries
+> **标题**：I Built a Neural Network Engine in C# That Runs in Your Browser - No ONNX Runtime, No JavaScript Bridge, No Native Binaries
+> **原文链接**：🔗 [打开原文](https://dev.to/lostbeard/i-built-a-neural-network-engine-in-c-that-runs-in-your-browser-no-onnx-runtime-no-javascript-4aj3)
+> **source**：Dev.to
+> **kind**：`article`
+> **reason**：5 reactions
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Eight months ago the creator of ILGPU told me supporting Blazor WebAssembly would be too difficult. Today I'm shipping a six-backend ML library to NuGet with five working demos. Here's how, and what it took to get here on $20 a month.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | # Multi-Head Latent Attention (MLA)
+> **标题**：# Multi-Head Latent Attention (MLA)
+> **原文链接**：🔗 [打开原文](https://dev.to/sirajuddin-shaik/-multi-head-latent-attention-mla-i3b)
+> **source**：Dev.to
+> **kind**：`article`
+> **reason**：0 reactions
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Compressing KV cache via low-rank projections - the attention mechanism behind DeepSeek-V2/V3 and...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | Debiasing Graph Neural Networks for Recommendation with Causal RL
+> **标题**：Debiasing Graph Neural Networks for Recommendation with Causal RL
+> **原文链接**：🔗 [打开原文](https://dev.to/tasfinmahmud/debiasing-graph-neural-networks-for-recommendation-with-causal-rl-2783)
+> **source**：Dev.to
+> **kind**：`article`
+> **reason**：0 reactions
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：How to use Inverse Propensity Scoring and Causal Embeddings to fix popularity bias in GNN recommender systems.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | There Are Cameras in Every Room of My House. I Put Them There.
+> **标题**：There Are Cameras in Every Room of My House. I Put Them There.
+> **原文链接**：🔗 [打开原文](https://dev.to/joshadler/there-are-cameras-in-every-room-of-my-house-i-put-them-there-4p8i)
+> **source**：Dev.to
+> **kind**：`article`
+> **reason**：0 reactions
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：My girlfriend asked why there's a red light blinking in the bedroom at 3 AM. I told her it's for the...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | We Trust Third Party Code, It’s Time to Trust AI Generated Code
+> **标题**：We Trust Third Party Code, It’s Time to Trust AI Generated Code
+> **原文链接**：🔗 [打开原文](https://dev.to/sag1v/we-trust-third-party-code-its-time-to-trust-ai-generated-code-50ed)
+> **source**：Dev.to
+> **kind**：`article`
+> **reason**：0 reactions
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：AI-generated code should be treated as third-party code. Same mental model we already use for...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | Looking for 4 people to build something weird with me
+> **标题**：Looking for 4 people to build something weird with me
+> **原文链接**：🔗 [打开原文](https://dev.to/casperday11/looking-for-4-people-to-build-something-weird-with-me-2bgl)
+> **source**：Dev.to
+> **kind**：`article`
+> **reason**：5 reactions
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：A few months ago, if someone had asked me what I'd be doing this summer, I would've probably said...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | The Three-Body Problem: AI Code, Supply Chain Attacks, and the Talent Exodus
+> **标题**：The Three-Body Problem: AI Code, Supply Chain Attacks, and the Talent Exodus
+> **原文链接**：🔗 [打开原文](https://dev.to/bojan_josifoski_76e9fd65d/the-three-body-problem-ai-code-supply-chain-attacks-and-the-talent-exodus-44m2)
+> **source**：Dev.to
+> **kind**：`article`
+> **reason**：2 reactions
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：In physics, the three-body problem describes a system where three objects interact gravitationally in...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | Human proof for FOSS contributions
+> **标题**：Human proof for FOSS contributions
+> **原文链接**：🔗 [打开原文](https://dillo-browser.org/lab/human-proof/)
+> **source**：Lobste.rs
+> **kind**：`community`
+> **reason**：5 score, 2 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：5 score | 2 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | Encyclical Letter of His Holiness Leo XIV Magnifica Humanitas
+> **标题**：Encyclical Letter of His Holiness Leo XIV Magnifica Humanitas
+> **原文链接**：🔗 [打开原文](http://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
+> **source**：Lobste.rs
+> **kind**：`community`
+> **reason**：30 score, 9 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：30 score | 9 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | The Open/Closed Problem in AI
+> **标题**：The Open/Closed Problem in AI
+> **原文链接**：🔗 [打开原文](https://blog.mempko.com/the-open-closed-problem-in-ai/)
+> **source**：Lobste.rs
+> **kind**：`community`
+> **reason**：5 score, 3 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：5 score | 3 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | A Network Allow-List Won't Stop Exfiltration
+> **标题**：A Network Allow-List Won't Stop Exfiltration
+> **原文链接**：🔗 [打开原文](https://www.dergraf.org/notes/canister-egress-proxy-dlp/)
+> **source**：Lobste.rs
+> **kind**：`community`
+> **reason**：3 score, 15 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：3 score | 15 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | Dissecting ThunderKittens, anatomy of a compact DSL for high-performance AI kernels
+> **标题**：Dissecting ThunderKittens, anatomy of a compact DSL for high-performance AI kernels
+> **原文链接**：🔗 [打开原文](https://hamzaelshafie.bearblog.dev/dissecting-thunderkittens-anatomy-of-a-compact-dsl-for-high-performance-ai-kernels/)
+> **source**：Lobste.rs
+> **kind**：`community`
+> **reason**：2 score, 0 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：2 score | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | I spent 31 hours on the math behind TurboQuant so you don't have to
+> **标题**：I spent 31 hours on the math behind TurboQuant so you don't have to
+> **原文链接**：🔗 [打开原文](https://www.baseten.co/blog/i-spent-31-hours-on-the-math-behind-turboquant-so-you-dont-have-to/)
+> **source**：Lobste.rs
+> **kind**：`community`
+> **reason**：2 score, 0 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：2 score | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | AI Resist List
+> **标题**：AI Resist List
+> **原文链接**：🔗 [打开原文](https://airesistlist.org/)
+> **source**：Lobste.rs
+> **kind**：`community`
+> **reason**：3 score, 0 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：3 score | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | 2ality blog: temporarily offline
+> **标题**：2ality blog: temporarily offline
+> **原文链接**：🔗 [打开原文](https://2ality.com/)
+> **source**：Lobste.rs
+> **kind**：`community`
+> **reason**：2 score, 0 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：2 score | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | OCaml Infrastructure: How the opam-repository Works
+> **标题**：OCaml Infrastructure: How the opam-repository Works
+> **原文链接**：🔗 [打开原文](https://ocaml.org/backstage/2025-11-05-how-the-opam-repository-works)
+> **source**：Lobste.rs
+> **kind**：`community`
+> **reason**：5 score, 0 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：5 score | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | Introducing Incremental (2015)
+> **标题**：Introducing Incremental (2015)
+> **原文链接**：🔗 [打开原文](https://blog.janestreet.com/introducing-incremental/)
+> **source**：Lobste.rs
+> **kind**：`community`
+> **reason**：12 score, 4 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：12 score | 4 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | Data race freedom in OxCaml
+> **标题**：Data race freedom in OxCaml
+> **原文链接**：🔗 [打开原文](https://kcsrk.info/ocaml/oxcaml/x-ocaml/blogging/2026/05/07/data-race-freedom-in-oxcaml/)
+> **source**：Lobste.rs
+> **kind**：`community`
+> **reason**：11 score, 0 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：11 score | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | why use F# for scripting and automation?
+> **标题**：why use F# for scripting and automation?
+> **原文链接**：🔗 [打开原文](https://iev.ee/blog/why-use-fsharp/)
+> **source**：Lobste.rs
+> **kind**：`community`
+> **reason**：23 score, 6 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：23 score | 6 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | O(x)Caml in Space
+> **标题**：O(x)Caml in Space
+> **原文链接**：🔗 [打开原文](https://gazagnaire.org/blog/2026-05-14-borealis.html)
+> **source**：Lobste.rs
+> **kind**：`community`
+> **reason**：5 score, 0 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：5 score | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | Shrinking the OxCaml js_of_ocaml bundle: 285 MB to 4 MB
+> **标题**：Shrinking the OxCaml js_of_ocaml bundle: 285 MB to 4 MB
+> **原文链接**：🔗 [打开原文](https://kcsrk.info/ocaml/oxcaml/modes/2026/05/10/shrinking-the-oxcaml-bundle/)
+> **source**：Lobste.rs
+> **kind**：`community`
+> **reason**：3 score, 0 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：3 score | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | A Path Not Taken for OxCaml
+> **标题**：A Path Not Taken for OxCaml
+> **原文链接**：🔗 [打开原文](https://joel.place/blog/path-not-taken/)
+> **source**：Lobste.rs
+> **kind**：`community`
+> **reason**：24 score, 4 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：24 score | 4 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | Reimplementing the Space Protocol Stack from Scratch
+> **标题**：Reimplementing the Space Protocol Stack from Scratch
+> **原文链接**：🔗 [打开原文](https://gazagnaire.org/blog/2026-04-15-ccsds-protocol-stack.html)
+> **source**：Lobste.rs
+> **kind**：`community`
+> **reason**：6 score, 0 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：6 score | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | A Simple Makefile Tutorial (2008)
+> **标题**：A Simple Makefile Tutorial (2008)
+> **原文链接**：🔗 [打开原文](https://cs.colby.edu/maxwell/courses/tutorials/maketutor/)
+> **source**：Lobste.rs
+> **kind**：`community`
+> **reason**：11 score, 10 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：11 score | 10 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | Fully in-browser container builds
+> **标题**：Fully in-browser container builds
+> **原文链接**：🔗 [打开原文](https://ochagavia.nl/blog/fully-in-browser-container-builds/)
+> **source**：Lobste.rs
+> **kind**：`community`
+> **reason**：10 score, 4 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：10 score | 4 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | What are you doing this week?
+> **标题**：What are you doing this week?
+> **原文链接**：🔗 [打开原文](https://lobste.rs/s/vf66rg/what_are_you_doing_this_week)
+> **source**：Lobste.rs
+> **kind**：`community`
+> **reason**：11 score, 12 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：11 score | 12 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | The Eternal Sloptember
+> **标题**：The Eternal Sloptember
+> **原文链接**：🔗 [打开原文](https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html)
+> **source**：Lobste.rs
+> **kind**：`community`
+> **reason**：64 score, 10 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：64 score | 10 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | From AFSK to Goertzel
+> **标题**：From AFSK to Goertzel
+> **原文链接**：🔗 [打开原文](https://uart.cz/2959/from-afsk-to-goertzel/)
+> **source**：Lobste.rs
+> **kind**：`community`
+> **reason**：13 score, 2 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：13 score | 2 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | libwce: the entropy layer of a wavelet codec, on its own
+> **标题**：libwce: the entropy layer of a wavelet codec, on its own
+> **原文链接**：🔗 [打开原文](https://yogthos.net/posts/2026-05-24-libwce.html)
+> **source**：Lobste.rs
+> **kind**：`community`
+> **reason**：4 score, 2 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：4 score | 2 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | A new suite of modern tools coming for editing and publishing RFCs
+> **标题**：A new suite of modern tools coming for editing and publishing RFCs
+> **原文链接**：🔗 [打开原文](https://www.ietf.org/blog/new-tools-coming-for-editing-and-publishing-rfcs/)
+> **source**：Lobste.rs
+> **kind**：`community`
+> **reason**：19 score, 4 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：19 score | 4 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 28** | What are you doing this weekend?
+> **标题**：What are you doing this weekend?
+> **原文链接**：🔗 [打开原文](https://lobste.rs/s/hwyrwd/what_are_you_doing_this_weekend)
+> **source**：Lobste.rs
+> **kind**：`community`
+> **reason**：13 score, 42 comments
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：13 score | 42 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 0** | GitHub Search fetch failed
+> **标题**：GitHub Search fetch failed
+> **原文链接**：🔗 [打开原文](https://api.github.com/search/repositories?q=topic%3Aai&sort=updated&order=desc&per_page=8)
+> **source**：System
+> **kind**：`failure`
+> **reason**：source failure logged
+> **follow_up**：检查数据源是否限流或地址失效。
+> **summary**：HTTP Error 403: rate limit exceeded
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 0** | GitHub Search fetch failed
+> **标题**：GitHub Search fetch failed
+> **原文链接**：🔗 [打开原文](https://api.github.com/search/repositories?q=topic%3Allm&sort=updated&order=desc&per_page=8)
+> **source**：System
+> **kind**：`failure`
+> **reason**：source failure logged
+> **follow_up**：检查数据源是否限流或地址失效。
+> **summary**：HTTP Error 403: rate limit exceeded
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 0** | GitHub Search fetch failed
+> **标题**：GitHub Search fetch failed
+> **原文链接**：🔗 [打开原文](https://api.github.com/search/repositories?q=topic%3Aagents&sort=updated&order=desc&per_page=8)
+> **source**：System
+> **kind**：`failure`
+> **reason**：source failure logged
+> **follow_up**：检查数据源是否限流或地址失效。
+> **summary**：HTTP Error 403: rate limit exceeded
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 0** | GitHub Search fetch failed
+> **标题**：GitHub Search fetch failed
+> **原文链接**：🔗 [打开原文](https://api.github.com/search/repositories?q=topic%3Amcp&sort=updated&order=desc&per_page=8)
+> **source**：System
+> **kind**：`failure`
+> **reason**：source failure logged
+> **follow_up**：检查数据源是否限流或地址失效。
+> **summary**：HTTP Error 403: rate limit exceeded
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 0** | GitHub Search fetch failed
+> **标题**：GitHub Search fetch failed
+> **原文链接**：🔗 [打开原文](https://api.github.com/search/repositories?q=topic%3Aobsidian&sort=updated&order=desc&per_page=8)
+> **source**：System
+> **kind**：`failure`
+> **reason**：source failure logged
+> **follow_up**：检查数据源是否限流或地址失效。
+> **summary**：HTTP Error 403: rate limit exceeded
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **只归档 / 0** | Hugging Face fetch failed
+> **标题**：Hugging Face fetch failed
+> **原文链接**：🔗 [打开原文](https://huggingface.co/api/models?sort=trending&direction=-1&limit=20)
+> **source**：System
+> **kind**：`failure`
+> **reason**：source failure logged
+> **follow_up**：检查数据源是否限流或地址失效。
+> **summary**：HTTP Error 400: Bad Request
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+## 运行信息
+
+- 生成方式：Research Radar daily_digest

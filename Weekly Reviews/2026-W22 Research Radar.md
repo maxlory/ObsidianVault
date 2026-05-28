@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W22
-date: 2026-05-25
+date: 2026-05-28
 tags:
   - weekly-review
   - research-radar
@@ -10,19 +10,6 @@ tags:
 
 ## 本周趋势
 
-> [!info]+ **今日必须看 / 97** | Claude Code v2.1.145版本更新
-> **标题**：Claude Code v2.1.145版本更新
-> **原文链接**：🔗 [打开原文](https://github.com/anthropics/claude-code/releases/tag/v2.1.145)
-> **source**：AI HOT / Claude Code：GitHub Releases（RSS）
-> **kind**：`product`
-> **reason**：matches topics: agent, claude code, mcp; high-value terms: agent, mcp, claude code, api
-> **follow_up**：判断是否需要沉淀为长期主题笔记。
-> **summary**：本次更新为Claude Code工具带来了多项功能增强与问题修复。新功能包括：新增JSON格式的会话列表命令以便脚本化操作，并在OTEL追踪中完善了Agent父子关系。插件浏览界面现可预览详细信息。在稳定性方面，修复了权限提示被绕过的安全问题、MCP参数校验错误、终端窗口调整后的显示冻结，以及非ASCII名称导致的API调用失败等问题。同时改进了Read工具的文件超限处理，并优化了任务列表排序和状态栏信息显示等交互细节，整体提升了工具的易用性与可靠性。
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 93** | 谷歌I/O大会发布AI代理全套开发工具链
 > **标题**：谷歌I/O大会发布AI代理全套开发工具链
 > **原文链接**：🔗 [打开原文](https://x.com/GoogleAI/status/2057871583843135978)
@@ -36,27 +23,27 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 93** | Claude推出自托管沙箱与MCP隧道功能
-> **标题**：Claude推出自托管沙箱与MCP隧道功能
-> **原文链接**：🔗 [打开原文](https://x.com/claudeai/status/2056645485696315581)
-> **source**：AI HOT / X：Claude (@claudeai)
+> [!info]+ **今日必须看 / 93** | OpenAI产品支持私有MCP服务器安全连接
+> **标题**：OpenAI产品支持私有MCP服务器安全连接
+> **原文链接**：🔗 [打开原文](https://x.com/OpenAIDevs/status/2059703536825565499)
+> **source**：AI HOT / X：OpenAI Developers (@OpenAIDevs)
 > **kind**：`product`
-> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
+> **reason**：matches topics: codex, openai, mcp; high-value terms: mcp, codex, api
 > **follow_up**：判断是否需要沉淀为长期主题笔记。
-> **summary**：来自Code with Claude伦敦现场：我们正在Claude Managed Agents中推出自托管沙箱（公测版）和MCP隧道（研究预览版）。 在您自己的安全边界内运行代理，默认应用您的安全控制。
+> **summary**：您的团队可以在内部网络中保留MCP服务器，同时ChatGPT、Codex和Responses API通过仅出站HTTPS进行连接。
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 93** | Claude托管代理新增两项安全功能
-> **标题**：Claude托管代理新增两项安全功能
-> **原文链接**：🔗 [打开原文](https://x.com/ClaudeDevs/status/2056740346529468717)
-> **source**：AI HOT / X：Claude Devs (@ClaudeDevs)
-> **kind**：`product`
-> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
+> [!info]+ **今日必须看 / 91** | 用好 Coding Agent，重点是两头，尤其是开头的部分，如果一开始就走偏了后面怎么改都改不好。
+> **标题**：用好 Coding Agent，重点是两头，尤其是开头的部分，如果一开始就走偏了后面怎么改都改不好。
+> **原文链接**：🔗 [打开原文](https://x.com/dotey/status/2059773942500298934)
+> **source**：AI HOT / X：宝玉 (@dotey)
+> **kind**：`article`
+> **reason**：matches topics: agent, claude code, codex; high-value terms: agent, codex, claude code
 > **follow_up**：判断是否需要沉淀为长期主题笔记。
-> **summary**：我们为Claude Managed Agents增加了两项安全改进。 自托管沙箱将代理的执行环境保留在您的基础设施或托管沙箱提供商处。 MCP隧道让代理能够连接到您安全边界内的服务。
+> **summary**：用好 Coding Agent 的关键在于初始规划。方法是先将需求整理后，用最强模型（如 GPT-5.5、Claude Opus 4.7）分别在 Codex、Claude Code、Cursor 的 Plan 模式下生成设计方案，选择最优方案并借鉴其他版本。对于复杂计划，可将其拆分为多个 Phases 并明确要求与验证标准，形成 Markdown 文档。执行时按 Phases 进行，并辅以人工审核纠偏。最后的代码审核（Code Review）用 GPT-5.5 审核代码质量与设计符合度即可。应避免让多个智能体交叉 Review，否则可能导致代码越改越多。
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -75,19 +62,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | CyberNerdsTechnologies/claude-agent-toolkit
-> **标题**：CyberNerdsTechnologies/claude-agent-toolkit
-> **原文链接**：🔗 [打开原文](https://github.com/CyberNerdsTechnologies/claude-agent-toolkit)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, llm; high-value terms: agent, agents, claude code, reasoning
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：🛠️ Build and customize Claude Code agents with tools and Docker isolation for efficient production workflows and advanced reasoning capabilities.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | westbrookai/zipsa
 > **标题**：westbrookai/zipsa
 > **原文链接**：🔗 [打开原文](https://github.com/westbrookai/zipsa)
@@ -101,27 +75,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | jeremylongshore/claude-code-plugins-plus-skills
-> **标题**：jeremylongshore/claude-code-plugins-plus-skills
-> **原文链接**：🔗 [打开原文](https://github.com/jeremylongshore/claude-code-plugins-plus-skills)
+> [!info]+ **今日必须看 / 89** | amirfish1/claude-command-center
+> **标题**：amirfish1/claude-command-center
+> **原文链接**：🔗 [打开原文](https://github.com/amirfish1/claude-command-center)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, mcp; high-value terms: agent, agents, mcp, claude code
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：425 plugins, 2,810 skills, 200 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI package manager.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | grossiweb/ToolRoute
-> **标题**：grossiweb/ToolRoute
-> **原文链接**：🔗 [打开原文](https://github.com/grossiweb/ToolRoute)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: benchmark, agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Intelligent routing layer for AI agents: recommends the best MCP server and LLM for any task, scored on 132+ real benchmark executions.
+> **summary**：Local-first dashboard that orchestrates Claude Code, Codex, and Gemini CLI sessions side-by-side — spawn, resume, and review from one browser tab.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -135,6 +96,45 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：A.I.M. – Actual Intelligent Memory: zero-token exoskeleton for long-running Gemini CLI/Chat GPT Codex/Claude Code agents. External SQLite memory, GitOps guardrails, DataJack cartridges. Alpha, trenches-first.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | xiaolai/codex-octopus
+> **标题**：xiaolai/codex-octopus
+> **原文链接**：🔗 [打开原文](https://github.com/xiaolai/codex-octopus)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, codex, mcp; high-value terms: agent, agents, mcp, codex
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：One brain, many arms — spawn multiple specialized Codex agents as MCP servers
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 88** | 社会科学中的编码智能体
+> **标题**：社会科学中的编码智能体
+> **原文链接**：🔗 [打开原文](https://www.anthropic.com/research/coding-agents-social-sciences)
+> **source**：AI HOT / Anthropic：Research（发表成果 · 网页）, Anthropic
+> **kind**：`paper`
+> **reason**：matches topics: claude code, codex, anthropic; high-value terms: codex, claude code
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：一项针对1260名定量社会科学家的调查显示，虽然81%的受访者用过AI聊天机器人，但仅有20%将Claude Code、Codex等编码智能体常规应用于工作。采用率存在显著差异：以男性名字命名的研究者使用率是女性研究者的两倍；顶尖大学研究者可能性高出40%。用户产出更多工作论文和基金申请，但这可能反映早期采用者自身差异。研究者对AI助力撰写可发表论文更乐观，但对重塑整个社会科学领域持保留态度。这是一项初步调查，更深入研究仍在进行中。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 87** | Design and Report Benchmarks for Knowledge Work
+> **标题**：Design and Report Benchmarks for Knowledge Work
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.23262)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm, research; high-value terms: benchmark, agent, agents, eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.23262v1 Announce Type: new Abstract: The development of LLM agents has led to a growing body of work on knowledge-work AI, including coding, research, and healthcare. However, current knowledge-work evaluation and benchmark design still largely follow the logic of traditional NLP tasks....
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -156,19 +156,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | CyberNerdsTechnologies/claude-agent-toolkit
-> **标题**：CyberNerdsTechnologies/claude-agent-toolkit
-> **原文链接**：🔗 [打开原文](https://github.com/CyberNerdsTechnologies/claude-agent-toolkit)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, llm; high-value terms: agent, agents, claude code, reasoning
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：🛠️ Build and customize Claude Code agents with tools and Docker isolation for efficient production workflows and advanced reasoning capabilities.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | westbrookai/zipsa
 > **标题**：westbrookai/zipsa
 > **原文链接**：🔗 [打开原文](https://github.com/westbrookai/zipsa)
@@ -182,17 +169,56 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | amirfish1/claude-command-center
+> **标题**：amirfish1/claude-command-center
+> **原文链接**：🔗 [打开原文](https://github.com/amirfish1/claude-command-center)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Local-first dashboard that orchestrates Claude Code, Codex, and Gemini CLI sessions side-by-side — spawn, resume, and review from one browser tab.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 
 ## 论文到代码观察
 
-> [!info]+ **今日必须看 / 87** | Time to REFLECT: Can We Trust LLM Judges for Evidence-based Research Agents?
-> **标题**：Time to REFLECT: Can We Trust LLM Judges for Evidence-based Research Agents?
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.19196)
-> **source**：cs.CL updates on arXiv.org
+> [!info]+ **今日必须看 / 88** | 社会科学中的编码智能体
+> **标题**：社会科学中的编码智能体
+> **原文链接**：🔗 [打开原文](https://www.anthropic.com/research/coding-agents-social-sciences)
+> **source**：AI HOT / Anthropic：Research（发表成果 · 网页）, Anthropic
 > **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm, research; high-value terms: agent, agents, eval, reasoning
+> **reason**：matches topics: claude code, codex, anthropic; high-value terms: codex, claude code
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2605.19196v1 Announce Type: new Abstract: Deep research agents increasingly automate complex information-seeking tasks, producing evidence-grounded reports via multi-step reasoning, tool use, and synthesis. Their growing role demands scalable, reliable evaluation, positioning LLM-as-judge as...
+> **summary**：一项针对1260名定量社会科学家的调查显示，虽然81%的受访者用过AI聊天机器人，但仅有20%将Claude Code、Codex等编码智能体常规应用于工作。采用率存在显著差异：以男性名字命名的研究者使用率是女性研究者的两倍；顶尖大学研究者可能性高出40%。用户产出更多工作论文和基金申请，但这可能反映早期采用者自身差异。研究者对AI助力撰写可发表论文更乐观，但对重塑整个社会科学领域持保留态度。这是一项初步调查，更深入研究仍在进行中。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 87** | Design and Report Benchmarks for Knowledge Work
+> **标题**：Design and Report Benchmarks for Knowledge Work
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.23262)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm, research; high-value terms: benchmark, agent, agents, eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.23262v1 Announce Type: new Abstract: The development of LLM agents has led to a growing body of work on knowledge-work AI, including coding, research, and healthcare. However, current knowledge-work evaluation and benchmark design still largely follow the logic of traditional NLP tasks....
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 87** | GENSTRAT: Toward a Science of Strategic Reasoning in Large Language Models
+> **标题**：GENSTRAT: Toward a Science of Strategic Reasoning in Large Language Models
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.23238)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm, benchmark; high-value terms: benchmark, agent, agents, eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.23238v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as economic agents in marketplaces, auctions, and bidding settings. Anticipating their behavior in any specific deployment is hard. Existing strategic-reasoning benchmarks evaluate models on fixed...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -237,53 +263,27 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 81** | Multi-Paradigm Agent Interaction in Practice:A Systematic Analysis of Generator-Evaluator, ReAct Loop,and Adversarial Evaluation in the buddyMe Framework
-> **标题**：Multi-Paradigm Agent Interaction in Practice:A Systematic Analysis of Generator-Evaluator, ReAct Loop,and Adversarial Evaluation in the buddyMe Framework
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.16821)
+> [!info]+ **今日必须看 / 81** | JobBench: Aligning Agent Work With Human Will
+> **标题**：JobBench: Aligning Agent Work With Human Will
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.26329)
 > **source**：cs.AI updates on arXiv.org
 > **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, api, eval
+> **reason**：matches topics: agent, agents, benchmark; high-value terms: benchmark, agent, agents, eval
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2605.16821v1 Announce Type: new Abstract: The rapid evolution of Large Language Model (LLM) agents has produced diverse interaction paradigms, yet few production systems integrate multiple paradigms within a unified architecture. This paper presents a systematic analysis of three principal ag...
+> **summary**：arXiv:2605.26329v1 Announce Type: new Abstract: Current benchmarks for occupational AI agents are scoped primarily by economic values, telling a replacement story. We introduce JobBench, which evaluates AI agents on the workflows that experts identify as high-priority for delegation, empowering hum...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 77** | CHI-Bench: Can AI Agents Automate End-to-End, Long-Horizon, Policy-Rich Healthcare Workflows?
-> **标题**：CHI-Bench: Can AI Agents Automate End-to-End, Long-Horizon, Policy-Rich Healthcare Workflows?
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.16679)
-> **source**：cs.CL updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, benchmark; high-value terms: benchmark, agent, agents
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2605.16679v1 Announce Type: new Abstract: End-to-end automation of realistic healthcare operations stresses three capabilities underrepresented in current benchmarks: policy density, decisions must be grounded in a large library of medical, insurance, and operational rules; Multi-role composi...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 77** | Context Pruning for Coding Agents via Multi-Rubric Latent Reasoning
-> **标题**：Context Pruning for Coding Agents via Multi-Rubric Latent Reasoning
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.15315)
+> [!info]+ **今日必须看 / 81** | Anchor: Mitigating Artifact Drift in Agent Benchmark Generation
+> **标题**：Anchor: Mitigating Artifact Drift in Agent Benchmark Generation
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.26321)
 > **source**：cs.AI updates on arXiv.org
 > **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, reasoning
+> **reason**：matches topics: agent, agents, benchmark; high-value terms: benchmark, agent, agents, eval
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2605.15315v1 Announce Type: new Abstract: LLM-powered coding agents spend the majority of their token budget reading repository files, yet much of the retrieved code is irrelevant to the task at hand. Existing learned pruners compress this context with a single-objective sequence labeler, col...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 77** | AgentKernelArena: Generalization-Aware Benchmarking of GPU Kernel Optimization Agents
-> **标题**：AgentKernelArena: Generalization-Aware Benchmarking of GPU Kernel Optimization Agents
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.16819)
-> **source**：cs.CL updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, benchmark; high-value terms: benchmark, agent, agents
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2605.16819v1 Announce Type: new Abstract: GPU kernel optimization is increasingly critical for efficient deep learning systems, but writing high-performance kernels still requires substantial low-level expertise. Recent AI coding agents can iteratively read code, invoke compilers and profiler...
+> **summary**：arXiv:2605.26321v1 Announce Type: new Abstract: AI agents are beginning to complete valuable, long-horizon business operations tasks, but training and evaluation environments for enterprise work still struggle to balance realism, verifiability, and scale. Environment and task creation frequently su...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -305,14 +305,40 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | CyberNerdsTechnologies/claude-agent-toolkit
-> **标题**：CyberNerdsTechnologies/claude-agent-toolkit
-> **原文链接**：🔗 [打开原文](https://github.com/CyberNerdsTechnologies/claude-agent-toolkit)
+> [!info]+ **今日必须看 / 88** | 社会科学中的编码智能体
+> **标题**：社会科学中的编码智能体
+> **原文链接**：🔗 [打开原文](https://www.anthropic.com/research/coding-agents-social-sciences)
+> **source**：AI HOT / Anthropic：Research（发表成果 · 网页）, Anthropic
+> **kind**：`paper`
+> **reason**：matches topics: claude code, codex, anthropic; high-value terms: codex, claude code
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：一项针对1260名定量社会科学家的调查显示，虽然81%的受访者用过AI聊天机器人，但仅有20%将Claude Code、Codex等编码智能体常规应用于工作。采用率存在显著差异：以男性名字命名的研究者使用率是女性研究者的两倍；顶尖大学研究者可能性高出40%。用户产出更多工作论文和基金申请，但这可能反映早期采用者自身差异。研究者对AI助力撰写可发表论文更乐观，但对重塑整个社会科学领域持保留态度。这是一项初步调查，更深入研究仍在进行中。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 86** | Constraint Decay: The Fragility of LLM Agents in Back End Code Generation
+> **标题**：Constraint Decay: The Fragility of LLM Agents in Back End Code Generation
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.06445)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents; strong public engagement
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：174 points | 86 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | HIDORAKAI002/ai-workspace-archive
+> **标题**：HIDORAKAI002/ai-workspace-archive
+> **原文链接**：🔗 [打开原文](https://github.com/HIDORAKAI002/ai-workspace-archive)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, llm; high-value terms: agent, agents, claude code, reasoning
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：🛠️ Build and customize Claude Code agents with tools and Docker isolation for efficient production workflows and advanced reasoning capabilities.
+> **summary**：A massive, self-updating local archive of AI tools — 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cline), and 30+ system prompt collections. One repo to rule them all.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -331,53 +357,27 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | infektyd/sovereign-memory
-> **标题**：infektyd/sovereign-memory
-> **原文链接**：🔗 [打开原文](https://github.com/infektyd/sovereign-memory)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, obsidian; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Local-first memory and governance layer for AI agents, with per-agent vaults, hybrid recall, review-first learning, handoffs, audit trails, and native AFM/bridge provider support.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | device-context-protocol/dcp
-> **标题**：device-context-protocol/dcp
-> **原文链接**：🔗 [打开原文](https://github.com/device-context-protocol/dcp)
+> [!info]+ **今日必须看 / 85** | Dan1el2109/mcp-agent-search-hub
+> **标题**：Dan1el2109/mcp-agent-search-hub
+> **原文链接**：🔗 [打开原文](https://github.com/Dan1el2109/mcp-agent-search-hub)
 > **source**：GitHub Search
 > **kind**：`github_repo`
 > **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Device Context Protocol — bridge LLM agents to physical devices. Sub-50-byte frames, <16KB MCU footprint, capability-scoped and safe by design. Complementary to MCP.
+> **summary**：Ultimate MCP Server Discovery & AI Jobs Hub 2026 – Build Smart Agents Fast
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | Signet-AI/signetai
-> **标题**：Signet-AI/signetai
-> **原文链接**：🔗 [打开原文](https://github.com/Signet-AI/signetai)
+> [!info]+ **今日必须看 / 85** | frankxai/Starlight-Intelligence-System
+> **标题**：frankxai/Starlight-Intelligence-System
+> **原文链接**：🔗 [打开原文](https://github.com/frankxai/Starlight-Intelligence-System)
 > **source**：GitHub Search
 > **kind**：`github_repo`
 > **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Local-first identity, memory, and secrets for AI agents. Portable state across models and harnesses.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 83** | twis1d/agent-reasoning-evaluator
-> **标题**：twis1d/agent-reasoning-evaluator
-> **原文链接**：🔗 [打开原文](https://github.com/twis1d/agent-reasoning-evaluator)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, eval, reasoning
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：🤖 Analyze and annotate AI agent reasoning with this lightweight web app, evaluating logical and factual accuracy for improved decision-making.
+> **summary**：Starlight Intelligence System v7.x — substrate (SIP protocol, alliance forging method, attestation) + reference operational layer (6 vaults, MCP server, 7 agents, Console). MIT. Canonical: starlightintelligence.org/protocol
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -396,14 +396,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 83** | Qwen3.7：智能体前沿
-> **标题**：Qwen3.7：智能体前沿
-> **原文链接**：🔗 [打开原文](https://qwen.ai/blog?id=qwen3.7)
-> **source**：AI HOT / Qwen：Blog Retrieval（API）, Hacker News
-> **kind**：`model`
-> **reason**：matches topics: agent, agents; high-value terms: agent, agents
-> **follow_up**：检查模型卡、license、benchmark 和可部署性。
-> **summary**：Qwen Studio推出Qwen3.7模型，提供覆盖聊天机器人、图像与视频理解、图像生成、文档处理、网页搜索集成、工具调用及工件生成等功能。该模型整合了当前AI智能体的关键能力，旨在推动多模态交互与实际任务执行向更综合、自主的方向发展。
+> [!info]+ **今日必须看 / 81** | DeepSWE: A contamination-free benchmark for long-horizon coding agents
+> **标题**：DeepSWE: A contamination-free benchmark for long-horizon coding agents
+> **原文链接**：🔗 [打开原文](https://deepswe.datacurve.ai/blog)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: agent, agents, benchmark; high-value terms: benchmark, agent, agents
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：59 points | 19 comments
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库

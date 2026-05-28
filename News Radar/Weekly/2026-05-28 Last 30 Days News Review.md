@@ -1,16 +1,16 @@
 ---
-title: News Radar Week 2026-W22
+title: News Radar Last 30 Days 2026-05-28
 date: 2026-05-28
 tags:
   - news-radar
-  - weekly-review
+  - last30days-review
 ---
 
-# 2026-W22 News Radar
+# 2026-05-28 Last 30 Days News Review
 
 ## 复盘方法
 
-- 汇总过去 7 天持续升温和跨来源重复出现的议题。
+- 借鉴 last30days-skill：近期变化、关键节点、趋势判断、后续观察。
 - 排序原则：先看热度和重复出现，再看分类标签。
 
 ## 过去阶段最高热度
@@ -134,6 +134,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 100** | 삼성운용 , KODEX 차이나AI반도체TOP10 신규 상장
+> **标题**：삼성운용 , KODEX 차이나AI반도체TOP10 신규 상장
+> **原文链接**：🔗 [打开原文](https://www.newspim.com/news/view/20260225000415)
+> **source**：GDELT / newspim.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#2
+> **reason**：rank #2; cross-source x5; source weight: GDELT; hot terms: 美国, ai, ai
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260225T021500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 100** | Taiwan says China's military actions are greatest source of regional instability - Reuters
 > **标题**：Taiwan says China's military actions are greatest source of regional instability - Reuters
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxNb3QwSWZQalJqRURwRFIyODhPQ0pfMERxb19LOTQ1a0kyVThRTzQtYlZmQ2ZESUZ5Q0Zjd2J2U0ZHWmhYdWdSRGdMOThJS0owQ19JbU5RTTlIYTdHcExGcEI1UkdqUExEWjRya0ZCLW1SeFhWdUJzUy1fQWhJV3lYYnRTRlU1TS00UmVuRGVzQ25EOEJuelJFM2tFZjE3NXdpRkZRdDRNVGxUbWp6TW9WcnBpUjhxd1dUZ1VJOQ?oc=5)
@@ -247,23 +264,6 @@ tags:
 > **reason**：rank #3; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
 > **summary**：The Former Air Force Pilot Who Was Allegedly Recruited to Train China’s Military WSJ
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 94** | Which Country is the Largest Producer of Semiconductors in the World ?
-> **标题**：Which Country is the Largest Producer of Semiconductors in the World ?
-> **原文链接**：🔗 [打开原文](https://www.jagranjosh.com/general-knowledge/largest-manufacturer-of-semiconductor-chips-in-the-world-1820007308-1)
-> **source**：GDELT / jagranjosh.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#4
-> **reason**：rank #4; cross-source x10; source weight: GDELT; hot terms: 美国
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260329T154500Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -391,6 +391,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 100** | 삼성운용 , KODEX 차이나AI반도체TOP10 신규 상장
+> **标题**：삼성운용 , KODEX 차이나AI반도체TOP10 신규 상장
+> **原文链接**：🔗 [打开原文](https://www.newspim.com/news/view/20260225000415)
+> **source**：GDELT / newspim.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#2
+> **reason**：rank #2; cross-source x5; source weight: GDELT; hot terms: 美国, ai, ai
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260225T021500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 100** | Taiwan says China's military actions are greatest source of regional instability - Reuters
 > **标题**：Taiwan says China's military actions are greatest source of regional instability - Reuters
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxNb3QwSWZQalJqRURwRFIyODhPQ0pfMERxb19LOTQ1a0kyVThRTzQtYlZmQ2ZESUZ5Q0Zjd2J2U0ZHWmhYdWdSRGdMOThJS0owQ19JbU5RTTlIYTdHcExGcEI1UkdqUExEWjRya0ZCLW1SeFhWdUJzUy1fQWhJV3lYYnRTRlU1TS00UmVuRGVzQ25EOEJuelJFM2tFZjE3NXdpRkZRdDRNVGxUbWp6TW9WcnBpUjhxd1dUZ1VJOQ?oc=5)
@@ -504,23 +521,6 @@ tags:
 > **reason**：rank #3; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
 > **summary**：The Former Air Force Pilot Who Was Allegedly Recruited to Train China’s Military WSJ
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 94** | Which Country is the Largest Producer of Semiconductors in the World ?
-> **标题**：Which Country is the Largest Producer of Semiconductors in the World ?
-> **原文链接**：🔗 [打开原文](https://www.jagranjosh.com/general-knowledge/largest-manufacturer-of-semiconductor-chips-in-the-world-1820007308-1)
-> **source**：GDELT / jagranjosh.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#4
-> **reason**：rank #4; cross-source x10; source weight: GDELT; hot terms: 美国
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260329T154500Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -652,6 +652,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 100** | 삼성운용 , KODEX 차이나AI반도체TOP10 신규 상장
+> **标题**：삼성운용 , KODEX 차이나AI반도체TOP10 신규 상장
+> **原文链接**：🔗 [打开原文](https://www.newspim.com/news/view/20260225000415)
+> **source**：GDELT / newspim.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#2
+> **reason**：rank #2; cross-source x5; source weight: GDELT; hot terms: 美国, ai, ai
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260225T021500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 100** | Taiwan says China's military actions are greatest source of regional instability - Reuters
 > **标题**：Taiwan says China's military actions are greatest source of regional instability - Reuters
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxNb3QwSWZQalJqRURwRFIyODhPQ0pfMERxb19LOTQ1a0kyVThRTzQtYlZmQ2ZESUZ5Q0Zjd2J2U0ZHWmhYdWdSRGdMOThJS0owQ19JbU5RTTlIYTdHcExGcEI1UkdqUExEWjRya0ZCLW1SeFhWdUJzUy1fQWhJV3lYYnRTRlU1TS00UmVuRGVzQ25EOEJuelJFM2tFZjE3NXdpRkZRdDRNVGxUbWp6TW9WcnBpUjhxd1dUZ1VJOQ?oc=5)
@@ -680,23 +697,6 @@ tags:
 > **reason**：rank #6; cross-source x10; source weight: GDELT; hot terms: 美国, ai, ai
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260407T040000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 98** | After AI chips , US lawmakers want to ban sale of key equipment to China ; Former White House AI czar David Sacks called it single most important export control
-> **标题**：After AI chips , US lawmakers want to ban sale of key equipment to China ; Former White House AI czar David Sacks called it single most important export control
-> **原文链接**：🔗 [打开原文](https://timesofindia.indiatimes.com/technology/tech-news/after-ai-chips-us-lawmakers-want-to-ban-sale-of-key-equipment-to-china-former-white-house-ai-czar-david-sacks-called-it-single-most-important-export-control/articleshow/130003523.cms)
-> **source**：GDELT / timesofindia.indiatimes.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#8
-> **reason**：rank #8; cross-source x10; source weight: GDELT; hot terms: 美国, ai, china, us
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260403T174500Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -750,6 +750,23 @@ tags:
 > **reason**：rank #2; cross-source x10; source weight: GDELT; hot terms: 美国, ai, ai
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260406T124500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | 삼성운용 , KODEX 차이나AI반도체TOP10 신규 상장
+> **标题**：삼성운용 , KODEX 차이나AI반도체TOP10 신규 상장
+> **原文链接**：🔗 [打开原文](https://www.newspim.com/news/view/20260225000415)
+> **source**：GDELT / newspim.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#2
+> **reason**：rank #2; cross-source x5; source weight: GDELT; hot terms: 美国, ai, ai
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260225T021500Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -852,23 +869,6 @@ tags:
 > **reason**：rank #2; cross-source x5; source weight: GDELT
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：20260518T200000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 93** | Pope Leo Uses First Major Papal Text to Warn About Dangers of AI - Time Magazine
-> **标题**：Pope Leo Uses First Major Papal Text to Warn About Dangers of AI - Time Magazine
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxNWldUeU15OXhFWjlfTy12RWxqaUFYUXdEMXpFOV85RnAxeG8wZHVERC1pNENVN0hfYm5nRVl4R3JTd1l1NUo4MUdhY0lNMFZMOHhwNHlVcTJjVlVCOHRvYkNJYnZYNkNCR2RfVHQ5QVhxM2VEclNMb1d1S1FiVzV0VUJMM0FWUQ?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, us, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Pope Leo Uses First Major Papal Text to Warn About Dangers of AI Time Magazine
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
