@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W22
-date: 2026-05-28
+date: 2026-05-29
 tags:
   - weekly-review
   - research-radar
@@ -10,6 +10,19 @@ tags:
 
 ## 本周趋势
 
+> [!info]+ **今日必须看 / 100** | 阶跃星辰 Step 3.7 Flash 发布，聚焦智能体效率
+> **标题**：阶跃星辰 Step 3.7 Flash 发布，聚焦智能体效率
+> **原文链接**：🔗 [打开原文](https://x.com/StepFun_ai/status/2060149124117475791)
+> **source**：AI HOT / X：阶跃星辰 StepFun (@StepFun_ai)
+> **kind**：`model`
+> **reason**：matches topics: agent, claude code, mcp; high-value terms: agent, mcp, claude code, eval
+> **follow_up**：检查模型卡、license、benchmark 和可部署性。
+> **summary**：阶跃星辰（Step）发布了开源大模型 Step 3.7 Flash，主打智能体（Agent）工作流的效率。该模型在 ClawEval-1.1（67.1分）和 SimpleVQA Search（79.2分）评测中排名第一。其架构为 198B 参数的 MoE，约 11B 为活跃参数，支持 256K 上下文。模型具备多模态理解能力，能处理图像、文档并生成代码或调用工具执行任务。在工具使用方面，它致力于高可靠性，τ2-bench 得分超过 98%。Step 3.7 Flash 兼容 Claude Code、MCP 协议等工具链，并支持在 Mac Studio M4 Max 等设备上本地运行。模型权重以 Apache 2.0 许可开源。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 93** | 谷歌I/O大会发布AI代理全套开发工具链
 > **标题**：谷歌I/O大会发布AI代理全套开发工具链
 > **原文链接**：🔗 [打开原文](https://x.com/GoogleAI/status/2057871583843135978)
@@ -88,19 +101,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | BrianV1981/aim
-> **标题**：BrianV1981/aim
-> **原文链接**：🔗 [打开原文](https://github.com/BrianV1981/aim)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：A.I.M. – Actual Intelligent Memory: zero-token exoskeleton for long-running Gemini CLI/Chat GPT Codex/Claude Code agents. External SQLite memory, GitOps guardrails, DataJack cartridges. Alpha, trenches-first.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | xiaolai/codex-octopus
 > **标题**：xiaolai/codex-octopus
 > **原文链接**：🔗 [打开原文](https://github.com/xiaolai/codex-octopus)
@@ -109,90 +109,6 @@ tags:
 > **reason**：matches topics: agent, agents, codex, mcp; high-value terms: agent, agents, mcp, codex
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：One brain, many arms — spawn multiple specialized Codex agents as MCP servers
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 88** | 社会科学中的编码智能体
-> **标题**：社会科学中的编码智能体
-> **原文链接**：🔗 [打开原文](https://www.anthropic.com/research/coding-agents-social-sciences)
-> **source**：AI HOT / Anthropic：Research（发表成果 · 网页）, Anthropic
-> **kind**：`paper`
-> **reason**：matches topics: claude code, codex, anthropic; high-value terms: codex, claude code
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：一项针对1260名定量社会科学家的调查显示，虽然81%的受访者用过AI聊天机器人，但仅有20%将Claude Code、Codex等编码智能体常规应用于工作。采用率存在显著差异：以男性名字命名的研究者使用率是女性研究者的两倍；顶尖大学研究者可能性高出40%。用户产出更多工作论文和基金申请，但这可能反映早期采用者自身差异。研究者对AI助力撰写可发表论文更乐观，但对重塑整个社会科学领域持保留态度。这是一项初步调查，更深入研究仍在进行中。
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 87** | Design and Report Benchmarks for Knowledge Work
-> **标题**：Design and Report Benchmarks for Knowledge Work
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.23262)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm, research; high-value terms: benchmark, agent, agents, eval
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2605.23262v1 Announce Type: new Abstract: The development of LLM agents has led to a growing body of work on knowledge-work AI, including coding, research, and healthcare. However, current knowledge-work evaluation and benchmark design still largely follow the logic of traditional NLP tasks....
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-## 值得试用的工具 / 模型
-
-> [!info]+ **今日必须看 / 89** | wlsdks/oh-my-ontology
-> **标题**：wlsdks/oh-my-ontology
-> **原文链接**：🔗 [打开原文](https://github.com/wlsdks/oh-my-ontology)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, mcp, codex
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Repo-native memory layer for Claude Code, Cursor, and Codex. Local-first markdown ontology + MCP tools so AI coding agents keep codebase context.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | westbrookai/zipsa
-> **标题**：westbrookai/zipsa
-> **原文链接**：🔗 [打开原文](https://github.com/westbrookai/zipsa)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, mcp, codex
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Lightweight runtime container for AI agents (Claude Code, Codex, Gemini CLI) with MCP support
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | amirfish1/claude-command-center
-> **标题**：amirfish1/claude-command-center
-> **原文链接**：🔗 [打开原文](https://github.com/amirfish1/claude-command-center)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Local-first dashboard that orchestrates Claude Code, Codex, and Gemini CLI sessions side-by-side — spawn, resume, and review from one browser tab.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-## 论文到代码观察
-
-> [!info]+ **今日必须看 / 88** | 社会科学中的编码智能体
-> **标题**：社会科学中的编码智能体
-> **原文链接**：🔗 [打开原文](https://www.anthropic.com/research/coding-agents-social-sciences)
-> **source**：AI HOT / Anthropic：Research（发表成果 · 网页）, Anthropic
-> **kind**：`paper`
-> **reason**：matches topics: claude code, codex, anthropic; high-value terms: codex, claude code
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：一项针对1260名定量社会科学家的调查显示，虽然81%的受访者用过AI聊天机器人，但仅有20%将Claude Code、Codex等编码智能体常规应用于工作。采用率存在显著差异：以男性名字命名的研究者使用率是女性研究者的两倍；顶尖大学研究者可能性高出40%。用户产出更多工作论文和基金申请，但这可能反映早期采用者自身差异。研究者对AI助力撰写可发表论文更乐观，但对重塑整个社会科学领域持保留态度。这是一项初步调查，更深入研究仍在进行中。
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -224,6 +140,90 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+
+## 值得试用的工具 / 模型
+
+> [!info]+ **今日必须看 / 100** | 阶跃星辰 Step 3.7 Flash 发布，聚焦智能体效率
+> **标题**：阶跃星辰 Step 3.7 Flash 发布，聚焦智能体效率
+> **原文链接**：🔗 [打开原文](https://x.com/StepFun_ai/status/2060149124117475791)
+> **source**：AI HOT / X：阶跃星辰 StepFun (@StepFun_ai)
+> **kind**：`model`
+> **reason**：matches topics: agent, claude code, mcp; high-value terms: agent, mcp, claude code, eval
+> **follow_up**：检查模型卡、license、benchmark 和可部署性。
+> **summary**：阶跃星辰（Step）发布了开源大模型 Step 3.7 Flash，主打智能体（Agent）工作流的效率。该模型在 ClawEval-1.1（67.1分）和 SimpleVQA Search（79.2分）评测中排名第一。其架构为 198B 参数的 MoE，约 11B 为活跃参数，支持 256K 上下文。模型具备多模态理解能力，能处理图像、文档并生成代码或调用工具执行任务。在工具使用方面，它致力于高可靠性，τ2-bench 得分超过 98%。Step 3.7 Flash 兼容 Claude Code、MCP 协议等工具链，并支持在 Mac Studio M4 Max 等设备上本地运行。模型权重以 Apache 2.0 许可开源。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | wlsdks/oh-my-ontology
+> **标题**：wlsdks/oh-my-ontology
+> **原文链接**：🔗 [打开原文](https://github.com/wlsdks/oh-my-ontology)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, mcp, codex
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Repo-native memory layer for Claude Code, Cursor, and Codex. Local-first markdown ontology + MCP tools so AI coding agents keep codebase context.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | westbrookai/zipsa
+> **标题**：westbrookai/zipsa
+> **原文链接**：🔗 [打开原文](https://github.com/westbrookai/zipsa)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, mcp, codex
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Lightweight runtime container for AI agents (Claude Code, Codex, Gemini CLI) with MCP support
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+## 论文到代码观察
+
+> [!info]+ **今日必须看 / 87** | Design and Report Benchmarks for Knowledge Work
+> **标题**：Design and Report Benchmarks for Knowledge Work
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.23262)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm, research; high-value terms: benchmark, agent, agents, eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.23262v1 Announce Type: new Abstract: The development of LLM agents has led to a growing body of work on knowledge-work AI, including coding, research, and healthcare. However, current knowledge-work evaluation and benchmark design still largely follow the logic of traditional NLP tasks....
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 87** | GENSTRAT: Toward a Science of Strategic Reasoning in Large Language Models
+> **标题**：GENSTRAT: Toward a Science of Strategic Reasoning in Large Language Models
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.23238)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm, benchmark; high-value terms: benchmark, agent, agents, eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.23238v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as economic agents in marketplaces, auctions, and bidding settings. Anticipating their behavior in any specific deployment is hard. Existing strategic-reasoning benchmarks evaluate models on fixed...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 87** | Why LLMs Fail at Causal Discovery and How Interventional Agents Escape
+> **标题**：Why LLMs Fail at Causal Discovery and How Interventional Agents Escape
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.27567)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm, benchmark; high-value terms: benchmark, agent, agents, reasoning
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.27567v1 Announce Type: new Abstract: Causal discovery is a cornerstone of scientific reasoning, yet whether large language models can perform it reliably remains an open question. Recent benchmarks show that even fine-tuned models plateau on simple causal graphs and degrade as complexity...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 87** | AgentAtlas: Beyond Outcome Leaderboards for LLM Agents
 > **标题**：AgentAtlas: Beyond Outcome Leaderboards for LLM Agents
 > **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.20530)
@@ -237,27 +237,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 83** | POLAR-Bench: A Diagnostic Benchmark for Privacy-Utility Trade-offs in LLM Agents
-> **标题**：POLAR-Bench: A Diagnostic Benchmark for Privacy-Utility Trade-offs in LLM Agents
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.19127)
+> [!info]+ **今日必须看 / 83** | DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents
+> **标题**：DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.27566)
 > **source**：cs.AI updates on arXiv.org
 > **kind**：`paper`
 > **reason**：matches topics: agent, agents, llm, benchmark; high-value terms: benchmark, agent, agents
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2605.19127v1 Announce Type: new Abstract: LLM agents increasingly have access to private user data and act on the user's behalf when interacting with third-party systems. The user defines what may and must not be shared, and the agent must robustly follow that intent even when third-party sys...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 81** | Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On
-> **标题**：Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.19035)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, api, reasoning
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2605.19035v1 Announce Type: new Abstract: The rapid advancement of Large Language Models has given rise to autonomous LLM-based agents capable of complex reasoning and execution. As these agents transition from isolated operation to collaborative ecosystems, we witness the emergence of the Ag...
+> **summary**：arXiv:2605.27566v1 Announce Type: new Abstract: Progress in neural combinatorial optimization for Dynamic Flexible Job Shop Scheduling Problem (DFJSP) is currently hindered by a methodological tension: static benchmarks encourage benchmark overfitting, while uncalibrated generators obscure algorith...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -289,6 +276,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 81** | Your Agents Are Aging Too: Agent Lifespan Engineering for Deployed Systems
+> **标题**：Your Agents Are Aging Too: Agent Lifespan Engineering for Deployed Systems
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.26302)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, benchmark; high-value terms: benchmark, agent, agents, eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.26302v1 Announce Type: new Abstract: Long-lived AI agents are increasingly deployed as persistent operational systems, yet they are still evaluated like freshly initialized models. Day-one benchmarks miss a basic systems question: how long does an agent remain reliable after deployment?...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 
 ## 反复出现的信号
 
@@ -300,19 +300,6 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, mcp, codex
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Repo-native memory layer for Claude Code, Cursor, and Codex. Local-first markdown ontology + MCP tools so AI coding agents keep codebase context.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 88** | 社会科学中的编码智能体
-> **标题**：社会科学中的编码智能体
-> **原文链接**：🔗 [打开原文](https://www.anthropic.com/research/coding-agents-social-sciences)
-> **source**：AI HOT / Anthropic：Research（发表成果 · 网页）, Anthropic
-> **kind**：`paper`
-> **reason**：matches topics: claude code, codex, anthropic; high-value terms: codex, claude code
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：一项针对1260名定量社会科学家的调查显示，虽然81%的受访者用过AI聊天机器人，但仅有20%将Claude Code、Codex等编码智能体常规应用于工作。采用率存在显著差异：以男性名字命名的研究者使用率是女性研究者的两倍；顶尖大学研究者可能性高出40%。用户产出更多工作论文和基金申请，但这可能反映早期采用者自身差异。研究者对AI助力撰写可发表论文更乐观，但对重塑整个社会科学领域持保留态度。这是一项初步调查，更深入研究仍在进行中。
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -357,6 +344,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | Chimdiiii/OpenMemory
+> **标题**：Chimdiiii/OpenMemory
+> **原文链接**：🔗 [打开原文](https://github.com/Chimdiiii/OpenMemory)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：🧠 Enhance AI with OpenMemory for long-term memory storage, recall, and explanation, using a unique cognitive architecture.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 85** | Dan1el2109/mcp-agent-search-hub
 > **标题**：Dan1el2109/mcp-agent-search-hub
 > **原文链接**：🔗 [打开原文](https://github.com/Dan1el2109/mcp-agent-search-hub)
@@ -383,19 +383,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 83** | POLAR-Bench: A Diagnostic Benchmark for Privacy-Utility Trade-offs in LLM Agents
-> **标题**：POLAR-Bench: A Diagnostic Benchmark for Privacy-Utility Trade-offs in LLM Agents
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.19127)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm, benchmark; high-value terms: benchmark, agent, agents
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2605.19127v1 Announce Type: new Abstract: LLM agents increasingly have access to private user data and act on the user's behalf when interacting with third-party systems. The user defines what may and must not be shared, and the agent must robustly follow that intent even when third-party sys...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 81** | DeepSWE: A contamination-free benchmark for long-horizon coding agents
 > **标题**：DeepSWE: A contamination-free benchmark for long-horizon coding agents
 > **原文链接**：🔗 [打开原文](https://deepswe.datacurve.ai/blog)
@@ -409,14 +396,27 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 81** | Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On
-> **标题**：Trustworthy Agent Network: Trust in Agent Networks Must Be Baked In, Not Bolted On
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.19035)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, api, reasoning
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2605.19035v1 Announce Type: new Abstract: The rapid advancement of Large Language Models has given rise to autonomous LLM-based agents capable of complex reasoning and execution. As these agents transition from isolated operation to collaborative ecosystems, we witness the emergence of the Ag...
+> [!info]+ **今日必须看 / 79** | manee1112/yachtsy-mcp-server
+> **标题**：manee1112/yachtsy-mcp-server
+> **原文链接**：🔗 [打开原文](https://github.com/manee1112/yachtsy-mcp-server)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：🚤 Access AI-driven yacht marketplace insights with Yachtsy MCP Server. Explore 25,000+ listings and get expert sailing advice effortlessly.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 79** | monat1628/AI_agents
+> **标题**：monat1628/AI_agents
+> **原文链接**：🔗 [打开原文](https://github.com/monat1628/AI_agents)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：🤖 Automate data analysis and machine learning with a multi-agent system that provides insights and reports efficiently using advanced AI technologies.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
