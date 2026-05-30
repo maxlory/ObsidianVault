@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W22
-date: 2026-05-29
+date: 2026-05-30
 tags:
   - weekly-review
   - research-radar
@@ -18,19 +18,6 @@ tags:
 > **reason**：matches topics: agent, claude code, mcp; high-value terms: agent, mcp, claude code, eval
 > **follow_up**：检查模型卡、license、benchmark 和可部署性。
 > **summary**：阶跃星辰（Step）发布了开源大模型 Step 3.7 Flash，主打智能体（Agent）工作流的效率。该模型在 ClawEval-1.1（67.1分）和 SimpleVQA Search（79.2分）评测中排名第一。其架构为 198B 参数的 MoE，约 11B 为活跃参数，支持 256K 上下文。模型具备多模态理解能力，能处理图像、文档并生成代码或调用工具执行任务。在工具使用方面，它致力于高可靠性，τ2-bench 得分超过 98%。Step 3.7 Flash 兼容 Claude Code、MCP 协议等工具链，并支持在 Mac Studio M4 Max 等设备上本地运行。模型权重以 Apache 2.0 许可开源。
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 93** | 谷歌I/O大会发布AI代理全套开发工具链
-> **标题**：谷歌I/O大会发布AI代理全套开发工具链
-> **原文链接**：🔗 [打开原文](https://x.com/GoogleAI/status/2057871583843135978)
-> **source**：AI HOT / X：Google AI (@GoogleAI)
-> **kind**：`product`
-> **reason**：matches topics: agent, deepmind, mcp; high-value terms: agent, mcp, api
-> **follow_up**：判断是否需要沉淀为长期主题笔记。
-> **summary**：谷歌在I/O开发者大会宣布，系统性构建面向AI代理（Agent）的开发与部署工具链。核心更新包括：独立桌面应用Antigravity 2.0及其命令行工具、SDK面世；Google AI Studio新增Kotlin支持，可一键开发安卓应用并发布，同时推出移动端App。此外，Gemini API推出托管代理服务，实现一键部署；WebMCP作为开放标准在Chrome 149中推出，允许网页向代理暴露工具；Chrome DevTools也开放给AI代理以自动化调试。企业级客户可直接连接Google Cloud项目，而DeepMind的科学技能包则加速特定领域研究。此举标志着谷歌正全面打造从开发、接口到部署的完整AI代理生态系统。
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -70,19 +57,6 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, mcp, codex
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Repo-native memory layer for Claude Code, Cursor, and Codex. Local-first markdown ontology + MCP tools so AI coding agents keep codebase context.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | westbrookai/zipsa
-> **标题**：westbrookai/zipsa
-> **原文链接**：🔗 [打开原文](https://github.com/westbrookai/zipsa)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, mcp, codex
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Lightweight runtime container for AI agents (Claude Code, Codex, Gemini CLI) with MCP support
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -140,6 +114,32 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 87** | Why LLMs Fail at Causal Discovery and How Interventional Agents Escape
+> **标题**：Why LLMs Fail at Causal Discovery and How Interventional Agents Escape
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.27567)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm, benchmark; high-value terms: benchmark, agent, agents, reasoning
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.27567v1 Announce Type: new Abstract: Causal discovery is a cornerstone of scientific reasoning, yet whether large language models can perform it reliably remains an open question. Recent benchmarks show that even fine-tuned models plateau on simple causal graphs and degrade as complexity...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 86** | Constraint Decay: The Fragility of LLM Agents in Back End Code Generation
+> **标题**：Constraint Decay: The Fragility of LLM Agents in Back End Code Generation
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.06445)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents; strong public engagement
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：174 points | 86 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 
 ## 值得试用的工具 / 模型
 
@@ -169,14 +169,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | westbrookai/zipsa
-> **标题**：westbrookai/zipsa
-> **原文链接**：🔗 [打开原文](https://github.com/westbrookai/zipsa)
+> [!info]+ **今日必须看 / 89** | amirfish1/claude-command-center
+> **标题**：amirfish1/claude-command-center
+> **原文链接**：🔗 [打开原文](https://github.com/amirfish1/claude-command-center)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, mcp, codex
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Lightweight runtime container for AI agents (Claude Code, Codex, Gemini CLI) with MCP support
+> **summary**：Local-first dashboard that orchestrates Claude Code, Codex, and Gemini CLI sessions side-by-side — spawn, resume, and review from one browser tab.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -224,19 +224,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 87** | AgentAtlas: Beyond Outcome Leaderboards for LLM Agents
-> **标题**：AgentAtlas: Beyond Outcome Leaderboards for LLM Agents
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.20530)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm, benchmark; high-value terms: benchmark, agent, agents, eval
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2605.20530v1 Announce Type: new Abstract: Large language model agents now act on codebases, browsers, operating systems, calendars, files, and tool ecosystems, but the benchmarks used to evaluate them are fragmented: each emphasizes a different unit of measurement (final task success, tool-ca...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 83** | DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents
 > **标题**：DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents
 > **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.27566)
@@ -258,6 +245,19 @@ tags:
 > **reason**：matches topics: agent, agents, benchmark; high-value terms: benchmark, agent, agents, eval
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
 > **summary**：arXiv:2605.26329v1 Announce Type: new Abstract: Current benchmarks for occupational AI agents are scoped primarily by economic values, telling a replacement story. We introduce JobBench, which evaluates AI agents on the workflows that experts identify as high-priority for delegation, empowering hum...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 81** | When LLM Reward Design Fails: Diagnostic-Driven Refinement for Sparse Structured RL
+> **标题**：When LLM Reward Design Fails: Diagnostic-Driven Refinement for Sparse Structured RL
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.28918)
+> **source**：cs.LG updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, api, eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2605.28918v1 Announce Type: new Abstract: For sparse, structured reinforcement-learning tasks with semantic reward-function interfaces, LLM-generated reward shaping is better framed as debugging than one-shot generation. We study PPO-trained agents using MiniGrid as core evaluation and MuJoCo...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -396,6 +396,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 79** | kody-w/rappterbook
+> **标题**：kody-w/rappterbook
+> **原文链接**：🔗 [打开原文](https://github.com/kody-w/rappterbook)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, api
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Social network for AI agents. Feed SKILLS.md to your AI — it becomes a citizen. No servers, no API keys. GitHub IS the platform.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 79** | manee1112/yachtsy-mcp-server
 > **标题**：manee1112/yachtsy-mcp-server
 > **原文链接**：🔗 [打开原文](https://github.com/manee1112/yachtsy-mcp-server)
@@ -404,19 +417,6 @@ tags:
 > **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：🚤 Access AI-driven yacht marketplace insights with Yachtsy MCP Server. Explore 25,000+ listings and get expert sailing advice effortlessly.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | monat1628/AI_agents
-> **标题**：monat1628/AI_agents
-> **原文链接**：🔗 [打开原文](https://github.com/monat1628/AI_agents)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：🤖 Automate data analysis and machine learning with a multi-agent system that provides insights and reports efficiently using advanced AI technologies.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
