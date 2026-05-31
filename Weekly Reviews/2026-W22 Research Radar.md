@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W22
-date: 2026-05-30
+date: 2026-05-31
 tags:
   - weekly-review
   - research-radar
@@ -18,6 +18,19 @@ tags:
 > **reason**：matches topics: agent, claude code, mcp; high-value terms: agent, mcp, claude code, eval
 > **follow_up**：检查模型卡、license、benchmark 和可部署性。
 > **summary**：阶跃星辰（Step）发布了开源大模型 Step 3.7 Flash，主打智能体（Agent）工作流的效率。该模型在 ClawEval-1.1（67.1分）和 SimpleVQA Search（79.2分）评测中排名第一。其架构为 198B 参数的 MoE，约 11B 为活跃参数，支持 256K 上下文。模型具备多模态理解能力，能处理图像、文档并生成代码或调用工具执行任务。在工具使用方面，它致力于高可靠性，τ2-bench 得分超过 98%。Step 3.7 Flash 兼容 Claude Code、MCP 协议等工具链，并支持在 Mac Studio M4 Max 等设备上本地运行。模型权重以 Apache 2.0 许可开源。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 97** | 免费领取6个月ChatGPT Pro及AI工具思考
+> **标题**：免费领取6个月ChatGPT Pro及AI工具思考
+> **原文链接**：🔗 [打开原文](https://x.com/AYi_AInotes/status/2060740414273941874)
+> **source**：AI HOT / X：阿易 AI Notes (@AYi_AInotes)
+> **kind**：`article`
+> **reason**：matches topics: agent, claude code, codex, openai; high-value terms: agent, codex, claude code
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：OpenAI为开源项目维护者提供福利，可免费领取6个月ChatGPT Pro（价值$1200），申请无硬性Star数要求，有项目链接即可。同时，文章引用讨论了AI工具的分类：一类是"agent型"（如Claude Code、Codex），可自主运行；另一类是"实习生型"（如Cursor），需人工决策，有助于使用者以术入道、培养判断力，但受限于需人在场。作者推荐了网易的UU远程工具，称其免费两年，支持4K 144帧无延迟连接Mac并可使用原生终端，解决了"实习生型"工具的地点限制问题。
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -62,6 +75,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | JKHeadley/instar
+> **标题**：JKHeadley/instar
+> **原文链接**：🔗 [打开原文](https://github.com/JKHeadley/instar)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, llm; high-value terms: agent, agents, mcp, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | amirfish1/claude-command-center
 > **标题**：amirfish1/claude-command-center
 > **原文链接**：🔗 [打开原文](https://github.com/amirfish1/claude-command-center)
@@ -70,6 +96,19 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Local-first dashboard that orchestrates Claude Code, Codex, and Gemini CLI sessions side-by-side — spawn, resume, and review from one browser tab.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | montgome753/LLM-Evaluation-Framework
+> **标题**：montgome753/LLM-Evaluation-Framework
+> **原文链接**：🔗 [打开原文](https://github.com/montgome753/LLM-Evaluation-Framework)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm, benchmark; high-value terms: benchmark, agent, agents, eval
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Benchmark LLM accuracy, latency, cost, and hallucination rates across models with this open-source evaluation suite.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -96,45 +135,6 @@ tags:
 > **reason**：matches topics: agent, agents, llm, research; high-value terms: benchmark, agent, agents, eval
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
 > **summary**：arXiv:2605.23262v1 Announce Type: new Abstract: The development of LLM agents has led to a growing body of work on knowledge-work AI, including coding, research, and healthcare. However, current knowledge-work evaluation and benchmark design still largely follow the logic of traditional NLP tasks....
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 87** | GENSTRAT: Toward a Science of Strategic Reasoning in Large Language Models
-> **标题**：GENSTRAT: Toward a Science of Strategic Reasoning in Large Language Models
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.23238)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm, benchmark; high-value terms: benchmark, agent, agents, eval
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2605.23238v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as economic agents in marketplaces, auctions, and bidding settings. Anticipating their behavior in any specific deployment is hard. Existing strategic-reasoning benchmarks evaluate models on fixed...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 87** | Why LLMs Fail at Causal Discovery and How Interventional Agents Escape
-> **标题**：Why LLMs Fail at Causal Discovery and How Interventional Agents Escape
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.27567)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm, benchmark; high-value terms: benchmark, agent, agents, reasoning
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2605.27567v1 Announce Type: new Abstract: Causal discovery is a cornerstone of scientific reasoning, yet whether large language models can perform it reliably remains an open question. Recent benchmarks show that even fine-tuned models plateau on simple causal graphs and degrade as complexity...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 86** | Constraint Decay: The Fragility of LLM Agents in Back End Code Generation
-> **标题**：Constraint Decay: The Fragility of LLM Agents in Back End Code Generation
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.06445)
-> **source**：Hacker News
-> **kind**：`community`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents; strong public engagement
-> **follow_up**：阅读讨论区，提炼争议点和实践经验。
-> **summary**：174 points | 86 comments
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -169,14 +169,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | amirfish1/claude-command-center
-> **标题**：amirfish1/claude-command-center
-> **原文链接**：🔗 [打开原文](https://github.com/amirfish1/claude-command-center)
+> [!info]+ **今日必须看 / 89** | JKHeadley/instar
+> **标题**：JKHeadley/instar
+> **原文链接**：🔗 [打开原文](https://github.com/JKHeadley/instar)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
+> **reason**：matches topics: agent, agents, claude code, llm; high-value terms: agent, agents, mcp, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Local-first dashboard that orchestrates Claude Code, Codex, and Gemini CLI sessions side-by-side — spawn, resume, and review from one browser tab.
+> **summary**：Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -305,6 +305,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | JKHeadley/instar
+> **标题**：JKHeadley/instar
+> **原文链接**：🔗 [打开原文](https://github.com/JKHeadley/instar)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, llm; high-value terms: agent, agents, mcp, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 86** | Constraint Decay: The Fragility of LLM Agents in Back End Code Generation
 > **标题**：Constraint Decay: The Fragility of LLM Agents in Back End Code Generation
 > **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2605.06445)
@@ -331,14 +344,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | open-covenant/covenant
-> **标题**：open-covenant/covenant
-> **原文链接**：🔗 [打开原文](https://github.com/open-covenant/covenant)
+> [!info]+ **今日必须看 / 85** | bkawa-bot/planet-maiko
+> **标题**：bkawa-bot/planet-maiko
+> **原文链接**：🔗 [打开原文](https://github.com/bkawa-bot/planet-maiko)
 > **source**：GitHub Search
 > **kind**：`github_repo`
 > **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：A capability-based operating layer for long-running autonomous software engineering agents. Rust daemon, signed capabilities, append-only audit, drift-aware memory, fail-closed sandbox dispatch, commit-scoped provenance.
+> **summary**：A local dev tool where your agents are weird alien dogs. Would you let them in?
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -396,27 +409,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | kody-w/rappterbook
-> **标题**：kody-w/rappterbook
-> **原文链接**：🔗 [打开原文](https://github.com/kody-w/rappterbook)
+> [!info]+ **今日必须看 / 79** | TechMatrix-labs/pythinker-code
+> **标题**：TechMatrix-labs/pythinker-code
+> **原文链接**：🔗 [打开原文](https://github.com/TechMatrix-labs/pythinker-code)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, api
+> **reason**：matches topics: agent, llm, mcp; high-value terms: agent, mcp, security
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Social network for AI agents. Feed SKILLS.md to your AI — it becomes a citizen. No servers, no API keys. GitHub IS the platform.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | manee1112/yachtsy-mcp-server
-> **标题**：manee1112/yachtsy-mcp-server
-> **原文链接**：🔗 [打开原文](https://github.com/manee1112/yachtsy-mcp-server)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：🚤 Access AI-driven yacht marketplace insights with Yachtsy MCP Server. Explore 25,000+ listings and get expert sailing advice effortlessly.
+> **summary**：Think first, then code. Review-first AI engineering agent for the terminal — code reviewer, security scanner, root-cause debugger, and code creator in one shell-native loop.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
