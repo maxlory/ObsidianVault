@@ -1,6 +1,6 @@
 ---
 title: News Radar Week 2026-W23
-date: 2026-06-02
+date: 2026-06-03
 tags:
   - news-radar
   - weekly-review
@@ -134,6 +134,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 100** | Chinese Military Sought Nvidia Chips for Years, Report Says - The New York Times
+> **标题**：Chinese Military Sought Nvidia Chips for Years, Report Says - The New York Times
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWDF5My1wM3VhT0VTeURaS3VPTTEwaTI2eWloQjlmRERBYURmTVhCcVdDYTd0YWY2TFo4VzdlUXRhM3lKYWRUbm5fcS1UNFRtNXBEczdqVm9udWEyNWxhdDMxUkM1NUdpcjQ0NGh0M19iYWxvdlRmQ19KUjR6QklZVzVaNmQyd1FrUW5oSA?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#1
+> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Chinese Military Sought Nvidia Chips for Years, Report Says The New York Times
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 100** | Hegseth urges Asian leaders to boost military spending against China - NPR
 > **标题**：Hegseth urges Asian leaders to boost military spending against China - NPR
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxNWEdjdHBlejE5RGhKZDNQTUNvQTB3eUZicDJuYVlCNGJJV2otVGVKSFpkQWMzc0hnRlRNS2x4LXdTVTdHdDRveGFBTUlieTd4NGJnMzhUZk14MDBxOVdWQmZENXI4TjFPT1pnaDZnVTJxQ1BFZGIydXpqSjlBU09VREU2Qi1kQQ?oc=5)
@@ -145,40 +162,6 @@ tags:
 > **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
 > **summary**：Hegseth urges Asian leaders to boost military spending against China NPR
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 100** | Chinese Military Sought Nvidia Chips for Years, Report Says - The New York Times
-> **标题**：Chinese Military Sought Nvidia Chips for Years, Report Says - The New York Times
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWDF5My1wM3VhT0VTeURaS3VPTTEwaTI2eWloQjlmRERBYURmTVhCcVdDYTd0YWY2TFo4VzdlUXRhM3lKYWRUbm5fcS1UNFRtNXBEczdqVm9udWEyNWxhdDMxUkM1NUdpcjQ0NGh0M19iYWxvdlRmQ19KUjR6QklZVzVaNmQyd1FrUW5oSA?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Chinese Military Sought Nvidia Chips for Years, Report Says The New York Times
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 99** | US and China hold ‘candid’ maritime military safety talks in Hawaii - South China Morning Post
-> **标题**：US and China hold ‘candid’ maritime military safety talks in Hawaii - South China Morning Post
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzYydGdYZWJ6YjltWW4xVTVpa2YxQm1pODdyNEg4WjBobDVVMzlCZ0l1bnRPWGE3TC1sSE1sZ2ZaYVhyUUd5Z1F2RWphNm50V3pkcHVBQ29aS1RvMEluaDZvN3ZwVmxuUmcwUjI4bjJTRHEtMHVnYVQ2cjJJcnlMM044OXlLMDZNemgxa0NqTFZQNW9US2F3OFJtWlJJRlhlM2t3Rkp2WUxod2E3bEYw0gGvAUFVX3lxTE5JM00wczQybFRqUzB3WTBva3VMZGROenVDLURVX2VpNDB6Y2h3TGVSOGg1bUZVOWZYVWdfcS1tQUc3Q21nbVZuNTlKS002dWhGdGpWSDJVYTRUQXJSNjBTMGp6NHkzeTVVUWVpOFVnT0lpRlFXakkyeUxWUFpBZm9MNEd5MHRZNm9VQWhKNngtT0wxYVo0R0Q4ZFY2b29GUW5jRXFodkdCdWxhNEUxMG8?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：US and China hold ‘candid’ maritime military safety talks in Hawaii South China Morning Post
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -230,6 +213,23 @@ tags:
 > **reason**：rank #2; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
 > **summary**：Chapter 1: Fighting Lens: Military Doctrine and the Future of Warfare in Asia The International Institute for Strategic Studies
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 97** | Trump signs AI safety order seeking voluntary review of new models - NPR
+> **标题**：Trump signs AI safety order seeking voluntary review of new models - NPR
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiggFBVV95cUxPNEVhQ1gwaXFUcjNRYkdUb0ZrcWNNVTVCRmJGM0N6X3Q2bU1nSU5hYTJJS1FKaVJVRk1NcTlvNlo5YWJjN1pmWXJTNi02YWk1dTdNRG9EbVIzZDMtSF9ZXzNDYTlZQVdFeVpnbVBORlU0Skp2MVRGTkhscnBjZTFpOG5n?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Trump signs AI safety order seeking voluntary review of new models NPR
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -391,6 +391,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 100** | Chinese Military Sought Nvidia Chips for Years, Report Says - The New York Times
+> **标题**：Chinese Military Sought Nvidia Chips for Years, Report Says - The New York Times
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWDF5My1wM3VhT0VTeURaS3VPTTEwaTI2eWloQjlmRERBYURmTVhCcVdDYTd0YWY2TFo4VzdlUXRhM3lKYWRUbm5fcS1UNFRtNXBEczdqVm9udWEyNWxhdDMxUkM1NUdpcjQ0NGh0M19iYWxvdlRmQ19KUjR6QklZVzVaNmQyd1FrUW5oSA?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#1
+> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Chinese Military Sought Nvidia Chips for Years, Report Says The New York Times
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 100** | Hegseth urges Asian leaders to boost military spending against China - NPR
 > **标题**：Hegseth urges Asian leaders to boost military spending against China - NPR
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxNWEdjdHBlejE5RGhKZDNQTUNvQTB3eUZicDJuYVlCNGJJV2otVGVKSFpkQWMzc0hnRlRNS2x4LXdTVTdHdDRveGFBTUlieTd4NGJnMzhUZk14MDBxOVdWQmZENXI4TjFPT1pnaDZnVTJxQ1BFZGIydXpqSjlBU09VREU2Qi1kQQ?oc=5)
@@ -504,23 +521,6 @@ tags:
 > **reason**：rank #4; cross-source x12; source weight: GDELT; hot terms: 美国
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260329T154500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 94** | 两大鹰派人物随行访华 特朗普的强硬信号 _ 军事频道 _ 中华网
-> **标题**：两大鹰派人物随行访华 特朗普的强硬信号 _ 军事频道 _ 中华网
-> **原文链接**：🔗 [打开原文](https://military.china.com/news/13004177/20260514/49493159.html)
-> **source**：GDELT / military.china.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#6
-> **reason**：rank #6; cross-source x8; source weight: GDELT; hot terms: 美国, 军事
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260514T033000Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -652,6 +652,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 100** | Chinese Military Sought Nvidia Chips for Years, Report Says - The New York Times
+> **标题**：Chinese Military Sought Nvidia Chips for Years, Report Says - The New York Times
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWDF5My1wM3VhT0VTeURaS3VPTTEwaTI2eWloQjlmRERBYURmTVhCcVdDYTd0YWY2TFo4VzdlUXRhM3lKYWRUbm5fcS1UNFRtNXBEczdqVm9udWEyNWxhdDMxUkM1NUdpcjQ0NGh0M19iYWxvdlRmQ19KUjR6QklZVzVaNmQyd1FrUW5oSA?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#1
+> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Chinese Military Sought Nvidia Chips for Years, Report Says The New York Times
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 100** | Hegseth urges Asian leaders to boost military spending against China - NPR
 > **标题**：Hegseth urges Asian leaders to boost military spending against China - NPR
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxNWEdjdHBlejE5RGhKZDNQTUNvQTB3eUZicDJuYVlCNGJJV2otVGVKSFpkQWMzc0hnRlRNS2x4LXdTVTdHdDRveGFBTUlieTd4NGJnMzhUZk14MDBxOVdWQmZENXI4TjFPT1pnaDZnVTJxQ1BFZGIydXpqSjlBU09VREU2Qi1kQQ?oc=5)
@@ -669,34 +686,17 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 100** | Chinese Military Sought Nvidia Chips for Years, Report Says - The New York Times
-> **标题**：Chinese Military Sought Nvidia Chips for Years, Report Says - The New York Times
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWDF5My1wM3VhT0VTeURaS3VPTTEwaTI2eWloQjlmRERBYURmTVhCcVdDYTd0YWY2TFo4VzdlUXRhM3lKYWRUbm5fcS1UNFRtNXBEczdqVm9udWEyNWxhdDMxUkM1NUdpcjQ0NGh0M19iYWxvdlRmQ19KUjR6QklZVzVaNmQyd1FrUW5oSA?oc=5)
-> **source**：Google News / China US Hot News
+> [!info]+ **今日必须看 / 98** | La Chine cible lexpertise de Taïwan dans les puces pour contourner lendiguement mondial , selon Taipei
+> **标题**：La Chine cible lexpertise de Taïwan dans les puces pour contourner lendiguement mondial , selon Taipei
+> **原文链接**：🔗 [打开原文](https://www.zonebourse.com/actualite-bourse/la-chine-cible-l-expertise-de-taiwan-dans-les-puces-pour-contourner-l-endiguement-mondial-selon-tai-ce7e51d3db8af621)
+> **source**：GDELT / zonebourse.com
 > **kind**：`news`
 > **region**：美国/国际
-> **category**：综合
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Chinese Military Sought Nvidia Chips for Years, Report Says The New York Times
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 99** | US and China hold ‘candid’ maritime military safety talks in Hawaii - South China Morning Post
-> **标题**：US and China hold ‘candid’ maritime military safety talks in Hawaii - South China Morning Post
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzYydGdYZWJ6YjltWW4xVTVpa2YxQm1pODdyNEg4WjBobDVVMzlCZ0l1bnRPWGE3TC1sSE1sZ2ZaYVhyUUd5Z1F2RWphNm50V3pkcHVBQ29aS1RvMEluaDZvN3ZwVmxuUmcwUjI4bjJTRHEtMHVnYVQ2cjJJcnlMM044OXlLMDZNemgxa0NqTFZQNW9US2F3OFJtWlJJRlhlM2t3Rkp2WUxod2E3bEYw0gGvAUFVX3lxTE5JM00wczQybFRqUzB3WTBva3VMZGROenVDLURVX2VpNDB6Y2h3TGVSOGg1bUZVOWZYVWdfcS1tQUc3Q21nbVZuNTlKS002dWhGdGpWSDJVYTRUQXJSNjBTMGp6NHkzeTVVUWVpOFVnT0lpRlFXakkyeUxWUFpBZm9MNEd5MHRZNm9VQWhKNngtT0wxYVo0R0Q4ZFY2b29GUW5jRXFodkdCdWxhNEUxMG8?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：US and China hold ‘candid’ maritime military safety talks in Hawaii South China Morning Post
+> **category**：科技
+> **rank**：#6
+> **reason**：rank #6; cross-source x12; source weight: GDELT; hot terms: 美国, ai, ai
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260407T040000Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -790,6 +790,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 97** | Trump signs AI safety order seeking voluntary review of new models - NPR
+> **标题**：Trump signs AI safety order seeking voluntary review of new models - NPR
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiggFBVV95cUxPNEVhQ1gwaXFUcjNRYkdUb0ZrcWNNVTVCRmJGM0N6X3Q2bU1nSU5hYTJJS1FKaVJVRk1NcTlvNlo5YWJjN1pmWXJTNi02YWk1dTdNRG9EbVIzZDMtSF9ZXzNDYTlZQVdFeVpnbVBORlU0Skp2MVRGTkhscnBjZTFpOG5n?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Trump signs AI safety order seeking voluntary review of new models NPR
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 96** | États - Unis : feu vert pour les puces H200 vers la Chine , Nvidia en quête de percée
 > **标题**：États - Unis : feu vert pour les puces H200 vers la Chine , Nvidia en quête de percée
 > **原文链接**：🔗 [打开原文](https://www.tuniscope.com/article/431817/tech/high-tech/puces-nvidia-h200-2303888)
@@ -807,9 +824,9 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 95** | Nvidia Introduces First PCs Designed for AI Agents - WSJ
-> **标题**：Nvidia Introduces First PCs Designed for AI Agents - WSJ
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMifEFVX3lxTE9MU0Y0VFlScVBDdDFaUXIxc1hvNlBZRnZ6NElFUHgtckZENHVMVmpvM241YjU1RnN2ejdlWEV6OFBfbldXZkItckJzOVZURWNUWmhaMUJ3SHhYd2xHWHF3VGwzeUlGTkNlc0h2UWhYbm03TXItXzEyNm1UeVk?oc=5)
+> [!info]+ **今日必须看 / 95** | Trump finds an AI policy he can live with - Politico
+> **标题**：Trump finds an AI policy he can live with - Politico
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ3B6Wkt3X3YtbUZDVlJMZnJWNGpNQ19nUlhpTlEtaGhUQXRyZFN0X3BmdURKaGJuUk9yWGZlMFh1ZjlzOE1McWRTZy1PMm9nRzZWckNmb3EyaGlJRGE3RDM5WHlwU0VaRkN5ZDFLTWhkSnZWWFpGMHNKeTJLQmI5akJyQldtZDA?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
@@ -817,7 +834,7 @@ tags:
 > **rank**：#2
 > **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Nvidia Introduces First PCs Designed for AI Agents WSJ
+> **summary**：Trump finds an AI policy he can live with Politico
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -852,23 +869,6 @@ tags:
 > **reason**：rank #2; cross-source x6; source weight: GDELT
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：20260518T200000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 94** | Kevin Warsh takes over the Fed : What his reform - oriented vision means for the US economy ?
-> **标题**：Kevin Warsh takes over the Fed : What his reform - oriented vision means for the US economy ?
-> **原文链接**：🔗 [打开原文](https://www.livemint.com/news/us-news/kevin-warsh-takes-over-the-fed-what-his-reform-oriented-vision-means-for-the-us-economy-11779517662302.html)
-> **source**：GDELT / livemint.com
-> **kind**：`news`
-> **region**：国际
-> **category**：财经
-> **rank**：#4
-> **reason**：rank #4; cross-source x3; source weight: GDELT; hot terms: us, fed
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：20260523T100000Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
