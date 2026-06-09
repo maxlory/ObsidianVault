@@ -21,5 +21,5 @@ tags:
 
 ## Git
 - git add Daily Briefings Research Radar Weekly Reviews News Radar ok: 
-- git commit -m Update research and news radar 2026-06-08 ok: [main 22de2c8] Update research and news radar 2026-06-08 3 files changed, 58 insertions(+) create mode 100644 Daily Briefings/AI-tasks/2026-06-08-plan.md create mode 100644 Research Radar/run-log/2026-06-06-maintenance.md create mode 100644 Research Radar/run-log/2026-06-06.jsonl
-- git push origin main ok: To https://github.com/maxlory/ObsidianVault.git 76fcb0a..22de2c8 main -> main
+- git commit -m Update research and news radar 2026-06-08 ok: [main cf484d3] Update research and news radar 2026-06-08 3 files changed, 65 insertions(+) create mode 100644 Daily Briefings/AI-tasks/2026-06-08-review.md create mode 100644 Research Radar/run-log/2026-06-08-maintenance.md create mode 100644 Research Radar/run-log/2026-06-08.jsonl
+- git push origin main ok: To https://github.com/maxlory/ObsidianVault.git 22de2c8..cf484d3 main -> main
