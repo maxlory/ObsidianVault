@@ -1,6 +1,6 @@
 ---
 title: News Radar Week 2026-W25
-date: 2026-06-18
+date: 2026-06-20
 tags:
   - news-radar
   - weekly-review
@@ -23,7 +23,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#1
-> **reason**：rank #1; cross-source x10; source weight: GDELT; hot terms: 美国, 军事, sanctions
+> **reason**：rank #1; cross-source x11; source weight: GDELT; hot terms: 美国, 军事, sanctions
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260426T114500Z
 >
@@ -40,7 +40,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#3
-> **reason**：rank #3; cross-source x9; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
+> **reason**：rank #3; cross-source x10; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260416T174500Z
 >
@@ -57,7 +57,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#4
-> **reason**：rank #4; cross-source x9; source weight: GDELT; hot terms: 美国, 军事, china, us
+> **reason**：rank #4; cross-source x10; source weight: GDELT; hot terms: 美国, 军事, china, us
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260514T130000Z
 >
@@ -83,17 +83,34 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 100** | Ball game’s over—the US is out of the AI chip market in China - Brookings
-> **标题**：Ball game’s over—the US is out of the AI chip market in China - Brookings
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMinAFBVV95cUxQOHdoMzA3Y2hoYm1lcVQ5OUhVWHpCd1FPaFdvc3ZfSzRrajc2RzFmaVRPYnhOSWJQTFpvZFg3THVhZHRiLUt0Tm52QlhYbTFKNTVpaGlCTnVwV2pDM3htbVV4cTIzYWh1WnZNU044a1dtZmlTWkNKa0xmNmhWZkpSVjQzUzJfS01LbnZuRnhXRldKaXVfUFRqck9QZXg?oc=5)
-> **source**：Google News / China US Hot News, Google News / Global Markets Tech
+> [!info]+ **今日必须看 / 100** | UnitedHealth’s $3 billion AI push has bots calling doctors - The Spokesman-Review
+> **标题**：UnitedHealth’s $3 billion AI push has bots calling doctors - The Spokesman-Review
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMingFBVV95cUxPbVI1WGVodnRUY3pKVU04TTJudjhLRk41Q01BT0J4Vm9oakZDR2dFQkxzTjFTRU04dmpZNnpoT1ZlaDhVUk51QjZmRVhhN0lZY00tX2hFcngtMWRLaFd4aXBDWUlQQnZLVi1GOHNnMk1IbVlsUU1feFdVZnkySWxteHRuSHFYMDYySXoydUkxb29fbFJ3Mi1lMGhXcW13QQ?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#2
+> **reason**：rank #2; cross-source x2; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：UnitedHealth’s $3 billion AI push has bots calling doctors The Spokesman-Review
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | New Report Warns of Rising Russia-China Military Activity in Asia-Pacific Region - SOFX
+> **标题**：New Report Warns of Rising Russia-China Military Activity in Asia-Pacific Region - SOFX
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMW91SHB5czR2QTNodmkwNEpVX0FqNHVEbFRGNTRHZWQzQ2dPbkZ5Y1IyMXlLNUZJaFVHUHRQTVdFcnpWQzFPVGtBbmhFOWFMQnRId1Zac0VELTZLdUJyWVNsQ1JpZHBSeXZWY2I1NjA3WVBiMVZ0djB5RFVITnZfYVdXQk5LSUdpUTg0a0I5MDNObnpGNVBrY2piRU5YQ1VzZjkyUg?oc=5)
+> **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
-> **category**：综合 / 财经/科技
+> **category**：综合
 > **rank**：#1
-> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Ball game’s over—the US is out of the AI chip market in China Brookings
+> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：New Report Warns of Rising Russia-China Military Activity in Asia-Pacific Region SOFX
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -108,7 +125,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#6
-> **reason**：rank #6; cross-source x9; source weight: GDELT; hot terms: 中国, 美国, 军事
+> **reason**：rank #6; cross-source x10; source weight: GDELT; hot terms: 中国, 美国, 军事
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260506T074500Z
 >
@@ -134,26 +151,43 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 97** | French president urges US to share cutting-edge AI and democracies to cooperate on regulation - AP News
-> **标题**：French president urges US to share cutting-edge AI and democracies to cooperate on regulation - AP News
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeEthanlWb0x3bXcteVRGODdpR3p2by11eldKVzNMVWdldndDSDBHOWsxUkVMVmlnVEt0YzV2UXFTQTB6bGtiLW1pcVllMi1WXzdid2lZeUlBbTRGYXNzNFBXSXQxN2VycGo5eHZhM212d1Z3a0FtX2xXN01XWHNnbXpZY3EtUlgwaThnaA?oc=5)
-> **source**：Google News / Global Markets Tech
+> [!info]+ **今日必须看 / 97** | Ball game’s over—the US is out of the AI chip market in China - Brookings
+> **标题**：Ball game’s over—the US is out of the AI chip market in China - Brookings
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMinAFBVV95cUxQOHdoMzA3Y2hoYm1lcVQ5OUhVWHpCd1FPaFdvc3ZfSzRrajc2RzFmaVRPYnhOSWJQTFpvZFg3THVhZHRiLUt0Tm52QlhYbTFKNTVpaGlCTnVwV2pDM3htbVV4cTIzYWh1WnZNU044a1dtZmlTWkNKa0xmNmhWZkpSVjQzUzJfS01LbnZuRnhXRldKaXVfUFRqck9QZXg?oc=5)
+> **source**：Google News / China US Hot News, Google News / Global Markets Tech
 > **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#3
-> **reason**：rank #3; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：French president urges US to share cutting-edge AI and democracies to cooperate on regulation AP News
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#6
+> **reason**：rank #6; cross-source x3; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Ball game’s over—the US is out of the AI chip market in China Brookings
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 97** | The Hacker Sent by Anthropic to Calm the Government’s Nerves About AI Safety - WSJ
-> **标题**：The Hacker Sent by Anthropic to Calm the Government’s Nerves About AI Safety - WSJ
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ2RZem8yQUpabFJMQXpmRHdabW85RlUwOFZ4TThJSjJkS0dlTW1LUGZLcFRJQWFDZjlKdHZkVjdRaWhmeWMtWXNTSWN3TFJPNU85RzNKLVdaZXUxWWRXTkpaMlN4d2xfRjZqelh0R1NOY1p3azAtaXpDejd5SlNKSllOOA?oc=5)
+> [!info]+ **今日必须看 / 97** | USINDOPACOM Chief Adm. Samuel Paparo Makes Case for 2027 Budget, Cites Chinese Military Woes - ExecutiveGov
+> **标题**：USINDOPACOM Chief Adm. Samuel Paparo Makes Case for 2027 Budget, Cites Chinese Military Woes - ExecutiveGov
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmROdVJDXzljZC1mX281X1owYWNDbjhjYi03Z0Z1X1J1dTl3SFExa2YycUhOZnJEaTNZQ00ybHlSNC16UUc2Z29IUUh2NmI2Snh6Nm96S1FHaXFadEl6Vi1rSm5aRlJUUl9TcmVIMmo1YWxYbEdGYVlZcEdDOVd4VGNB?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：USINDOPACOM Chief Adm. Samuel Paparo Makes Case for 2027 Budget, Cites Chinese Military Woes ExecutiveGov
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 97** | Norway imposes near ban on AI in elementary school - Reuters
+> **标题**：Norway imposes near ban on AI in elementary school - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkxUbENacTJvOWN5TXpEeWZGbmppRFVUVmthNUJHTlBlb09mdVdYeU10bzhFLXBIcl92VlpHU1UzQmV6WlhtS1V5ZHE1blNaODdQaWF1WU84Zm1aNHhuMkpEVHhEZVZSY0RMQjFJWTg5QmROeEtCUmtxTDNKSExGMUxDZkR6azVRc1RpQmliSzVuclBmT2c?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
@@ -161,7 +195,7 @@ tags:
 > **rank**：#1
 > **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：The Hacker Sent by Anthropic to Calm the Government’s Nerves About AI Safety WSJ
+> **summary**：Norway imposes near ban on AI in elementary school Reuters
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -176,7 +210,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#5
-> **reason**：rank #5; cross-source x9; source weight: GDELT; hot terms: 美国, 军事
+> **reason**：rank #5; cross-source x10; source weight: GDELT; hot terms: 美国, 军事
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260514T033000Z
 >
@@ -230,40 +264,6 @@ tags:
 > **reason**：rank #3; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：People around the world see a winner on AI — and it’s not the US Politico
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | Exclusive: Meta head of product for 'AI for work' transformation is leaving company - Reuters
-> **标题**：Exclusive: Meta head of product for 'AI for work' transformation is leaving company - Reuters
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWHd0TVRGRGp5bzN6NWVKZEN5LXBzNUdtREFuTElHWFR6LXpTVHk4RDVUQ2xVZWo4MGdTZzNVNEdaOEd1VlUzQ09FcE9xX2tibjU1Sks5cXo4TGw1UjAxbktGR2dBTmk2dlNyV2hhc2hRZ3VHSGdpeXh1Y05BZU5pRVEwWG00NW1sZVl1UkxWdGRWZ25Cc1hTRklleU01SnlqdlRz?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Exclusive: Meta head of product for 'AI for work' transformation is leaving company Reuters
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 94** | كيفن وارش .. مروض للأسواق المالية يعول ترمب على خدماته
-> **标题**：كيفن وارش .. مروض للأسواق المالية يعول ترمب على خدماته
-> **原文链接**：🔗 [打开原文](https://www.aljazeera.net/ebusiness/2026/5/18/%D9%83%D9%8A%D9%81%D9%86-%D9%88%D8%A7%D8%B1%D8%B4-%D9%85%D8%B1%D9%88%D8%B6-%D9%84%D9%84%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%8A%D8%B9%D9%88%D9%84)
-> **source**：GDELT / aljazeera.net
-> **kind**：`news`
-> **region**：国际
-> **category**：财经
-> **rank**：#2
-> **reason**：rank #2; cross-source x8; source weight: GDELT
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：20260518T200000Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -280,7 +280,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#1
-> **reason**：rank #1; cross-source x10; source weight: GDELT; hot terms: 美国, 军事, sanctions
+> **reason**：rank #1; cross-source x11; source weight: GDELT; hot terms: 美国, 军事, sanctions
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260426T114500Z
 >
@@ -297,7 +297,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#3
-> **reason**：rank #3; cross-source x9; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
+> **reason**：rank #3; cross-source x10; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260416T174500Z
 >
@@ -314,7 +314,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#4
-> **reason**：rank #4; cross-source x9; source weight: GDELT; hot terms: 美国, 军事, china, us
+> **reason**：rank #4; cross-source x10; source weight: GDELT; hot terms: 美国, 军事, china, us
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260514T130000Z
 >
@@ -340,17 +340,17 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 100** | Ball game’s over—the US is out of the AI chip market in China - Brookings
-> **标题**：Ball game’s over—the US is out of the AI chip market in China - Brookings
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMinAFBVV95cUxQOHdoMzA3Y2hoYm1lcVQ5OUhVWHpCd1FPaFdvc3ZfSzRrajc2RzFmaVRPYnhOSWJQTFpvZFg3THVhZHRiLUt0Tm52QlhYbTFKNTVpaGlCTnVwV2pDM3htbVV4cTIzYWh1WnZNU044a1dtZmlTWkNKa0xmNmhWZkpSVjQzUzJfS01LbnZuRnhXRldKaXVfUFRqck9QZXg?oc=5)
-> **source**：Google News / China US Hot News, Google News / Global Markets Tech
+> [!info]+ **今日必须看 / 100** | UnitedHealth’s $3 billion AI push has bots calling doctors - The Spokesman-Review
+> **标题**：UnitedHealth’s $3 billion AI push has bots calling doctors - The Spokesman-Review
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMingFBVV95cUxPbVI1WGVodnRUY3pKVU04TTJudjhLRk41Q01BT0J4Vm9oakZDR2dFQkxzTjFTRU04dmpZNnpoT1ZlaDhVUk51QjZmRVhhN0lZY00tX2hFcngtMWRLaFd4aXBDWUlQQnZLVi1GOHNnMk1IbVlsUU1feFdVZnkySWxteHRuSHFYMDYySXoydUkxb29fbFJ3Mi1lMGhXcW13QQ?oc=5)
+> **source**：Google News / Global Markets Tech
 > **kind**：`news`
-> **region**：美国/国际
-> **category**：综合 / 财经/科技
-> **rank**：#1
-> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#2
+> **reason**：rank #2; cross-source x2; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Ball game’s over—the US is out of the AI chip market in China Brookings
+> **summary**：UnitedHealth’s $3 billion AI push has bots calling doctors The Spokesman-Review
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -365,7 +365,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#6
-> **reason**：rank #6; cross-source x9; source weight: GDELT; hot terms: 中国, 美国, 军事
+> **reason**：rank #6; cross-source x10; source weight: GDELT; hot terms: 中国, 美国, 军事
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260506T074500Z
 >
@@ -391,6 +391,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 97** | Ball game’s over—the US is out of the AI chip market in China - Brookings
+> **标题**：Ball game’s over—the US is out of the AI chip market in China - Brookings
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMinAFBVV95cUxQOHdoMzA3Y2hoYm1lcVQ5OUhVWHpCd1FPaFdvc3ZfSzRrajc2RzFmaVRPYnhOSWJQTFpvZFg3THVhZHRiLUt0Tm52QlhYbTFKNTVpaGlCTnVwV2pDM3htbVV4cTIzYWh1WnZNU044a1dtZmlTWkNKa0xmNmhWZkpSVjQzUzJfS01LbnZuRnhXRldKaXVfUFRqck9QZXg?oc=5)
+> **source**：Google News / China US Hot News, Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#6
+> **reason**：rank #6; cross-source x3; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Ball game’s over—the US is out of the AI chip market in China Brookings
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 96** | 两大鹰派人物随行访华 特朗普的强硬信号 _ 军事频道 _ 中华网
 > **标题**：两大鹰派人物随行访华 特朗普的强硬信号 _ 军事频道 _ 中华网
 > **原文链接**：🔗 [打开原文](https://military.china.com/news/13004177/20260514/49493159.html)
@@ -399,7 +416,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#5
-> **reason**：rank #5; cross-source x9; source weight: GDELT; hot terms: 美国, 军事
+> **reason**：rank #5; cross-source x10; source weight: GDELT; hot terms: 美国, 军事
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260514T033000Z
 >
@@ -476,9 +493,9 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 94** | Russia-China Military Ties: Behind the Window Dressing - Center for European Policy Analysis (CEPA)
-> **标题**：Russia-China Military Ties: Behind the Window Dressing - Center for European Policy Analysis (CEPA)
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxQLVFyWWxSOWRDTl9fLXZ0UkZ0WmdMeURiaFl5UVotWmFOa3V5bFpRcDZibWRkNlBCR25jblVoRlhNRUV4SlpxREM2TmRkMHJKS3hTVjJZN0ROeWJmY2VOZ2xVRVExUW1GOEVDaExyQXVlOTlOSFNTdUE2TEZlTFhKR1lJOXZUUQ?oc=5)
+> [!info]+ **今日必须看 / 94** | Japan’s Defense Chief Challenges China’s Military Spending Data - Bloomberg
+> **标题**：Japan’s Defense Chief Challenges China’s Military Spending Data - Bloomberg
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMitAFBVV95cUxOUU5zQ1hxRTNHUUlIYXJ5dFVDN2Q4UWVuY1dXSFB5Z1hxWVRhbzhEZElxS3ZTWW10R1Z6V29kQmFLaUpOVVJXMXF1ZGNoaWxXM0laT0VTQ2YybkxUWmo5bFBfMVIzMDdEV1JETmJfQUpSclZ1ekVwTl92Y2xjeFhtX3c1Y3lUMTZ6bkUwc3VRNmUzeXJKUU1CbGdDbzNhYTF1c0lLaGxYNkt1cS1IMzVYUUJDM20?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
@@ -486,7 +503,7 @@ tags:
 > **rank**：#4
 > **reason**：rank #4; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Russia-China Military Ties: Behind the Window Dressing Center for European Policy Analysis (CEPA)
+> **summary**：Japan’s Defense Chief Challenges China’s Military Spending Data Bloomberg
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -501,26 +518,9 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#7
-> **reason**：rank #7; cross-source x9; source weight: GDELT; hot terms: 美国, 军事
+> **reason**：rank #7; cross-source x10; source weight: GDELT; hot terms: 美国, 军事
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260425T001500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 92** | 領銜提 「 嚇阻中國侵略台灣法案 」 美眾議員金映玉 ： 北京犯台將遭毀滅性制裁 - 政治
-> **标题**：領銜提 「 嚇阻中國侵略台灣法案 」 美眾議員金映玉 ： 北京犯台將遭毀滅性制裁 - 政治
-> **原文链接**：🔗 [打开原文](https://news.ltn.com.tw/news/politics/paper/1754321)
-> **source**：GDELT / news.ltn.com.tw
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#9
-> **reason**：rank #9; cross-source x9; source weight: GDELT; hot terms: 美国, 军事, 制裁
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260510T220000Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -541,7 +541,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#1
-> **reason**：rank #1; cross-source x10; source weight: GDELT; hot terms: 美国, 军事, sanctions
+> **reason**：rank #1; cross-source x11; source weight: GDELT; hot terms: 美国, 军事, sanctions
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260426T114500Z
 >
@@ -558,7 +558,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#3
-> **reason**：rank #3; cross-source x9; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
+> **reason**：rank #3; cross-source x10; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260416T174500Z
 >
@@ -575,7 +575,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#4
-> **reason**：rank #4; cross-source x9; source weight: GDELT; hot terms: 美国, 军事, china, us
+> **reason**：rank #4; cross-source x10; source weight: GDELT; hot terms: 美国, 军事, china, us
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260514T130000Z
 >
@@ -601,17 +601,34 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 100** | Ball game’s over—the US is out of the AI chip market in China - Brookings
-> **标题**：Ball game’s over—the US is out of the AI chip market in China - Brookings
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMinAFBVV95cUxQOHdoMzA3Y2hoYm1lcVQ5OUhVWHpCd1FPaFdvc3ZfSzRrajc2RzFmaVRPYnhOSWJQTFpvZFg3THVhZHRiLUt0Tm52QlhYbTFKNTVpaGlCTnVwV2pDM3htbVV4cTIzYWh1WnZNU044a1dtZmlTWkNKa0xmNmhWZkpSVjQzUzJfS01LbnZuRnhXRldKaXVfUFRqck9QZXg?oc=5)
-> **source**：Google News / China US Hot News, Google News / Global Markets Tech
+> [!info]+ **今日必须看 / 100** | UnitedHealth’s $3 billion AI push has bots calling doctors - The Spokesman-Review
+> **标题**：UnitedHealth’s $3 billion AI push has bots calling doctors - The Spokesman-Review
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMingFBVV95cUxPbVI1WGVodnRUY3pKVU04TTJudjhLRk41Q01BT0J4Vm9oakZDR2dFQkxzTjFTRU04dmpZNnpoT1ZlaDhVUk51QjZmRVhhN0lZY00tX2hFcngtMWRLaFd4aXBDWUlQQnZLVi1GOHNnMk1IbVlsUU1feFdVZnkySWxteHRuSHFYMDYySXoydUkxb29fbFJ3Mi1lMGhXcW13QQ?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#2
+> **reason**：rank #2; cross-source x2; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：UnitedHealth’s $3 billion AI push has bots calling doctors The Spokesman-Review
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | New Report Warns of Rising Russia-China Military Activity in Asia-Pacific Region - SOFX
+> **标题**：New Report Warns of Rising Russia-China Military Activity in Asia-Pacific Region - SOFX
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMW91SHB5czR2QTNodmkwNEpVX0FqNHVEbFRGNTRHZWQzQ2dPbkZ5Y1IyMXlLNUZJaFVHUHRQTVdFcnpWQzFPVGtBbmhFOWFMQnRId1Zac0VELTZLdUJyWVNsQ1JpZHBSeXZWY2I1NjA3WVBiMVZ0djB5RFVITnZfYVdXQk5LSUdpUTg0a0I5MDNObnpGNVBrY2piRU5YQ1VzZjkyUg?oc=5)
+> **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
-> **category**：综合 / 财经/科技
+> **category**：综合
 > **rank**：#1
-> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Ball game’s over—the US is out of the AI chip market in China Brookings
+> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：New Report Warns of Rising Russia-China Military Activity in Asia-Pacific Region SOFX
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -626,7 +643,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#6
-> **reason**：rank #6; cross-source x9; source weight: GDELT; hot terms: 中国, 美国, 军事
+> **reason**：rank #6; cross-source x10; source weight: GDELT; hot terms: 中国, 美国, 军事
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260506T074500Z
 >
@@ -652,51 +669,34 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 97** | French president urges US to share cutting-edge AI and democracies to cooperate on regulation - AP News
-> **标题**：French president urges US to share cutting-edge AI and democracies to cooperate on regulation - AP News
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeEthanlWb0x3bXcteVRGODdpR3p2by11eldKVzNMVWdldndDSDBHOWsxUkVMVmlnVEt0YzV2UXFTQTB6bGtiLW1pcVllMi1WXzdid2lZeUlBbTRGYXNzNFBXSXQxN2VycGo5eHZhM212d1Z3a0FtX2xXN01XWHNnbXpZY3EtUlgwaThnaA?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#3
-> **reason**：rank #3; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：French president urges US to share cutting-edge AI and democracies to cooperate on regulation AP News
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 97** | The Hacker Sent by Anthropic to Calm the Government’s Nerves About AI Safety - WSJ
-> **标题**：The Hacker Sent by Anthropic to Calm the Government’s Nerves About AI Safety - WSJ
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ2RZem8yQUpabFJMQXpmRHdabW85RlUwOFZ4TThJSjJkS0dlTW1LUGZLcFRJQWFDZjlKdHZkVjdRaWhmeWMtWXNTSWN3TFJPNU85RzNKLVdaZXUxWWRXTkpaMlN4d2xfRjZqelh0R1NOY1p3azAtaXpDejd5SlNKSllOOA?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：The Hacker Sent by Anthropic to Calm the Government’s Nerves About AI Safety WSJ
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 96** | 两大鹰派人物随行访华 特朗普的强硬信号 _ 军事频道 _ 中华网
-> **标题**：两大鹰派人物随行访华 特朗普的强硬信号 _ 军事频道 _ 中华网
-> **原文链接**：🔗 [打开原文](https://military.china.com/news/13004177/20260514/49493159.html)
-> **source**：GDELT / military.china.com
+> [!info]+ **今日必须看 / 97** | Ball game’s over—the US is out of the AI chip market in China - Brookings
+> **标题**：Ball game’s over—the US is out of the AI chip market in China - Brookings
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMinAFBVV95cUxQOHdoMzA3Y2hoYm1lcVQ5OUhVWHpCd1FPaFdvc3ZfSzRrajc2RzFmaVRPYnhOSWJQTFpvZFg3THVhZHRiLUt0Tm52QlhYbTFKNTVpaGlCTnVwV2pDM3htbVV4cTIzYWh1WnZNU044a1dtZmlTWkNKa0xmNmhWZkpSVjQzUzJfS01LbnZuRnhXRldKaXVfUFRqck9QZXg?oc=5)
+> **source**：Google News / China US Hot News, Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#5
-> **reason**：rank #5; cross-source x9; source weight: GDELT; hot terms: 美国, 军事
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260514T033000Z
+> **category**：综合
+> **rank**：#6
+> **reason**：rank #6; cross-source x3; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Ball game’s over—the US is out of the AI chip market in China Brookings
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 97** | USINDOPACOM Chief Adm. Samuel Paparo Makes Case for 2027 Budget, Cites Chinese Military Woes - ExecutiveGov
+> **标题**：USINDOPACOM Chief Adm. Samuel Paparo Makes Case for 2027 Budget, Cites Chinese Military Woes - ExecutiveGov
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmROdVJDXzljZC1mX281X1owYWNDbjhjYi03Z0Z1X1J1dTl3SFExa2YycUhOZnJEaTNZQ00ybHlSNC16UUc2Z29IUUh2NmI2Snh6Nm96S1FHaXFadEl6Vi1rSm5aRlJUUl9TcmVIMmo1YWxYbEdGYVlZcEdDOVd4VGNB?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：USINDOPACOM Chief Adm. Samuel Paparo Makes Case for 2027 Budget, Cites Chinese Military Woes ExecutiveGov
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -705,17 +705,17 @@ tags:
 
 ## 财经科技观察
 
-> [!info]+ **今日必须看 / 100** | Ball game’s over—the US is out of the AI chip market in China - Brookings
-> **标题**：Ball game’s over—the US is out of the AI chip market in China - Brookings
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMinAFBVV95cUxQOHdoMzA3Y2hoYm1lcVQ5OUhVWHpCd1FPaFdvc3ZfSzRrajc2RzFmaVRPYnhOSWJQTFpvZFg3THVhZHRiLUt0Tm52QlhYbTFKNTVpaGlCTnVwV2pDM3htbVV4cTIzYWh1WnZNU044a1dtZmlTWkNKa0xmNmhWZkpSVjQzUzJfS01LbnZuRnhXRldKaXVfUFRqck9QZXg?oc=5)
-> **source**：Google News / China US Hot News, Google News / Global Markets Tech
+> [!info]+ **今日必须看 / 100** | UnitedHealth’s $3 billion AI push has bots calling doctors - The Spokesman-Review
+> **标题**：UnitedHealth’s $3 billion AI push has bots calling doctors - The Spokesman-Review
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMingFBVV95cUxPbVI1WGVodnRUY3pKVU04TTJudjhLRk41Q01BT0J4Vm9oakZDR2dFQkxzTjFTRU04dmpZNnpoT1ZlaDhVUk51QjZmRVhhN0lZY00tX2hFcngtMWRLaFd4aXBDWUlQQnZLVi1GOHNnMk1IbVlsUU1feFdVZnkySWxteHRuSHFYMDYySXoydUkxb29fbFJ3Mi1lMGhXcW13QQ?oc=5)
+> **source**：Google News / Global Markets Tech
 > **kind**：`news`
-> **region**：美国/国际
-> **category**：综合 / 财经/科技
-> **rank**：#1
-> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#2
+> **reason**：rank #2; cross-source x2; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Ball game’s over—the US is out of the AI chip market in China Brookings
+> **summary**：UnitedHealth’s $3 billion AI push has bots calling doctors The Spokesman-Review
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -739,26 +739,9 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 97** | French president urges US to share cutting-edge AI and democracies to cooperate on regulation - AP News
-> **标题**：French president urges US to share cutting-edge AI and democracies to cooperate on regulation - AP News
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxOeEthanlWb0x3bXcteVRGODdpR3p2by11eldKVzNMVWdldndDSDBHOWsxUkVMVmlnVEt0YzV2UXFTQTB6bGtiLW1pcVllMi1WXzdid2lZeUlBbTRGYXNzNFBXSXQxN2VycGo5eHZhM212d1Z3a0FtX2xXN01XWHNnbXpZY3EtUlgwaThnaA?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#3
-> **reason**：rank #3; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：French president urges US to share cutting-edge AI and democracies to cooperate on regulation AP News
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 97** | The Hacker Sent by Anthropic to Calm the Government’s Nerves About AI Safety - WSJ
-> **标题**：The Hacker Sent by Anthropic to Calm the Government’s Nerves About AI Safety - WSJ
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ2RZem8yQUpabFJMQXpmRHdabW85RlUwOFZ4TThJSjJkS0dlTW1LUGZLcFRJQWFDZjlKdHZkVjdRaWhmeWMtWXNTSWN3TFJPNU85RzNKLVdaZXUxWWRXTkpaMlN4d2xfRjZqelh0R1NOY1p3azAtaXpDejd5SlNKSllOOA?oc=5)
+> [!info]+ **今日必须看 / 97** | Norway imposes near ban on AI in elementary school - Reuters
+> **标题**：Norway imposes near ban on AI in elementary school - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkxUbENacTJvOWN5TXpEeWZGbmppRFVUVmthNUJHTlBlb09mdVdYeU10bzhFLXBIcl92VlpHU1UzQmV6WlhtS1V5ZHE1blNaODdQaWF1WU84Zm1aNHhuMkpEVHhEZVZSY0RMQjFJWTg5QmROeEtCUmtxTDNKSExGMUxDZkR6azVRc1RpQmliSzVuclBmT2c?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
@@ -766,7 +749,7 @@ tags:
 > **rank**：#1
 > **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：The Hacker Sent by Anthropic to Calm the Government’s Nerves About AI Safety WSJ
+> **summary**：Norway imposes near ban on AI in elementary school Reuters
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -801,23 +784,6 @@ tags:
 > **reason**：rank #3; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：People around the world see a winner on AI — and it’s not the US Politico
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | Exclusive: Meta head of product for 'AI for work' transformation is leaving company - Reuters
-> **标题**：Exclusive: Meta head of product for 'AI for work' transformation is leaving company - Reuters
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiowFBVV95cUxNWHd0TVRGRGp5bzN6NWVKZEN5LXBzNUdtREFuTElHWFR6LXpTVHk4RDVUQ2xVZWo4MGdTZzNVNEdaOEd1VlUzQ09FcE9xX2tibjU1Sks5cXo4TGw1UjAxbktGR2dBTmk2dlNyV2hhc2hRZ3VHSGdpeXh1Y05BZU5pRVEwWG00NW1sZVl1UkxWdGRWZ25Cc1hTRklleU01SnlqdlRz?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Exclusive: Meta head of product for 'AI for work' transformation is leaving company Reuters
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -858,6 +824,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 91** | Is AI the energy technology the world has been waiting for? - The World Economic Forum
+> **标题**：Is AI the energy technology the world has been waiting for? - The World Economic Forum
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxOOHhYOFpod2ZjeUVTRUJNczF6bmZzcEN4T1Y2ZVdIWk5YN0FJUTJZb24tUDJkTEZ6VkhPcmxYLVJQQk1uR0t5V0JhaENMZ1FYV2xoYkZtcHE3c0xoVkE0MkhTUGRpM0JsSVY2QkxfWnBMbzFYSE5XU0lFdzRCWmItaUFoNVJZUQ?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#4
+> **reason**：rank #4; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Is AI the energy technology the world has been waiting for? The World Economic Forum
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 89** | New AI Tools to Help You Make Things Happen on Facebook - meta.com
 > **标题**：New AI Tools to Help You Make Things Happen on Facebook - meta.com
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFQ2a1E5SGRLNy1CZENhR3B3eWw0LTk0QWVIT3gySVIwenFHYUkxSWNDbkt3djR2YkZUZnZ3MEdnM24wSWtzc2ZQSHk5VjV3ZlgwampXTDF3ZTlUbG1YU3lkTjVBYk5QWVBnaWNBUzhoQ0dRUl80cUVzdjNQQ1U0ekdPTGdsUjJsYzM4cnludFNGRHRf0gGaAUFVX3lxTFBBUDVNOHBhd1JnSmhhYXNyTTlKbGFjekdEdDJ6a290VFVJTGlKOTV1WHUxZmFKQlBGU0xiYjRBdHVvRTR2eElhWkhSNmxUX1lKOXZYMFpoYzktVnI4QWNUbkNqT0xBUEx5VGgxclVWQUlDbGZVZ3A1LXlMZnIzclNfdE02NGRDS1BLdjNjYWNXb3pWcGdDQnExSGc?oc=5)
@@ -869,6 +852,23 @@ tags:
 > **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：New AI Tools to Help You Make Things Happen on Facebook meta.com
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 89** | US asks Anthropic to block global access to top AI models: Why it matters - Al Jazeera
+> **标题**：US asks Anthropic to block global access to top AI models: Why it matters - Al Jazeera
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiswFBVV95cUxOS0JVZ1VmVE9Tam15QlVrVURFYkFKaDRCenItc1JZWGlaakl3ZmhIUVFfbE4yMUhaQmdIUDlHVnJxT1FONWdBWW1ZREFPcHJBQVhIUFdYd28tNEVzSS1FdVZBcGNLdG01bDB3T2p2dnpBSDY1UUV5N3N5dEx3ejZJZk9zNzZxRlhPdnJHYmRPeDlrQzNVMGxSYkg4YUoxQ21lbURBY0ZpczRpSkU3SktvbUxpQdIBuAFBVV95cUxONGMzSmFWQzJhLWV5ckJsX2dXQ2FuVk5rMjQ5dGZjblRVSzNuUU9lRjRMOHRzdGRUQ2RPbGJBMTFmczM3eEZHYVA1bG1vUFVjWkYzQUpMRXN5dmVjV0t3YTJlRlBmbDhmSkZlTXJsSXM4V0pHeDc0cmpBS1ROQkxxcDkzcmFjVjVaOVZwNGhOU3FwNENFZ0g3RzFmaC1maXNjTEQ3TGlZaWhXeU5iWTN4Q1ctRVd6eVNt?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: ai, us, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：US asks Anthropic to block global access to top AI models: Why it matters Al Jazeera
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
