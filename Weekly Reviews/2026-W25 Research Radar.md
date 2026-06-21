@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W25
-date: 2026-06-20
+date: 2026-06-21
 tags:
   - weekly-review
   - research-radar
@@ -10,6 +10,19 @@ tags:
 
 ## 本周趋势
 
+> [!info]+ **今日必须看 / 91** | 开源教程《Deep Agents 实战》发布
+> **标题**：开源教程《Deep Agents 实战》发布
+> **原文链接**：🔗 [打开原文](https://x.com/shao__meng/status/2068306942184034471)
+> **source**：AI HOT / X：邵猛 (@shao__meng)
+> **kind**：`article`
+> **reason**：matches topics: agent, agents, claude code; high-value terms: agent, agents, claude code
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：LangChain 官方认证大使 @zhanghaili0610 推出开源教程《Deep Agents 实战》，基于 LangChain / LangGraph 生态，讲解如何用 Deep Agents Harness 框架构建真实 Agent 应用。核心是"三层架构"：Runtime（LangGraph）、Framework（LangChain）、Harness（Deep Agents）。技术内核为上下文工程，通过虚拟文件系统实现按需读取、中间结果落盘、大文件局部读取。教程共 8 章 + 2 准备篇，覆盖虚拟文件系统（六大工具）、任务规划、子 Agent 委派（异步并行）及 Skills 复用（可在 Claude Code、Cursor 等 30+ 工具中通用）。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | ggyounoobf/agent-hub
 > **标题**：ggyounoobf/agent-hub
 > **原文链接**：🔗 [打开原文](https://github.com/ggyounoobf/agent-hub)
@@ -75,19 +88,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 87** | Can LLMs Be CEOs? Benchmarking Strategic Resource Reallocation with Multi-Role Agent Simulation
-> **标题**：Can LLMs Be CEOs? Benchmarking Strategic Resource Reallocation with Multi-Role Agent Simulation
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2606.17459)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, llm, research, benchmark; high-value terms: benchmark, agent, eval, reasoning
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2606.17459v1 Announce Type: new Abstract: Evaluating the decision-making capabilities of large language models (LLMs) is a growing research priority, yet existing benchmarks focus on isolated cognitive tasks such as reasoning, knowledge retrieval, and economic rationality in stylized settings...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 87** | Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents
 > **标题**：Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents
 > **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2606.19704)
@@ -101,6 +101,32 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 87** | Can LLMs Be CEOs? Benchmarking Strategic Resource Reallocation with Multi-Role Agent Simulation
+> **标题**：Can LLMs Be CEOs? Benchmarking Strategic Resource Reallocation with Multi-Role Agent Simulation
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2606.17459)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, llm, research, benchmark; high-value terms: benchmark, agent, eval, reasoning
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2606.17459v1 Announce Type: new Abstract: Evaluating the decision-making capabilities of large language models (LLMs) is a growing research priority, yet existing benchmarks focus on isolated cognitive tasks such as reasoning, knowledge retrieval, and economic rationality in stylized settings...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | HIDORAKAI002/ai-workspace-archive
+> **标题**：HIDORAKAI002/ai-workspace-archive
+> **原文链接**：🔗 [打开原文](https://github.com/HIDORAKAI002/ai-workspace-archive)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：A massive, self-updating local archive of AI tools — 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cline), and 30+ system prompt collections. One repo to rule them all.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 85** | hamidoubodian21-netizen/ai-engineering-production
 > **标题**：hamidoubodian21-netizen/ai-engineering-production
 > **原文链接**：🔗 [打开原文](https://github.com/hamidoubodian21-netizen/ai-engineering-production)
@@ -109,32 +135,6 @@ tags:
 > **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：AI Engineering Roadmap 2026 🚀 | Build & Deploy AI Apps from Scratch
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | xbtlin/ai-berkshire
-> **标题**：xbtlin/ai-berkshire
-> **原文链接**：🔗 [打开原文](https://github.com/xbtlin/ai-berkshire)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, claude code, llm, mcp; high-value terms: agent, mcp, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | Aureliolo/synthorg
-> **标题**：Aureliolo/synthorg
-> **原文链接**：🔗 [打开原文](https://github.com/Aureliolo/synthorg)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：SynthOrg - Framework for building synthetic organizations with autonomous AI agents
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -185,19 +185,6 @@ tags:
 
 ## 论文到代码观察
 
-> [!info]+ **今日必须看 / 87** | Can LLMs Be CEOs? Benchmarking Strategic Resource Reallocation with Multi-Role Agent Simulation
-> **标题**：Can LLMs Be CEOs? Benchmarking Strategic Resource Reallocation with Multi-Role Agent Simulation
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2606.17459)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, llm, research, benchmark; high-value terms: benchmark, agent, eval, reasoning
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2606.17459v1 Announce Type: new Abstract: Evaluating the decision-making capabilities of large language models (LLMs) is a growing research priority, yet existing benchmarks focus on isolated cognitive tasks such as reasoning, knowledge retrieval, and economic rationality in stylized settings...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 87** | Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents
 > **标题**：Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents
 > **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2606.19704)
@@ -206,6 +193,19 @@ tags:
 > **reason**：matches topics: agent, agents, llm, mcp; high-value terms: benchmark, agent, agents, mcp
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
 > **summary**：arXiv:2606.19704v1 Announce Type: new Abstract: Agent benchmarks are growing fast, but no single benchmark touches more than four or five of the dimensions that deployment exposes. This paper aggregates the largest coordinated deep-dive of one MCP-based industrial-agent benchmark to date: fourteen...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 87** | Can LLMs Be CEOs? Benchmarking Strategic Resource Reallocation with Multi-Role Agent Simulation
+> **标题**：Can LLMs Be CEOs? Benchmarking Strategic Resource Reallocation with Multi-Role Agent Simulation
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2606.17459)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, llm, research, benchmark; high-value terms: benchmark, agent, eval, reasoning
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2606.17459v1 Announce Type: new Abstract: Evaluating the decision-making capabilities of large language models (LLMs) is a growing research priority, yet existing benchmarks focus on isolated cognitive tasks such as reasoning, knowledge retrieval, and economic rationality in stylized settings...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -224,19 +224,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 77** | Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher
-> **标题**：Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2606.13710)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, research; high-value terms: agent, agents, eval
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2606.13710v1 Announce Type: new Abstract: Deep research and agent evolution serve as de-facto tasks for AI agents in real-world applications toward artificial general intelligence. The former enables autonomous retrieval and integration of information in open-ended environments to tackle open...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 77** | Deontic Policies for Runtime Governance of Agentic AI Systems
 > **标题**：Deontic Policies for Runtime Governance of Agentic AI Systems
 > **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2606.19464)
@@ -250,6 +237,45 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 77** | Hidden Anchors in Multi-Agent LLM Deliberation
+> **标题**：Hidden Anchors in Multi-Agent LLM Deliberation
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2606.19494)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, reasoning
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2606.19494v1 Announce Type: new Abstract: Multi-agent LLM deliberation, where agents exchange and revise answers over several rounds, is increasingly used to improve reasoning and accuracy, yet how and why it works is rarely modelled. Such deliberation mirrors how humans reach decisions. As s...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 77** | DeXposure-Claw: An Agentic System for DeFi Risk Supervision
+> **标题**：DeXposure-Claw: An Agentic System for DeFi Risk Supervision
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2606.19501)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2606.19501v1 Announce Type: new Abstract: Decentralized finance exposes supervisors to fast-moving, networked credit risks. General-purpose LLM agents fit this setting poorly: they over-read weak evidence and recommend high-stakes interventions, while existing evaluations offer no regulator-a...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 77** | Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher
+> **标题**：Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2606.13710)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, research; high-value terms: agent, agents, eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2606.13710v1 Announce Type: new Abstract: Deep research and agent evolution serve as de-facto tasks for AI agents in real-world applications toward artificial general intelligence. The former enables autonomous retrieval and integration of information in open-ended environments to tackle open...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 77** | MemTrace: Probing What Final Accuracy Misses in Long-Term Memory
 > **标题**：MemTrace: Probing What Final Accuracy Misses in Long-Term Memory
 > **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2606.17328)
@@ -258,32 +284,6 @@ tags:
 > **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, eval
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
 > **summary**：arXiv:2606.17328v1 Announce Type: new Abstract: LLM agents increasingly maintain long-term memory of user facts across sessions. Yet such memory is usually evaluated by aggregating accuracy over question rows or episodes. Because this approach scores question rows independently, even when several q...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 77** | Benchmarking Web Agent Safety under E-commerce Deceptive Interfaces
-> **标题**：Benchmarking Web Agent Safety under E-commerce Deceptive Interfaces
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2606.13686)
-> **source**：cs.CL updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, benchmark; high-value terms: benchmark, agent, agents
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2606.13686v1 Announce Type: new Abstract: As autonomous web agents are increasingly deployed to perform real-world tasks, ensuring their safety has become a critical concern. In this work, we study web agent behavior under realistic deceptive interfaces in the e-commerce domain. We introduce...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 77** | When Plausible Is Not Realistic: Evaluating Human Mobility in LLM-Based Urban Simulation
-> **标题**：When Plausible Is Not Realistic: Evaluating Human Mobility in LLM-Based Urban Simulation
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2606.13835)
-> **source**：cs.CL updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, eval
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2606.13835v1 Announce Type: new Abstract: LLM-based generative agents are increasingly used in urban simulators, yet it remains unclear whether they reproduce empirically realistic human mobility patterns or merely generate plausible mobility narratives. We introduce a validation framework fo...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -331,6 +331,32 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 87** | Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents
+> **标题**：Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2606.19704)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: benchmark, agent, agents, mcp
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2606.19704v1 Announce Type: new Abstract: Agent benchmarks are growing fast, but no single benchmark touches more than four or five of the dimensions that deployment exposes. This paper aggregates the largest coordinated deep-dive of one MCP-based industrial-agent benchmark to date: fourteen...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | HIDORAKAI002/ai-workspace-archive
+> **标题**：HIDORAKAI002/ai-workspace-archive
+> **原文链接**：🔗 [打开原文](https://github.com/HIDORAKAI002/ai-workspace-archive)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：A massive, self-updating local archive of AI tools — 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cline), and 30+ system prompt collections. One repo to rule them all.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 85** | hamidoubodian21-netizen/ai-engineering-production
 > **标题**：hamidoubodian21-netizen/ai-engineering-production
 > **原文链接**：🔗 [打开原文](https://github.com/hamidoubodian21-netizen/ai-engineering-production)
@@ -370,6 +396,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 83** | voidly-ai/voidly-pay
+> **标题**：voidly-ai/voidly-pay
+> **原文链接**：🔗 [打开原文](https://github.com/voidly-ai/voidly-pay)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, mcp; high-value terms: release, agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Off-chain credit ledger + hire marketplace for AI agents. Ed25519-signed envelopes, atomic settlement, hire-and-release escrow. https://voidly.ai/pay
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 79** | kody-w/rappterbook
 > **标题**：kody-w/rappterbook
 > **原文链接**：🔗 [打开原文](https://github.com/kody-w/rappterbook)
@@ -378,45 +417,6 @@ tags:
 > **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, api
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Social network for AI agents. Feed SKILLS.md to your AI — it becomes a citizen. No servers, no API keys. GitHub IS the platform.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | keepwhatworks/trinity
-> **标题**：keepwhatworks/trinity
-> **原文链接**：🔗 [打开原文](https://github.com/keepwhatworks/trinity)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: codex, llm, mcp; high-value terms: mcp, codex, api
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Ask all three. Keep what works. A local-first cross-provider council layer for Claude, Codex, and Gemini — one prompt, all three answer, a chairman synthesizes the verdict. No new app, no API key; your transcripts never leave your machine.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | houstongolden/youmd
-> **标题**：houstongolden/youmd
-> **原文链接**：🔗 [打开原文](https://github.com/houstongolden/youmd)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Identity context protocol for the agent internet -- an MCP where the context is you.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 78** | Agents In Biology
-> **标题**：Agents In Biology
-> **原文链接**：🔗 [打开原文](https://www.anthropic.com/research/agents-in-biology)
-> **source**：Anthropic
-> **kind**：`article`
-> **reason**：matches topics: agent, agents, anthropic; high-value terms: agent, agents
-> **follow_up**：判断是否需要沉淀为长期主题笔记。
-> **summary**：No summary.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库

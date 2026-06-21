@@ -1,6 +1,6 @@
 ---
 title: News Radar Week 2026-W25
-date: 2026-06-20
+date: 2026-06-21
 tags:
   - news-radar
   - weekly-review
@@ -83,34 +83,17 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 100** | UnitedHealth’s $3 billion AI push has bots calling doctors - The Spokesman-Review
-> **标题**：UnitedHealth’s $3 billion AI push has bots calling doctors - The Spokesman-Review
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMingFBVV95cUxPbVI1WGVodnRUY3pKVU04TTJudjhLRk41Q01BT0J4Vm9oakZDR2dFQkxzTjFTRU04dmpZNnpoT1ZlaDhVUk51QjZmRVhhN0lZY00tX2hFcngtMWRLaFd4aXBDWUlQQnZLVi1GOHNnMk1IbVlsUU1feFdVZnkySWxteHRuSHFYMDYySXoydUkxb29fbFJ3Mi1lMGhXcW13QQ?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; cross-source x2; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：UnitedHealth’s $3 billion AI push has bots calling doctors The Spokesman-Review
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 100** | New Report Warns of Rising Russia-China Military Activity in Asia-Pacific Region - SOFX
-> **标题**：New Report Warns of Rising Russia-China Military Activity in Asia-Pacific Region - SOFX
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMW91SHB5czR2QTNodmkwNEpVX0FqNHVEbFRGNTRHZWQzQ2dPbkZ5Y1IyMXlLNUZJaFVHUHRQTVdFcnpWQzFPVGtBbmhFOWFMQnRId1Zac0VELTZLdUJyWVNsQ1JpZHBSeXZWY2I1NjA3WVBiMVZ0djB5RFVITnZfYVdXQk5LSUdpUTg0a0I5MDNObnpGNVBrY2piRU5YQ1VzZjkyUg?oc=5)
+> [!info]+ **今日必须看 / 100** | A Look at the Text of the Agreement Between the United States and Iran - The New York Times
+> **标题**：A Look at the Text of the Agreement Between the United States and Iran - The New York Times
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxPSnVhYXRtM2IxcWg0U0NMTE5EV1dSNkVxa3NCNmZpeDRMNUFEUVR1dEp0MzFRdDl5dVk0b3YxUFdzOXJvNkkxX0dnSzdQOWxhSnY4UTJvdE0wLVNtWmJLN3VtdjdkT3BDLXVnY2JLdDhscDZkQVVSZEVkVjZYU19Ba2VQMEpjQQ?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：综合
 > **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
+> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, china, united states, us; fresh within 12h
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：New Report Warns of Rising Russia-China Military Activity in Asia-Pacific Region SOFX
+> **summary**：A Look at the Text of the Agreement Between the United States and Iran The New York Times
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -151,6 +134,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 98** | UnitedHealth’s $3 billion AI push has bots calling doctors - The Spokesman-Review
+> **标题**：UnitedHealth’s $3 billion AI push has bots calling doctors - The Spokesman-Review
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMingFBVV95cUxPbVI1WGVodnRUY3pKVU04TTJudjhLRk41Q01BT0J4Vm9oakZDR2dFQkxzTjFTRU04dmpZNnpoT1ZlaDhVUk51QjZmRVhhN0lZY00tX2hFcngtMWRLaFd4aXBDWUlQQnZLVi1GOHNnMk1IbVlsUU1feFdVZnkySWxteHRuSHFYMDYySXoydUkxb29fbFJ3Mi1lMGhXcW13QQ?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#2
+> **reason**：rank #2; cross-source x2; source weight: Google News; hot terms: ai, us, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：UnitedHealth’s $3 billion AI push has bots calling doctors The Spokesman-Review
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 97** | Ball game’s over—the US is out of the AI chip market in China - Brookings
 > **标题**：Ball game’s over—the US is out of the AI chip market in China - Brookings
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMinAFBVV95cUxQOHdoMzA3Y2hoYm1lcVQ5OUhVWHpCd1FPaFdvc3ZfSzRrajc2RzFmaVRPYnhOSWJQTFpvZFg3THVhZHRiLUt0Tm52QlhYbTFKNTVpaGlCTnVwV2pDM3htbVV4cTIzYWh1WnZNU044a1dtZmlTWkNKa0xmNmhWZkpSVjQzUzJfS01LbnZuRnhXRldKaXVfUFRqck9QZXg?oc=5)
@@ -168,34 +168,17 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 97** | USINDOPACOM Chief Adm. Samuel Paparo Makes Case for 2027 Budget, Cites Chinese Military Woes - ExecutiveGov
-> **标题**：USINDOPACOM Chief Adm. Samuel Paparo Makes Case for 2027 Budget, Cites Chinese Military Woes - ExecutiveGov
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmROdVJDXzljZC1mX281X1owYWNDbjhjYi03Z0Z1X1J1dTl3SFExa2YycUhOZnJEaTNZQ00ybHlSNC16UUc2Z29IUUh2NmI2Snh6Nm96S1FHaXFadEl6Vi1rSm5aRlJUUl9TcmVIMmo1YWxYbEdGYVlZcEdDOVd4VGNB?oc=5)
+> [!info]+ **今日必须看 / 97** | How ‘lying flat’ went from a niche subculture to mainstream phenomenon - South China Morning Post
+> **标题**：How ‘lying flat’ went from a niche subculture to mainstream phenomenon - South China Morning Post
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMitgFBVV95cUxOc244M001QlE1THNJRDR5SjlRMjRHRnlvT0RmNC05SmI1V1VrUUctX1FmMWF5UUdTZm9EaGlma2xVMFl0cUYyR3dzWnlxb3NUNkFvN3ctLU1pUVVRb2FxOWozdEhkRlZyYU9SWFBMWUZNSmhiUDdRY2JiZFNwV0xMQkFmZExtXzBhTUVRS2FoZTNZaTdCYkplMjZLZUprN1NOU2FFc1otTFJwUjVURDlPQ3dJOG9lQdIBtgFBVV95cUxNSC1CQTVkRlZjNGlGQmNxeVV5UUZUU19zZm5yUDl3bnhQOGZvQlZ1QnhReU5Lc0xlVnZ0S1R1cWhOM2ljUGRLMnBYR0w1cnV2emRYR2piTU1FbEktZ1BLcnRWczlIRHZrUml5bXJrZGhCNWhIRU85T2ZBTFRPZHVRRnI3ZU9wVVJWSjNtV2w3TzFTeVAyVkR4WU1VaGlhRzVCTlgxSGZGZTY1MU00XzVBWER2MWc3QQ?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：综合
 > **rank**：#3
-> **reason**：rank #3; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
+> **reason**：rank #3; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：USINDOPACOM Chief Adm. Samuel Paparo Makes Case for 2027 Budget, Cites Chinese Military Woes ExecutiveGov
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 97** | Norway imposes near ban on AI in elementary school - Reuters
-> **标题**：Norway imposes near ban on AI in elementary school - Reuters
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkxUbENacTJvOWN5TXpEeWZGbmppRFVUVmthNUJHTlBlb09mdVdYeU10bzhFLXBIcl92VlpHU1UzQmV6WlhtS1V5ZHE1blNaODdQaWF1WU84Zm1aNHhuMkpEVHhEZVZSY0RMQjFJWTg5QmROeEtCUmtxTDNKSExGMUxDZkR6azVRc1RpQmliSzVuclBmT2c?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Norway imposes near ban on AI in elementary school Reuters
+> **summary**：How ‘lying flat’ went from a niche subculture to mainstream phenomenon South China Morning Post
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -264,6 +247,23 @@ tags:
 > **reason**：rank #3; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：People around the world see a winner on AI — and it’s not the US Politico
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 94** | كيفن وارش .. مروض للأسواق المالية يعول ترمب على خدماته
+> **标题**：كيفن وارش .. مروض للأسواق المالية يعول ترمب على خدماته
+> **原文链接**：🔗 [打开原文](https://www.aljazeera.net/ebusiness/2026/5/18/%D9%83%D9%8A%D9%81%D9%86-%D9%88%D8%A7%D8%B1%D8%B4-%D9%85%D8%B1%D9%88%D8%B6-%D9%84%D9%84%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%8A%D8%B9%D9%88%D9%84)
+> **source**：GDELT / aljazeera.net
+> **kind**：`news`
+> **region**：国际
+> **category**：财经
+> **rank**：#2
+> **reason**：rank #2; cross-source x8; source weight: GDELT
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：20260518T200000Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -340,17 +340,17 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 100** | UnitedHealth’s $3 billion AI push has bots calling doctors - The Spokesman-Review
-> **标题**：UnitedHealth’s $3 billion AI push has bots calling doctors - The Spokesman-Review
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMingFBVV95cUxPbVI1WGVodnRUY3pKVU04TTJudjhLRk41Q01BT0J4Vm9oakZDR2dFQkxzTjFTRU04dmpZNnpoT1ZlaDhVUk51QjZmRVhhN0lZY00tX2hFcngtMWRLaFd4aXBDWUlQQnZLVi1GOHNnMk1IbVlsUU1feFdVZnkySWxteHRuSHFYMDYySXoydUkxb29fbFJ3Mi1lMGhXcW13QQ?oc=5)
-> **source**：Google News / Global Markets Tech
+> [!info]+ **今日必须看 / 100** | A Look at the Text of the Agreement Between the United States and Iran - The New York Times
+> **标题**：A Look at the Text of the Agreement Between the United States and Iran - The New York Times
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxPSnVhYXRtM2IxcWg0U0NMTE5EV1dSNkVxa3NCNmZpeDRMNUFEUVR1dEp0MzFRdDl5dVk0b3YxUFdzOXJvNkkxX0dnSzdQOWxhSnY4UTJvdE0wLVNtWmJLN3VtdjdkT3BDLXVnY2JLdDhscDZkQVVSZEVkVjZYU19Ba2VQMEpjQQ?oc=5)
+> **source**：Google News / China US Hot News
 > **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; cross-source x2; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：UnitedHealth’s $3 billion AI push has bots calling doctors The Spokesman-Review
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#1
+> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, china, united states, us; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：A Look at the Text of the Agreement Between the United States and Iran The New York Times
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -385,6 +385,23 @@ tags:
 > **reason**：rank #4; cross-source x5; source weight: GDELT; hot terms: us, fed
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：20260523T100000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 98** | UnitedHealth’s $3 billion AI push has bots calling doctors - The Spokesman-Review
+> **标题**：UnitedHealth’s $3 billion AI push has bots calling doctors - The Spokesman-Review
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMingFBVV95cUxPbVI1WGVodnRUY3pKVU04TTJudjhLRk41Q01BT0J4Vm9oakZDR2dFQkxzTjFTRU04dmpZNnpoT1ZlaDhVUk51QjZmRVhhN0lZY00tX2hFcngtMWRLaFd4aXBDWUlQQnZLVi1GOHNnMk1IbVlsUU1feFdVZnkySWxteHRuSHFYMDYySXoydUkxb29fbFJ3Mi1lMGhXcW13QQ?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#2
+> **reason**：rank #2; cross-source x2; source weight: Google News; hot terms: ai, us, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：UnitedHealth’s $3 billion AI push has bots calling doctors The Spokesman-Review
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -510,23 +527,6 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 92** | Hormuz at Edge - Tests of Diplomacy and Economics
-> **标题**：Hormuz at Edge - Tests of Diplomacy and Economics
-> **原文链接**：🔗 [打开原文](https://www.dailyexcelsior.com/hormuz-at-edge-tests-of-diplomacy-and-economics/)
-> **source**：GDELT / dailyexcelsior.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#7
-> **reason**：rank #7; cross-source x10; source weight: GDELT; hot terms: 美国, 军事
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260425T001500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
 ## 中国热点迁移
 
 - 暂无。
@@ -601,34 +601,17 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 100** | UnitedHealth’s $3 billion AI push has bots calling doctors - The Spokesman-Review
-> **标题**：UnitedHealth’s $3 billion AI push has bots calling doctors - The Spokesman-Review
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMingFBVV95cUxPbVI1WGVodnRUY3pKVU04TTJudjhLRk41Q01BT0J4Vm9oakZDR2dFQkxzTjFTRU04dmpZNnpoT1ZlaDhVUk51QjZmRVhhN0lZY00tX2hFcngtMWRLaFd4aXBDWUlQQnZLVi1GOHNnMk1IbVlsUU1feFdVZnkySWxteHRuSHFYMDYySXoydUkxb29fbFJ3Mi1lMGhXcW13QQ?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; cross-source x2; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：UnitedHealth’s $3 billion AI push has bots calling doctors The Spokesman-Review
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 100** | New Report Warns of Rising Russia-China Military Activity in Asia-Pacific Region - SOFX
-> **标题**：New Report Warns of Rising Russia-China Military Activity in Asia-Pacific Region - SOFX
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMW91SHB5czR2QTNodmkwNEpVX0FqNHVEbFRGNTRHZWQzQ2dPbkZ5Y1IyMXlLNUZJaFVHUHRQTVdFcnpWQzFPVGtBbmhFOWFMQnRId1Zac0VELTZLdUJyWVNsQ1JpZHBSeXZWY2I1NjA3WVBiMVZ0djB5RFVITnZfYVdXQk5LSUdpUTg0a0I5MDNObnpGNVBrY2piRU5YQ1VzZjkyUg?oc=5)
+> [!info]+ **今日必须看 / 100** | A Look at the Text of the Agreement Between the United States and Iran - The New York Times
+> **标题**：A Look at the Text of the Agreement Between the United States and Iran - The New York Times
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxPSnVhYXRtM2IxcWg0U0NMTE5EV1dSNkVxa3NCNmZpeDRMNUFEUVR1dEp0MzFRdDl5dVk0b3YxUFdzOXJvNkkxX0dnSzdQOWxhSnY4UTJvdE0wLVNtWmJLN3VtdjdkT3BDLXVnY2JLdDhscDZkQVVSZEVkVjZYU19Ba2VQMEpjQQ?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：综合
 > **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
+> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, china, united states, us; fresh within 12h
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：New Report Warns of Rising Russia-China Military Activity in Asia-Pacific Region SOFX
+> **summary**：A Look at the Text of the Agreement Between the United States and Iran The New York Times
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -669,6 +652,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 98** | UnitedHealth’s $3 billion AI push has bots calling doctors - The Spokesman-Review
+> **标题**：UnitedHealth’s $3 billion AI push has bots calling doctors - The Spokesman-Review
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMingFBVV95cUxPbVI1WGVodnRUY3pKVU04TTJudjhLRk41Q01BT0J4Vm9oakZDR2dFQkxzTjFTRU04dmpZNnpoT1ZlaDhVUk51QjZmRVhhN0lZY00tX2hFcngtMWRLaFd4aXBDWUlQQnZLVi1GOHNnMk1IbVlsUU1feFdVZnkySWxteHRuSHFYMDYySXoydUkxb29fbFJ3Mi1lMGhXcW13QQ?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#2
+> **reason**：rank #2; cross-source x2; source weight: Google News; hot terms: ai, us, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：UnitedHealth’s $3 billion AI push has bots calling doctors The Spokesman-Review
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 97** | Ball game’s over—the US is out of the AI chip market in China - Brookings
 > **标题**：Ball game’s over—the US is out of the AI chip market in China - Brookings
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMinAFBVV95cUxQOHdoMzA3Y2hoYm1lcVQ5OUhVWHpCd1FPaFdvc3ZfSzRrajc2RzFmaVRPYnhOSWJQTFpvZFg3THVhZHRiLUt0Tm52QlhYbTFKNTVpaGlCTnVwV2pDM3htbVV4cTIzYWh1WnZNU044a1dtZmlTWkNKa0xmNmhWZkpSVjQzUzJfS01LbnZuRnhXRldKaXVfUFRqck9QZXg?oc=5)
@@ -686,17 +686,17 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 97** | USINDOPACOM Chief Adm. Samuel Paparo Makes Case for 2027 Budget, Cites Chinese Military Woes - ExecutiveGov
-> **标题**：USINDOPACOM Chief Adm. Samuel Paparo Makes Case for 2027 Budget, Cites Chinese Military Woes - ExecutiveGov
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiggFBVV95cUxPSmROdVJDXzljZC1mX281X1owYWNDbjhjYi03Z0Z1X1J1dTl3SFExa2YycUhOZnJEaTNZQ00ybHlSNC16UUc2Z29IUUh2NmI2Snh6Nm96S1FHaXFadEl6Vi1rSm5aRlJUUl9TcmVIMmo1YWxYbEdGYVlZcEdDOVd4VGNB?oc=5)
+> [!info]+ **今日必须看 / 97** | How ‘lying flat’ went from a niche subculture to mainstream phenomenon - South China Morning Post
+> **标题**：How ‘lying flat’ went from a niche subculture to mainstream phenomenon - South China Morning Post
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMitgFBVV95cUxOc244M001QlE1THNJRDR5SjlRMjRHRnlvT0RmNC05SmI1V1VrUUctX1FmMWF5UUdTZm9EaGlma2xVMFl0cUYyR3dzWnlxb3NUNkFvN3ctLU1pUVVRb2FxOWozdEhkRlZyYU9SWFBMWUZNSmhiUDdRY2JiZFNwV0xMQkFmZExtXzBhTUVRS2FoZTNZaTdCYkplMjZLZUprN1NOU2FFc1otTFJwUjVURDlPQ3dJOG9lQdIBtgFBVV95cUxNSC1CQTVkRlZjNGlGQmNxeVV5UUZUU19zZm5yUDl3bnhQOGZvQlZ1QnhReU5Lc0xlVnZ0S1R1cWhOM2ljUGRLMnBYR0w1cnV2emRYR2piTU1FbEktZ1BLcnRWczlIRHZrUml5bXJrZGhCNWhIRU85T2ZBTFRPZHVRRnI3ZU9wVVJWSjNtV2w3TzFTeVAyVkR4WU1VaGlhRzVCTlgxSGZGZTY1MU00XzVBWER2MWc3QQ?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：综合
 > **rank**：#3
-> **reason**：rank #3; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
+> **reason**：rank #3; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：USINDOPACOM Chief Adm. Samuel Paparo Makes Case for 2027 Budget, Cites Chinese Military Woes ExecutiveGov
+> **summary**：How ‘lying flat’ went from a niche subculture to mainstream phenomenon South China Morning Post
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -704,23 +704,6 @@ tags:
 > - [ ] 忽略
 
 ## 财经科技观察
-
-> [!info]+ **今日必须看 / 100** | UnitedHealth’s $3 billion AI push has bots calling doctors - The Spokesman-Review
-> **标题**：UnitedHealth’s $3 billion AI push has bots calling doctors - The Spokesman-Review
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMingFBVV95cUxPbVI1WGVodnRUY3pKVU04TTJudjhLRk41Q01BT0J4Vm9oakZDR2dFQkxzTjFTRU04dmpZNnpoT1ZlaDhVUk51QjZmRVhhN0lZY00tX2hFcngtMWRLaFd4aXBDWUlQQnZLVi1GOHNnMk1IbVlsUU1feFdVZnkySWxteHRuSHFYMDYySXoydUkxb29fbFJ3Mi1lMGhXcW13QQ?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; cross-source x2; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：UnitedHealth’s $3 billion AI push has bots calling doctors The Spokesman-Review
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 
 > [!info]+ **今日必须看 / 98** | Kevin Warsh takes over the Fed : What his reform - oriented vision means for the US economy ?
 > **标题**：Kevin Warsh takes over the Fed : What his reform - oriented vision means for the US economy ?
@@ -739,17 +722,17 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 97** | Norway imposes near ban on AI in elementary school - Reuters
-> **标题**：Norway imposes near ban on AI in elementary school - Reuters
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkxUbENacTJvOWN5TXpEeWZGbmppRFVUVmthNUJHTlBlb09mdVdYeU10bzhFLXBIcl92VlpHU1UzQmV6WlhtS1V5ZHE1blNaODdQaWF1WU84Zm1aNHhuMkpEVHhEZVZSY0RMQjFJWTg5QmROeEtCUmtxTDNKSExGMUxDZkR6azVRc1RpQmliSzVuclBmT2c?oc=5)
+> [!info]+ **今日必须看 / 98** | UnitedHealth’s $3 billion AI push has bots calling doctors - The Spokesman-Review
+> **标题**：UnitedHealth’s $3 billion AI push has bots calling doctors - The Spokesman-Review
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMingFBVV95cUxPbVI1WGVodnRUY3pKVU04TTJudjhLRk41Q01BT0J4Vm9oakZDR2dFQkxzTjFTRU04dmpZNnpoT1ZlaDhVUk51QjZmRVhhN0lZY00tX2hFcngtMWRLaFd4aXBDWUlQQnZLVi1GOHNnMk1IbVlsUU1feFdVZnkySWxteHRuSHFYMDYySXoydUkxb29fbFJ3Mi1lMGhXcW13QQ?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **rank**：#2
+> **reason**：rank #2; cross-source x2; source weight: Google News; hot terms: ai, us, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Norway imposes near ban on AI in elementary school Reuters
+> **summary**：UnitedHealth’s $3 billion AI push has bots calling doctors The Spokesman-Review
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -807,6 +790,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 93** | Manufactured profundity: AI has come to the mountains, but not like you think - Adirondack Explorer
+> **标题**：Manufactured profundity: AI has come to the mountains, but not like you think - Adirondack Explorer
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivwFBVV95cUxON1dMclZQY1ppZUhGX25NOFFlX0pSckk3bFhqUkVRY0FJNlgtMjRWdTd4UU1BbUZlM3BOZkJGVTJUYU1HUmpMQXJKNC1rLW9aa0RTa19KbEppVlpReUw2bmxYR3ZFUDNOOUtWdzFrMDdsUmVGOHhRVXVRV1N5ZTRTSHA2cW1haUl6eWoyeE9UX2ktTmZDRGxiTmEyUVBYbFdwTWxuSHdOamdkdE9ZelU0c2gtRlczSXVuakJIX2tDWQ?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Manufactured profundity: AI has come to the mountains, but not like you think Adirondack Explorer
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 92** | رجل ترامب في أصعب توقيت اقتصادي ، من هو كيفن وارش رئيس الفيدرالي الجديد ؟
 > **标题**：رجل ترامب في أصعب توقيت اقتصادي ، من هو كيفن وارش رئيس الفيدرالي الجديد ؟
 > **原文链接**：🔗 [打开原文](https://www.vetogate.com/5660429)
@@ -824,17 +824,17 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 91** | Is AI the energy technology the world has been waiting for? - The World Economic Forum
-> **标题**：Is AI the energy technology the world has been waiting for? - The World Economic Forum
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxOOHhYOFpod2ZjeUVTRUJNczF6bmZzcEN4T1Y2ZVdIWk5YN0FJUTJZb24tUDJkTEZ6VkhPcmxYLVJQQk1uR0t5V0JhaENMZ1FYV2xoYkZtcHE3c0xoVkE0MkhTUGRpM0JsSVY2QkxfWnBMbzFYSE5XU0lFdzRCWmItaUFoNVJZUQ?oc=5)
+> [!info]+ **今日必须看 / 91** | 2 Brilliant Industrial Stocks to Buy for the AI Spending Boom - Yahoo Finance
+> **标题**：2 Brilliant Industrial Stocks to Buy for the AI Spending Boom - Yahoo Finance
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMingFBVV95cUxPNGExN25LQkhKWkRwT3ZlRVNiYkVLU1VzaFUzQWtMS04zN0FzVC1ET19Kd3RfWUFTbGtqdTF2S19xX0lvaEdQNkI5SVdIU1JCamdVZGlBeEN6dXBhWDBuSzRSOVhzcDNMLWVZWUx3RkVzbkFXMGJpT0xSenBIYkNWejNCQ2JQeXM1enVWSi1PTmZDV0lzMWxZWWlnb1VkZw?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
-> **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Is AI the energy technology the world has been waiting for? The World Economic Forum
+> **summary**：2 Brilliant Industrial Stocks to Buy for the AI Spending Boom Yahoo Finance
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -858,17 +858,17 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 89** | US asks Anthropic to block global access to top AI models: Why it matters - Al Jazeera
-> **标题**：US asks Anthropic to block global access to top AI models: Why it matters - Al Jazeera
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiswFBVV95cUxOS0JVZ1VmVE9Tam15QlVrVURFYkFKaDRCenItc1JZWGlaakl3ZmhIUVFfbE4yMUhaQmdIUDlHVnJxT1FONWdBWW1ZREFPcHJBQVhIUFdYd28tNEVzSS1FdVZBcGNLdG01bDB3T2p2dnpBSDY1UUV5N3N5dEx3ejZJZk9zNzZxRlhPdnJHYmRPeDlrQzNVMGxSYkg4YUoxQ21lbURBY0ZpczRpSkU3SktvbUxpQdIBuAFBVV95cUxONGMzSmFWQzJhLWV5ckJsX2dXQ2FuVk5rMjQ5dGZjblRVSzNuUU9lRjRMOHRzdGRUQ2RPbGJBMTFmczM3eEZHYVA1bG1vUFVjWkYzQUpMRXN5dmVjV0t3YTJlRlBmbDhmSkZlTXJsSXM4V0pHeDc0cmpBS1ROQkxxcDkzcmFjVjVaOVZwNGhOU3FwNENFZ0g3RzFmaC1maXNjTEQ3TGlZaWhXeU5iWTN4Q1ctRVd6eVNt?oc=5)
+> [!info]+ **今日必须看 / 89** | Norway imposes near ban on AI in elementary school - Reuters
+> **标题**：Norway imposes near ban on AI in elementary school - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkxUbENacTJvOWN5TXpEeWZGbmppRFVUVmthNUJHTlBlb09mdVdYeU10bzhFLXBIcl92VlpHU1UzQmV6WlhtS1V5ZHE1blNaODdQaWF1WU84Zm1aNHhuMkpEVHhEZVZSY0RMQjFJWTg5QmROeEtCUmtxTDNKSExGMUxDZkR6azVRc1RpQmliSzVuclBmT2c?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
-> **rank**：#3
-> **reason**：rank #3; source weight: Google News; hot terms: ai, us, ai, markets
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：US asks Anthropic to block global access to top AI models: Why it matters Al Jazeera
+> **summary**：Norway imposes near ban on AI in elementary school Reuters
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
