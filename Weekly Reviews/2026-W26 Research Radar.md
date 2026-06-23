@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W26
-date: 2026-06-22
+date: 2026-06-23
 tags:
   - weekly-review
   - research-radar
@@ -23,19 +23,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | ggyounoobf/agent-hub
-> **标题**：ggyounoobf/agent-hub
-> **原文链接**：🔗 [打开原文](https://github.com/ggyounoobf/agent-hub)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp, api
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：🛠️ Build and manage AI agents easily with Agent Hub, a versatile platform integrating TypeScript, Python, Angular, and FastAPI for seamless development.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | shotkillschwul/agentic-cycle-tools
 > **标题**：shotkillschwul/agentic-cycle-tools
 > **原文链接**：🔗 [打开原文](https://github.com/shotkillschwul/agentic-cycle-tools)
@@ -49,32 +36,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | BrianV1981/aim
-> **标题**：BrianV1981/aim
-> **原文链接**：🔗 [打开原文](https://github.com/BrianV1981/aim)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：A.I.M. – Actual Intelligent Memory: zero-token exoskeleton for long-running Gemini CLI/Chat GPT Codex/Claude Code agents. External SQLite memory, GitOps guardrails, DataJack cartridges. Alpha, trenches-first.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | unitedideas/nothumansearch
-> **标题**：unitedideas/nothumansearch
-> **原文链接**：🔗 [打开原文](https://github.com/unitedideas/nothumansearch)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp, api
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Search engine for AI agents — ranks sites by agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin). MCP server, REST API, full-text search. 8,000+ indexed sites.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | velvetmonkey/flywheel-memory
 > **标题**：velvetmonkey/flywheel-memory
 > **原文链接**：🔗 [打开原文](https://github.com/velvetmonkey/flywheel-memory)
@@ -83,19 +44,6 @@ tags:
 > **reason**：matches topics: agent, agents, obsidian, mcp; high-value terms: agent, agents, mcp, eval
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Compounding knowledge-graph memory for AI agents over open markdown. Hybrid search, self-correcting wikilinks, decision-surface retrieval. MCP server.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | preset-io/agor
-> **标题**：preset-io/agor
-> **原文链接**：🔗 [打开原文](https://github.com/preset-io/agor)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, claude code, codex, mcp; high-value terms: agent, mcp, codex, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Orchestrate Claude Code, Codex, and Gemini sessions on a multiplayer canvas. Manage git worktrees, track AI conversations, and visualize your team's agentic work in real-time.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -140,22 +88,61 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-
-## 值得试用的工具 / 模型
-
-> [!info]+ **今日必须看 / 89** | ggyounoobf/agent-hub
-> **标题**：ggyounoobf/agent-hub
-> **原文链接**：🔗 [打开原文](https://github.com/ggyounoobf/agent-hub)
+> [!info]+ **今日必须看 / 85** | hamidoubodian21-netizen/ai-engineering-production
+> **标题**：hamidoubodian21-netizen/ai-engineering-production
+> **原文链接**：🔗 [打开原文](https://github.com/hamidoubodian21-netizen/ai-engineering-production)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp, api
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：🛠️ Build and manage AI agents easily with Agent Hub, a versatile platform integrating TypeScript, Python, Angular, and FastAPI for seamless development.
+> **summary**：AI Engineering Roadmap 2026 🚀 | Build & Deploy AI Apps from Scratch
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | xbtlin/ai-berkshire
+> **标题**：xbtlin/ai-berkshire
+> **原文链接**：🔗 [打开原文](https://github.com/xbtlin/ai-berkshire)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, claude code, llm, mcp; high-value terms: agent, mcp, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | bunhine0452/Ocul-PM
+> **标题**：bunhine0452/Ocul-PM
+> **原文链接**：🔗 [打开原文](https://github.com/bunhine0452/Ocul-PM)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, llm; high-value terms: agent, agents, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Local-first AI project manager (AI PM) for AI coding agents — auto-journals, verifies & organizes what Claude Code · Cursor · Gemini CLI do. 코딩 에이전트용 로컬-우선 AI PM · 작업 자동 기록·검증·정리.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | Claude Code v2.1.181 发布
+> **标题**：Claude Code v2.1.181 发布
+> **原文链接**：🔗 [打开原文](https://github.com/anthropics/claude-code/releases/tag/v2.1.181)
+> **source**：AI HOT / Claude Code：GitHub Releases（RSS）
+> **kind**：`product`
+> **reason**：matches topics: agent, claude code; high-value terms: agent, claude code, api
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Claude Code v2.1.181 发布，新增 `/config key=value` 语法允许在提示中直接设置任意配置项，新增 `sandbox.allowAppleEvents` 选项使沙盒命令支持 Apple Events，新增 `CLAUDE_CLIENT_PRESENCE_FILE` 环境变量用于抑制移动端推送通知。内置 Bun 运行时升级至 1.4，改进了长段落流式输出（逐行显示）和 API 连接中断后自动重试。子 agent 面板优化：空闲 agent 30 秒自动隐藏、列表最多 5 行。修复了提示缓存读取、Write/Edit 在网络驱动器产生 0 字节文件、启动性能回归（约 120ms）、启动阻塞（最长 15 秒）、macOS TUI 冻结、子 agent 时长显示错误、API 重试指示器残留、AWS 凭证刷新等问题。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+## 值得试用的工具 / 模型
+
 > [!info]+ **今日必须看 / 89** | shotkillschwul/agentic-cycle-tools
 > **标题**：shotkillschwul/agentic-cycle-tools
 > **原文链接**：🔗 [打开原文](https://github.com/shotkillschwul/agentic-cycle-tools)
@@ -169,14 +156,27 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | BrianV1981/aim
-> **标题**：BrianV1981/aim
-> **原文链接**：🔗 [打开原文](https://github.com/BrianV1981/aim)
+> [!info]+ **今日必须看 / 89** | velvetmonkey/flywheel-memory
+> **标题**：velvetmonkey/flywheel-memory
+> **原文链接**：🔗 [打开原文](https://github.com/velvetmonkey/flywheel-memory)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
+> **reason**：matches topics: agent, agents, obsidian, mcp; high-value terms: agent, agents, mcp, eval
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：A.I.M. – Actual Intelligent Memory: zero-token exoskeleton for long-running Gemini CLI/Chat GPT Codex/Claude Code agents. External SQLite memory, GitOps guardrails, DataJack cartridges. Alpha, trenches-first.
+> **summary**：Compounding knowledge-graph memory for AI agents over open markdown. Hybrid search, self-correcting wikilinks, decision-surface retrieval. MCP server.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | HIDORAKAI002/ai-workspace-archive
+> **标题**：HIDORAKAI002/ai-workspace-archive
+> **原文链接**：🔗 [打开原文](https://github.com/HIDORAKAI002/ai-workspace-archive)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：A massive, self-updating local archive of AI tools — 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cline), and 30+ system prompt collections. One repo to rule them all.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -206,19 +206,6 @@ tags:
 > **reason**：matches topics: agent, llm, research, benchmark; high-value terms: benchmark, agent, eval, reasoning
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
 > **summary**：arXiv:2606.17459v1 Announce Type: new Abstract: Evaluating the decision-making capabilities of large language models (LLMs) is a growing research priority, yet existing benchmarks focus on isolated cognitive tasks such as reasoning, knowledge retrieval, and economic rationality in stylized settings...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 81** | Dialogue SWE-Bench: A Benchmark for Dialogue-Driven Coding Agents
-> **标题**：Dialogue SWE-Bench: A Benchmark for Dialogue-Driven Coding Agents
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2606.13995)
-> **source**：cs.CL updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, benchmark; high-value terms: benchmark, agent, agents, api
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2606.13995v1 Announce Type: new Abstract: AI coding agents have rapidly transformed software engineering, powering widely used interactive coding assistants. Despite their interactive real-world use, existing benchmarks evaluate them as fully-autonomous systems. In this work, we introduce Dia...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -263,19 +250,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 77** | Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher
-> **标题**：Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2606.13710)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, research; high-value terms: agent, agents, eval
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2606.13710v1 Announce Type: new Abstract: Deep research and agent evolution serve as de-facto tasks for AI agents in real-world applications toward artificial general intelligence. The former enables autonomous retrieval and integration of information in open-ended environments to tackle open...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 77** | MemTrace: Probing What Final Accuracy Misses in Long-Term Memory
 > **标题**：MemTrace: Probing What Final Accuracy Misses in Long-Term Memory
 > **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2606.17328)
@@ -289,22 +263,35 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-
-## 反复出现的信号
-
-> [!info]+ **今日必须看 / 89** | ggyounoobf/agent-hub
-> **标题**：ggyounoobf/agent-hub
-> **原文链接**：🔗 [打开原文](https://github.com/ggyounoobf/agent-hub)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp, api
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：🛠️ Build and manage AI agents easily with Agent Hub, a versatile platform integrating TypeScript, Python, Angular, and FastAPI for seamless development.
+> [!info]+ **今日必须看 / 77** | SEAGym: An Evaluation Environment for Self-Evolving LLM Agents
+> **标题**：SEAGym: An Evaluation Environment for Self-Evolving LLM Agents
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2606.17546)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2606.17546v1 Announce Type: new Abstract: Self-evolving LLM-based agents improve mainly by changing their agent harness: the structured execution layer around a base model, including prompts, memory, tools, middleware, runtime state, and the model-tool interaction loop. Existing evaluations o...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 77** | MapSatisfyBench: Benchmarking Satisfaction-Aware Map Agents through Behavior-Grounded Implicit Decision Factors
+> **标题**：MapSatisfyBench: Benchmarking Satisfaction-Aware Map Agents through Behavior-Grounded Implicit Decision Factors
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2606.17453)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, benchmark; high-value terms: benchmark, agent, agents
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2606.17453v1 Announce Type: new Abstract: Large language model agents are increasingly integrated into map services. Since map services are embedded in everyday-life scenarios rather than professional task settings, users often express their needs informally, resulting in underspecified queri...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+## 反复出现的信号
+
 > [!info]+ **今日必须看 / 89** | shotkillschwul/agentic-cycle-tools
 > **标题**：shotkillschwul/agentic-cycle-tools
 > **原文链接**：🔗 [打开原文](https://github.com/shotkillschwul/agentic-cycle-tools)
@@ -313,32 +300,6 @@ tags:
 > **reason**：matches topics: agent, agents, codex, mcp; high-value terms: agent, agents, mcp, codex
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：🚀 Vibe Kanban 2026 Pro – AI Agent Workflow Optimizer for Claude & Codex
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | BrianV1981/aim
-> **标题**：BrianV1981/aim
-> **原文链接**：🔗 [打开原文](https://github.com/BrianV1981/aim)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：A.I.M. – Actual Intelligent Memory: zero-token exoskeleton for long-running Gemini CLI/Chat GPT Codex/Claude Code agents. External SQLite memory, GitOps guardrails, DataJack cartridges. Alpha, trenches-first.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | unitedideas/nothumansearch
-> **标题**：unitedideas/nothumansearch
-> **原文链接**：🔗 [打开原文](https://github.com/unitedideas/nothumansearch)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp, api
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Search engine for AI agents — ranks sites by agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin). MCP server, REST API, full-text search. 8,000+ indexed sites.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -417,6 +378,45 @@ tags:
 > **reason**：matches topics: agent, agents, mcp; high-value terms: release, agent, agents, mcp
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Off-chain credit ledger + hire marketplace for AI agents. Ed25519-signed envelopes, atomic settlement, hire-and-release escrow. https://voidly.ai/pay
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 81** | Show HN: Persona.js – a vanilla-JS agent UI library with native WebMCP (MIT)
+> **标题**：Show HN: Persona.js – a vanilla-JS agent UI library with native WebMCP (MIT)
+> **原文链接**：🔗 [打开原文](https://www.persona-chat.dev/)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：12 points | 16 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 79** | holamexico/End-To-End-Agentic-AI-FastAPI-Docker-Project
+> **标题**：holamexico/End-To-End-Agentic-AI-FastAPI-Docker-Project
+> **原文链接**：🔗 [打开原文](https://github.com/holamexico/End-To-End-Agentic-AI-FastAPI-Docker-Project)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, api
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Discover the End-To-End-Agentic-AI-FastAPI-Docker-Project on GitHub – a powerful, open-source framework for building agentic AI workflows with FastAPI and Docker. Clone, customize, and deploy scalable AI solutions effortlessly!
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 79** | keepwhatworks/trinity
+> **标题**：keepwhatworks/trinity
+> **原文链接**：🔗 [打开原文](https://github.com/keepwhatworks/trinity)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: codex, llm, mcp; high-value terms: mcp, codex, api
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Ask all three. Keep what works. A local-first cross-provider council layer for Claude, Codex, and Gemini — one prompt, all three answer, a chairman synthesizes the verdict. No new app, no API key; your transcripts never leave your machine.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
