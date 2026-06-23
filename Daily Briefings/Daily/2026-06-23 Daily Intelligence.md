@@ -13,31 +13,29 @@ generated_by: WorkBuddy Daily Intelligence Automation
 
 ## 今日概览
 
-- GitHub 今日优先扫：calesthio/OpenMontage, palmier-io/palmier-pro, jamiepine/voicebox
+- GitHub 今日优先扫：calesthio/OpenMontage, ZhuLinsen/daily_stock_analysis, mukul975/Anthropic-Cybersecurity-Skills
 - AI 动态优先读：暂无 AI 动态
-- 时政新闻优先核验：Here are New York's 2026 primary election results - NPR, A new wave of election cases - SCOTUSblog, Trump-endorsed de la Espriella holds a slim lead in Colombia's election as his rival challenges vote - PBS
+- 时政新闻优先核验：ACLU to monitor election certification as part of $50 million midterm effort - NBC News, Why is Israel being accused of meddling in Colombia presidential election? - Al Jazeera, Britain left the EU 10 years ago. Its politics has been an unruly mess - NPR
 
 ## GitHub Trending
 
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) (all)
-- [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) (all)
-- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) (all)
+- [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) (all)
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) (all)
-- [penpot/penpot](https://github.com/penpot/penpot) (all)
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) (all)
 - [garrytan/gstack](https://github.com/garrytan/gstack) (all)
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) (all)
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) (python)
-- [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) (python)
-- [NVIDIA/skills](https://github.com/NVIDIA/skills) (python)
-- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) (python)
-- [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) (python)
-- [kernalix7/winpodx](https://github.com/kernalix7/winpodx) (python)
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) (typescript)
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) (all)
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) (all)
+- [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) (all)
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) (all)
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) (python)
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) (python)
+- [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) (python)
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) (typescript)
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) (typescript)
-- [corsairdev/corsair](https://github.com/corsairdev/corsair) (typescript)
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) (typescript)
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) (typescript)
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) (typescript)
+- [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) (typescript)
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) (typescript)
 
 ## AI 动态
 
@@ -45,18 +43,18 @@ generated_by: WorkBuddy Daily Intelligence Automation
 
 ## 时政新闻
 
-- [Here are New York's 2026 primary election results - NPR](https://news.google.com/rss/articles/CBMigAFBVV95cUxOWEZFVmhRWTcyRWFFdFlvT0Q0RFFYY3RFb1c3cUNHYzdHSFY4cUdIS2ZEakdoZjh0YkNLVUt5NzQzc210VHJGbzVxWDFLeFVzY3JTcFBxeTA5Y3QyMXVPbHNienhoUnJ3bnJyQlRRTlI4SFo0V0NWYV9YRDZWNTRueQ?oc=5)：Here are New York's 2026 primary election results NPR
+- [ACLU to monitor election certification as part of $50 million midterm effort - NBC News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWXV3WHh3djZYaTRLdFNxLVpseDhtODNFTjZLdW5yak55Z3Nvb3lvVDlZby1COFJzc0pDT05rbG1POVd4R3g5NFJnMGNmaExkOVFCTnEyd1pzbEg3LUE4aW1tYjkwdTVmR2U5Ylh2bmh3RTFvUXZya002dEVnb25IRzhCejNLb1RUVndMREN6VUZmZjZGc0VVblZuVldYTXlzSzgzUFhpY2tQNVlxN0pHejUtUjhjS3g2aG42UHpBU01uUQ?oc=5)：ACLU to monitor election certification as part of $50 million midterm effort NBC News
+- [Why is Israel being accused of meddling in Colombia presidential election? - Al Jazeera](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNm1RSkFCU0xleXVSaU5RdEpjU2ZUeFJaN0wxN05ma2hGWG00M2JfTVFmM1VaMWM3REFEZW96dEVIVWNoc0JrTTF5TTc2dC1oV0UtZ0JoZ2Zrbnl0V1hqLS10WXd1UkQ5ZVhvVUhXdy1aRk9Xc2pMWFRhbXFiRlhnOU4yUHZ2dHNWUHlNX2QzNlZJdndxMndkY1JsTGluOU44S2k2Z3VsSVJ0cDJaNHI3R0dHN0_SAboBQVVfeXFMUG5NV0ZOakhmaUgwN05KZGU0R2dmaEI3X20yeXhYWFpFbVFIUV9oaWJYQ2lIalFTUEkxSHhhUks5ZFAzem9RLV9Uam9KYVRVVWJ6THBUU2NfWG83aTVpcmhkbTdBMHRmb2dRQUFsMklxV1JiN0p5dlM4UUpEeUVrYnF0TXNoZ3RmS0FmcW4yZ2E5WHVaZTRnZnVMTmVqOTFFZ2tIMTV3aGlWN0Y5ZFRjd1p3bmlmNkNnbWJ3?oc=5)：Why is Israel being accused of meddling in Colombia presidential election?
+- [Britain left the EU 10 years ago. Its politics has been an unruly mess - NPR](https://news.google.com/rss/articles/CBMidEFVX3lxTE5uS2h5ejFETXl3MF94ZUFoZlFPanA5VlJpRmlDQXNzZmtEZXllMndtb3VpRm0tUEdDbTV4ejFieU5NV1oxaVJrWlFSckE1VEdzVlJFcUd6dnhhREhoX21IaUhnSS1xZnpRVjVRVmtwSF8wOWst?oc=5)：Britain left the EU 10 years ago.
+- [Andy Burnham prepares for a UK Labour leadership contest that may be a coronation - PBS](https://news.google.com/rss/articles/CBMitwFBVV95cUxQMnFranJsT1MxbUhySURpNXZ1M3dUaHROS1Zma19wQXFNbTV4NGhJa1NJelNST1FRanczeUVXTXpVek1jUTVJN1ktQVBnZEMxdHZPZzM0NzFwN3UwR0d1S0JfUm9KUXRSVklLZGRocU01aWRpc0tCVlhNOE1XNHNnSEdHRFB4NGdVZXhIcGtSc0dlSFNWMFU2MUd6S2RGZXIxS0IxMTY4S0RLVWIxejFJYnAwVVlPcXfSAbwBQVVfeXFMUDk0YlZaWGpXT0dnemVqTVRRQVVvdXhfNnBNR3N0dUhkRmFzWHI4YTJsZlhkYjdPWXNvUnpLM1Q5aE1ieE1oMEdKM1NUbTR6bTlJcVM3OXkyMDVDdEc3Q1pSdzUxdXVFSXFacVZXUHdKMVpZNDFoSXVBUWh5QWZyTGhZWlF0alJVMDdhQms3SFZZaDlXbjFQWWtSajQ1UXI0eXYxdGZwVDF2eHd4bS1vZHVGUi1nMHlibHlGT24?oc=5)：Andy Burnham prepares for a UK Labour leadership contest that may be a coronation PBS
+- [Meloni Is Considering Calling Italian Election as Soon as April - Bloomberg.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxPR3FobGlBNVRhWkNmQUd1ai1PTXpSVmNJTFpHMEVaWXR6SUUtZUhXaWhPdkZvMHk3T2ltRzk5UzIxZl9qR09aS2lJV2I4OWtQcUFaTzJnZDkxekhPazBmbm5DMThnZHIxajNQczk3aVVLS1RfaE1TY1VRYm1iZVc3bGhsNEwwbEZ0M3hPQlJuZDFuSzZLdE1XTk9VbnFKLVBnX0dnWlE2WnRpb2laaVBVbmNFaVE?oc=5)：Meloni Is Considering Calling Italian Election as Soon as April Bloomberg.com
+- [Maryland Voter Guide: 2026 primary election - WUSA9](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb1F6MFViZlJ2LXZoRGVrU3VZVHo3dXc0Rjh4RTN2eXNVQXFTR3c4VzFRMXVtbS1RQ1JWanlIOXEtRzU3Tjhkb296eGZrQVN3c3BwRU43YWZDbS10OVNhbGtueTdYdUxkalVnY3U1el84S2xkLWotOEtpMVhXNXd6am01cXAxc3RsbFY5WWlZd3A0d1ZjT3EtZGFEdnQtME1walBualJtU2dhVGVHempua0xsTzkxRjd2dXNVWDNtdFdIbVI1aG5lbEo1dUttcnNfWlE?oc=5)：Maryland Voter Guide: 2026 primary election WUSA9
 - [A new wave of election cases - SCOTUSblog](https://news.google.com/rss/articles/CBMickFVX3lxTE5ENFMzaWhBVGl4aXFGMU13OGZVNWdpb3hXTFJiOGVUQWFRX2QyTC0tZTVoZndwVllqeHU4amhDTkFGTGJhWUVjbkNFMG1pR0lQVW9vRDdHMHRaakwteFZ3SzAtSzdrQVVQM1NjSXc1akpVdw?oc=5)：A new wave of election cases SCOTUSblog
-- [Trump-endorsed de la Espriella holds a slim lead in Colombia's election as his rival challenges vote - PBS](https://news.google.com/rss/articles/CBMizwFBVV95cUxPc21zTW5JRDlTRFg0UXk3eTJaNmdiMkc1N1FtbHlTc1NTM1A5V3dXSmV1ZGdOSXdFQ1JVd0h3T2RQSmlPUGZnMWZZWS1KbjlRTDEzcnZvSnRpb21VNnJlWkprOVlsejJuMWxzcDBlTktGbUlYbVhtUnZvTUd4ekp6dVdobWRieXhJODhsWjk0bnlpVzRkcHFqM1BDbTRxS2ZmdUlfTkNpQVhTaU5OYk9rT3NNam54b19MaXgxemc2eHBRVWFSY29tTzhTMFhXSFXSAdQBQVVfeXFMUHFKLU0za005dkVHbGxJTW5MT3pUVnRUNmI3UHV3TE42RFd5cno1WmRnb0FjX2Q3RE9GYTd6Y0p0MDhNemsxR2hmYTJ2ZGdvWnNiVVpHTHNXSjFBelRLdHl0dVV5T2RWcS1WNzVRUTVjT291YzdJek1RTmVkdlZ2aGZLdHhyYmY4b0d4UzlmVzhQejg1eGE5NmJjaGtFUU5uWlB0UjM4bFc5LTgxblZGNlFLV1lfejN2SnpFc2pwMEZqU3AtM1JtbllkSldmZjR6VmVTck4?oc=5)：Trump-endorsed de la Espriella holds a slim lead in Colombia's election as his rival challenges vote PBS
-- [REACTION: De La Espriella Wins Colombia’s Election by Narrow Margin - Americas Quarterly](https://news.google.com/rss/articles/CBMipwFBVV95cUxNVEhwNWJDSzFIWVFiMWJETkF4MTZRZ1NBNHpSamk1Ti1aN2QyT2Z2SmNsNU9TaG1TdnJCQmhGMGt5Q0JVa3J3QWpRMkJBNWZMVHBQc1MtbndhRFV5THRlTFdqdGMwUVB3TUU4VVdFZ2VxLXZOSGJmWUpaUFNpQzRtejNVcms3TjI3SG4tWDlZdkc3bzdiUWNoTFkzUVMtdGVSWlJkTnhtVQ?oc=5)：REACTION: De La Espriella Wins Colombia’s Election by Narrow Margin Americas Quarterly
-- [The Torture Chamber of British Politics Crushes Its Latest Prime Minister - The New Yorker](https://news.google.com/rss/articles/CBMiswFBVV95cUxNalM5Q0F4d09hUGxTdG1iUkg1SXJud1lpN1FvYnVEVlJ2MVpVNkhHWHpLVDNqbzJKZHF6OHRHd29HNnhqOExVeTVMSHBkblN1YW9zQ1VudGMxbV9XRVF1c1FqVUM2b1g3WC1qVW9TNkFuQXU4SS1XSDEwWWtDMTRTbmw5a25oZlZNcDJsbGhHY1NDYlhhSENBeHU5VG4wSUtCTU13aWtBYlBKakZGZEZxTHRYTQ?oc=5)：The Torture Chamber of British Politics Crushes Its Latest Prime Minister The New Yorker
-- [There’s a disturbance in the force of South Dakota politics - South Dakota Searchlight](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN0lkalhSVWY2cnotWkpnbktCbWVPR291dGdubVNQT2Z6ZjN2SGV1NlZuNG5xbzlyR2l2bEdFMUVoaS1ZVFN3Mnp0RUhfc0FnMEtJdFB1eFoweHFLdVV5UjVZTHJxeDBWS1YwVlB2VWdYSUdRMnlEUFNzSDl5WUJYT3pWcXZYeVFxS21WUEJ0MnI4bVhSczZXWGZzSy10aFpsRy1Ea3hLVWM?oc=5)：There’s a disturbance in the force of South Dakota politics South Dakota Searchlight
+- [South Sudan sets December date for long-delayed first-ever election - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sRWJCZHl4OUlORnBNNGVRRHpPVkc4bWxrQXJ3UzhRTGhBOGtISFVHbWttdndKYzhidFdLd0lVZTVmdXF1bjc2dm1IYkpGdEgycmR5LTNnel9QZw?oc=5)：South Sudan sets December date for long-delayed first-ever election BBC
+- [Here's what to watch for on primary Election Day in Utah - KSL News](https://news.google.com/rss/articles/CBMilwFBVV95cUxQMjVSdHhIY25QbkNuUURQUExvWkJkc3BvM2U1LTk3U1VfSGdfUXM0alVGQjVlcFB3eTlmdjdqZUpYUWh4bEVDQUFWbEVYZExjZ1JVdGlrQVhJTDFVUUhOelFFYjVhLU9MWmhtNWotUjhtQ0VlUVcyNno2WFZNRVROREVhSTdjbUpwcGFUWHlZZElnbDJ5dTdZ?oc=5)：Here's what to watch for on primary Election Day in Utah KSL News
 - [Republican National Committee sues Nebraska over state election law - Nebraska Examiner](https://news.google.com/rss/articles/CBMirAFBVV95cUxONFl1MlU3eXRoSVEwdGNRZXZPRGdBSkZGcGNNVDN5M3ViZmZ3SXVVbmQyRTh1dUU2TngwejdWcDZnNVN0dnNvYXQ4eU9fRm53SkxXWWJLMWQ0OGhvVHN2SE8ySnQ3T0x5SUJRVno0TnVEZXNfMXhFM3gtZjRDRXdkRUkwNFU4VzJ5TzZGQ25Gcmxra2hYd29OVDJleG03SDRNVDZjMzh0bTl6eDVq?oc=5)：Republican National Committee sues Nebraska over state election law Nebraska Examiner
-- [Office of Hawaiian Affairs 2026 election: Here's what to know - Hawaii Public Radio](https://news.google.com/rss/articles/CBMitgFBVV95cUxNUmMtMEpZakpCQm5iVWNDSk13R1dkemlvcXRlWlZBbUtkMFJrSExVLVVLTy1POFkxYzc2b1JRWGx1c2xTa095MVlkSnNqVHdrZ2tVYUhhWDNvTklhREdIbmJrZHlsc2dlcDRJN2VhNFplYmpQTG11bUpWSEtBek1hb0FZQzdqX1ZoQUNmTHgxWWNKcVY0em16dTkwcDBZX3JheUo0RXJyM19rTF9zQ1FGY0x6cldSdw?oc=5)：Office of Hawaiian Affairs 2026 election: Here's what to know Hawaii Public Radio
-- [Britain left the EU 10 years ago. Its politics has been an unruly mess ever since - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMimAFBVV95cUxOdnoyd2pmMDlrUUdlLUsyQTJkcVdqT1Bha2JVZHQwdDBJZ0RnSl9zeUozOVBwR2tIVENIS0hIMllhWjNCYWNvQVhuTlNIbTUzN2ctcEhXWnVXRzdoODdSWDlTclNmMnNpWTAtUjFrRm5fZ3pBSEtvSHhpYmJSVGtuY2lINGNaNHMtS2RSbVBYSlBiR2pCcmduTtIBngFBVV95cUxNSTVOOGc5bE9EQllBc0lPQTIxa3hLVXJhREFobWRMdTVqSm9wdjJieVB4eXhwODdVb2RXVGZ3bGxsVk9NTEQwTFllanhYdENEQ3RRdE9ucHR4M0RyMk9hSnA3Wm1lLXhmVlpSRDI4X0h2Y2o1a0pkb09RUFlWQzMtSFRwU25vVllHM1RPYW9Cd1NiS29JV1RGNll4cm9Gdw?oc=5)：Britain left the EU 10 years ago.
-- [Here are New York's 2026 primary election results - VPM](https://news.google.com/rss/articles/CBMikgFBVV95cUxOUkJua0JHVXU1TVpaYW1ZcGNrVk9kR2lRS2xtX21RQ0lyUVFaaEFwX05sajYtNThBQ3BKdVdLdmx6b1dfekhvaUcwaE9Jc3VoN3FtUWtyN0pkN3l0RlljVGhMLUt0WHNqc2ZUT054MnF6R1BZLTB4SmtjSXNoM3ZYRng3cmFvQXhHaExiclFIYm1IZw?oc=5)：Here are New York's 2026 primary election results VPM
-- [Beth Reinhard Joins Politics - The New York Times Company](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mRXN6ZFBTOGRPRDRXbHU0cU9BV0tEQTNkSUhGbldTZk8wR2YxeTlWMHRlT19FdkJqVXFfNEJQVDlUTTJrSmhPVnlMaEFsUlB1R2JTLTVTQTBudUJKNHJVMDJPUWIyTF9T?oc=5)：Beth Reinhard Joins Politics The New York Times Company
-- [NY-7 candidates make final pitch to voters before Election Day - Spectrum News NY1](https://news.google.com/rss/articles/CBMijwFBVV95cUxNNWVUQ1RHMVBNdld4SmtpY0dFNEVtQ1lqR29XQ2tUcEFya3ZMTnRBbnhVY18xdGNTM3NKV3JvSFl4Z2tsdVBqV1A0QTN3UnA3RlhCZ1o4SXdvLWdhYnl6RkNQSjVtX0ZHVDduT3kxTk9FczdtcXdFNTFFVmdicTFUdUhMUG9yWTdkSGtVNGxoMA?oc=5)：NY-7 candidates make final pitch to voters before Election Day Spectrum News NY1
+- [Early voting starts Friday. What do voters need to know? - MPR News](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb3FoNFVpbTNwV3JfYkR1QTJqOWlvWF83V29ZMUEtRlNTVmdDd3hSSDZDNjRab1lOTmgzQUdLQUhudmVJMFBlQU4yd3RNcjVPdkFhQ2hjeVpzOWdBQ3lLNlh0UUVpN0d2NnRHb3ozUmk4Mlh0NGJmT1NzRWEwWS1zMnVBTEY5TVVqbWRLV0NHYnBVdmhFa0hZcGw2NkRZM1RPMnBRZEFyU2ljYTBpVU1qczNMOEM0TFNjM3pYbFdfaVlFVXc?oc=5)：Early voting starts Friday.
+- [Government Is a Leaky Bucket - Cato Institute](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMTDRQUTZGYkNhdzIybWp0eEgyc2F4U0JYMGV2MGduN2FpcmlNOFUtYWU2dzZRaTNpMzlkNHdxVGhmNkZ0RWFhQmZRM3h1c1VNU2JmeWhsWURwOFFBdVE?oc=5)：Government Is a Leaky Bucket Cato Institute
 
 ## 可行动事项
 
@@ -66,7 +64,7 @@ generated_by: WorkBuddy Daily Intelligence Automation
 
 ## 运行信息
 
-- 生成时间：2026-06-23T15:15:08.379505+08:00
-- GitHub 条目：19
+- 生成时间：2026-06-23T23:55:39.777710+08:00
+- GitHub 条目：17
 - AI 动态条目：0
 - 时政条目：12
