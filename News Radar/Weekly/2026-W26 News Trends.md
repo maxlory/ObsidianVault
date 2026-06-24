@@ -1,6 +1,6 @@
 ---
 title: News Radar Week 2026-W26
-date: 2026-06-23
+date: 2026-06-24
 tags:
   - news-radar
   - weekly-review
@@ -91,7 +91,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#1
-> **reason**：rank #1; cross-source x11; source weight: GDELT; hot terms: 美国, 军事, sanctions
+> **reason**：rank #1; cross-source x12; source weight: GDELT; hot terms: 美国, 军事, sanctions
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260426T114500Z
 >
@@ -108,7 +108,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#3
-> **reason**：rank #3; cross-source x10; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
+> **reason**：rank #3; cross-source x11; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260416T174500Z
 >
@@ -125,7 +125,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#4
-> **reason**：rank #4; cross-source x10; source weight: GDELT; hot terms: 美国, 军事, china, us
+> **reason**：rank #4; cross-source x11; source weight: GDELT; hot terms: 美国, 军事, china, us
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260514T130000Z
 >
@@ -145,6 +145,40 @@ tags:
 > **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, china, united states, us
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
 > **summary**：A Look at the Text of the Agreement Between the United States and Iran The New York Times
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | Supreme Court kills suit claiming Cisco’s technology helped China persecute Falun Gong members - WRAL
+> **标题**：Supreme Court kills suit claiming Cisco’s technology helped China persecute Falun Gong members - WRAL
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiygFBVV95cUxNVURyUUJqYXM2WkNxbXp5MnBYeUZuNkZfNEtoZ01feTdVbmxvOHNlOFNqaExZYUxJZnIxZjRqT21Rc3c1YVp0Umh1ZnR2STVNMk1MU1dHdnVWZ3pmeWdPTXZxLTByQnVocUl2dlhIajVseXh0ZUx4d0hnb3BhZG45cFp6dl80NE5vMDBSMVJ1U3lwM3MwUTdDVUhPd0lBVTBoNG8xV1VKckgtWG9vVkR3UWhzQ1FrV3hvem44OUhyb2JyUWY2ZzUxbjR3?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#4
+> **reason**：rank #4; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Supreme Court kills suit claiming Cisco’s technology helped China persecute Falun Gong members WRAL
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | Alibaba sues Pentagon over China military blacklist - South China Morning Post
+> **标题**：Alibaba sues Pentagon over China military blacklist - South China Morning Post
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMinAFBVV95cUxNYWx4TUNjbGZpLXRaSm9Fbl9USFdLa0RVZVR1Nl83YmlNQmpQekN3SzI3bjZiT2xidFgyaThLVXhZeGFfRHZ0WWdzaFlLTXROVlRmdE5PZHU4OWVOMU5ocWdnVHllTHZ5dXRqa1l1NC1aNVRYQklXSnVvS2lyNERzS3JVck5hczBOVFI3M0JrYzlnYkFMRWFKS1BmVE7SAZwBQVVfeXFMTW1xUENNRVVCT01Vc1pzWDBMVDA1OUZyLUZ6UUdKaTV2ckxwYld6WU9acWQybERlWkZFbzNMOGdoSmhMRzVOTVBnZzZkUUxldGd3VmhORGNiVE1ETmEwQjczVl8xNE1kQXMwZm15NTdtTVljbHlOMDZJaVFoQTk5YmtXcklJQ01Yb3diUkctT2xBZ1B4MVRxaG9sTjFp?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Alibaba sues Pentagon over China military blacklist South China Morning Post
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -176,9 +210,26 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#6
-> **reason**：rank #6; cross-source x10; source weight: GDELT; hot terms: 中国, 美国, 军事
+> **reason**：rank #6; cross-source x11; source weight: GDELT; hot terms: 中国, 美国, 军事
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260506T074500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 98** | Kevin Warsh takes over the Fed : What his reform - oriented vision means for the US economy ?
+> **标题**：Kevin Warsh takes over the Fed : What his reform - oriented vision means for the US economy ?
+> **原文链接**：🔗 [打开原文](https://www.livemint.com/news/us-news/kevin-warsh-takes-over-the-fed-what-his-reform-oriented-vision-means-for-the-us-economy-11779517662302.html)
+> **source**：GDELT / livemint.com
+> **kind**：`news`
+> **region**：国际
+> **category**：财经
+> **rank**：#4
+> **reason**：rank #4; cross-source x6; source weight: GDELT; hot terms: us, fed
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：20260523T100000Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -213,57 +264,6 @@ tags:
 > **reason**：rank #6; cross-source x3; source weight: Google News; hot terms: 美国, ai, china, us
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
 > **summary**：Ball game’s over—the US is out of the AI chip market in China Brookings
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 96** | États - Unis : feu vert pour les puces H200 vers la Chine , Nvidia en quête de percée
-> **标题**：États - Unis : feu vert pour les puces H200 vers la Chine , Nvidia en quête de percée
-> **原文链接**：🔗 [打开原文](https://www.tuniscope.com/article/431817/tech/high-tech/puces-nvidia-h200-2303888)
-> **source**：GDELT / tuniscope.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#3
-> **reason**：rank #3; cross-source x13; source weight: GDELT; hot terms: 美国
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260514T191500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 96** | 两大鹰派人物随行访华 特朗普的强硬信号 _ 军事频道 _ 中华网
-> **标题**：两大鹰派人物随行访华 特朗普的强硬信号 _ 军事频道 _ 中华网
-> **原文链接**：🔗 [打开原文](https://military.china.com/news/13004177/20260514/49493159.html)
-> **source**：GDELT / military.china.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#5
-> **reason**：rank #5; cross-source x10; source weight: GDELT; hot terms: 美国, 军事
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260514T033000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 94** | Japan’s Defense Chief Challenges China’s Military Spending Data - Bloomberg
-> **标题**：Japan’s Defense Chief Challenges China’s Military Spending Data - Bloomberg
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMitAFBVV95cUxOUU5zQ1hxRTNHUUlIYXJ5dFVDN2Q4UWVuY1dXSFB5Z1hxWVRhbzhEZElxS3ZTWW10R1Z6V29kQmFLaUpOVVJXMXF1ZGNoaWxXM0laT0VTQ2YybkxUWmo5bFBfMVIzMDdEV1JETmJfQUpSclZ1ekVwTl92Y2xjeFhtX3c1Y3lUMTZ6bkUwc3VRNmUzeXJKUU1CbGdDbzNhYTF1c0lLaGxYNkt1cS1IMzVYUUJDM20?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#4
-> **reason**：rank #4; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Japan’s Defense Chief Challenges China’s Military Spending Data Bloomberg
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -348,7 +348,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#1
-> **reason**：rank #1; cross-source x11; source weight: GDELT; hot terms: 美国, 军事, sanctions
+> **reason**：rank #1; cross-source x12; source weight: GDELT; hot terms: 美国, 军事, sanctions
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260426T114500Z
 >
@@ -365,7 +365,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#3
-> **reason**：rank #3; cross-source x10; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
+> **reason**：rank #3; cross-source x11; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260416T174500Z
 >
@@ -382,7 +382,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#4
-> **reason**：rank #4; cross-source x10; source weight: GDELT; hot terms: 美国, 军事, china, us
+> **reason**：rank #4; cross-source x11; source weight: GDELT; hot terms: 美国, 军事, china, us
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260514T130000Z
 >
@@ -402,6 +402,23 @@ tags:
 > **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, china, united states, us
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
 > **summary**：A Look at the Text of the Agreement Between the United States and Iran The New York Times
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | Supreme Court kills suit claiming Cisco’s technology helped China persecute Falun Gong members - WRAL
+> **标题**：Supreme Court kills suit claiming Cisco’s technology helped China persecute Falun Gong members - WRAL
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiygFBVV95cUxNVURyUUJqYXM2WkNxbXp5MnBYeUZuNkZfNEtoZ01feTdVbmxvOHNlOFNqaExZYUxJZnIxZjRqT21Rc3c1YVp0Umh1ZnR2STVNMk1MU1dHdnVWZ3pmeWdPTXZxLTByQnVocUl2dlhIajVseXh0ZUx4d0hnb3BhZG45cFp6dl80NE5vMDBSMVJ1U3lwM3MwUTdDVUhPd0lBVTBoNG8xV1VKckgtWG9vVkR3UWhzQ1FrV3hvem44OUhyb2JyUWY2ZzUxbjR3?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#4
+> **reason**：rank #4; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Supreme Court kills suit claiming Cisco’s technology helped China persecute Falun Gong members WRAL
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -433,9 +450,26 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#6
-> **reason**：rank #6; cross-source x10; source weight: GDELT; hot terms: 中国, 美国, 军事
+> **reason**：rank #6; cross-source x11; source weight: GDELT; hot terms: 中国, 美国, 军事
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260506T074500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 98** | Kevin Warsh takes over the Fed : What his reform - oriented vision means for the US economy ?
+> **标题**：Kevin Warsh takes over the Fed : What his reform - oriented vision means for the US economy ?
+> **原文链接**：🔗 [打开原文](https://www.livemint.com/news/us-news/kevin-warsh-takes-over-the-fed-what-his-reform-oriented-vision-means-for-the-us-economy-11779517662302.html)
+> **source**：GDELT / livemint.com
+> **kind**：`news`
+> **region**：国际
+> **category**：财经
+> **rank**：#4
+> **reason**：rank #4; cross-source x6; source weight: GDELT; hot terms: us, fed
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：20260523T100000Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -487,40 +521,6 @@ tags:
 > **reason**：rank #3; cross-source x13; source weight: GDELT; hot terms: 美国
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260514T191500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 96** | 两大鹰派人物随行访华 特朗普的强硬信号 _ 军事频道 _ 中华网
-> **标题**：两大鹰派人物随行访华 特朗普的强硬信号 _ 军事频道 _ 中华网
-> **原文链接**：🔗 [打开原文](https://military.china.com/news/13004177/20260514/49493159.html)
-> **source**：GDELT / military.china.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#5
-> **reason**：rank #5; cross-source x10; source weight: GDELT; hot terms: 美国, 军事
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260514T033000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 94** | Japan’s Defense Chief Challenges China’s Military Spending Data - Bloomberg
-> **标题**：Japan’s Defense Chief Challenges China’s Military Spending Data - Bloomberg
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMitAFBVV95cUxOUU5zQ1hxRTNHUUlIYXJ5dFVDN2Q4UWVuY1dXSFB5Z1hxWVRhbzhEZElxS3ZTWW10R1Z6V29kQmFLaUpOVVJXMXF1ZGNoaWxXM0laT0VTQ2YybkxUWmo5bFBfMVIzMDdEV1JETmJfQUpSclZ1ekVwTl92Y2xjeFhtX3c1Y3lUMTZ6bkUwc3VRNmUzeXJKUU1CbGdDbzNhYTF1c0lLaGxYNkt1cS1IMzVYUUJDM20?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#4
-> **reason**：rank #4; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Japan’s Defense Chief Challenges China’s Military Spending Data Bloomberg
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -609,7 +609,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#1
-> **reason**：rank #1; cross-source x11; source weight: GDELT; hot terms: 美国, 军事, sanctions
+> **reason**：rank #1; cross-source x12; source weight: GDELT; hot terms: 美国, 军事, sanctions
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260426T114500Z
 >
@@ -626,7 +626,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#3
-> **reason**：rank #3; cross-source x10; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
+> **reason**：rank #3; cross-source x11; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260416T174500Z
 >
@@ -643,7 +643,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#4
-> **reason**：rank #4; cross-source x10; source weight: GDELT; hot terms: 美国, 军事, china, us
+> **reason**：rank #4; cross-source x11; source weight: GDELT; hot terms: 美国, 军事, china, us
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260514T130000Z
 >
@@ -669,34 +669,34 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 98** | After AI chips , US lawmakers want to ban sale of key equipment to China ; Former White House AI czar David Sacks called it single most important export control
-> **标题**：After AI chips , US lawmakers want to ban sale of key equipment to China ; Former White House AI czar David Sacks called it single most important export control
-> **原文链接**：🔗 [打开原文](https://timesofindia.indiatimes.com/technology/tech-news/after-ai-chips-us-lawmakers-want-to-ban-sale-of-key-equipment-to-china-former-white-house-ai-czar-david-sacks-called-it-single-most-important-export-control/articleshow/130003523.cms)
-> **source**：GDELT / timesofindia.indiatimes.com
+> [!info]+ **今日必须看 / 100** | Supreme Court kills suit claiming Cisco’s technology helped China persecute Falun Gong members - WRAL
+> **标题**：Supreme Court kills suit claiming Cisco’s technology helped China persecute Falun Gong members - WRAL
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiygFBVV95cUxNVURyUUJqYXM2WkNxbXp5MnBYeUZuNkZfNEtoZ01feTdVbmxvOHNlOFNqaExZYUxJZnIxZjRqT21Rc3c1YVp0Umh1ZnR2STVNMk1MU1dHdnVWZ3pmeWdPTXZxLTByQnVocUl2dlhIajVseXh0ZUx4d0hnb3BhZG45cFp6dl80NE5vMDBSMVJ1U3lwM3MwUTdDVUhPd0lBVTBoNG8xV1VKckgtWG9vVkR3UWhzQ1FrV3hvem44OUhyb2JyUWY2ZzUxbjR3?oc=5)
+> **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
-> **category**：科技
-> **rank**：#8
-> **reason**：rank #8; cross-source x13; source weight: GDELT; hot terms: 美国, ai, china, us
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260403T174500Z
+> **category**：综合
+> **rank**：#4
+> **reason**：rank #4; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Supreme Court kills suit claiming Cisco’s technology helped China persecute Falun Gong members WRAL
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 98** | 伊朗外长出访北京 ， 卢比奥吁中国促伊朗开放海峡
-> **标题**：伊朗外长出访北京 ， 卢比奥吁中国促伊朗开放海峡
-> **原文链接**：🔗 [打开原文](https://www.wenxuecity.com/news/2026/05/05/126640386.html)
-> **source**：GDELT / wenxuecity.com
+> [!info]+ **今日必须看 / 100** | Alibaba sues Pentagon over China military blacklist - South China Morning Post
+> **标题**：Alibaba sues Pentagon over China military blacklist - South China Morning Post
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMinAFBVV95cUxNYWx4TUNjbGZpLXRaSm9Fbl9USFdLa0RVZVR1Nl83YmlNQmpQekN3SzI3bjZiT2xidFgyaThLVXhZeGFfRHZ0WWdzaFlLTXROVlRmdE5PZHU4OWVOMU5ocWdnVHllTHZ5dXRqa1l1NC1aNVRYQklXSnVvS2lyNERzS3JVck5hczBOVFI3M0JrYzlnYkFMRWFKS1BmVE7SAZwBQVVfeXFMTW1xUENNRVVCT01Vc1pzWDBMVDA1OUZyLUZ6UUdKaTV2ckxwYld6WU9acWQybERlWkZFbzNMOGdoSmhMRzVOTVBnZzZkUUxldGd3VmhORGNiVE1ETmEwQjczVl8xNE1kQXMwZm15NTdtTVljbHlOMDZJaVFoQTk5YmtXcklJQ01Yb3diUkctT2xBZ1B4MVRxaG9sTjFp?oc=5)
+> **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#6
-> **reason**：rank #6; cross-source x10; source weight: GDELT; hot terms: 中国, 美国, 军事
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260506T074500Z
+> **category**：综合
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Alibaba sues Pentagon over China military blacklist South China Morning Post
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -790,6 +790,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 98** | Kevin Warsh takes over the Fed : What his reform - oriented vision means for the US economy ?
+> **标题**：Kevin Warsh takes over the Fed : What his reform - oriented vision means for the US economy ?
+> **原文链接**：🔗 [打开原文](https://www.livemint.com/news/us-news/kevin-warsh-takes-over-the-fed-what-his-reform-oriented-vision-means-for-the-us-economy-11779517662302.html)
+> **source**：GDELT / livemint.com
+> **kind**：`news`
+> **region**：国际
+> **category**：财经
+> **rank**：#4
+> **reason**：rank #4; cross-source x6; source weight: GDELT; hot terms: us, fed
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：20260523T100000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 98** | UnitedHealth’s $3 billion AI push has bots calling doctors - The Spokesman-Review
 > **标题**：UnitedHealth’s $3 billion AI push has bots calling doctors - The Spokesman-Review
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMingFBVV95cUxPbVI1WGVodnRUY3pKVU04TTJudjhLRk41Q01BT0J4Vm9oakZDR2dFQkxzTjFTRU04dmpZNnpoT1ZlaDhVUk51QjZmRVhhN0lZY00tX2hFcngtMWRLaFd4aXBDWUlQQnZLVi1GOHNnMk1IbVlsUU1feFdVZnkySWxteHRuSHFYMDYySXoydUkxb29fbFJ3Mi1lMGhXcW13QQ?oc=5)
@@ -801,6 +818,23 @@ tags:
 > **reason**：rank #2; cross-source x2; source weight: Google News; hot terms: ai, us, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：UnitedHealth’s $3 billion AI push has bots calling doctors The Spokesman-Review
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 97** | Is AI 'one big bubble'? Behind the tech sell-off - NPR
+> **标题**：Is AI 'one big bubble'? Behind the tech sell-off - NPR
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdWU0VkdBSm4xdno0NjBPZDNmZlJ3dS02MVc4akhFVlpEalFDNXJoMzRQWmxaNnowWUxzM0w2N1RRZUVUUHFMZGprejR6Z2ltUkdYOE1Na3lfcVRNLVJOQzQ4c1puRUNSS1lLVndFV0lhNnFLZTNJYzB0Z2Y0YUVIRWZYd2NDdFQy?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Is AI 'one big bubble'? Behind the tech sell-off NPR
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -824,51 +858,17 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 91** | 2 Brilliant Industrial Stocks to Buy for the AI Spending Boom - Yahoo Finance
-> **标题**：2 Brilliant Industrial Stocks to Buy for the AI Spending Boom - Yahoo Finance
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMingFBVV95cUxPNGExN25LQkhKWkRwT3ZlRVNiYkVLU1VzaFUzQWtMS04zN0FzVC1ET19Kd3RfWUFTbGtqdTF2S19xX0lvaEdQNkI5SVdIU1JCamdVZGlBeEN6dXBhWDBuSzRSOVhzcDNMLWVZWUx3RkVzbkFXMGJpT0xSenBIYkNWejNCQ2JQeXM1enVWSi1PTmZDV0lzMWxZWWlnb1VkZw?oc=5)
-> **source**：Google News / Global Markets Tech
+> [!info]+ **今日必须看 / 96** | رحيل باول وصعود وارش ، تحول جديد في السياسة النقدية الأمريكية
+> **标题**：رحيل باول وصعود وارش ، تحول جديد في السياسة النقدية الأمريكية
+> **原文链接**：🔗 [打开原文](https://www.vetogate.com/5660423)
+> **source**：GDELT / vetogate.com
 > **kind**：`news`
 > **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：2 Brilliant Industrial Stocks to Buy for the AI Spending Boom Yahoo Finance
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 90** | Китай получава по 500 млн . долара на час от износ , подкрепен от АІ
-> **标题**：Китай получава по 500 млн . долара на час от износ , подкрепен от АІ
-> **原文链接**：🔗 [打开原文](https://www.investor.bg/a/459-harduer/430462-kitay-poluchava-po-500-mln-dolara-na-chas-ot-iznos-podkrepen-ot-a)
-> **source**：GDELT / investor.bg
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#6
-> **reason**：rank #6; cross-source x13; source weight: GDELT; hot terms: 美国
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260512T183000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 89** | Norway imposes near ban on AI in elementary school - Reuters
-> **标题**：Norway imposes near ban on AI in elementary school - Reuters
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkxUbENacTJvOWN5TXpEeWZGbmppRFVUVmthNUJHTlBlb09mdVdYeU10bzhFLXBIcl92VlpHU1UzQmV6WlhtS1V5ZHE1blNaODdQaWF1WU84Zm1aNHhuMkpEVHhEZVZSY0RMQjFJWTg5QmROeEtCUmtxTDNKSExGMUxDZkR6azVRc1RpQmliSzVuclBmT2c?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
+> **category**：财经
 > **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets
+> **reason**：rank #1; cross-source x6; source weight: GDELT
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Norway imposes near ban on AI in elementary school Reuters
+> **summary**：20260522T180000Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
