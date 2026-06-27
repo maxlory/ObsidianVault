@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W26
-date: 2026-06-24
+date: 2026-06-25
 tags:
   - weekly-review
   - research-radar
@@ -101,6 +101,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | HubbaishRana/agent-quickstart
+> **标题**：HubbaishRana/agent-quickstart
+> **原文链接**：🔗 [打开原文](https://github.com/HubbaishRana/agent-quickstart)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, mcp; high-value terms: agent, agents, mcp, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：🤖 Build and prototype custom coding agents with this self-hostable quickstart app, inspired by Claude Code for agile development.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | fengaiyunzi/Skills-Manager
 > **标题**：fengaiyunzi/Skills-Manager
 > **原文链接**：🔗 [打开原文](https://github.com/fengaiyunzi/Skills-Manager)
@@ -122,19 +135,6 @@ tags:
 > **reason**：matches topics: agent, agents, llm, mcp; high-value terms: benchmark, agent, agents, mcp
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
 > **summary**：arXiv:2606.19704v1 Announce Type: new Abstract: Agent benchmarks are growing fast, but no single benchmark touches more than four or five of the dimensions that deployment exposes. This paper aggregates the largest coordinated deep-dive of one MCP-based industrial-agent benchmark to date: fourteen...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 87** | Can LLMs Be CEOs? Benchmarking Strategic Resource Reallocation with Multi-Role Agent Simulation
-> **标题**：Can LLMs Be CEOs? Benchmarking Strategic Resource Reallocation with Multi-Role Agent Simulation
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2606.17459)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, llm, research, benchmark; high-value terms: benchmark, agent, eval, reasoning
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2606.17459v1 Announce Type: new Abstract: Evaluating the decision-making capabilities of large language models (LLMs) is a growing research priority, yet existing benchmarks focus on isolated cognitive tasks such as reasoning, knowledge retrieval, and economic rationality in stylized settings...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
