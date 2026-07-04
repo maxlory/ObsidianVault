@@ -1,6 +1,6 @@
 ---
 title: News Radar Week 2026-W27
-date: 2026-07-01
+date: 2026-07-04
 tags:
   - news-radar
   - weekly-review
@@ -14,6 +14,23 @@ tags:
 - 排序原则：先看热度和重复出现，再看分类标签。
 
 ## 过去阶段最高热度
+
+> [!info]+ **今日必须看 / 100** | EXCLUSIVE: Russia approved secret China military training at top level, sources say - Reuters
+> **标题**：EXCLUSIVE: Russia approved secret China military training at top level, sources say - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiywFBVV95cUxPNVJVQXU4eHRhYU10Ni14TDA5YlpLejhJcDNPRDBUMmpJak96bldnZ2Jub1VLanZDREhBbmJPQ05TZGViTW84ZUR2MWRwOEd3WExaR19kTWM0SE44WmhKaEFxeEIwbnZqS1BjTWo3bW93WlhqMEhOWW4zcVdEaUxwN3IzQXl2OFRFZXJCdFc1Q1ZPT2lVNnk2V2poUDdObGUxWHo3dVhBUURxT2NLSGpaWHpDMTUydzc2N3FJZW5nbUtFRG02OE83R2Z1QQ?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#1
+> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：EXCLUSIVE: Russia approved secret China military training at top level, sources say Reuters
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 
 > [!info]+ **今日必须看 / 96** | رحيل باول وصعود وارش ، تحول جديد في السياسة النقدية الأمريكية
 > **标题**：رحيل باول وصعود وارش ، تحول جديد في السياسة النقدية الأمريكية
@@ -134,6 +151,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 91** | China-linked actors target more than technology as AI competition with U.S. intensifies - CNBC
+> **标题**：China-linked actors target more than technology as AI competition with U.S. intensifies - CNBC
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMilgFBVV95cUxNcnpLUm8wYUJid2xPVWdDT3RGVF9WdkxiNGQ4THliVXc1MGIzLWI2aUF1aTRYeFBOSkFZa2U4ODJDY2c5NHM4Sk1mbkJvbzNVWDNIVWFMcFZpWGVQUGF4WjNqbmNxNDhZOS1LbFdzREdPRUt4amxockgtdm03OHpUcnIwTnplMVlZTU55cFRSVkI4ZWs4SlHSAZsBQVVfeXFMT1NLYzV3UEIyM2dBMXFUTDdzcF9QcExPeHozcUZhQV9SNlhZVUpLbzJMb2c1UTR5QlRRdG9iQ0k0aUV1M0hzM0QxUFJzODdGQnp1bTVSZ0U5QkQwNmVoeVZnbTV5dlhyenl0WXphZ2FFdG0teTQwLVVUVENkTTlOQjhBTXFOVmgwNnFUbl9TUFliVmdBb3BtSWcxNkk?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：China-linked actors target more than technology as AI competition with U.S. intensifies CNBC
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 90** | رجل ترامب في أصعب توقيت اقتصادي ، من هو كيفن وارش رئيس الفيدرالي الجديد ؟
 > **标题**：رجل ترامب في أصعب توقيت اقتصادي ، من هو كيفن وارش رئيس الفيدرالي الجديد ؟
 > **原文链接**：🔗 [打开原文](https://www.vetogate.com/5660429)
@@ -219,51 +253,17 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 88** | China strips generals, ex-financial regulator, politburo member of lawmaker posts - Reuters
-> **标题**：China strips generals, ex-financial regulator, politburo member of lawmaker posts - Reuters
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWktpdnJVbDdTMjBZVnVlckdrTXFaSFVIbDlaTnZhSzNONE0wVzlkNV9MWk1Fcld5TjUyQWVyWmJiS0dWYnZFcndkdEd5YXpuTXBKVVppOGVLeGpvZUtNbzdaUW9sRjJ4UERTT2xHaDM2UFgyLWFRMkNXa2VTaloxYnpGNXlGV0lISlNfaEREdllBUjhnaTlEZEluN18tSU9tRWIzSFlPRkFWeWlvSnpkOGdmSjYzR0FNbXpGZjlEYTlLZw?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#5
-> **reason**：rank #5; cross-source x2; source weight: Google News; hot terms: 美国, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China strips generals, ex-financial regulator, politburo member of lawmaker posts Reuters
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 87** | Why Takaichi's hardline course is backfiring at home and abroad - China Military Online
-> **标题**：Why Takaichi's hardline course is backfiring at home and abroad - China Military Online
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TNGNjS1h2ZzdRYkJUYUFjNElTMGNrYk1tbnBGNFlRS2Z6aDFhZ3J2T2NKZUdlR1hHN01OeTVsbUhpZjAxZ28yUG9yZzlJODR5REJkNmRBQ3pvRW5sOUNQS1QtZGhibm8?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: 美国, ai, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Why Takaichi's hardline course is backfiring at home and abroad China Military Online
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 87** | US government allows Anthropic limited release of AI model that sparked cybersecurity concerns - CNN
-> **标题**：US government allows Anthropic limited release of AI model that sparked cybersecurity concerns - CNN
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE1lX2FHbTI1SEJfWTJ4WmMyeVdfSHo3V3NDbndfbUdaTFAyRlJtX09WY0pUWkIzTkVpOEhpcmEyY2xPeElZdW04eU9hc2Q2TU1xcDhlUzR4WU1iamN1OXJDQkY2d3NMQ3p5WTRYNg?oc=5)
+> [!info]+ **今日必须看 / 89** | US lifts restrictions on Anthropic’s powerful AI models Fable and Mythos - Al Jazeera
+> **标题**：US lifts restrictions on Anthropic’s powerful AI models Fable and Mythos - Al Jazeera
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTUxSFpEb0JIQV9vZ05iM1BjMTFoWXVfZmdMbUpfUVhRdkU2ek9mUDY5azY0eFZLSVJFZ0ZUeUFxSjhwS1AxU3ZwaTliaVhWa2FZUHNJLW1Fam9SNnVIU3l3c2NGNjRISS02dS05UE9sWWRUblF4NmdSVGRCRkMtakNybVpfMlN1S0ZIV2tRd2h4bWNmOFZFZXQwR0pOVGdDVUp4M0ljblZLYWtTU3NYWjF5YnrSAboBQVVfeXFMT1FnbUw0Q2UyWndFWnp1VkYwVk5fUUpjWWN1SmNjNUtXVldwVWZqU3NzMFlwZUp0NnVxWnNfZThzS1V6U3lqVGZHZUo5RDJuMnNINUp6a3U0LVhINkVXYk1kenUtMnl1R0lMNmZRWkVJR0hiNlJlMFpyUUdlaE1faDFhTGFQbFNHUDRBSlphVmZfRFJTY1hINDRLUFJHWkNPWFpWVTNoSTlLTmxIXzFEZ0xTSk9wRzZvWGNR?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
-> **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: ai, us, ai, markets
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: ai, us, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：US government allows Anthropic limited release of AI model that sparked cybersecurity concerns CNN
+> **summary**：US lifts restrictions on Anthropic’s powerful AI models Fable and Mythos Al Jazeera
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -271,6 +271,23 @@ tags:
 > - [ ] 忽略
 
 ## 反复出现的议题
+
+> [!info]+ **今日必须看 / 100** | EXCLUSIVE: Russia approved secret China military training at top level, sources say - Reuters
+> **标题**：EXCLUSIVE: Russia approved secret China military training at top level, sources say - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiywFBVV95cUxPNVJVQXU4eHRhYU10Ni14TDA5YlpLejhJcDNPRDBUMmpJak96bldnZ2Jub1VLanZDREhBbmJPQ05TZGViTW84ZUR2MWRwOEd3WExaR19kTWM0SE44WmhKaEFxeEIwbnZqS1BjTWo3bW93WlhqMEhOWW4zcVdEaUxwN3IzQXl2OFRFZXJCdFc1Q1ZPT2lVNnk2V2poUDdObGUxWHo3dVhBUURxT2NLSGpaWHpDMTUydzc2N3FJZW5nbUtFRG02OE83R2Z1QQ?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#1
+> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：EXCLUSIVE: Russia approved secret China military training at top level, sources say Reuters
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 
 > [!info]+ **今日必须看 / 96** | رحيل باول وصعود وارش ، تحول جديد في السياسة النقدية الأمريكية
 > **标题**：رحيل باول وصعود وارش ، تحول جديد في السياسة النقدية الأمريكية
@@ -510,28 +527,28 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **可延后 / 75** | « بنك أوف أمريكا » يتوقع ثلاث زيادات للفائدة الأمريكية فى 2026
-> **标题**：« بنك أوف أمريكا » يتوقع ثلاث زيادات للفائدة الأمريكية فى 2026
-> **原文链接**：🔗 [打开原文](https://www.almasryalyoum.com/news/details/4299987)
-> **source**：GDELT / almasryalyoum.com
-> **kind**：`news`
-> **region**：国际
-> **category**：财经
-> **rank**：#6
-> **reason**：rank #6; cross-source x2; source weight: GDELT
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：20260623T174500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
 ## 中国热点迁移
 
 - 暂无。
 
 ## 美国/国际热点迁移
+
+> [!info]+ **今日必须看 / 100** | EXCLUSIVE: Russia approved secret China military training at top level, sources say - Reuters
+> **标题**：EXCLUSIVE: Russia approved secret China military training at top level, sources say - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiywFBVV95cUxPNVJVQXU4eHRhYU10Ni14TDA5YlpLejhJcDNPRDBUMmpJak96bldnZ2Jub1VLanZDREhBbmJPQ05TZGViTW84ZUR2MWRwOEd3WExaR19kTWM0SE44WmhKaEFxeEIwbnZqS1BjTWo3bW93WlhqMEhOWW4zcVdEaUxwN3IzQXl2OFRFZXJCdFc1Q1ZPT2lVNnk2V2poUDdObGUxWHo3dVhBUURxT2NLSGpaWHpDMTUydzc2N3FJZW5nbUtFRG02OE83R2Z1QQ?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#1
+> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：EXCLUSIVE: Russia approved secret China military training at top level, sources say Reuters
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 
 > [!info]+ **今日必须看 / 96** | رحيل باول وصعود وارش ، تحول جديد في السياسة النقدية الأمريكية
 > **标题**：رحيل باول وصعود وارش ، تحول جديد في السياسة النقدية الأمريكية
@@ -652,6 +669,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 91** | China-linked actors target more than technology as AI competition with U.S. intensifies - CNBC
+> **标题**：China-linked actors target more than technology as AI competition with U.S. intensifies - CNBC
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMilgFBVV95cUxNcnpLUm8wYUJid2xPVWdDT3RGVF9WdkxiNGQ4THliVXc1MGIzLWI2aUF1aTRYeFBOSkFZa2U4ODJDY2c5NHM4Sk1mbkJvbzNVWDNIVWFMcFZpWGVQUGF4WjNqbmNxNDhZOS1LbFdzREdPRUt4amxockgtdm03OHpUcnIwTnplMVlZTU55cFRSVkI4ZWs4SlHSAZsBQVVfeXFMT1NLYzV3UEIyM2dBMXFUTDdzcF9QcExPeHozcUZhQV9SNlhZVUpLbzJMb2c1UTR5QlRRdG9iQ0k0aUV1M0hzM0QxUFJzODdGQnp1bTVSZ0U5QkQwNmVoeVZnbTV5dlhyenl0WXphZ2FFdG0teTQwLVVUVENkTTlOQjhBTXFOVmgwNnFUbl9TUFliVmdBb3BtSWcxNkk?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：China-linked actors target more than technology as AI competition with U.S. intensifies CNBC
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 90** | رجل ترامب في أصعب توقيت اقتصادي ، من هو كيفن وارش رئيس الفيدرالي الجديد ؟
 > **标题**：رجل ترامب في أصعب توقيت اقتصادي ، من هو كيفن وارش رئيس الفيدرالي الجديد ؟
 > **原文链接**：🔗 [打开原文](https://www.vetogate.com/5660429)
@@ -663,40 +697,6 @@ tags:
 > **reason**：rank #4; cross-source x8; source weight: GDELT
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：20260522T180000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 90** | China Ousts Six Military Lawmakers as Xi’s Purge Continues - Bloomberg.com
-> **标题**：China Ousts Six Military Lawmakers as Xi’s Purge Continues - Bloomberg.com
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirgFBVV95cUxQYWYwTVgySFJfaVJNUTlWNXp5UGhhUjdEX01FM0xFbUNzRUU3djhWZHA3U3gweGFBeWpPMDhVMWRqZUhfSWVpbTVkd2NlbWljalNTckduVUN1bkNienBfbDhtblFxV1N3eF93d0twUjhjZDJ4ZDV5aUxQSDc0S0FDeDJxdmMxSkh1N08tUnNQV1BxcXpQWjljWWpzcG1WUHdobndHbXlWUDRBYW4zM1E?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#6
-> **reason**：rank #6; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China Ousts Six Military Lawmakers as Xi’s Purge Continues Bloomberg.com
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 89** | Republic of China Army Deploys New U.S.-Supplied Abrams Tanks For First Ever Combat Readiness Drills - Military Watch Magazine
-> **标题**：Republic of China Army Deploys New U.S.-Supplied Abrams Tanks For First Ever Combat Readiness Drills - Military Watch Magazine
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMilgFBVV95cUxOQjk1NmhPMXdJbkJ0bkpwUmZpZmREbmV2VGdrQWc3TDIxTGxtSDZUemNoUTJVVC1xUldlN0t0NU1lNDlnd0swZUxxcXFQZ0tqb3ZjX05kOS1pUl9ZTnVSeVF2TGlxaEZKVFRwLVNtVHBnMjBPZE5HY0NJZnhlZXg0SUhjME9IT1JMZkJ5Q1BuWllQMnNkWFE?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#3
-> **reason**：rank #3; source weight: Google News; hot terms: 美国, china, us, military
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Republic of China Army Deploys New U.S.-Supplied Abrams Tanks For First Ever Combat Readiness Drills Military Watch Magazine
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -841,34 +841,34 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 87** | US government allows Anthropic limited release of AI model that sparked cybersecurity concerns - CNN
-> **标题**：US government allows Anthropic limited release of AI model that sparked cybersecurity concerns - CNN
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE1lX2FHbTI1SEJfWTJ4WmMyeVdfSHo3V3NDbndfbUdaTFAyRlJtX09WY0pUWkIzTkVpOEhpcmEyY2xPeElZdW04eU9hc2Q2TU1xcDhlUzR4WU1iamN1OXJDQkY2d3NMQ3p5WTRYNg?oc=5)
+> [!info]+ **今日必须看 / 89** | US lifts restrictions on Anthropic’s powerful AI models Fable and Mythos - Al Jazeera
+> **标题**：US lifts restrictions on Anthropic’s powerful AI models Fable and Mythos - Al Jazeera
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTUxSFpEb0JIQV9vZ05iM1BjMTFoWXVfZmdMbUpfUVhRdkU2ek9mUDY5azY0eFZLSVJFZ0ZUeUFxSjhwS1AxU3ZwaTliaVhWa2FZUHNJLW1Fam9SNnVIU3l3c2NGNjRISS02dS05UE9sWWRUblF4NmdSVGRCRkMtakNybVpfMlN1S0ZIV2tRd2h4bWNmOFZFZXQwR0pOVGdDVUp4M0ljblZLYWtTU3NYWjF5YnrSAboBQVVfeXFMT1FnbUw0Q2UyWndFWnp1VkYwVk5fUUpjWWN1SmNjNUtXVldwVWZqU3NzMFlwZUp0NnVxWnNfZThzS1V6U3lqVGZHZUo5RDJuMnNINUp6a3U0LVhINkVXYk1kenUtMnl1R0lMNmZRWkVJR0hiNlJlMFpyUUdlaE1faDFhTGFQbFNHUDRBSlphVmZfRFJTY1hINDRLUFJHWkNPWFpWVTNoSTlLTmxIXzFEZ0xTSk9wRzZvWGNR?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
-> **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: ai, us, ai, markets
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: ai, us, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：US government allows Anthropic limited release of AI model that sparked cybersecurity concerns CNN
+> **summary**：US lifts restrictions on Anthropic’s powerful AI models Fable and Mythos Al Jazeera
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 85** | Ford rehires ‘gray beard’ engineers after AI falls short - TechCrunch
-> **标题**：Ford rehires ‘gray beard’ engineers after AI falls short - TechCrunch
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMikwFBVV95cUxQMi1RZFAyTFU0NDV5NE5IV2xRV1pfV0NiaDN6X0piTlItcVVKa1FXTUdlYVo4SnJQYjVoMDVIX1YzZXMyQlZFRGFmSXM0SkEtNnZuQW5ndmN6dXA0TmNtOWEtQjFGUlF4MS1aZGJZUnY5b1Z1MTVUb0tGczNkNWhIZGN1R3JJbEpFb212MFZ3ejY4UDg?oc=5)
+> [!info]+ **今日必须看 / 89** | Employers who laid off workers citing AI are already starting to regret it - CNBC
+> **标题**：Employers who laid off workers citing AI are already starting to regret it - CNBC
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMVFRZTh6TC1hUFh6OVhVLVZJYk1YTDdYR05KNU5rd3lXZTRNRWxYQjlvSWJidHZMcWt2UUo4eEtpTTAwakphdVhaVG5OdkxVX0luOUhMM01sSDlaYUw4WDJMcFBaNDU4V3R2U3RQUUJiRnFoaHFySXdqSFpid2pJY2c1MlZIUHBFd1B5VWVDRW1LZU9LM21WMU9mQ21wRG9GRDh2MWhhc9IBrAFBVV95cUxQQmNqWjlZTVNjM25PRXVpX0NOTF9WNVFLY1NsOE9hbEZWVGdYdTI2Q2h2RFJMU1NOTGJJNFZHMVdYdWRwc0tuNkpRbXRMa2hnNDBPVFpHbDdmRjVDQjlaZWJqMUhmZjBJQUFMaVo3ajZ3YlprQmxLSzFocWYyaGFWM01FcHgySV9tcmZRRWhrQ204aDJFYXlqTklQYzQ1Y3lzbmc5NC1VV0V2Qlk1?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
-> **rank**：#3
-> **reason**：rank #3; source weight: Google News; hot terms: ai, ai, markets
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Ford rehires ‘gray beard’ engineers after AI falls short TechCrunch
+> **summary**：Employers who laid off workers citing AI are already starting to regret it CNBC
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
