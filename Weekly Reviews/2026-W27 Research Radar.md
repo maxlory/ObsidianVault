@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W27
-date: 2026-07-04
+date: 2026-07-05
 tags:
   - weekly-review
   - research-radar
@@ -31,19 +31,6 @@ tags:
 > **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp, api
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Search engine for AI agents — ranks sites by agentic readiness (llms.txt, OpenAPI, MCP, ai-plugin). MCP server, REST API, full-text search. 8,000+ indexed sites.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | wisechef-ai/loopskill-api
-> **标题**：wisechef-ai/loopskill-api
-> **原文链接**：🔗 [打开原文](https://github.com/wisechef-ai/loopskill-api)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp, api
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Open-core 'Spotify for AI agents' — a self-hostable registry of runnable agent artifacts: skills, bundles, loops, and personalities. docker compose up → working registry in 60s, zero signup. MCP-native, MPL-2.0.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -140,6 +127,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | stevesolun/ctx
+> **标题**：stevesolun/ctx
+> **原文链接**：🔗 [打开原文](https://github.com/stevesolun/ctx)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm, obsidian; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Not an Amazon-style catalog or marketplace. ctx is a recommendation layer: bring your org tools or use the shipped graph to load the right skills, agents, MCPs, and harnesses only for the current dev window, cutting token bills and local compute waste: 79,958-node LLM-wiki graph...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 
 ## 值得试用的工具 / 模型
 
@@ -156,19 +156,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | wisechef-ai/loopskill-api
-> **标题**：wisechef-ai/loopskill-api
-> **原文链接**：🔗 [打开原文](https://github.com/wisechef-ai/loopskill-api)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp, api
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Open-core 'Spotify for AI agents' — a self-hostable registry of runnable agent artifacts: skills, bundles, loops, and personalities. docker compose up → working registry in 60s, zero signup. MCP-native, MPL-2.0.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | hellOoSaksit/ai-project-scaffold
 > **标题**：hellOoSaksit/ai-project-scaffold
 > **原文链接**：🔗 [打开原文](https://github.com/hellOoSaksit/ai-project-scaffold)
@@ -177,6 +164,19 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：AI-friendly project scaffold & knowledge architecture for AI coding agents (Claude Code, Cursor, Copilot, Codex, Gemini). One CLAUDE.md router, AGENTS.md + llms.txt entry points, job-first docs with frontmatter, SSOT registries, standalone lifecycle, docs-lint CI — for new or ex...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | selectess/fde-consultants-protocoles
+> **标题**：selectess/fde-consultants-protocoles
+> **原文链接**：🔗 [打开原文](https://github.com/selectess/fde-consultants-protocoles)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, claude code, codex, mcp; high-value terms: agent, mcp, codex, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：FDE Consultants Protocoles — open-source Forward Deployed Engineer + DeepSCR protocol: turn any coding agent (Claude Code, Codex, Cursor) into a certifying engineer with verifiable AI Assurance Scores, MCP tools, and a public trust registry. Apache-2.0.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -318,19 +318,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | wisechef-ai/loopskill-api
-> **标题**：wisechef-ai/loopskill-api
-> **原文链接**：🔗 [打开原文](https://github.com/wisechef-ai/loopskill-api)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp, api
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Open-core 'Spotify for AI agents' — a self-hostable registry of runnable agent artifacts: skills, bundles, loops, and personalities. docker compose up → working registry in 60s, zero signup. MCP-native, MPL-2.0.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 87** | How Do Tool-Augmented LLM Agents Perform on Real-World Energy Analytics Tasks?
 > **标题**：How Do Tool-Augmented LLM Agents Perform on Real-World Energy Analytics Tasks?
 > **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2606.26346)
@@ -417,6 +404,19 @@ tags:
 > **reason**：matches topics: agent, agents, benchmark; high-value terms: benchmark, agent, agents, eval
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
 > **summary**：arXiv:2606.26350v1 Announce Type: new Abstract: Although large language model agents are increasingly applied to quantitative-finance workflows, their evaluation remains fragmented across isolated tasks, while the financial relevance of benchmark tasks is often overlooked. Yet financial workflows a...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 79** | ModyD/kaggle-AI-agents-google-capstone
+> **标题**：ModyD/kaggle-AI-agents-google-capstone
+> **原文链接**：🔗 [打开原文](https://github.com/ModyD/kaggle-AI-agents-google-capstone)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, security
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：🛡️ Enhance security response with this AI-driven incident triage agent, leveraging the Google ADK for efficient automation in enterprise environments.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
