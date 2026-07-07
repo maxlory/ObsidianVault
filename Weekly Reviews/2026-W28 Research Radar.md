@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W28
-date: 2026-07-06
+date: 2026-07-07
 tags:
   - weekly-review
   - research-radar
@@ -10,6 +10,32 @@ tags:
 
 ## 本周趋势
 
+> [!info]+ **今日必须看 / 93** | OfficeCLI：为AI智能体设计的开源Office套件
+> **标题**：OfficeCLI：为AI智能体设计的开源Office套件
+> **原文链接**：🔗 [打开原文](https://github.com/iOfficeAI/OfficeCLI)
+> **source**：AI HOT / Hacker News 热门（buzzing.cc 中文翻译）, Hacker News
+> **kind**：`product`
+> **reason**：matches topics: agent, agents, claude code; high-value terms: agent, agents, claude code
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：OfficeCLI是全球首个专为AI智能体设计的开源Office套件，以单二进制文件运行，无需安装Office或任何依赖。它内置HTML渲染引擎，可将.docx/.xlsx/.pptx转换为HTML或PNG，形成"渲染→查看→修复"的视觉闭环，使AI代理能自主创建、读取和修改Word、Excel、PowerPoint文档。支持公式、图表、条件格式、RTL布局、修订追踪、表格、数据透视表等复杂功能。提供CLI命令和基于自然语言的桌面应用AionUi，并可一键安装到Claude Code、Cursor、Windsurf、GitHub Copilot等AI编码工具中。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 93** | Claude Code v2.1.202 发布
+> **标题**：Claude Code v2.1.202 发布
+> **原文链接**：🔗 [打开原文](https://github.com/anthropics/claude-code/releases/tag/v2.1.202)
+> **source**：AI HOT / Claude Code：GitHub Releases（RSS）
+> **kind**：`product`
+> **reason**：matches topics: agent, claude code, mcp; high-value terms: agent, mcp, claude code
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Claude Code v2.1.202 在 `/config` 中新增"Dynamic workflow size"设置，可控制动态工作流的 agent 数量规模（小/中/大），作为指导性建议而非硬性上限。工作流派生的 agent 现在会发射 `workflow.run_id` 和 `workflow.name` 的 OpenTelemetry 属性。修复了 mTLS 握手失败、远程控制发送命令失败、移动端发送无说明图片被静默丢弃、语音听写在麦克风故障时无限重试（改为暂停输入）、重载已有技能导致重复指令等问题。改进了工作流 agent 列表布局，MCP 错误消息更清晰。`/review ` 恢复为快速单次审查，多 agent 审查请使用 `/code-review`。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | hellOoSaksit/ai-project-scaffold
 > **标题**：hellOoSaksit/ai-project-scaffold
 > **原文链接**：🔗 [打开原文](https://github.com/hellOoSaksit/ai-project-scaffold)
@@ -18,6 +44,32 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：AI-friendly project scaffold & knowledge architecture for AI coding agents (Claude Code, Cursor, Copilot, Codex, Gemini). One CLAUDE.md router, AGENTS.md + llms.txt entry points, job-first docs with frontmatter, SSOT registries, standalone lifecycle, docs-lint CI — for new or ex...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | imbflool/cc-plugin-eval
+> **标题**：imbflool/cc-plugin-eval
+> **原文链接**：🔗 [打开原文](https://github.com/imbflool/cc-plugin-eval)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, llm; high-value terms: agent, agents, claude code, eval
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：🚀 Automate the evaluation of Claude Code plugin components to ensure accurate triggering of skills, agents, commands, and hooks.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | HIDORAKAI002/ai-workspace-archive
+> **标题**：HIDORAKAI002/ai-workspace-archive
+> **原文链接**：🔗 [打开原文](https://github.com/HIDORAKAI002/ai-workspace-archive)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：A massive, self-updating local archive of AI tools — 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cline), and 30+ system prompt collections. One repo to rule them all.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -36,14 +88,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 83** | Claude Sonnet 5 发布
-> **标题**：Claude Sonnet 5 发布
-> **原文链接**：🔗 [打开原文](https://www.anthropic.com/news/claude-sonnet-5)
-> **source**：AI HOT / Anthropic：Newsroom（网页）, Anthropic
-> **kind**：`model`
-> **reason**：matches topics: claude code, anthropic; high-value terms: claude code, api
-> **follow_up**：检查模型卡、license、benchmark 和可部署性。
-> **summary**：Claude Sonnet 5 是 Anthropic 推出的最新 Sonnet 模型，具备计划、浏览器和终端工具使用能力，可自主运行。性能接近 Opus 4.8，定价更低：即日起至 2026 年 8 月 31 日，输入 token $2/百万，输出 $10/百万，之后恢复为 $3/百万输入和 $15/百万输出。相比 Sonnet 4.6，在推理、工具使用、编程和知识工作等智能体能力上大幅提升。在 BrowseComp 和 OSWorld-Verified 评测中严格优于 Sonnet 4.6。安全评估显示不良行为率更低，幻觉和谄媚减少，但网络安全能力弱于 Opus 4.8。即日起在所有套餐及 Claude Code、Claude API 中可用。
+> [!info]+ **今日必须看 / 79** | jkershawrh/deepfield-multimodal
+> **标题**：jkershawrh/deepfield-multimodal
+> **原文链接**：🔗 [打开原文](https://github.com/jkershawrh/deepfield-multimodal)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, reasoning
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Agentic Signal Classification Engine — Three-tier agent cascade (nano/micro/macro) on Intel Xeon 6 with Red Hat OpenShift. Deterministic nanoagents compress on CPU. LLM reasoning when you need it. Agents earn their tier through empirical validation.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -88,58 +140,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 78** | Agents In Biology
-> **标题**：Agents In Biology
-> **原文链接**：🔗 [打开原文](https://www.anthropic.com/research/agents-in-biology)
-> **source**：Anthropic
-> **kind**：`article`
-> **reason**：matches topics: agent, agents, anthropic; high-value terms: agent, agents
-> **follow_up**：判断是否需要沉淀为长期主题笔记。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 77** | Contrastive Reflection for Iterative Prompt Optimization
-> **标题**：Contrastive Reflection for Iterative Prompt Optimization
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2606.30840)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, eval
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2606.30840v1 Announce Type: new Abstract: LLM agents are becoming central to information retrieval: they issue retrieval queries, synthesize answers, and increasingly serve as judges for IR evaluation. Improving the prompts that control these agents is an optimization problem, but in applied...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 76** | craft-ai-agents/craft-agents-oss
-> **标题**：craft-ai-agents/craft-agents-oss
-> **原文链接**：🔗 [打开原文](https://github.com/craft-ai-agents/craft-agents-oss)
-> **source**：GitHub Trending
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents; high-value terms: agent, agents
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 76** | OpenLife: Toward Open-World Artificial Life with Autonomous LLM Agents
-> **标题**：OpenLife: Toward Open-World Artificial Life with Autonomous LLM Agents
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2606.31046)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm, research; high-value terms: agent, agents
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2606.31046v1 Announce Type: new Abstract: Artificial life has explored life-like behavior on many computational substrates, but mostly in researcher-designed closed worlds. We argue that large language model (LLM) agents, with persistent memory, tool use, network access, and payment, now make...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 
 ## 值得试用的工具 / 模型
 
@@ -156,27 +156,27 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | mar-schmidt/Podium
-> **标题**：mar-schmidt/Podium
-> **原文链接**：🔗 [打开原文](https://github.com/mar-schmidt/Podium)
+> [!info]+ **今日必须看 / 89** | imbflool/cc-plugin-eval
+> **标题**：imbflool/cc-plugin-eval
+> **原文链接**：🔗 [打开原文](https://github.com/imbflool/cc-plugin-eval)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
+> **reason**：matches topics: agent, agents, claude code, llm; high-value terms: agent, agents, claude code, eval
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Thin orchestration layer for local LLM agents. Durable sessions, profiles, scheduling. Leans on native MCP/tools/memory instead of replacing them.
+> **summary**：🚀 Automate the evaluation of Claude Code plugin components to ensure accurate triggering of skills, agents, commands, and hooks.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 83** | Claude Sonnet 5 发布
-> **标题**：Claude Sonnet 5 发布
-> **原文链接**：🔗 [打开原文](https://www.anthropic.com/news/claude-sonnet-5)
-> **source**：AI HOT / Anthropic：Newsroom（网页）, Anthropic
-> **kind**：`model`
-> **reason**：matches topics: claude code, anthropic; high-value terms: claude code, api
-> **follow_up**：检查模型卡、license、benchmark 和可部署性。
-> **summary**：Claude Sonnet 5 是 Anthropic 推出的最新 Sonnet 模型，具备计划、浏览器和终端工具使用能力，可自主运行。性能接近 Opus 4.8，定价更低：即日起至 2026 年 8 月 31 日，输入 token $2/百万，输出 $10/百万，之后恢复为 $3/百万输入和 $15/百万输出。相比 Sonnet 4.6，在推理、工具使用、编程和知识工作等智能体能力上大幅提升。在 BrowseComp 和 OSWorld-Verified 评测中严格优于 Sonnet 4.6。安全评估显示不良行为率更低，幻觉和谄媚减少，但网络安全能力弱于 Opus 4.8。即日起在所有套餐及 Claude Code、Claude API 中可用。
+> [!info]+ **今日必须看 / 85** | HIDORAKAI002/ai-workspace-archive
+> **标题**：HIDORAKAI002/ai-workspace-archive
+> **原文链接**：🔗 [打开原文](https://github.com/HIDORAKAI002/ai-workspace-archive)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：A massive, self-updating local archive of AI tools — 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cline), and 30+ system prompt collections. One repo to rule them all.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -292,6 +292,32 @@ tags:
 
 ## 反复出现的信号
 
+> [!info]+ **今日必须看 / 93** | OfficeCLI：为AI智能体设计的开源Office套件
+> **标题**：OfficeCLI：为AI智能体设计的开源Office套件
+> **原文链接**：🔗 [打开原文](https://github.com/iOfficeAI/OfficeCLI)
+> **source**：AI HOT / Hacker News 热门（buzzing.cc 中文翻译）, Hacker News
+> **kind**：`product`
+> **reason**：matches topics: agent, agents, claude code; high-value terms: agent, agents, claude code
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：OfficeCLI是全球首个专为AI智能体设计的开源Office套件，以单二进制文件运行，无需安装Office或任何依赖。它内置HTML渲染引擎，可将.docx/.xlsx/.pptx转换为HTML或PNG，形成"渲染→查看→修复"的视觉闭环，使AI代理能自主创建、读取和修改Word、Excel、PowerPoint文档。支持公式、图表、条件格式、RTL布局、修订追踪、表格、数据透视表等复杂功能。提供CLI命令和基于自然语言的桌面应用AionUi，并可一键安装到Claude Code、Cursor、Windsurf、GitHub Copilot等AI编码工具中。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | HIDORAKAI002/ai-workspace-archive
+> **标题**：HIDORAKAI002/ai-workspace-archive
+> **原文链接**：🔗 [打开原文](https://github.com/HIDORAKAI002/ai-workspace-archive)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：A massive, self-updating local archive of AI tools — 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cline), and 30+ system prompt collections. One repo to rule them all.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 85** | mar-schmidt/Podium
 > **标题**：mar-schmidt/Podium
 > **原文链接**：🔗 [打开原文](https://github.com/mar-schmidt/Podium)
@@ -305,14 +331,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 83** | Claude Sonnet 5 发布
-> **标题**：Claude Sonnet 5 发布
-> **原文链接**：🔗 [打开原文](https://www.anthropic.com/news/claude-sonnet-5)
-> **source**：AI HOT / Anthropic：Newsroom（网页）, Anthropic
-> **kind**：`model`
-> **reason**：matches topics: claude code, anthropic; high-value terms: claude code, api
-> **follow_up**：检查模型卡、license、benchmark 和可部署性。
-> **summary**：Claude Sonnet 5 是 Anthropic 推出的最新 Sonnet 模型，具备计划、浏览器和终端工具使用能力，可自主运行。性能接近 Opus 4.8，定价更低：即日起至 2026 年 8 月 31 日，输入 token $2/百万，输出 $10/百万，之后恢复为 $3/百万输入和 $15/百万输出。相比 Sonnet 4.6，在推理、工具使用、编程和知识工作等智能体能力上大幅提升。在 BrowseComp 和 OSWorld-Verified 评测中严格优于 Sonnet 4.6。安全评估显示不良行为率更低，幻觉和谄媚减少，但网络安全能力弱于 Opus 4.8。即日起在所有套餐及 Claude Code、Claude API 中可用。
+> [!info]+ **今日必须看 / 79** | jkershawrh/deepfield-multimodal
+> **标题**：jkershawrh/deepfield-multimodal
+> **原文链接**：🔗 [打开原文](https://github.com/jkershawrh/deepfield-multimodal)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, reasoning
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Agentic Signal Classification Engine — Three-tier agent cascade (nano/micro/macro) on Intel Xeon 6 with Red Hat OpenShift. Deterministic nanoagents compress on CPU. LLM reasoning when you need it. Agents earn their tier through empirical validation.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -331,6 +357,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 78** | openai/openai-agents-python
+> **标题**：openai/openai-agents-python
+> **原文链接**：🔗 [打开原文](https://github.com/openai/openai-agents-python)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, openai, llm; high-value terms: agent, agents
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：A lightweight, powerful framework for multi-agent workflows
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 76** | craft-ai-agents/craft-agents-oss
 > **标题**：craft-ai-agents/craft-agents-oss
 > **原文链接**：🔗 [打开原文](https://github.com/craft-ai-agents/craft-agents-oss)
@@ -344,79 +383,40 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **可延后 / 71** | abqser/HOMEGUARD-AN-EFFICIENT-MULTI-SENSOR-SAFETY-SYSTEM
-> **标题**：abqser/HOMEGUARD-AN-EFFICIENT-MULTI-SENSOR-SAFETY-SYSTEM
-> **原文链接**：🔗 [打开原文](https://github.com/abqser/HOMEGUARD-AN-EFFICIENT-MULTI-SENSOR-SAFETY-SYSTEM)
+> [!info]+ **可延后 / 72** | tharindu-dhanushka/dataagent-client
+> **标题**：tharindu-dhanushka/dataagent-client
+> **原文链接**：🔗 [打开原文](https://github.com/tharindu-dhanushka/dataagent-client)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents; high-value terms: agent, agents, security
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：🏠 Monitor home safety by detecting hazards with multi-sensor alerts via LCD and LEDs for real-time security and environment tracking.
+> **summary**：🗣️ Simplify data interaction with a Microsoft Teams app for natural language queries to Fabric Data Agents, featuring real-time responses and multi-agent support.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **可延后 / 71** | Claude Science 科研工作台正式上线
-> **标题**：Claude Science 科研工作台正式上线
-> **原文链接**：🔗 [打开原文](https://www.anthropic.com/news/claude-science-ai-workbench)
-> **source**：AI HOT / Anthropic：Newsroom（网页）, Anthropic
-> **kind**：`product`
-> **reason**：matches topics: agent, anthropic; high-value terms: agent
-> **follow_up**：判断是否需要沉淀为长期主题笔记。
-> **summary**：Anthropic 推出 AI 科研工作台 Claude Science，整合常用工具与计算资源，支持从文献分析到多步骤研究的全流程。提供超 60 项预配置技能与连接器，覆盖基因组学、单细胞、蛋白质组学、结构生物学、化学信息学等领域；可在macOS/Linux本地运行，或通过SSH/HPC远程使用。生成含代码和环境的可审计成果（3D蛋白质结构、基因组浏览器轨迹等），内置reviewer agent自动检查引用与计算错误。通过NVIDIA BioNeMo接入Evo 2、Boltz-2等模型，也支持连接自有模型与管道。今日以beta版面向Claude Pro、Max、Team和Enterprise用户开放。
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **可延后 / 69** | xbtlin/ai-berkshire
-> **标题**：xbtlin/ai-berkshire
-> **原文链接**：🔗 [打开原文](https://github.com/xbtlin/ai-berkshire)
-> **source**：GitHub Search, GitHub Trending
-> **kind**：`github_repo`
-> **reason**：matches topics: llm, mcp; high-value terms: mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **可延后 / 64** | KubaGD/bardacle
-> **标题**：KubaGD/bardacle
-> **原文链接**：🔗 [打开原文](https://github.com/KubaGD/bardacle)
+> [!info]+ **可延后 / 72** | dbtlr/norn
+> **标题**：dbtlr/norn
+> **原文链接**：🔗 [打开原文](https://github.com/dbtlr/norn)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents; high-value terms: agent, agents
+> **reason**：matches topics: agent, agents, obsidian; high-value terms: agent, agents
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：No summary.
+> **summary**：Your Markdown vault as a deterministic, queryable graph — validation, drift detection, and plan/apply repair for humans and coding agents"
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **可延后 / 64** | kezama/agent-recorder
-> **标题**：kezama/agent-recorder
-> **原文链接**：🔗 [打开原文](https://github.com/kezama/agent-recorder)
+> [!info]+ **可延后 / 72** | haanhthai/tmux-sidecar
+> **标题**：haanhthai/tmux-sidecar
+> **原文链接**：🔗 [打开原文](https://github.com/haanhthai/tmux-sidecar)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, mcp; high-value terms: agent, mcp
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：📊 Convert agent framework logs into a standard trajectory format for easy analysis and integration within data pipelines.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **可延后 / 64** | loloyiy/agentic-rag
-> **标题**：loloyiy/agentic-rag
-> **原文链接**：🔗 [打开原文](https://github.com/loloyiy/agentic-rag)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents; high-value terms: agent, agents
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：📄 Enable smart document and data search with AI-powered chat, vector search, and SQL querying across multiple file formats.
+> **summary**：🤖 Enhance your terminal experience with Tmux Sidecar, an AI-native workspace that seamlessly integrates AI agents for coding assistance without heavy setup.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库

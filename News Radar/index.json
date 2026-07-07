@@ -2188,20 +2188,20 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa3lhMkwtSXRTVFdteEVpYWJ5VVhublk2NDBzTXVKVWR6TFBSbUNyYWxwWk5ucEkwN2lRVjluZl9tNGtDRndXY29WYjJSSW5LVEJQZDVGTnFfSnptTFMxbjJacmV1ZXNGaS0yQkVZMHo1TEM0RGVPbFBhaTJJcjdEWWdfbU5QbFhoeFdPVm9R0gGTAUFVX3lxTE4wUzJtUUNVa2V2aWpZTldTbzhLNnNPYXNzNkRuQ3NXREtwNjVySnBaV2FZblhIazg2WUN4YXhYUTVTakZ6TEVwV2VxaXlrekx4T25LTDRaMFhKRWVOQVZETHIya3ZtUkRPeVI2eEFuNk1PeUNWYjdXZTZERnNrbjBITUlISno3YXFWaXdwLUVRejZrbw?oc=5"
     },
     "179ea63f5d64ad8c": {
-      "category": "可延后",
-      "discovered_at": "2026-06-22T08:09:27.926636+08:00",
+      "category": "今日必须看",
+      "discovered_at": "2026-07-07T08:12:12.912330+08:00",
       "first_seen": "2026-05-15T15:27:55.874811+08:00",
       "follow_up": "检查是否影响 AI、芯片、平台生态或开发者工具链。",
       "id": "179ea63f5d64ad8c",
       "kind": "news",
-      "last_seen": "2026-06-22T08:09:27.926636+08:00",
+      "last_seen": "2026-07-07T08:12:12.912330+08:00",
       "news_category": "科技",
       "published": "20260512T183000Z",
-      "rank": 6,
-      "reason": "rank #6; source weight: GDELT; hot terms: 美国",
+      "rank": 3,
+      "reason": "rank #3; source weight: GDELT; hot terms: 美国",
       "region": "美国/国际",
-      "score": 72,
-      "seen_count": 13,
+      "score": 78,
+      "seen_count": 14,
       "source": "GDELT / investor.bg",
       "sources": [
         "GDELT / investor.bg"
@@ -2457,24 +2457,24 @@
     },
     "18bab08f07e7f60c": {
       "category": "只归档",
-      "discovered_at": "2026-06-25T08:07:50.550574+08:00",
+      "discovered_at": "2026-07-07T08:12:12.912330+08:00",
       "first_seen": "2026-05-19T08:17:25.971053+08:00",
       "follow_up": "检查 NewsNow 本地服务或新闻兜底源是否可访问。",
       "id": "18bab08f07e7f60c",
       "kind": "failure",
-      "last_seen": "2026-06-25T08:07:50.550574+08:00",
+      "last_seen": "2026-07-07T08:12:12.912330+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 10,
+      "seen_count": 11,
       "source": "System",
       "sources": [
         "System"
       ],
-      "summary": "",
+      "summary": "The read operation timed out",
       "tags": [
         "failure"
       ],
@@ -4188,6 +4188,36 @@
       "title": "China Tightens Rules on Outbound Investment in Fight for Global Tech Edge - WSJ",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVmYzU2VMZ3QwVzZmTnpSVXN5QTEyRnVGSDF0MHhPNlJxSnNkdjM2SkJSaVByeGNSZUpDME40YUpvNzVhd21rcXZaX2xwZ0R0UnVoYmM2cVdrbWNrWEZ5a0EzaFRZZHMyU19TZUtRUlo5RExyWVBaZmxQbUppTk1Oc2hZWjBOU3Y2VEtOYnFmcHEzTER1?oc=5"
     },
+    "2be2f6ef5626b9dc": {
+      "category": "今日必须看",
+      "discovered_at": "2026-07-07T08:12:12.912330+08:00",
+      "first_seen": "2026-07-07T08:12:12.912330+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "2be2f6ef5626b9dc",
+      "kind": "news",
+      "last_seen": "2026-07-07T08:12:12.912330+08:00",
+      "news_category": "综合",
+      "published": "2026-07-06T07:32:05+00:00",
+      "rank": 5,
+      "reason": "rank #5; source weight: Google News; hot terms: 美国, china, us",
+      "region": "美国/国际",
+      "score": 81,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "China missile test draws criticism from Australia, New Zealand, Japan Al Jazeera",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "China missile test draws criticism from Australia, New Zealand, Japan - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb0VEc2MzbXB4MHBMdEdEQkVfTkVwU09ocmdya25jWjhDcVNqMVJOV3FYdHVxMGlLOE9pU3YtVWpsbDk3cDN4dk96QVVHMTQ3Z0lxMW9PODNzNHRPbGxISVpPZVpHUV80RWEwT0xIWl9lbVQ3Zm4za3dVNWZlSDdQVVBvYVptMWt4LUtFa19Pck1uRlZtcUVReTVuaDBfcnltQVpmUmZac19sUDjSAbABQVVfeXFMTTRIR0dXai12dWV1X2NPSFNwaEk0VThiYU9YVHRXb3lyUzRDeUNZUG1aNkJjTlFBSWlrakRQN2dhNEdLZU1VbEVkMnpuWS1PT1h2clo2eWNsUUdCNTNmSjJvWl9HT1VhV1BRbEFBR1RCU1hiOVlPZHZwRktZMzBVek1QV2RsUi00czctLUVEMHhubFZRM2lZOWZBMExHYWRMM2xjeUNQZHdXcjRrTUlXNTc?oc=5"
+    },
     "2becc54d6d1290ee": {
       "category": "今日必须看",
       "discovered_at": "2026-06-27T17:50:39.288114+08:00",
@@ -4549,19 +4579,19 @@
     },
     "2ef0d5ab8ff4288b": {
       "category": "今日必须看",
-      "discovered_at": "2026-06-22T08:09:27.926636+08:00",
+      "discovered_at": "2026-07-07T08:12:12.912330+08:00",
       "first_seen": "2026-05-15T15:27:55.874811+08:00",
       "follow_up": "检查是否影响 AI、芯片、平台生态或开发者工具链。",
       "id": "2ef0d5ab8ff4288b",
       "kind": "news",
-      "last_seen": "2026-06-22T08:09:27.926636+08:00",
+      "last_seen": "2026-07-07T08:12:12.912330+08:00",
       "news_category": "科技",
       "published": "20260514T191500Z",
-      "rank": 3,
-      "reason": "rank #3; source weight: GDELT; hot terms: 美国",
+      "rank": 1,
+      "reason": "rank #1; source weight: GDELT; hot terms: 美国",
       "region": "美国/国际",
-      "score": 78,
-      "seen_count": 13,
+      "score": 82,
+      "seen_count": 14,
       "source": "GDELT / tuniscope.com",
       "sources": [
         "GDELT / tuniscope.com"
@@ -5147,29 +5177,29 @@
     },
     "378b2a1a0e916b12": {
       "category": "可延后",
-      "discovered_at": "2026-05-26T08:18:13.736321+08:00",
+      "discovered_at": "2026-07-07T08:12:12.912330+08:00",
       "first_seen": "2026-05-26T08:18:13.736321+08:00",
       "follow_up": "检查是否影响 AI、芯片、平台生态或开发者工具链。",
       "id": "378b2a1a0e916b12",
       "kind": "news",
-      "last_seen": "2026-05-26T08:18:13.736321+08:00",
+      "last_seen": "2026-07-07T08:12:12.912330+08:00",
       "news_category": "科技",
       "published": "20260525T170000Z",
-      "rank": 12,
-      "reason": "rank #12; source weight: GDELT; hot terms: 美国",
+      "rank": 10,
+      "reason": "rank #10; source weight: GDELT; hot terms: 美国",
       "region": "美国/国际",
-      "score": 60,
-      "seen_count": 1,
+      "score": 64,
+      "seen_count": 2,
       "source": "GDELT / proactiveinvestors.co.uk",
       "sources": [
         "GDELT / proactiveinvestors.co.uk"
       ],
       "summary": "20260525T170000Z",
       "tags": [
-        "news",
         "gdelt",
-        "美国/国际",
-        "科技"
+        "news",
+        "科技",
+        "美国/国际"
       ],
       "title": "Huawei Technologies unveils new design chip strategy amid intensifying global competition",
       "url": "https://www.proactiveinvestors.co.uk/companies/news/1092824/huawei-technologies-unveils-new-design-chip-strategy-amid-intensifying-global-competition-1092824.html"
@@ -7898,6 +7928,35 @@
       "title": "Trump touts ‘BEST ECONOMY EVER’ in Father’s Day message - The Hill",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLTEtbEtHbTdZZ2phaFdybktMNVNRZzA3WWt0TFFUenFIbGdBaW9fTU5LUHo2ZEtfaFFnZHpfMWFER1IzYVRJeWg5ZHZKbDVhcUh2bG10X090azV3MjdRY2FZRjl6TnlGcUhWbjBMTElBUnp3UzFua2VTQVZVQU1ILXVPUXbSAYoBQVVfeXFMT2ozX2lvZDYtaS1ieDZLSU9yQUxOLXhEQjVmUnlGUjZTUTBVM3ByX2Q2NXlmUTAyMDV6N0xjUmU4SVp5UnVKOUcyTGpEbktHNVZENWh4UnV4VnFwUXJZWkJYeV80S1hKcVRpNXI4bTZMRXN0THVubVNVa1NsdmpQbFR3Vmo0TEpPSk5R?oc=5"
     },
+    "553c9e6624233117": {
+      "category": "可延后",
+      "discovered_at": "2026-07-07T08:12:12.912330+08:00",
+      "first_seen": "2026-07-07T08:12:12.912330+08:00",
+      "follow_up": "检查是否影响 AI、芯片、平台生态或开发者工具链。",
+      "id": "553c9e6624233117",
+      "kind": "news",
+      "last_seen": "2026-07-07T08:12:12.912330+08:00",
+      "news_category": "科技",
+      "published": "20260610T154500Z",
+      "rank": 12,
+      "reason": "rank #12; source weight: GDELT; hot terms: 美国, ai, ai",
+      "region": "美国/国际",
+      "score": 68,
+      "seen_count": 1,
+      "source": "GDELT / money.bg",
+      "sources": [
+        "GDELT / money.bg"
+      ],
+      "summary": "20260610T154500Z",
+      "tags": [
+        "news",
+        "gdelt",
+        "美国/国际",
+        "科技"
+      ],
+      "title": "Тайван налага по - строг контрол над AI чиповете за Китай - ще има ли отговор ?",
+      "url": "https://money.bg/economics/tayvan-nalaga-po-strog-kontrol-nad-ai-chipovete-za-kitay-shte-ima-li-otgovor.html"
+    },
     "55ff2d8c157be17f": {
       "category": "今日必须看",
       "discovered_at": "2026-06-18T09:22:24.180191+08:00",
@@ -8499,19 +8558,19 @@
     },
     "5d4611d5cd2ebea3": {
       "category": "只归档",
-      "discovered_at": "2026-07-01T17:46:52.631573+08:00",
+      "discovered_at": "2026-07-07T08:12:12.912330+08:00",
       "first_seen": "2026-05-15T15:27:55.874811+08:00",
       "follow_up": "检查 NewsNow 本地服务或新闻兜底源是否可访问。",
       "id": "5d4611d5cd2ebea3",
       "kind": "failure",
-      "last_seen": "2026-07-01T17:46:52.631573+08:00",
+      "last_seen": "2026-07-07T08:12:12.912330+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 38,
+      "seen_count": 39,
       "source": "System",
       "sources": [
         "System"
@@ -9092,6 +9151,36 @@
       ],
       "title": "AI model helps some patients get diagnoses after years of uncertainty: Study - ABC News - Breaking News, Latest News and Videos",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRk5nUS0zRm1lM0l6cEp5M1ZLRFREVXNoWVdkOUtsS0NZQkhacWJ3VlB1R3R1bkczWm10Z3Itd0VJd3EteWZEWVZwMUQ2ME1rM2RseFM1Tkwya0RWNEVBcWtDMXNtWGoteFBVekZIWTVXdEFoNlFheVRubGVubThoZ2h3eEY4c0V0cFM3Wm9zVkdoMnVmc0NiYnBZVXh5bE15QTczeEVn0gGrAUFVX3lxTE8xUE1KN3hMOGZFSXdrcmpfQkdvMXRGSkthd3ZCdjNNekxzclBWZG5FQ3A4NnpXUGhKd3NNNHZ1WVF1MGtuUlhoVXZ0dDZKZVRjSXZXZTloRDBJb1dreUFBcFhzTFVya1BweXhscVprT1hmTUtiSHBqRjM5S2swa2c5Zm5RVG5xNVNHRE81a0Etd2hrZUdsVTN3ZWRzaE82ekhmVmdrNzNBbHNYdw?oc=5"
+    },
+    "6640f1ded854f907": {
+      "category": "今日必须看",
+      "discovered_at": "2026-07-07T08:12:12.912330+08:00",
+      "first_seen": "2026-07-07T08:12:12.912330+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "6640f1ded854f907",
+      "kind": "news",
+      "last_seen": "2026-07-07T08:12:12.912330+08:00",
+      "news_category": "综合",
+      "published": "2026-07-06T16:00:00+00:00",
+      "rank": 12,
+      "reason": "rank #12; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h",
+      "region": "美国/国际",
+      "score": 79,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "China test-launches ballistic missile, irritating neighbors Taipei Times",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "China test-launches ballistic missile, irritating neighbors - Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE01Ym1Dak9CTFh6di1OSTRYS2FzMzVMSUZiaVhxbFdxdldZS1BHcWdVNVFqUDZlUkxoSGFBSmpXbTBqTDVCVG1xRWM4b3Vsd1hBbzR6TXFaSGM5NXhJM3hHV18xWXFSYUF6ZlVGR2lmeGZ4dmJ2MElUQw?oc=5"
     },
     "66440eeaa100a54d": {
       "category": "可延后",
@@ -9718,6 +9807,35 @@
       "title": "China showcases portable laser weapons for a single soldier to shoot down drones - South China Morning Post",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPME8xOFBGcGFHb1MxaGpSR1hNYk1XSmVFNTVEMWc4WjFtWTMyaTlVejlhVU1hcjhVTk5lanJ4dmNYTGdEcFhPZGxRTU1ocnN3RVBkUUYxVVZXVS16cjdaVHFweXdBN3VjS1lXdGtjQXFkUjVyRnNUMHNtZk43RFAwa0ZzZ1d1WW1RVDBjenlyRF9NaHRSbFhzRXlpUl9IOE9mb1RFd3RYZU5LQkFvWnUyNVpjZ3NSWUpEeXFOc0hoZ3ZlcmR0SlB30gHHAUFVX3lxTE1fdU5Valhid2Z1Yjh3ZVFpQ3Y1ZUE1eGllNGN3VjB1bEI1S2x5QUxhSTRyNHhGcm80bHl5bnZjaERnX0NTNFo1Q3BMXzFWOU9fMmZEMFFnaS05aFdIbkJyMzRkN0hyLWpUUWF2Q29RZkp2ZFRDemVoZ2NYbWZjaG5wNmR5QkZEdVBscHppZWpCcEM0V2tCV0tSY0ZMVGdYcnZYNWJ3YWVSQVJybEcxcUd5MHhnMHBoR1JCTkl1aHpSaExVaXBKQW8?oc=5"
     },
+    "6cf1ab0bd8c53f97": {
+      "category": "可延后",
+      "discovered_at": "2026-07-07T08:12:12.912330+08:00",
+      "first_seen": "2026-07-07T08:12:12.912330+08:00",
+      "follow_up": "检查是否影响 AI、芯片、平台生态或开发者工具链。",
+      "id": "6cf1ab0bd8c53f97",
+      "kind": "news",
+      "last_seen": "2026-07-07T08:12:12.912330+08:00",
+      "news_category": "科技",
+      "published": "20260528T070000Z",
+      "rank": 9,
+      "reason": "rank #9; source weight: GDELT; hot terms: 美国, 芯片",
+      "region": "美国/国际",
+      "score": 70,
+      "seen_count": 1,
+      "source": "GDELT / dw.com",
+      "sources": [
+        "GDELT / dw.com"
+      ],
+      "summary": "20260528T070000Z",
+      "tags": [
+        "news",
+        "gdelt",
+        "美国/国际",
+        "科技"
+      ],
+      "title": "特朗普曾批台 偷走芯片业 赖清德赠张忠谋自传盼促理解",
+      "url": "https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E6%89%B9%E5%8F%B0%E5%81%B7%E8%B5%B0%E8%8A%AF%E7%89%87%E4%B8%9A-%E8%B5%96%E6%B8%85%E5%BE%B7%E8%B5%A0%E5%BC%A0%E5%BF%A0%E8%B0%8B%E8%87%AA%E4%BC%A0%E7%9B%BC%E4%BF%83%E7%90%86%E8%A7%A3/a-77321882"
+    },
     "6d825c7dd0cd921b": {
       "category": "今日必须看",
       "discovered_at": "2026-06-22T08:09:27.926636+08:00",
@@ -9959,19 +10077,19 @@
     },
     "6fe70d1c294c6b70": {
       "category": "今日必须看",
-      "discovered_at": "2026-06-22T08:09:27.926636+08:00",
+      "discovered_at": "2026-07-07T08:12:12.912330+08:00",
       "first_seen": "2026-05-15T15:27:55.874811+08:00",
       "follow_up": "检查是否影响 AI、芯片、平台生态或开发者工具链。",
       "id": "6fe70d1c294c6b70",
       "kind": "news",
-      "last_seen": "2026-06-22T08:09:27.926636+08:00",
+      "last_seen": "2026-07-07T08:12:12.912330+08:00",
       "news_category": "科技",
       "published": "20260428T171500Z",
-      "rank": 4,
-      "reason": "rank #4; source weight: GDELT; hot terms: 美国, ai, us, ai",
+      "rank": 2,
+      "reason": "rank #2; source weight: GDELT; hot terms: 美国, ai, us, ai",
       "region": "美国/国际",
-      "score": 88,
-      "seen_count": 13,
+      "score": 92,
+      "seen_count": 14,
       "source": "GDELT / zonebourse.com",
       "sources": [
         "GDELT / zonebourse.com"
@@ -10284,6 +10402,36 @@
       ],
       "title": "Three key AI stocks to watch this week with traders expecting giant moves - CNBC",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeG56a1NOTFk0UzYwQnk1MG9UZEcwNUx5U3ZJeHBmcFlmbnNiRkpxUE5xdkpzejN3R0s5NzlHXzhWLVh6Vkd0Ql9lMFdTRWFWUGE5RVpnN0tVX2QyM19hNWZ3SDJ5TW5ibVh4cm1ORmFha0QzUU9PaFBnSUM3WThEVm13ZUVheW55Q3FyZjhHeUJKbTdCQnhJMFZMRmF3Vms0QURMQ3QyVEt0alZiWHRB0gG0AUFVX3lxTE1KaHVkZWg3Sm1sRXZJbXNwSGR5NUs0eFF0N09NOU1Cem1rWjhhMmswTWI1eVJuQ2NTWk1sM2FHdDNFZHdTTHlXR0Y3dllWaW9Wc3FocUlhVGlfS2FxQ2FKOTdQQnFLSVBWQWRxNHZ0OHg0QXp4SXh1MXlEZkUwN0dNcXhUTnhkOXNSUEFpWFNBaWxFX3paeDZiV1pMUklzSVVPUXFDY1kxbVYtUDFlNlhHR0lfcw?oc=5"
+    },
+    "72c3586affb44640": {
+      "category": "可延后",
+      "discovered_at": "2026-07-07T08:12:12.912330+08:00",
+      "first_seen": "2026-07-07T08:12:12.912330+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "72c3586affb44640",
+      "kind": "news",
+      "last_seen": "2026-07-07T08:12:12.912330+08:00",
+      "news_category": "综合",
+      "published": "2026-07-06T02:25:56+00:00",
+      "rank": 14,
+      "reason": "rank #14; source weight: Google News; hot terms: 美国, china, us",
+      "region": "美国/国际",
+      "score": 63,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "Satellite Image Analysis: China’s Nuclear Fuel Reprocessing Facility Begins Operation — Progress Toward Establishing a Nuclear Fuel Cycle 笹川平和財団",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "Satellite Image Analysis: China’s Nuclear Fuel Reprocessing Facility Begins Operation — Progress Toward Establishing a Nuclear Fuel Cycle - 笹川平和財団",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIb0h2Zk1zRENQN3FwOC1nemhEMGxRZ0tBSERRUGg1cTRLenBoUGRsejU0SVNUYmtqX2FsSGFhdDdFcEZER3ZvUllVNmRPbF9VcHBjSWk0UUNGRDFNeWR2TUYtTFgxcjRsMEhqMU41eDRfU2pQVXBv?oc=5"
     },
     "72e400e5bb172a19": {
       "category": "可延后",
@@ -10677,29 +10825,29 @@
     },
     "754353150428376c": {
       "category": "今日必须看",
-      "discovered_at": "2026-06-22T08:09:27.926636+08:00",
+      "discovered_at": "2026-07-07T08:12:12.912330+08:00",
       "first_seen": "2026-06-22T08:09:27.926636+08:00",
       "follow_up": "检查是否影响 AI、芯片、平台生态或开发者工具链。",
       "id": "754353150428376c",
       "kind": "news",
-      "last_seen": "2026-06-22T08:09:27.926636+08:00",
+      "last_seen": "2026-07-07T08:12:12.912330+08:00",
       "news_category": "科技",
       "published": "20260612T031500Z",
-      "rank": 7,
-      "reason": "rank #7; source weight: GDELT; hot terms: 美国, china, us",
+      "rank": 4,
+      "reason": "rank #4; source weight: GDELT; hot terms: 美国, china, us",
       "region": "美国/国际",
-      "score": 78,
-      "seen_count": 1,
+      "score": 84,
+      "seen_count": 2,
       "source": "GDELT / newkerala.com",
       "sources": [
         "GDELT / newkerala.com"
       ],
       "summary": "20260612T031500Z",
       "tags": [
-        "news",
         "gdelt",
-        "美国/国际",
-        "科技"
+        "news",
+        "科技",
+        "美国/国际"
       ],
       "title": "US Space Chipmaking Bill vs China",
       "url": "https://www.newkerala.com/news/a/us-pushes-space-chipmaking-initiative-counter-chinas-technological-228.htm"
@@ -12325,19 +12473,19 @@
     },
     "85befe593325af56": {
       "category": "可延后",
-      "discovered_at": "2026-05-23T08:17:21.293440+08:00",
+      "discovered_at": "2026-07-07T08:12:12.912330+08:00",
       "first_seen": "2026-05-17T08:17:40.313400+08:00",
       "follow_up": "检查是否影响 AI、芯片、平台生态或开发者工具链。",
       "id": "85befe593325af56",
       "kind": "news",
-      "last_seen": "2026-05-23T08:17:21.293440+08:00",
+      "last_seen": "2026-07-07T08:12:12.912330+08:00",
       "news_category": "科技",
       "published": "20260513T064500Z",
       "rank": 11,
       "reason": "rank #11; source weight: GDELT; hot terms: 美国",
       "region": "美国/国际",
       "score": 62,
-      "seen_count": 6,
+      "seen_count": 7,
       "source": "GDELT / bfmtv.com",
       "sources": [
         "GDELT / bfmtv.com"
@@ -13432,6 +13580,36 @@
       "title": "Why Takaichi's hardline course is backfiring at home and abroad - China Military Online",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TNGNjS1h2ZzdRYkJUYUFjNElTMGNrYk1tbnBGNFlRS2Z6aDFhZ3J2T2NKZUdlR1hHN01OeTVsbUhpZjAxZ28yUG9yZzlJODR5REJkNmRBQ3pvRW5sOUNQS1QtZGhibm8?oc=5"
     },
+    "93405361e6af9bd8": {
+      "category": "可延后",
+      "discovered_at": "2026-07-07T08:12:12.912330+08:00",
+      "first_seen": "2026-07-07T08:12:12.912330+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "93405361e6af9bd8",
+      "kind": "news",
+      "last_seen": "2026-07-07T08:12:12.912330+08:00",
+      "news_category": "综合",
+      "published": "2026-07-06T07:32:27+00:00",
+      "rank": 13,
+      "reason": "rank #13; source weight: Google News; hot terms: 美国, china, us",
+      "region": "美国/国际",
+      "score": 65,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "China conducts long-range ballistic missile test in South Pacific France 24",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "China conducts long-range ballistic missile test in South Pacific - France 24",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMXQzQlA0RnZXVzJmdzNwVlJCVTJUQzBfb1k4RmhTb2gzTzAwb1VoYnJKa0F3emsycEcybG9GckdhQTRuNElKUTJHZGJxWm12ZFY0VWVXb0lFeUVYdll4S1pxZksxM3gycWpJY0t5QjJBd3BTMV9hSVM0WWQyOV9SVXVaNmhnQmwxbEF4bXl1SnFBTF93N203WTdvb29mSjVpeWR1aHNLTUdiTi04VFY5UjRzelhrZw?oc=5"
+    },
     "934911a12ed0ae15": {
       "category": "今日必须看",
       "discovered_at": "2026-06-27T17:50:39.288114+08:00",
@@ -13671,6 +13849,36 @@
       ],
       "title": "Putin’s China visit exposes Russia’s dependence on Beijing - TVP World",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSmlOWGJBQUduYlJiUFJxSUhBY1hxSThkdXRvSFhBMmdzcldIX2JlcW9zZDZja0JWMFFudjBlRl9XVm84SXNVVHlBSVVHcFNxaTlDNmM5d3FobXpqYlZpSjRobzRJaEtvXzZjZ0w4TWI1dVpfRW9vOTJHNnhKd200a0ViVDI0UQ?oc=5"
+    },
+    "95498aa0e231cde0": {
+      "category": "今日必须看",
+      "discovered_at": "2026-07-07T08:12:12.912330+08:00",
+      "first_seen": "2026-07-07T08:12:12.912330+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "95498aa0e231cde0",
+      "kind": "news",
+      "last_seen": "2026-07-07T08:12:12.912330+08:00",
+      "news_category": "综合",
+      "published": "2026-07-06T14:51:00+00:00",
+      "rank": 6,
+      "reason": "rank #6; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h",
+      "region": "美国/国际",
+      "score": 91,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "Promotions Herald a New Leadership for China’s Military The Diplomat – Asia-Pacific",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "Promotions Herald a New Leadership for China’s Military - The Diplomat – Asia-Pacific",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd0sxNkJvWnBGWkp2RnMzR2wzUlJzU0FGd2tpdVlxbkxWdWJoWjFXQklPUDNSNnBwWE9xOHRVUXJCQWV5cGM5YkZMZm53OW9FRXZYTFoxZGJLUWctQkdQbXJVTFRSX2g0d1pGelE1ejBfSXQ1Szh3bEQ2OTRaUXZpODV0d25qQ3MyX3dHNHFDMlg?oc=5"
     },
     "955259e686391ef5": {
       "category": "今日必须看",
@@ -15018,6 +15226,36 @@
       ],
       "title": "China, Russia conduct 11th joint strategic air patrol - China Military Online",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzU1lsN1dtdVljeUJ3czVWOU8zTURHZkh4bk1DZDdOYmZhUm0tNkZXQ1NUR0xYenpWTHlHemc4clI4R3RYa3cyQ1lzcXkzTWRidFhuTzdUQ01qVHc4VF9UbXdwMmlaemRjTm05b1lJVkRkSEE?oc=5"
+    },
+    "a2a0c95bafb7a32a": {
+      "category": "可延后",
+      "discovered_at": "2026-07-07T08:12:12.912330+08:00",
+      "first_seen": "2026-07-07T08:12:12.912330+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "a2a0c95bafb7a32a",
+      "kind": "news",
+      "last_seen": "2026-07-07T08:12:12.912330+08:00",
+      "news_category": "综合",
+      "published": "2026-07-06T11:03:46+00:00",
+      "rank": 11,
+      "reason": "rank #11; source weight: Google News; hot terms: 美国, ai, china, us",
+      "region": "美国/国际",
+      "score": 73,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "China’s Military AI Logistics RealClearDefense",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "China’s Military AI Logistics - RealClearDefense",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNEt5M09CbFFrblRTazhSZ09LcTVuU0hkZ1RRTllSOHo3SzEtLWpLRWhSUl9tS3FwVXIxY1d1VnJDQWhBbU9oN0lfbHk5bURPVHZSNU4wNVdHWDlGS2VrdGJZYWtJM0FrcXpiRXV5OHIzZjNOSEt4UHRMb1RvOXNqRnZzSktTM3UxSHhSVy1R?oc=5"
     },
     "a34970a47253ec56": {
       "category": "今日必须看",
@@ -16898,6 +17136,36 @@
       "title": "Dating app Bumble is ending swipe feature, introduces AI assistant for matchmaking - ABC7 Los Angeles",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUW8tVlFKZ0xkRlFVQ0R4dEw3eEIwVnYyN0dlMGZsWDI4TEdBcjZHanEwV1Y5dURQM2lBSi1OMHRDc2F5elQ0SHBDYmhUSk5xUU5CdGxGTXZYajdSNmlVX3I0RGFOcWNLc2JIbEJpd0d0c3ZhT0lTb1hiY0t0LXUyd3hNVVM0ZnJhZHlGOE42Z0pzbVZXRzBEbURBRG1HZ0l6QVlIQWNVQdIBrAFBVV95cUxPajlGMzJMOEtYTTZFMERxOFdLSEROV0lCX2dnekVwYWg4Ty1Ud3A0UGtIV3RRcVlmSmVlQnA3UEZ4SUR0T3dxYkZsYVl3XzNSeEQ1V1kwOU5iWjVJdndTeXZLRVpqVjV6VGtlQm9TNTdydU12RlRXVE80RXhIc2tyWXRydm5vdXV6Z1BNZU9xMWhZbGsxTFRLUU41VVkxU1MzRVdFMjJFSFh1MTlP?oc=5"
     },
+    "b987135360d4b4ef": {
+      "category": "今日必须看",
+      "discovered_at": "2026-07-07T08:12:12.912330+08:00",
+      "first_seen": "2026-07-07T08:12:12.912330+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "b987135360d4b4ef",
+      "kind": "news",
+      "last_seen": "2026-07-07T08:12:12.912330+08:00",
+      "news_category": "综合",
+      "published": "2026-07-06T20:25:00+00:00",
+      "rank": 1,
+      "reason": "rank #1; source weight: Google News; hot terms: 美国, china, us; fresh within 12h",
+      "region": "美国/国际",
+      "score": 97,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "China Tests Submarine-launched Ballistic Missile, Kicks Off Annual Exercise With Russia USNI News",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "China Tests Submarine-launched Ballistic Missile, Kicks Off Annual Exercise With Russia - USNI News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRnlGLS1BV2xtYUhnNUdpX3lFVlFhRUZ3R051dzlIcHM0dEFSd09ZZzdOd044Z0E5OGh5ak1xbXg4elZmNG9vQmkwOHhnSjZIc20tSmUyS29ObVItdF83Q1NmV1Z0YnhHRFRZR1UyeHhnM3RNaVJ2MTB6OHZzWEhSY1Mwc1RIWW5tdWY5ckpOZ1laV2lGY1d5OGFydWVKa1kwTjhWc04xN0Q5VDFENUFkTVpEam9icWpkY2dz?oc=5"
+    },
     "b99601a5d1f91cb5": {
       "category": "今日必须看",
       "discovered_at": "2026-06-11T15:58:21.668187+08:00",
@@ -17196,6 +17464,36 @@
       ],
       "title": "My teenage son is against AI, but I use it every day at my corporate job. It's made for difficult conversations at home. - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVkhGQU9RMmtOTlcxa2JaSVJvemJacU9CcmE1NHk4Y29YaWZnTHZrRmVFQTV0czRwNXNuY0l3aTctUFR5aUk5NTVZNENQcEZjWjlMemZXcVg5bFh4U0NvVmd5TnB6X3l3N1FZaFBGYS01cDg0akZKNHA2WWpCRllKZHlHMW90NzZO?oc=5"
+    },
+    "bbda30e8d90224be": {
+      "category": "今日必须看",
+      "discovered_at": "2026-07-07T08:12:12.912330+08:00",
+      "first_seen": "2026-07-07T08:12:12.912330+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "bbda30e8d90224be",
+      "kind": "news",
+      "last_seen": "2026-07-07T08:12:12.912330+08:00",
+      "news_category": "综合",
+      "published": "2026-07-06T18:06:52+00:00",
+      "rank": 4,
+      "reason": "rank #4; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h",
+      "region": "美国/国际",
+      "score": 95,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "Nato can’t be ‘naive’ about China as it ramps up military might, Rutte claims South China Morning Post",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "Nato can’t be ‘naive’ about China as it ramps up military might, Rutte claims - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeG1wMHExdGJwSXpDZG8zX0NzaUFhVUxtbC1LV1FPOFVTME9lZW1lVEsyTDFWREtaektQbnhVVlpwSEk4S2NNbmQzd2RIUlF1eHJQcU95SHNBeUFjSjA1ZzVINEp6ODA3MHg4cTlaN29VQTJ6RUptcDZhcEpZRmV4NHhlVlNIV2VyUGNWRXlnNHlFTzBTS2F6eVU3ZmVPaUwxSG5mU2lWY2ctRmN4RHNTWW1zQjVWZXFIZ3BFX19rYzFTSmPSAcMBQVVfeXFMT1V5SmlDRnJtUHBiMV9JdkN3YlpGajR2NWpMWXNxSG8wRExHb21feEkxc3ZySU8zbnVzNjBtM0F0RV9qc2JzTnNTZlg4NzllZktueGVEcFpnR2hyNlIwUWpZYlpMZzVJSGJsWGNhTmkySVRmWEtSZlk0aHZMeWxKZ012bE8xcWpLdmx1VkJuaE0wWW05M1VGOG5CMFBYbVYxNHY0NHBzQ0d0UkdWR0RKYWphcFl2N2RPVUpJZHY4Uy1HTTIw?oc=5"
     },
     "bbf25904befad295": {
       "category": "今日必须看",
@@ -17797,19 +18095,19 @@
     },
     "c3ef1f400e7d989c": {
       "category": "今日必须看",
-      "discovered_at": "2026-06-22T08:09:27.926636+08:00",
+      "discovered_at": "2026-07-07T08:12:12.912330+08:00",
       "first_seen": "2026-05-26T08:18:13.736321+08:00",
       "follow_up": "检查是否影响 AI、芯片、平台生态或开发者工具链。",
       "id": "c3ef1f400e7d989c",
       "kind": "news",
-      "last_seen": "2026-06-22T08:09:27.926636+08:00",
+      "last_seen": "2026-07-07T08:12:12.912330+08:00",
       "news_category": "科技",
       "published": "20260525T110000Z",
-      "rank": 9,
-      "reason": "rank #9; cross-source x3; source weight: GDELT; hot terms: 美国",
+      "rank": 5,
+      "reason": "rank #5; cross-source x3; source weight: GDELT; hot terms: 美国",
       "region": "美国/国际",
-      "score": 80,
-      "seen_count": 7,
+      "score": 88,
+      "seen_count": 8,
       "source": "GDELT / journaldemontreal.com",
       "sources": [
         "GDELT / africanmanager.com",
@@ -18007,24 +18305,24 @@
     },
     "c5ab94a8980b47c6": {
       "category": "只归档",
-      "discovered_at": "2026-07-01T17:46:52.631573+08:00",
+      "discovered_at": "2026-07-07T08:12:12.912330+08:00",
       "first_seen": "2026-05-17T08:17:40.313400+08:00",
       "follow_up": "检查 NewsNow 本地服务或新闻兜底源是否可访问。",
       "id": "c5ab94a8980b47c6",
       "kind": "failure",
-      "last_seen": "2026-07-01T17:46:52.631573+08:00",
+      "last_seen": "2026-07-07T08:12:12.912330+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 27,
+      "seen_count": 28,
       "source": "System",
       "sources": [
         "System"
       ],
-      "summary": "",
+      "summary": "HTTP Error 429: Too Many Requests",
       "tags": [
         "failure"
       ],
@@ -18449,6 +18747,36 @@
       ],
       "title": "China vows new legal shield that could counter US sanctions and protect finance - South China Morning Post",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcHBlaEhuQXZpQklYR2w3SFRWSWtxanJQYnZ6aXFnXzluR0x6RnpZRk5uS0cyVUNtNTVUdnZBNW9zZ18zNzhQZlJXcWNuQVpUV01CYUFDODQ5YkdOX0x3Y0k4ZTkzZ1FxVTh2Nk9oT3p4R3diYVdrZWVfc3FkRk1ZV2VkeDlLVFhKd3VzNy1UelNSeHRfc3JqZFM0N2hPVWdyRC1KeVU3UTBEQkxFbjh2a2JhRjVqV1B2SHJSLVhhMjBzdG13UWo0WlBkYUR6QdIBzgFBVV95cUxQN3B6RVVLeFdVamp2eHhXY09IMlA5cENPak5DeW9xQk9uOGJ1MHpCVElnY3JsdEtualpYSEZPU0ZONHlTUE5GUjRvVFFNR0ZLeGVDbVotelBjNEppd2FtYVlXN1BTcDFVdTJCeWJGSVNuNl9yQ1ZJR2hVZzJxV1JYNW4taDl3QTVwM05VVnJPNU1DM0hMYmNhZlVLNkRqWHNQTnhkZUpBVjhwVkt3NGV3RVlwNGZNT1BFZURneXlBS2hnSndKMEItWnItVTBDZw?oc=5"
+    },
+    "c8bed6c59665726c": {
+      "category": "今日必须看",
+      "discovered_at": "2026-07-07T08:12:12.912330+08:00",
+      "first_seen": "2026-07-07T08:12:12.912330+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "c8bed6c59665726c",
+      "kind": "news",
+      "last_seen": "2026-07-07T08:12:12.912330+08:00",
+      "news_category": "综合",
+      "published": "2026-07-06T20:02:43+00:00",
+      "rank": 3,
+      "reason": "rank #3; source weight: Google News; hot terms: 美国, china, us; fresh within 12h",
+      "region": "美国/国际",
+      "score": 93,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "'Unwelcome and Concerning': China's Missile Test Is Putting the Pacific on Edge Time Magazine",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "'Unwelcome and Concerning': China's Missile Test Is Putting the Pacific on Edge - Time Magazine",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQODh2RW5GQ0hHMkhTMkd3UHNQU0xRcF9mTkRVc3JSbF95bUNPUzRJbHVDbHBGS2FjYWtxSW5WWDBBR3JGQk91Tk1xUE9DYXVkOW1Jak9ZZmFHVDFYYWVkbm1IY1d6ZU9xTXY1b1RnVmd1c01pZHQtdWFMZTFHVXJlY0lDV1EzczB4aXZ2d1IyUEsyLXlOeDlXeFdoeDFPXzRmbHZ0UHZETm5XeEhyRzI0Yg?oc=5"
     },
     "c8fde9656905360e": {
       "category": "今日必须看",
@@ -18930,6 +19258,36 @@
       "title": "A Kill Switch for Frontier AI - Lawfare",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4TkdQbWg4aHY3ZnNvYXRpWGs0THZSZ0ZCT3BxOVdiZTZXeWNheUNQTE1BTUZzTFBEN1Bmd2dtUFEzdlJRT29nQjdTTHV3d2NfdE5BNTVPMGVrd2tXZHJyQW8zY1JPWjd6NUpqcFJXSGZzVXJ0?oc=5"
     },
+    "cd2d3dbe3c5ed28c": {
+      "category": "今日必须看",
+      "discovered_at": "2026-07-07T08:12:12.912330+08:00",
+      "first_seen": "2026-07-07T08:12:12.912330+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "cd2d3dbe3c5ed28c",
+      "kind": "news",
+      "last_seen": "2026-07-07T08:12:12.912330+08:00",
+      "news_category": "综合",
+      "published": "2026-07-06T23:20:05+00:00",
+      "rank": 8,
+      "reason": "rank #8; source weight: Google News; hot terms: 美国, china, us; fresh within 12h",
+      "region": "美国/国际",
+      "score": 83,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "China test fires missile into Pacific, alarming regional powers Yahoo",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "China test fires missile into Pacific, alarming regional powers - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMHU3aVBwVzYtUkFRWW1uOVBIVW4tanJrbHJQRlhnMnEtYnhMUUFfd1hGSERlVlRJX056ZmtLVDlyZ1BSUGJKUE1WSkFBby1HOTJ4cDA4QlFNLWdHTUpxZ2RnS1FhZUJXU1dVZkpsUnlWaVpEWDk2VVdWUGJhWWtOaTViVmQxaDhHQmw0?oc=5"
+    },
     "ce7af145a13a66c8": {
       "category": "今日必须看",
       "discovered_at": "2026-06-16T08:09:47.956586+08:00",
@@ -19408,6 +19766,36 @@
       ],
       "title": "China’s Finance Chiefs Take Center Stage With Economy Slumping - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVDN1SUJnWllEWHNnc2M2Q2NyMXkxQXpzbDJZZ0RfTm9VaXdsYWR5NDI1Ml9kcDJoTkhVM25qU3d0VDBWck9RY3M4RWlLWWVnYlo4WUZZN2JhZG9tdlRueXJRazVGY3Bnd0V1OXpzdVQ0bjc2Ny1TNV9lbHRuYVZVbEg4Um9qSFVRYlhMY0czZGZPVWhtbzhMcGVDbl8tMm14SVFEWFczTm4wTGwxdjZ2YW93Zw?oc=5"
+    },
+    "d445572a47c6b0b4": {
+      "category": "今日必须看",
+      "discovered_at": "2026-07-07T08:12:12.912330+08:00",
+      "first_seen": "2026-07-07T08:12:12.912330+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "d445572a47c6b0b4",
+      "kind": "news",
+      "last_seen": "2026-07-07T08:12:12.912330+08:00",
+      "news_category": "综合",
+      "published": "2026-07-04T14:07:57+00:00",
+      "rank": 2,
+      "reason": "rank #2; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military",
+      "region": "美国/国际",
+      "score": 98,
+      "seen_count": 2,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "China's military promotes 2 new generals after anti-corruption purge thins ranks NPR",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "China's military promotes 2 new generals after anti-corruption purge thins ranks - NPR",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcVd4alBVVF95T2F3ZmswV3VnTTA4V21FMm1rZ2UwVjZBZmRlRzlMMy0xRk1XWnYtcUV3bHdycFNrUmY0X0pTMEFkcXAzbDZQaVlYcVJsYl9qU0NUNDdhdGM5NzQ0LU93T09QSlJDWGpIMS1IV3NIZlpxdW9sZ18xcHRJYXExbFBvbllZYzBzWjdvd2QxYzFLRmtIMnBZRXpoWVRjOTRnSmwtdmdvX2d1SGw1MzhqSU5wSVI4Y3hjTQ?oc=5"
     },
     "d49f5c86dc96c2b3": {
       "category": "今日必须看",
@@ -20129,19 +20517,19 @@
     },
     "daeb3f5782c37f6c": {
       "category": "可延后",
-      "discovered_at": "2026-06-22T08:09:27.926636+08:00",
+      "discovered_at": "2026-07-07T08:12:12.912330+08:00",
       "first_seen": "2026-05-15T15:27:55.874811+08:00",
       "follow_up": "检查是否影响 AI、芯片、平台生态或开发者工具链。",
       "id": "daeb3f5782c37f6c",
       "kind": "news",
-      "last_seen": "2026-06-22T08:09:27.926636+08:00",
+      "last_seen": "2026-07-07T08:12:12.912330+08:00",
       "news_category": "科技",
       "published": "20260511T073000Z",
-      "rank": 12,
-      "reason": "rank #12; source weight: GDELT; hot terms: 美国",
+      "rank": 8,
+      "reason": "rank #8; source weight: GDELT; hot terms: 美国",
       "region": "美国/国际",
-      "score": 60,
-      "seen_count": 12,
+      "score": 68,
+      "seen_count": 13,
       "source": "GDELT / newstomato.com",
       "sources": [
         "GDELT / newstomato.com"
@@ -20724,6 +21112,36 @@
       ],
       "title": "Young at Ripon Society: America Must Out-Compete China on Trade, Technology, and Shipbuilding - Senator Young (.gov)",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRXFpQTNIQkFMOHJuSlM5TGtmUHE0X0FDWlFfS05rMW5SUDNfYUdfNkdTYjhuNkJOb0ZyTFZubnhsUWdteUJGWk80cThqam9LZGJHc1I4My1qeGk1clZlWGNpNVFWZ1lYNVlmLUN4T3VrMVBRbS1rRUp5RVRpMUJJUWtLM0k2UGdHNWxKdGNYeExjcDVIUFJqdXJFTFBZT3RnQ0JXOERWQWl1RWszb3ZaTDdHMThCd3RCVkxSNWpScE5ra1pCRWJpaFFWYlFTcjBsMjA2bEZRMTYxTm45?oc=5"
+    },
+    "e0f030491b0ab09b": {
+      "category": "可延后",
+      "discovered_at": "2026-07-07T08:12:12.912330+08:00",
+      "first_seen": "2026-07-07T08:12:12.912330+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "e0f030491b0ab09b",
+      "kind": "news",
+      "last_seen": "2026-07-07T08:12:12.912330+08:00",
+      "news_category": "综合",
+      "published": "2026-07-06T06:55:00+00:00",
+      "rank": 9,
+      "reason": "rank #9; source weight: Google News; hot terms: 美国, china, us",
+      "region": "美国/国际",
+      "score": 73,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "China test-launches ballistic missile from sub in South Pacific, drawing protests CBS News",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "China test-launches ballistic missile from sub in South Pacific, drawing protests - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb1RldFRYamNyczNBVnVmelBaekt4ZTFkWUJNVEFvcTRtQWV0TXRFbmp3dmNBSTljUUVLQ2RIVnVTdDF1bW0ySlk3TmM1YktqU3YzS3V6czVFTWlEQndnZmJPem9VeUx2Z0kybGRjTE9Tc3FyZHFKQTRtWjQ2ODYxQlI5RldndFBmZDJNRUdGN0tZaFU?oc=5"
     },
     "e113bd8cc0885b66": {
       "category": "今日必须看",
@@ -22917,6 +23335,36 @@
       "title": "Experts discuss AI’s growing role in transforming health care - Harvard T.H. Chan School of Public Health",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUnV1eUVtUEVyV1ZoNVpLY253OGo4dlhtUm9aOXlHdzJINzlwUmpUdGpvYll4OVZVMExBYUp5S0xUWE9kdG5rM0JhbWl2aGhzT1V3c29KSTJYcGVpTDMzOVpXMzJ2SkZaaFg4ZFhHWHhqWVdBQUZEX2RqTVJxTmVlUEM2WWd5V1QyRExtUjFyMnA3U196MUE?oc=5"
     },
+    "f52d20b77b0c206b": {
+      "category": "可延后",
+      "discovered_at": "2026-07-07T08:12:12.912330+08:00",
+      "first_seen": "2026-07-07T08:12:12.912330+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "f52d20b77b0c206b",
+      "kind": "news",
+      "last_seen": "2026-07-07T08:12:12.912330+08:00",
+      "news_category": "综合",
+      "published": "2026-07-06T11:28:25+00:00",
+      "rank": 10,
+      "reason": "rank #10; source weight: Google News; hot terms: 美国, ai, china, us",
+      "region": "美国/国际",
+      "score": 75,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "China Test-Launches a Ballistic Missile in the South Pacific and Raises Regional Concerns Military.com",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "China Test-Launches a Ballistic Missile in the South Pacific and Raises Regional Concerns - Military.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQy1xQTc4d1pwNGUzQzVYM1VqZU1HOGkzZ0JFdDVtdkxBT0lNdjU2WEhraURhSjNweTZkcmljeE41UzZIOVZobkN3R3ByLVBXb3ZwLUUxcTN6QWI1bGcyTUZFT2RmVHVENjVoaWRBcG0zMGM1U2tQSXJVcEdtZ1ctZXd2MlVnVWZfQW9kdDlfQkpkVTBKVnFSZGMwS3VEYy1qZWJxZGxyRUZNZ0tWZmFta3Q5NWk?oc=5"
+    },
     "f59c5c8cba9e7a4e": {
       "category": "今日必须看",
       "discovered_at": "2026-06-05T08:11:59.580770+08:00",
@@ -23399,19 +23847,19 @@
     },
     "fb9a73e9cef9414f": {
       "category": "只归档",
-      "discovered_at": "2026-07-01T17:46:52.631573+08:00",
+      "discovered_at": "2026-07-07T08:12:12.912330+08:00",
       "first_seen": "2026-05-15T15:27:55.874811+08:00",
       "follow_up": "检查 NewsNow 本地服务或新闻兜底源是否可访问。",
       "id": "fb9a73e9cef9414f",
       "kind": "failure",
-      "last_seen": "2026-07-01T17:46:52.631573+08:00",
+      "last_seen": "2026-07-07T08:12:12.912330+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 26,
+      "seen_count": 27,
       "source": "System",
       "sources": [
         "System"
@@ -23482,6 +23930,36 @@
       ],
       "title": "A comprehensive list of 2026 North Country Farmer's Markets - NCPR: North Country Public Radio",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdnd5NzR2WU9fOS1lYjhseHZMakxNOWV6T3FJd1Z6TXJORE1VaDd6eWpFR015aTBUUWx3a29ja3gxNHdFekRkS2VfNktDam5vQ1lFYW9QajV6OFVkQ1VPZXpnTTAxdmE5Ny1SNjZXbnpwYmkwMDdScjFiNXZmM25wMUI1cHBMQ2h4Zm1HeWFETHNnb0JVVkNYMmN4UDFEWm1xc3RwUktfNkJKQnNwRGRvX0ZHVWlOUXBwYWc3TVlhcE44YTQ?oc=5"
+    },
+    "fc960d52f14e5c4b": {
+      "category": "可延后",
+      "discovered_at": "2026-07-07T08:12:12.912330+08:00",
+      "first_seen": "2026-07-07T08:12:12.912330+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "fc960d52f14e5c4b",
+      "kind": "news",
+      "last_seen": "2026-07-07T08:12:12.912330+08:00",
+      "news_category": "综合",
+      "published": "2026-07-05T11:08:25+00:00",
+      "rank": 15,
+      "reason": "rank #15; source weight: Google News; hot terms: 美国, china, us",
+      "region": "美国/国际",
+      "score": 61,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "China and Russia to hold annual joint naval drills Al Jazeera",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "China and Russia to hold annual joint naval drills - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVW1TZFR1SU1iLWIzSjRkeW1KbWVYY2l1dHgwakt3d19oTzlwWlYyOWV6X1Rfb05ITmZWRUxFZ3ljVHRFUHdYT01MMXhhdGdwelF2TERrSm9ReDlGV0RpbzkwWDFtLVhfVGkzVF9sVk5KYWtnaUNnR3h2Z2VZZ1Z5UXB2Y05INUNOMUxPYWNGczY3emo50gGaAUFVX3lxTFA3TzA0ZFBrOWZ3OFRqanBBeG5DV1NqNzREc201akJiY291WXNhZkF2LUFLUndFWnRUQU5pUWpCVDd2MEtvbks3MnV1RkpsRVJ1bXJkUnRoczZDNnY2TlluQnBBZEhqTXJ3MHFCM0tLbUFrQ1RxUEdydTQzY0lXaGRvVTkta29MRGVheTdHYnNzUWFhOFJoOUlHQ1E?oc=5"
     },
     "fcc104c1d01a9f2b": {
       "category": "今日必须看",
