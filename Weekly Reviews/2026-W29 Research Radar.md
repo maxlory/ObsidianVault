@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W29
-date: 2026-07-15
+date: 2026-07-17
 tags:
   - weekly-review
   - research-radar
@@ -17,7 +17,33 @@ tags:
 > **kind**：`community`
 > **reason**：matches topics: agent, agents, codex; high-value terms: agent, agents, codex; strong public engagement
 > **follow_up**：阅读讨论区，提炼争议点和实践经验。
-> **summary**：407 points | 240 comments
+> **summary**：409 points | 240 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | anthony-chaudhary/fak
+> **标题**：anthony-chaudhary/fak
+> **原文链接**：🔗 [打开原文](https://github.com/anthony-chaudhary/fak)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, claude code, codex, llm; high-value terms: agent, mcp, codex, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：fak — the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-efficient, route work per call, run local GGUF models, and adjudicate tool calls.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | ValkyrLabs/GrayMatter
+> **标题**：ValkyrLabs/GrayMatter
+> **原文链接**：🔗 [打开原文](https://github.com/ValkyrLabs/GrayMatter)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, codex, mcp; high-value terms: agent, agents, mcp, codex
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Durable memory + shared graph state for Codex/OpenClaw agents (api-0 schema awareness).
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -36,14 +62,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | BirhanuTa/minimax-plugin-cursor-bridge
-> **标题**：BirhanuTa/minimax-plugin-cursor-bridge
-> **原文链接**：🔗 [打开原文](https://github.com/BirhanuTa/minimax-plugin-cursor-bridge)
+> [!info]+ **今日必须看 / 89** | StructureIntelligence/SettleMesh
+> **标题**：StructureIntelligence/SettleMesh
+> **原文链接**：🔗 [打开原文](https://github.com/StructureIntelligence/SettleMesh)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, llm; high-value terms: agent, agents, claude code
+> **reason**：matches topics: agent, agents, claude code, mcp; high-value terms: agent, agents, mcp, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Supercharge Claude Code with MiniMax AI Agents for Smarter Code Reviews in 2026
+> **summary**：Official SettleMesh client-integration layer: MCP server, Claude Code plugin, Cursor rules, agent docs, and starter templates. The platform and CLI binary are proprietary.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -75,87 +101,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | ModyD/kaggle-AI-agents-google-capstone
-> **标题**：ModyD/kaggle-AI-agents-google-capstone
-> **原文链接**：🔗 [打开原文](https://github.com/ModyD/kaggle-AI-agents-google-capstone)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, security
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：🛡️ Enhance security response with this AI-driven incident triage agent, leveraging the Google ADK for efficient automation in enterprise environments.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | anulum/synapse-channel
-> **标题**：anulum/synapse-channel
-> **原文链接**：🔗 [打开原文](https://github.com/anulum/synapse-channel)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Neutral control plane for coding-agent fleets: claims, roles, mailbox reliability, receipts, audit, federation, dead-letter visibility, sandbox receipts, and cross-agent coordination.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | bex-co/bex
-> **标题**：bex-co/bex
-> **原文链接**：🔗 [打开原文](https://github.com/bex-co/bex)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：The open-source Render alternative — AI-native. Git push → build → deploy on your own infrastructure; agents are first-class users.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | CodeClash-ai/CodeClash
-> **标题**：CodeClash-ai/CodeClash
-> **原文链接**：🔗 [打开原文](https://github.com/CodeClash-ai/CodeClash)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, benchmark; high-value terms: benchmark, agent, agents
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Benchmarking Goal-Oriented Software Engineering
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | nagi-studio/nagi-bench
-> **标题**：nagi-studio/nagi-bench
-> **原文链接**：🔗 [打开原文](https://github.com/nagi-studio/nagi-bench)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, eval
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：One-shot LLM eval cases by NAGI STUDIO - same prompt, different agents (model + harness), runnable artifacts side by side.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-## 值得试用的工具 / 模型
-
-> [!info]+ **今日必须看 / 89** | nxtg-ai/forge-plugin
-> **标题**：nxtg-ai/forge-plugin
-> **原文链接**：🔗 [打开原文](https://github.com/nxtg-ai/forge-plugin)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, mcp; high-value terms: agent, agents, mcp, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Forge Plugin: Zero-dependency governance for Claude Code. 21 commands, 22 agents, 29 skills.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 85** | BirhanuTa/minimax-plugin-cursor-bridge
 > **标题**：BirhanuTa/minimax-plugin-cursor-bridge
 > **原文链接**：🔗 [打开原文](https://github.com/BirhanuTa/minimax-plugin-cursor-bridge)
@@ -169,14 +114,69 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | jagoff/memo
-> **标题**：jagoff/memo
-> **原文链接**：🔗 [打开原文](https://github.com/jagoff/memo)
+> [!info]+ **今日必须看 / 85** | CocoRoF/geny-executor
+> **标题**：CocoRoF/geny-executor
+> **原文链接**：🔗 [打开原文](https://github.com/CocoRoF/geny-executor)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, obsidian, mcp; high-value terms: agent, agents, mcp
+> **reason**：matches topics: agent, claude code, openai, anthropic; high-value terms: agent, mcp, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Persistent semantic memory for AI agents — 100% local on Apple Silicon (MLX) or Linux/Ubuntu (CPU). Markdown source of truth, sqlite-vec + BM25 hybrid search, a codegraph-backed knowledge graph, MCP server + CLI. No cloud, no keys.
+> **summary**：Manifest-driven 21-stage agent pipeline for Python — 5 LLM backends (Anthropic / OpenAI / Google / vLLM / Claude Code CLI), tools, skills, memory, sandboxed CLI runs, MCP. The engine behind Geny. Apache-2.0.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 83** | dayprotocol/daylight
+> **标题**：dayprotocol/daylight
+> **原文链接**：🔗 [打开原文](https://github.com/dayprotocol/daylight)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp, api
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：DAY — non-custodial capital rail for autonomous agents (public mirror)
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+## 值得试用的工具 / 模型
+
+> [!info]+ **今日必须看 / 89** | anthony-chaudhary/fak
+> **标题**：anthony-chaudhary/fak
+> **原文链接**：🔗 [打开原文](https://github.com/anthony-chaudhary/fak)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, claude code, codex, llm; high-value terms: agent, mcp, codex, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：fak — the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-efficient, route work per call, run local GGUF models, and adjudicate tool calls.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | ValkyrLabs/GrayMatter
+> **标题**：ValkyrLabs/GrayMatter
+> **原文链接**：🔗 [打开原文](https://github.com/ValkyrLabs/GrayMatter)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, codex, mcp; high-value terms: agent, agents, mcp, codex
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Durable memory + shared graph state for Codex/OpenClaw agents (api-0 schema awareness).
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | nxtg-ai/forge-plugin
+> **标题**：nxtg-ai/forge-plugin
+> **原文链接**：🔗 [打开原文](https://github.com/nxtg-ai/forge-plugin)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, mcp; high-value terms: agent, agents, mcp, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Forge Plugin: Zero-dependency governance for Claude Code. 21 commands, 22 agents, 29 skills.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -299,7 +299,33 @@ tags:
 > **kind**：`community`
 > **reason**：matches topics: agent, agents, codex; high-value terms: agent, agents, codex; strong public engagement
 > **follow_up**：阅读讨论区，提炼争议点和实践经验。
-> **summary**：407 points | 240 comments
+> **summary**：409 points | 240 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | anthony-chaudhary/fak
+> **标题**：anthony-chaudhary/fak
+> **原文链接**：🔗 [打开原文](https://github.com/anthony-chaudhary/fak)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, claude code, codex, llm; high-value terms: agent, mcp, codex, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：fak — the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-efficient, route work per call, run local GGUF models, and adjudicate tool calls.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | ValkyrLabs/GrayMatter
+> **标题**：ValkyrLabs/GrayMatter
+> **原文链接**：🔗 [打开原文](https://github.com/ValkyrLabs/GrayMatter)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, codex, mcp; high-value terms: agent, agents, mcp, codex
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Durable memory + shared graph state for Codex/OpenClaw agents (api-0 schema awareness).
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -313,19 +339,6 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, mcp; high-value terms: agent, agents, mcp, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Forge Plugin: Zero-dependency governance for Claude Code. 21 commands, 22 agents, 29 skills.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | BirhanuTa/minimax-plugin-cursor-bridge
-> **标题**：BirhanuTa/minimax-plugin-cursor-bridge
-> **原文链接**：🔗 [打开原文](https://github.com/BirhanuTa/minimax-plugin-cursor-bridge)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, llm; high-value terms: agent, agents, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Supercharge Claude Code with MiniMax AI Agents for Smarter Code Reviews in 2026
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -357,66 +370,53 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | ModyD/kaggle-AI-agents-google-capstone
-> **标题**：ModyD/kaggle-AI-agents-google-capstone
-> **原文链接**：🔗 [打开原文](https://github.com/ModyD/kaggle-AI-agents-google-capstone)
+> [!info]+ **今日必须看 / 85** | BirhanuTa/minimax-plugin-cursor-bridge
+> **标题**：BirhanuTa/minimax-plugin-cursor-bridge
+> **原文链接**：🔗 [打开原文](https://github.com/BirhanuTa/minimax-plugin-cursor-bridge)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, security
+> **reason**：matches topics: agent, agents, claude code, llm; high-value terms: agent, agents, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：🛡️ Enhance security response with this AI-driven incident triage agent, leveraging the Google ADK for efficient automation in enterprise environments.
+> **summary**：Supercharge Claude Code with MiniMax AI Agents for Smarter Code Reviews in 2026
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | anulum/synapse-channel
-> **标题**：anulum/synapse-channel
-> **原文链接**：🔗 [打开原文](https://github.com/anulum/synapse-channel)
+> [!info]+ **今日必须看 / 85** | CocoRoF/geny-executor
+> **标题**：CocoRoF/geny-executor
+> **原文链接**：🔗 [打开原文](https://github.com/CocoRoF/geny-executor)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
+> **reason**：matches topics: agent, claude code, openai, anthropic; high-value terms: agent, mcp, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Neutral control plane for coding-agent fleets: claims, roles, mailbox reliability, receipts, audit, federation, dead-letter visibility, sandbox receipts, and cross-agent coordination.
+> **summary**：Manifest-driven 21-stage agent pipeline for Python — 5 LLM backends (Anthropic / OpenAI / Google / vLLM / Claude Code CLI), tools, skills, memory, sandboxed CLI runs, MCP. The engine behind Geny. Apache-2.0.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | bex-co/bex
-> **标题**：bex-co/bex
-> **原文链接**：🔗 [打开原文](https://github.com/bex-co/bex)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：The open-source Render alternative — AI-native. Git push → build → deploy on your own infrastructure; agents are first-class users.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 77** | EvoClawBench: Can Agents Learn Reusable Skills from Their Own Runs?
-> **标题**：EvoClawBench: Can Agents Learn Reusable Skills from Their Own Runs?
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.09711)
-> **source**：cs.LG updates on arXiv.org
-> **kind**：`paper`
+> [!info]+ **今日必须看 / 81** | Show HN: Benchmark your eng team's AI agent maturity in 5 minutes
+> **标题**：Show HN: Benchmark your eng team's AI agent maturity in 5 minutes
+> **原文链接**：🔗 [打开原文](https://agent-benchmarks.com/software-factory/)
+> **source**：Hacker News
+> **kind**：`community`
 > **reason**：matches topics: agent, agents, benchmark; high-value terms: benchmark, agent, agents
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2607.09711v1 Announce Type: new Abstract: Existing agent benchmarks primarily test task completion, tool use, or skill utility, but do not isolate whether a runtime can convert evidence from its own runs into reusable skills that improve fresh executions after authoring overhead. We introduce...
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：13 points | 8 comments
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 77** | RouteRec: Strict Evaluation of Recommender-Agent Selection and Aggregation
-> **标题**：RouteRec: Strict Evaluation of Recommender-Agent Selection and Aggregation
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.09908)
-> **source**：cs.CL updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, eval
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2607.09908v1 Announce Type: new Abstract: Recommender systems increasingly face a choice among heterogeneous agents -- collaborative filters, sequential models, content-based retrievers, and LLM-based rerankers -- yet no single agent is uniformly best. We study this choice as task-aware agent...
+> [!info]+ **今日必须看 / 79** | kody-w/rappterbook
+> **标题**：kody-w/rappterbook
+> **原文链接**：🔗 [打开原文](https://github.com/kody-w/rappterbook)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, api
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Social network for AI agents. Feed SKILLS.md to your AI — it becomes a citizen. No servers, no API keys. GitHub IS the platform.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
