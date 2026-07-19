@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W29
-date: 2026-07-17
+date: 2026-07-19
 tags:
   - weekly-review
   - research-radar
@@ -18,19 +18,6 @@ tags:
 > **reason**：matches topics: agent, agents, codex; high-value terms: agent, agents, codex; strong public engagement
 > **follow_up**：阅读讨论区，提炼争议点和实践经验。
 > **summary**：409 points | 240 comments
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | anthony-chaudhary/fak
-> **标题**：anthony-chaudhary/fak
-> **原文链接**：🔗 [打开原文](https://github.com/anthony-chaudhary/fak)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, claude code, codex, llm; high-value terms: agent, mcp, codex, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：fak — the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-efficient, route work per call, run local GGUF models, and adjudicate tool calls.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -62,14 +49,40 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | StructureIntelligence/SettleMesh
-> **标题**：StructureIntelligence/SettleMesh
-> **原文链接**：🔗 [打开原文](https://github.com/StructureIntelligence/SettleMesh)
+> [!info]+ **今日必须看 / 89** | sickn33/agentic-awesome-skills
+> **标题**：sickn33/agentic-awesome-skills
+> **原文链接**：🔗 [打开原文](https://github.com/sickn33/agentic-awesome-skills)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, mcp; high-value terms: agent, agents, mcp, claude code
+> **reason**：matches topics: agent, claude code, codex, mcp; high-value terms: agent, mcp, codex, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Official SettleMesh client-integration layer: MCP server, Claude Code plugin, Cursor rules, agent docs, and starter templates. The platform and CLI binary are proprietary.
+> **summary**：Installable GitHub library of 1,900+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/community skill collections.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | Moxi-Lab/obsidian-ai-workflow-kit
+> **标题**：Moxi-Lab/obsidian-ai-workflow-kit
+> **原文链接**：🔗 [打开原文](https://github.com/Moxi-Lab/obsidian-ai-workflow-kit)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Local-first Obsidian vault structure that gives AI agents persistent project memory across sessions. Works with Claude Code, Cursor, Codex, ChatGPT.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 87** | ReasFlow: Assisting Reasoning-Centric Scientific Discovery in Applied Mathematics via a Knowledge-Based Multi-Agent System
+> **标题**：ReasFlow: Assisting Reasoning-Centric Scientific Discovery in Applied Mathematics via a Knowledge-Based Multi-Agent System
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.14178)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, research, benchmark; high-value terms: benchmark, agent, agents, reasoning
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2607.14178v1 Announce Type: new Abstract: Recent advances in Large Language Models have fueled autonomous AI agents capable of tackling complex scientific tasks, yet existing automated research systems remain predominantly focused on empirically driven domains with quantitative benchmarks, le...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -101,6 +114,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | wlsdks/ontology-atlas
+> **标题**：wlsdks/ontology-atlas
+> **原文链接**：🔗 [打开原文](https://github.com/wlsdks/ontology-atlas)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: claude code, codex, obsidian, mcp; high-value terms: mcp, codex, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Local-first ontology memory for plain Codex/Claude Code via Atlas MCP/CLI: product meaning, code evidence, verification paths.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 85** | BirhanuTa/minimax-plugin-cursor-bridge
 > **标题**：BirhanuTa/minimax-plugin-cursor-bridge
 > **原文链接**：🔗 [打开原文](https://github.com/BirhanuTa/minimax-plugin-cursor-bridge)
@@ -114,48 +140,9 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | CocoRoF/geny-executor
-> **标题**：CocoRoF/geny-executor
-> **原文链接**：🔗 [打开原文](https://github.com/CocoRoF/geny-executor)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, claude code, openai, anthropic; high-value terms: agent, mcp, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Manifest-driven 21-stage agent pipeline for Python — 5 LLM backends (Anthropic / OpenAI / Google / vLLM / Claude Code CLI), tools, skills, memory, sandboxed CLI runs, MCP. The engine behind Geny. Apache-2.0.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 83** | dayprotocol/daylight
-> **标题**：dayprotocol/daylight
-> **原文链接**：🔗 [打开原文](https://github.com/dayprotocol/daylight)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp, api
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：DAY — non-custodial capital rail for autonomous agents (public mirror)
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 
 ## 值得试用的工具 / 模型
 
-> [!info]+ **今日必须看 / 89** | anthony-chaudhary/fak
-> **标题**：anthony-chaudhary/fak
-> **原文链接**：🔗 [打开原文](https://github.com/anthony-chaudhary/fak)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, claude code, codex, llm; high-value terms: agent, mcp, codex, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：fak — the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-efficient, route work per call, run local GGUF models, and adjudicate tool calls.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | ValkyrLabs/GrayMatter
 > **标题**：ValkyrLabs/GrayMatter
 > **原文链接**：🔗 [打开原文](https://github.com/ValkyrLabs/GrayMatter)
@@ -182,9 +169,35 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | sickn33/agentic-awesome-skills
+> **标题**：sickn33/agentic-awesome-skills
+> **原文链接**：🔗 [打开原文](https://github.com/sickn33/agentic-awesome-skills)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, claude code, codex, mcp; high-value terms: agent, mcp, codex, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Installable GitHub library of 1,900+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/community skill collections.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 
 ## 论文到代码观察
 
+> [!info]+ **今日必须看 / 87** | ReasFlow: Assisting Reasoning-Centric Scientific Discovery in Applied Mathematics via a Knowledge-Based Multi-Agent System
+> **标题**：ReasFlow: Assisting Reasoning-Centric Scientific Discovery in Applied Mathematics via a Knowledge-Based Multi-Agent System
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.14178)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, research, benchmark; high-value terms: benchmark, agent, agents, reasoning
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2607.14178v1 Announce Type: new Abstract: Recent advances in Large Language Models have fueled autonomous AI agents capable of tackling complex scientific tasks, yet existing automated research systems remain predominantly focused on empirically driven domains with quantitative benchmarks, le...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 77** | EvoClawBench: Can Agents Learn Reusable Skills from Their Own Runs?
 > **标题**：EvoClawBench: Can Agents Learn Reusable Skills from Their Own Runs?
 > **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.09711)
@@ -237,53 +250,40 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **可延后 / 62** | Coresets Before Score Sets: Evaluation-Unsupervised Prompt Subset Selection for LLM Benchmarks
-> **标题**：Coresets Before Score Sets: Evaluation-Unsupervised Prompt Subset Selection for LLM Benchmarks
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.09739)
-> **source**：cs.AI updates on arXiv.org
+> [!info]+ **可延后 / 70** | Branching Policy Optimization: Sandbox-Native Language Agent Reinforcement Learning
+> **标题**：Branching Policy Optimization: Sandbox-Native Language Agent Reinforcement Learning
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.14171)
+> **source**：cs.LG updates on arXiv.org
 > **kind**：`paper`
-> **reason**：matches topics: llm, benchmark; high-value terms: benchmark, eval
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2607.09739v1 Announce Type: new Abstract: We study LLM benchmark coreset selection: selecting a small subset of prompts over multiple benchmarks whose induced model scores and rankings approximate those obtained from the full benchmark suite. In evaluation-unsupervised benchmark coreset selec...
+> **summary**：arXiv:2607.14171v1 Announce Type: new Abstract: Reinforcement learning has emerged as the dominant paradigm for training large language model (LLM) agents that interact with executable sandboxes. State-of-the-art algorithms such as PPO, RLOO, and GRPO inherit their rollout topology from RLHF: for e...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **可延后 / 62** | Faithful by Design: Evaluating and Improving LLM-Generated Clinical Trial Summaries for Multi-Stakeholder Audiences
-> **标题**：Faithful by Design: Evaluating and Improving LLM-Generated Clinical Trial Summaries for Multi-Stakeholder Audiences
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.09932)
+> [!info]+ **可延后 / 70** | Semantic Register Compression in Multi-Agent LLM Cascades
+> **标题**：Semantic Register Compression in Multi-Agent LLM Cascades
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.14119)
 > **source**：cs.CL updates on arXiv.org
 > **kind**：`paper`
-> **reason**：matches topics: llm, benchmark; high-value terms: benchmark, eval
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2607.09932v1 Announce Type: new Abstract: Large language models are increasingly used to summarize clinical trial results for healthcare providers, patients, and payers, but their tendency to hallucinate poses significant risks in this high-stakes context. This study introduces a benchmark ev...
+> **summary**：arXiv:2607.14119v1 Announce Type: new Abstract: Multi-agent LLM systems commonly decompose complex tasks into specialized roles. However, this modularity introduces a representational risk: when intermediate agents transform text across linguistic registers, they can systematically compress the sem...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **可延后 / 62** | BatteryLake: Agentic, Physics-Grounded Curation of Heterogeneous Battery Aging Data and Benchmarking
-> **标题**：BatteryLake: Agentic, Physics-Grounded Curation of Heterogeneous Battery Aging Data and Benchmarking
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.09762)
+> [!info]+ **可延后 / 69** | RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination
+> **标题**：RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.14187)
 > **source**：cs.AI updates on arXiv.org
 > **kind**：`paper`
-> **reason**：matches topics: agent, benchmark; high-value terms: benchmark, agent
+> **reason**：matches topics: agent, agents; high-value terms: agent, agents, reasoning
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2607.09762v1 Announce Type: new Abstract: Public battery aging datasets are a critical asset for advanced health management, but their practical use is often limited by inconsistent formats, unclear schemas, and metadata scattered across repositories and publications. Current curation remains...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **可延后 / 62** | Closed-Loop Control with Rule-Aligned Small Language Models and Multi-Agent Self-Correction
-> **标题**：Closed-Loop Control with Rule-Aligned Small Language Models and Multi-Agent Self-Correction
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.09713)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents; high-value terms: agent, agents
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2607.09713v1 Announce Type: new Abstract: A key step toward autonomous industrial operation is the ability to create and reconfigure control policies from natural-language requirement specifications, with minimal or no manual redesign. In this setting, policy generation by AI agents can be a...
+> **summary**：arXiv:2607.14187v1 Announce Type: new Abstract: Embodied cognition requires agents to connect high-level task reasoning with the physical states to be achieved. We introduce Hy-Embodied-RxBrain, an embodied cognition foundation model with joint language-visual reasoning and imagination. Unlike visi...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -300,19 +300,6 @@ tags:
 > **reason**：matches topics: agent, agents, codex; high-value terms: agent, agents, codex; strong public engagement
 > **follow_up**：阅读讨论区，提炼争议点和实践经验。
 > **summary**：409 points | 240 comments
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | anthony-chaudhary/fak
-> **标题**：anthony-chaudhary/fak
-> **原文链接**：🔗 [打开原文](https://github.com/anthony-chaudhary/fak)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, claude code, codex, llm; high-value terms: agent, mcp, codex, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：fak — the Fused Agent Kernel: one Go binary for AI agent loops. Wrap Claude Code/Codex/Cursor, keep long sessions cache-efficient, route work per call, run local GGUF models, and adjudicate tool calls.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -344,6 +331,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 87** | ReasFlow: Assisting Reasoning-Centric Scientific Discovery in Applied Mathematics via a Knowledge-Based Multi-Agent System
+> **标题**：ReasFlow: Assisting Reasoning-Centric Scientific Discovery in Applied Mathematics via a Knowledge-Based Multi-Agent System
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.14178)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, research, benchmark; high-value terms: benchmark, agent, agents, reasoning
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2607.14178v1 Announce Type: new Abstract: Recent advances in Large Language Models have fueled autonomous AI agents capable of tackling complex scientific tasks, yet existing automated research systems remain predominantly focused on empirically driven domains with quantitative benchmarks, le...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 85** | jagoff/memo
 > **标题**：jagoff/memo
 > **原文链接**：🔗 [打开原文](https://github.com/jagoff/memo)
@@ -370,6 +370,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | wlsdks/ontology-atlas
+> **标题**：wlsdks/ontology-atlas
+> **原文链接**：🔗 [打开原文](https://github.com/wlsdks/ontology-atlas)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: claude code, codex, obsidian, mcp; high-value terms: mcp, codex, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Local-first ontology memory for plain Codex/Claude Code via Atlas MCP/CLI: product meaning, code evidence, verification paths.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 85** | BirhanuTa/minimax-plugin-cursor-bridge
 > **标题**：BirhanuTa/minimax-plugin-cursor-bridge
 > **原文链接**：🔗 [打开原文](https://github.com/BirhanuTa/minimax-plugin-cursor-bridge)
@@ -383,40 +396,27 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | CocoRoF/geny-executor
-> **标题**：CocoRoF/geny-executor
-> **原文链接**：🔗 [打开原文](https://github.com/CocoRoF/geny-executor)
+> [!info]+ **今日必须看 / 85** | xInfer123/octobench
+> **标题**：xInfer123/octobench
+> **原文链接**：🔗 [打开原文](https://github.com/xInfer123/octobench)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, claude code, openai, anthropic; high-value terms: agent, mcp, claude code
+> **reason**：matches topics: agent, agents, llm, benchmark; high-value terms: benchmark, agent, agents
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Manifest-driven 21-stage agent pipeline for Python — 5 LLM backends (Anthropic / OpenAI / Google / vLLM / Claude Code CLI), tools, skills, memory, sandboxed CLI runs, MCP. The engine behind Geny. Apache-2.0.
+> **summary**：Benchmark and compare LLM tool, configuration, and prompt setups using a shared case framework with automated scoring and telemetry.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 81** | Show HN: Benchmark your eng team's AI agent maturity in 5 minutes
-> **标题**：Show HN: Benchmark your eng team's AI agent maturity in 5 minutes
-> **原文链接**：🔗 [打开原文](https://agent-benchmarks.com/software-factory/)
-> **source**：Hacker News
-> **kind**：`community`
-> **reason**：matches topics: agent, agents, benchmark; high-value terms: benchmark, agent, agents
-> **follow_up**：阅读讨论区，提炼争议点和实践经验。
-> **summary**：13 points | 8 comments
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | kody-w/rappterbook
-> **标题**：kody-w/rappterbook
-> **原文链接**：🔗 [打开原文](https://github.com/kody-w/rappterbook)
+> [!info]+ **今日必须看 / 83** | saeedkolivand/ai-job-hunter-app
+> **标题**：saeedkolivand/ai-job-hunter-app
+> **原文链接**：🔗 [打开原文](https://github.com/saeedkolivand/ai-job-hunter-app)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, api
+> **reason**：matches topics: agent, claude code, codex; high-value terms: agent, codex, claude code, api
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Social network for AI agents. Feed SKILLS.md to your AI — it becomes a citizen. No servers, no API keys. GitHub IS the platform.
+> **summary**：Local-first AI desktop assistant that scrapes job boards, matches roles to your resume, and auto-generates resumes & cover letters. Offline with Ollama, BYO API key, or route it through an AI CLI agent (Claude Code, Codex, Gemini CLI).
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
