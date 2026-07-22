@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W30
-date: 2026-07-21
+date: 2026-07-22
 tags:
   - weekly-review
   - research-radar
@@ -23,19 +23,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | nxtg-ai/forge-plugin
-> **标题**：nxtg-ai/forge-plugin
-> **原文链接**：🔗 [打开原文](https://github.com/nxtg-ai/forge-plugin)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, mcp; high-value terms: agent, agents, mcp, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Forge Plugin: Zero-dependency governance for Claude Code. 21 commands, 22 agents, 29 skills.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | Agent-Pattern-Labs/JobForge
 > **标题**：Agent-Pattern-Labs/JobForge
 > **原文链接**：🔗 [打开原文](https://github.com/Agent-Pattern-Labs/JobForge)
@@ -44,6 +31,19 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, mcp, codex
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：AI-powered job search automation — evaluate offers, generate ATS-optimized CVs, scan portals, negotiate, and track applications. One config drives OpenCode, Cursor, Claude Code, and Codex. Free end-to-end via OpenCode + Geometra MCP.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | melodic-software/claude-code-plugins
+> **标题**：melodic-software/claude-code-plugins
+> **原文链接**：🔗 [打开原文](https://github.com/melodic-software/claude-code-plugins)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, mcp; high-value terms: agent, agents, mcp, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Melodic Software — Claude Code plugin marketplace: reusable, repo-agnostic skills, hooks, agents, and MCP servers.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -114,14 +114,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | BirhanuTa/minimax-plugin-cursor-bridge
-> **标题**：BirhanuTa/minimax-plugin-cursor-bridge
-> **原文链接**：🔗 [打开原文](https://github.com/BirhanuTa/minimax-plugin-cursor-bridge)
+> [!info]+ **今日必须看 / 85** | decocms/studio
+> **标题**：decocms/studio
+> **原文链接**：🔗 [打开原文](https://github.com/decocms/studio)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, llm; high-value terms: agent, agents, claude code
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Supercharge Claude Code with MiniMax AI Agents for Smarter Code Reviews in 2026
+> **summary**：Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -156,19 +156,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | nxtg-ai/forge-plugin
-> **标题**：nxtg-ai/forge-plugin
-> **原文链接**：🔗 [打开原文](https://github.com/nxtg-ai/forge-plugin)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, mcp; high-value terms: agent, agents, mcp, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Forge Plugin: Zero-dependency governance for Claude Code. 21 commands, 22 agents, 29 skills.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | Agent-Pattern-Labs/JobForge
 > **标题**：Agent-Pattern-Labs/JobForge
 > **原文链接**：🔗 [打开原文](https://github.com/Agent-Pattern-Labs/JobForge)
@@ -177,6 +164,19 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, mcp, codex
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：AI-powered job search automation — evaluate offers, generate ATS-optimized CVs, scan portals, negotiate, and track applications. One config drives OpenCode, Cursor, Claude Code, and Codex. Free end-to-end via OpenCode + Geometra MCP.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | melodic-software/claude-code-plugins
+> **标题**：melodic-software/claude-code-plugins
+> **原文链接**：🔗 [打开原文](https://github.com/melodic-software/claude-code-plugins)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, mcp; high-value terms: agent, agents, mcp, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Melodic Software — Claude Code plugin marketplace: reusable, repo-agnostic skills, hooks, agents, and MCP servers.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -263,27 +263,27 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **可延后 / 70** | Process Reward Informed Tree Rollout for Effective Multi-Turn RL
-> **标题**：Process Reward Informed Tree Rollout for Effective Multi-Turn RL
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.15610)
-> **source**：cs.CL updates on arXiv.org
+> [!info]+ **可延后 / 70** | CIGPO: Contextual Information-Gain Policy Optimization for Multi-Turn Evidence-Reading LLM Agents
+> **标题**：CIGPO: Contextual Information-Gain Policy Optimization for Multi-Turn Evidence-Reading LLM Agents
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.16244)
+> **source**：cs.LG updates on arXiv.org
 > **kind**：`paper`
 > **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2607.15610v1 Announce Type: new Abstract: Reinforcement learning (RL) has become a key approach for training LLM agents, yet popular methods such as GRPO/RLOO rely on multiple independently sampled complete trajectories for advantage estimation. In long-horizon agentic tasks, such a uniform r...
+> **summary**：arXiv:2607.16244v1 Announce Type: new Abstract: Training multi-turn evidence-reading agents with outcome-only reinforcement learning is unstable because intermediate turns receive little direct credit. In HotpotQA experiments with Qwen2.5-3B-Instruct, GRPO initially improves (standard F1 0.430) but...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **可延后 / 70** | Semantic Register Compression in Multi-Agent LLM Cascades
-> **标题**：Semantic Register Compression in Multi-Agent LLM Cascades
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.14119)
+> [!info]+ **可延后 / 70** | From Memory to Skills: Evidence-Grounded Co-Evolution Governance for Long-Horizon LLM Agents
+> **标题**：From Memory to Skills: Evidence-Grounded Co-Evolution Governance for Long-Horizon LLM Agents
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.16621)
 > **source**：cs.CL updates on arXiv.org
 > **kind**：`paper`
 > **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2607.14119v1 Announce Type: new Abstract: Multi-agent LLM systems commonly decompose complex tasks into specialized roles. However, this modularity introduces a representational risk: when intermediate agents transform text across linguistic registers, they can systematically compress the sem...
+> **summary**：arXiv:2607.16621v1 Announce Type: new Abstract: Existing memory systems for long-horizon LLM agents often retrieve prior traces as passive context rather than converting them into executable capabilities. In this paper, we propose MSCE, a training-free Memory--Skill Co-Evolution framework that orga...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -300,19 +300,6 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, mcp, codex
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Runtime Firewall for AI agents which catches the rogue tool call before it runs. Dangerous commands, secret leaks, prompt injection. For Claude Code, Codex and framework SDKs
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | nxtg-ai/forge-plugin
-> **标题**：nxtg-ai/forge-plugin
-> **原文链接**：🔗 [打开原文](https://github.com/nxtg-ai/forge-plugin)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, mcp; high-value terms: agent, agents, mcp, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Forge Plugin: Zero-dependency governance for Claude Code. 21 commands, 22 agents, 29 skills.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -344,14 +331,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | BirhanuTa/minimax-plugin-cursor-bridge
-> **标题**：BirhanuTa/minimax-plugin-cursor-bridge
-> **原文链接**：🔗 [打开原文](https://github.com/BirhanuTa/minimax-plugin-cursor-bridge)
+> [!info]+ **今日必须看 / 85** | decocms/studio
+> **标题**：decocms/studio
+> **原文链接**：🔗 [打开原文](https://github.com/decocms/studio)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, llm; high-value terms: agent, agents, claude code
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Supercharge Claude Code with MiniMax AI Agents for Smarter Code Reviews in 2026
+> **summary**：Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -396,27 +383,40 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | ModyD/kaggle-AI-agents-google-capstone
-> **标题**：ModyD/kaggle-AI-agents-google-capstone
-> **原文链接**：🔗 [打开原文](https://github.com/ModyD/kaggle-AI-agents-google-capstone)
+> [!info]+ **今日必须看 / 79** | moymoytoto/shodhRAG
+> **标题**：moymoytoto/shodhRAG
+> **原文链接**：🔗 [打开原文](https://github.com/moymoytoto/shodhRAG)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, security
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, eval
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：🛡️ Enhance security response with this AI-driven incident triage agent, leveraging the Google ADK for efficient automation in enterprise environments.
+> **summary**：Build a local-first AI assistant using retrieval-augmented generation, agents, and tool calling, powered by Rust for secure and fast performance.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | anulum/synapse-channel
-> **标题**：anulum/synapse-channel
-> **原文链接**：🔗 [打开原文](https://github.com/anulum/synapse-channel)
+> [!info]+ **今日必须看 / 79** | mlflow/mlflow
+> **标题**：mlflow/mlflow
+> **原文链接**：🔗 [打开原文](https://github.com/mlflow/mlflow)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, eval
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 79** | patchloom/patchloom
+> **标题**：patchloom/patchloom
+> **原文链接**：🔗 [打开原文](https://github.com/patchloom/patchloom)
 > **source**：GitHub Search
 > **kind**：`github_repo`
 > **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Neutral control plane for coding-agent fleets: claims, roles, mailbox reliability, receipts, audit, federation, dead-letter visibility, sandbox receipts, and cross-agent coordination.
+> **summary**：Single-binary CLI that gives AI agents safe, structured file editing
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库

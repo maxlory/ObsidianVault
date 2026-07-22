@@ -1,6 +1,6 @@
 ---
 title: News Radar Week 2026-W30
-date: 2026-07-21
+date: 2026-07-22
 tags:
   - news-radar
   - weekly-review
@@ -15,255 +15,255 @@ tags:
 
 ## 过去阶段最高热度
 
-> [!info]+ **今日必须看 / 91** | China's exports ride AI boom as domestic economy struggles - Reuters
-> **标题**：China's exports ride AI boom as domestic economy struggles - Reuters
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMinwFBVV95cUxNRGpqNHVtR2tXdDB5RnBUeHF0U2oyRDRMNnduQVM0eHBWOTVxalVjSGdOMXlFZGxNRUc2dW9fcUttclVoVTdKbk5rRUlVOEdqWHFQRzd5WllrZGI2dnhOVEJXRDU1eFhSVlAtZDk2UEFCRExBdEQxMEdhTENzdzVRVWpaVUhJU2l2RU1KT0xobmNyeGtPcEY1S3Exb3doaG8?oc=5)
-> **source**：Google News / Global Markets Tech
+> [!info]+ **今日必须看 / 99** | Exclusive | Can the US and its allies break China’s grip on rare earths and AI technology? - South China Morning Post
+> **标题**：Exclusive | Can the US and its allies break China’s grip on rare earths and AI technology? - South China Morning Post
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMixgFBVV95cUxQUWFvU3pwOXFxUFBuUmgtUXdZR2tYdDJoZ19EMVZDb2x6ZUg3QjNpa3ZGYmUtcHZxLWs3TE44a05lQlFIWDMxalZsV29mZUtsVUJhNHpPZGRYdl83SUZlS0paV25wVVk1Z3hudkNPaVBYOG1fSXpCUEFqWnc1dElZS2l0UFFudUxXVmxQV1ZqalN4aXRsdElsRVhyb20tcEJYWWRaNTBZWnBZeGdKeFR5UVhvSW5YeUppQ3BvbWRmek1INHRibUHSAcYBQVVfeXFMTUIzZ0d4ZGVoVDdaNWJncXRCM0hXM0xwMXAyMEUxUzgtME5UOUVVSzVYUHFvME5hbWMzVVJEVXlOQ3NVaDFsZThRcUNUZ3JVUFZMMWtrUlBCd1pqNE9pN1h3dzBsVU1oQW84M1g4b3hJTXhwTVZpUHQySFl6ZEVMdmg0YUFUYjV0b2xTLTNRYVdUbU5BX2RpLUhhbXU4TDVSTlNDREFNcGJYN1ZUaDJ5VnRxNHhJc3p4dms2R25OTGRiSy1aT09B?oc=5)
+> **source**：Google News / China US Hot News
 > **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
+> **region**：美国/国际
+> **category**：综合
 > **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, china, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：China's exports ride AI boom as domestic economy struggles Reuters
+> **reason**：rank #2; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Exclusive | Can the US and its allies break China’s grip on rare earths and AI technology? South China Morning Post
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 89** | FTC Takes Aim at AI Accuracy - Consumer Finance Monitor
-> **标题**：FTC Takes Aim at AI Accuracy - Consumer Finance Monitor
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxORVRQcE5RMldyWFV0S1FXZDg1SkQyem5rcUR2ZGoydUk2bmVRZUowbXpkdS03dVdVUlh2V08zbmxTci1nZnZIb0pRWDhoMkJFR0pLTm1zclJwOUxuMTFCLTN3NjJPOHRsckhnUHI3V3UyZUk3WGVxbHpuNk1BeE8xTVdDMWoyQQ?oc=5)
+> [!info]+ **今日必须看 / 97** | OpenAI and Hugging Face partner to address security incident during model evaluation - OpenAI
+> **标题**：OpenAI and Hugging Face partner to address security incident during model evaluation - OpenAI
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE5QM0NxYjlpZlBQVHNUaVZta3E1aGJ5LTZHcTg5bEU5T3JCbVdIc19BUk5pcFBlR0RNaDhoYVhGRm95TjVTMVZMLU9XOE1MeEhNQS02VGI3TDh6bWktZ2VoYU82eWFVcVJTM0NKbkUtWU83a2IzNUdvZFVCeDVzdw?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
 > **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets
+> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：FTC Takes Aim at AI Accuracy Consumer Finance Monitor
+> **summary**：OpenAI and Hugging Face partner to address security incident during model evaluation OpenAI
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 87** | Exclusive: Google DeepMind's Demis Hassabis calls for U.S.-led global AI watchdog - Axios
-> **标题**：Exclusive: Google DeepMind's Demis Hassabis calls for U.S.-led global AI watchdog - Axios
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMigwFBVV95cUxOVmpsdXhxUFM3ZUNpVXBHSW1hdGdCQ0NYWjR5THdESnM1aEhWZERZRTdkQy1zVjZURERVWEk0NlZWaDh1UUNnbWttQXNneXQ5aGx6T1JhY0FhU1hwSE5iOUNFbTQ3cUZtbnRWLWhrOVVEbTg3cUFXa1lUX0FjcnlLRWgtaw?oc=5)
+> [!info]+ **今日必须看 / 97** | To Base or Not to Base: The Iran War Exposes Flaws of U.S. Basing in the Middle East - Council on Foreign Relations
+> **标题**：To Base or Not to Base: The Iran War Exposes Flaws of U.S. Basing in the Middle East - Council on Foreign Relations
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirwFBVV95cUxPYW1nbGM5c3RKWnY4Mk5kZDU1dzh4aUFCRFBLaXhBbkdZT3FWcENKUTg4UTJIUDJua01oR0ltdGZZQ2pYaFVPTTdKeHZQbzJCNmNzcnpNVUhvbFR6dUR6cHhlSFpkQjAtT05HbmpTRzJBSlJFdUkzS0VsTmtUOUdrMEk3UVcya25VQ2hrZXEySWdRMU9kUV9UcWhDSTY4c19EQ3gzTGEtUU9aSXJjLVNr?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：To Base or Not to Base: The Iran War Exposes Flaws of U.S. Basing in the Middle East Council on Foreign Relations
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 95** | OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library - The New York Times
+> **标题**：OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library - The New York Times
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFFIX1hiUENTX3h0a3o0Vk5pYk9SU0VwWXNFQThrWS1paUE5RGpoUVdDRjV6QlBzOE1COU0zbW5qaVNfQnhzNXRJZzZCdDhiRkhZYzJhOGc2TXd3ZWhBeGlKTjN1VGRBaXVaMUUzbzBXWlNBczRiTUJlWlk5UnZSTXNZVQ?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library The New York Times
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 95** | Exclusive | White House to Redirect Billions in Research Funds Toward AI, Away From Colleges - WSJ
+> **标题**：Exclusive | White House to Redirect Billions in Research Funds Toward AI, Away From Colleges - WSJ
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNnpBamFXTmpXX1ROMHBmYjJFOEJuMEtfb0NmZ3MzUTNNWjhEVDctbXNyb0ZMejI4NUR1TFA5am5FNzBXbFkxRFd1RFdoWUI2U0NuUnpHWDJHV3N6Q05tMHNUQVVUNTBoLXFJOTZGQW5CTXozMlNZQWM2WnNNQUNWdXpVQWJfMjNOWnBsdW5vbi1GSTFqcW95bjlZRlFPMlZZcDdZRGVEeGxRb2RKQ21NcTdURFNhcDdSV20yS1puY1U2dw?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
 > **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: ai, us, ai, markets
+> **reason**：rank #4; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Exclusive: Google DeepMind's Demis Hassabis calls for U.S.-led global AI watchdog Axios
+> **summary**：Exclusive | White House to Redirect Billions in Research Funds Toward AI, Away From Colleges WSJ
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 81** | Antimony Resources Appoints Former Director and Professor of the United States Military Academy as Advisory to the Board of Directors - Junior Mining Network
-> **标题**：Antimony Resources Appoints Former Director and Professor of the United States Military Academy as Advisory to the Board of Directors - Junior Mining Network
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMi6AJBVV95cUxPRVNoNjJsUWFoUk5jLUFWZ1o5WkcwbHBxcktHM1VBQms0aGh0RGxGdzBFWVBpcFRVdkdCS0pDeGR6QmFuY3dEZFdyVmRkVVhTNmdRYnNrR2tEXzBzbE5NOUpSTGx6aWRSR19MWC1kN25Od3prNktrSlNfQVBBcWpHS3Z2ZnRKTktGbVNSZ29kQU5RZG1WTTg0Qy1Oa29KWlNvSGxLSXFGd3FuUUtGSjdiNWRtZkNCR1VoaHJtTGtoYjFEb2h1LWNiemU1aHdFMTYzSFE2eHdzTWFFTlNwMGtUWTgwbnhNd3lMVGtBYW9vdExUTGNFX0FaZlRZQ01EUlRSbWRjTzFhV0pzaTJ4ajY1dzd6NGN1bHZSUXNCVXplRnZIZkxvTTQwNlgwU0tybEk1eElWb2k3MkV4dHdLbnNOVlpaU3dJclNrMV91UzNmMjk0b1ZNS1R3Nk0zUkQ0LXJ6V04tNnc3bHc?oc=5)
+> [!info]+ **今日必须看 / 95** | China's new AI model halts new subscriptions as demand swamps capacity - ABC News - Breaking News, Latest News and Videos
+> **标题**：China's new AI model halts new subscriptions as demand swamps capacity - ABC News - Breaking News, Latest News and Videos
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiowFBVV95cUxNemx2T2xjMElLNGlRUjdzeDBiTXZQWlZHcVVzdERlM0NSOFpPSXE4UTBEZWZaVUhyWUNJYjhmTlNxXzFuT1d4TzNZVVhHaU15LTRvRnpXXzM0d1gySzJxdnBlb1BCbHM2Ukplc045bkFISjEyQ2Z2RWpBRElJemdlMlkydlR1UHlUWkVVN1Uya0VUSjN5MjJXeHBnbE56UzhCaVRz0gGoAUFVX3lxTE51VkJDRTY0elNRNWZBOHdmNWxuQlVUMUJOejRiS2wwc3k3TU1lQmMyRzZmeEN0VzVtMW5KYzdWRFZEX2FsWDhmNGRUZ0JyTHBmS1BlN0R1SkwzbXY1dk5Ec19jSjlrUUlocE5CT2MtRi1iYVBQNzJYdVpmN0FRU2JrbkgxWER1eWd1RUdlSVByVzZ0SG0xejM4M1IybTlNN2JseEFtSjA1Yw?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#4
+> **reason**：rank #4; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：China's new AI model halts new subscriptions as demand swamps capacity ABC News - Breaking News, Latest News and Videos
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 93** | Portland Thorns and Portland Fire Partner with Treasure AI to Power the Future of Women's Sports - Portland Fire
+> **标题**：Portland Thorns and Portland Fire Partner with Treasure AI to Power the Future of Women's Sports - Portland Fire
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivwFBVV95cUxPMXNMSEk2bnZtNDlfc1huY3R1TjZob2w0ZGRsNmQ1VUhpRy03ajJNemNkOWpUXy1XWDRkUEFhVVR0V2VBYk9LVXdQcFFlQm90T1BZdmdHRVJzWGl4SWVxenBjZXhVd2dIYlBxTzVXWTU0TnR5YjNkcVBMODRENmJwOGNHSFVkdS1mVHpGUGpDcG13S3JTN01HN24xZXBiS3BTWG5YMnplU19CSnVVcjYxYWVQS3hTYlUyMTA1OTJkSQ?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Portland Thorns and Portland Fire Partner with Treasure AI to Power the Future of Women's Sports Portland Fire
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 93** | Manila must stop dangerous provocations, infringements in South China Sea - China Military Online
+> **标题**：Manila must stop dangerous provocations, infringements in South China Sea - China Military Online
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQWjVPN0lpTS1kWm15NDhRdU9lMEJQYXBqTmJPcjA5WU9YZUd5Vkd6X0FkcUtEQ0dIZVQ1ZWt2MGp2WDY3Z2tSWTI4WHVMbjVfaGJId1FWd1JlSzByNzRyazk3WGd4YmM?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#5
+> **reason**：rank #5; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Manila must stop dangerous provocations, infringements in South China Sea China Military Online
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 89** | Elite universities face federal cash squeeze over millions tied to China-linked entities - Fox News
+> **标题**：Elite universities face federal cash squeeze over millions tied to China-linked entities - Fox News
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ0dKdmRqS3NndDNxaXB4c2l1MWVtSEU2eVpESUFWZjZrVVVJRjVTYWtOVy1kYk1nRVFVRkFIanRFQ0hpRzNDM3p0aGFuLThnemRDbXBDaDhrZEFrdGNZOEp2Z1lQNk4yLWpDWHp0RnFNUmJ6UVBfZ0t6elI1UDhQNlB1ckR2d1d6NmcyNzNlMUJIOUhFeGJGbXlIMkZZcjBtalVsU0s4SGFXV0VSRGJSeFJVZXRkYVBrQlHSAb8BQVVfeXFMT2dtUDZ3Y28xLUR5WUpWNzlqVWt6WGNsMU5NQWEtQTRzR0xLZ3pYTFI5VnRmQ0FyY2VXRVFjWFpKZjlOM3c5UUZIWGlWbVBkSVVudTBHeFMyZjRpQkV5SnNicjl2bnFDZU5zY2g0V2FXakdrWDVGeG1XVTBRTlNDeGZkM3VuOGpvM0ZaV0FCZmpHR0hjd3dGN0FXWmFRVTFYN2tUcWVJRGU2bmNhVVZETC1PNFRobnZQMUpab0FJcVk?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：综合
 > **rank**：#7
-> **reason**：rank #7; source weight: Google News; hot terms: 美国, china, united states, us
+> **reason**：rank #7; source weight: Google News; hot terms: 美国, china, us, fed; fresh within 12h
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Antimony Resources Appoints Former Director and Professor of the United States Military Academy as Advisory to the Board of Directors Junior Mining Network
+> **summary**：Elite universities face federal cash squeeze over millions tied to China-linked entities Fox News
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 81** | 'The Trojan Teddy Bear': The promise and peril of childhood in the age of AI : Planet Money - NPR
-> **标题**：'The Trojan Teddy Bear': The promise and peril of childhood in the age of AI : Planet Money - NPR
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ1FsaEJraENIU1RINWlmY2RyeGh4TmxBMW1MOEJwcXE1QjlRdlZtZl9tSy1ETEc5YldraUtiSDNwcTZQSk5NeTc5UGg3RzAxZjNlME1KQ2dmMl9BajB1M2twdERoX0dMbkhRRDBXUFpkSl9Dc2NNTW5mSi04cDVjR2FiT1RrNjN5THVuQ1FURXQxb005QnE4OGVWYjFpRnFLOHlDRGhtUThqenB6NGQyLXBiRDEzbDh3QWQ3Sldna2pQZXYzalRfbE5BNzZJck1FN1BtSQ?oc=5)
-> **source**：Google News / Global Markets Tech
+> [!info]+ **今日必须看 / 89** | U.S., China to hold AI talks in September, Reuters sources say - CNBC
+> **标题**：U.S., China to hold AI talks in September, Reuters sources say - CNBC
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMib0FVX3lxTFBpVFZXQmhYc3l5Mkx0dldUcmx2UFRkeVJQTU83dWhXUng5c1hCQ1dsZjdicUJ1cUF5YUtINy1SVjRtVDlxWU9UMkNqOU1Ia0lpU0dnSlhNMUJwakZ1Nl9CYURIbEhVMlJIbzY0RXN5TdIBdEFVX3lxTE9IaFpKeXpNVEJvRzhLSW91RExmLWEtai00RmFUNllHMkNCdDdXZ3U0cFcxN2UtaTFfVWFNY1RfYzdjVUZMcUV3ZDJoWWZlSllQU3NKYVlFQXpNby01QXY4SC1uX1NaU0VfbzYyY1hZcjVxYXJE?oc=5)
+> **source**：Google News / China US Hot News
 > **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#5
-> **reason**：rank #5; source weight: Google News; hot terms: ai, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：'The Trojan Teddy Bear': The promise and peril of childhood in the age of AI : Planet Money NPR
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：U.S., China to hold AI talks in September, Reuters sources say CNBC
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 79** | Datavault AI (DVLT): The Fastest Growing Tech Penny Stocks to Buy - Yahoo Finance
-> **标题**：Datavault AI (DVLT): The Fastest Growing Tech Penny Stocks to Buy - Yahoo Finance
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMingFBVV95cUxPZjMxdGpBX244dDZ5cENRZ2hKUEFoM1JPRjVqWjAyVWRHR1RpcVJfbUc3aGJKcnFXSDRwVlFUUnFtSFl1WkNtTnY4NlRPXzJDYy1UUHdldlNhRmpiZ0pKQmg5YVRkOTQ5NWNyeFg2d3NGdjBKdVZMc255RHFLNWlhR2p4S3E0OVF2Umg5cVJKYTdDdG04ZnQ4TUtnLXlKZw?oc=5)
+> [!info]+ **今日必须看 / 87** | OpenAI says AI models went rogue during testing, triggering ‘unprecedented’ breach at startup - NBC News
+> **标题**：OpenAI says AI models went rogue during testing, triggering ‘unprecedented’ breach at startup - NBC News
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSHhPdV9LUXlBaDlRWkxIay1RMkxOaDRpYllraUFyaXhHMHpXeUM3T1oxZTlGRWJUZmF3M2ptQm9uLWpfVmdtM29vSkhrX3diMEtKdE11ckNRM2x2NXdGS014Q0htT1VNU2hnZ25BXzB1ZldGeTFvd2RXajljUlU0RmJURnoyT284bWlKS3JXZTNZcEstYkNjcUNxd2Q1UG43RHFrd29VUTZTWmRNUEg2ZWpfTXhLY3hyczBuTA?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
 > **rank**：#6
-> **reason**：rank #6; source weight: Google News; hot terms: ai, ai, markets
+> **reason**：rank #6; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Datavault AI (DVLT): The Fastest Growing Tech Penny Stocks to Buy Yahoo Finance
+> **summary**：OpenAI says AI models went rogue during testing, triggering ‘unprecedented’ breach at startup NBC News
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **可延后 / 77** | Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people - CNBC
-> **标题**：Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people - CNBC
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMixAFBVV95cUxPMTVOeldLR0ZKajhJYmlDM2V0TlVUNkVnUGdNTnZUX0poam1SbnQ4Mk1ycmRZR3VXV3dVTlEza3pEMTBaODNVWi0xVFA3ckRjNVdDUDFHS3p5UkRLUHpDUzU5VGJZRVAtVm5EZmdxRW9qZTRlVUFLTE9IVE1DQllsQkp2MFM5RXVBMmt5WTFWdjBXbHNvU1k4VkphNXY2djVnMlRpWUx0azRWZUIxU2ZmNTNoRl9lMHZJbVhkY0hMZ291aV900gHKAUFVX3lxTE8zbVlvYkpJNHhjUm1GNTR4WmJDVXZQUkFfNEVuQ1ZaSzJKV1U5UklkRnZ1bkp0cmludnVqTGJPSGt0RUd0R2dyblRZLTQxa056cUU1V25TcFpyNGNwSkcwNnhrMEw5LTFfdllZbXByeDJNd0N3cnRBVXNGckQ2UkM0UVlmaHpWdk1MaW1pS2VIaE96bGRlUEFyU2daSmNnV0k5MTkxb1dmRlN0RFB5YTZqR3RYT2NMRmoyWlZhWlFGTzVjVzE0SkI1OGc?oc=5)
+> [!info]+ **今日必须看 / 85** | Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control - Microsoft Source
+> **标题**：Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control - Microsoft Source
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYXY2QVMzcXpqZGY5T3NmRl9BX3FQdWkybktodjNVQWxxTTFFSjhfcHFWdUVNRVlRUkNlWFNFT1hUa2pIQks0ek9DNGp5WFJ3VXROeVZDS1BMU3JGd0JNc3U3LTBJcUNIRHBELUM1UFBGcHdRWGNxdkJJbnU2bk5ZUFlLODFaY2xNaDhrMDFxUy02S3dCWFhtb2VxazZVdERlN3lDX1l6ZjdfVkwtUXM2N0JaaWQ4cGRtbkNWRXVqUEJEdS1WbVRBalZVeWZLLUVMZms2am5mdDBDYnJoNThMUTZwbWUyUUdMRUhMM0tPNUIzN3pXc2s2eTNZWWtjeDA?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
-> **rank**：#7
-> **reason**：rank #7; source weight: Google News; hot terms: markets, fed, inflation
+> **rank**：#5
+> **reason**：rank #5; source weight: Google News; hot terms: ai, us, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people CNBC
+> **summary**：Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control Microsoft Source
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **可延后 / 75** | AI-Generated ‘Odyssey’ Movie Adaptation Coming From ‘Dreams of Violets’ Director - Variety
-> **标题**：AI-Generated ‘Odyssey’ Movie Adaptation Coming From ‘Dreams of Violets’ Director - Variety
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiowFBVV95cUxQSmpNa3ZuNndhXzVkYUZfMVpoRGQxRGpZZ0N1a1diaVJTYU83clY2cXVJbVgzSVpuTUw0di1UTE1tT20yUEl6YXdZSlRDSG1wbUpHT2lleXlNSzkySzhMdDlwTS1BbklBbExhRVZla081SXJhc2NOeDFVUFFKd05fSlk0emNsWWlpMWlHSGI4ZVo1NDRBcnVWZThrU2ppWEVPU29z?oc=5)
+> [!info]+ **今日必须看 / 83** | AI tools update: What’s available for Coast Guard members now and new training - United States Coast Guard (.mil)
+> **标题**：AI tools update: What’s available for Coast Guard members now and new training - United States Coast Guard (.mil)
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV3ZwZFJYdHNDZEoyOGt2ZC1JVVJENjFoekNDTklaajRkeENGRW43LWxfclRBbEs2RVZwOU5NRDU5VG9qV1JOMk0yN3V1dDdNNUYxa3kwTlNPNU10QkFzR2dqaUwtRm1IaXFFX3p0dFVJZDQ1SFg5cWFYX1pVSklScjAydGhiVUFBT3RQOVhxZExYbmp0LWdjNXhQdF9FWWtPVi1zVzlUT1RlaXFUQk5HaVJVQlgtUG10VDNVSUZkbzRsdw?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#10
+> **reason**：rank #10; source weight: Google News; hot terms: ai, united states, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：AI tools update: What’s available for Coast Guard members now and new training United States Coast Guard (.mil)
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 83** | Agentic AI in biomedical research: What is it and can it expedite science? - Stanford Medicine
+> **标题**：Agentic AI in biomedical research: What is it and can it expedite science? - Stanford Medicine
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMijgFBVV95cUxQcGtmcFlsRktpWkpKOGdtbF9BZDR3bXRPWlB4MVVJNEFBWkNIaHFlZ0N5OXlEcmZIYUNzYmJuaFdrMkdBZTh4NUREY0FmTEk5SFA2aEFjekxvWmRlLVpPZXN2MW0zdFVyMXNRal9Na3pJQWIzaVZESzBYeE1mVTJtbGpZRW1rbWY4SkxPQUdR?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
 > **rank**：#8
-> **reason**：rank #8; source weight: Google News; hot terms: ai, ai, markets
+> **reason**：rank #8; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：AI-Generated ‘Odyssey’ Movie Adaptation Coming From ‘Dreams of Violets’ Director Variety
+> **summary**：Agentic AI in biomedical research: What is it and can it expedite science? Stanford Medicine
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **可延后 / 73** | Anthony Albanese promises fast-track approvals for datacentres to shore up AI investment | AI (artificial intelligence) - The Guardian
-> **标题**：Anthony Albanese promises fast-track approvals for datacentres to shore up AI investment | AI (artificial intelligence) - The Guardian
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMHFsVkpkbTV3bFllZWJxSENQNGU1QVQySnR1Mzc0alJTcWJPQV9VdTR2SUlRdVhoTGJrMEZ4YlVaSGdMb19YdDU4dU51MVpBTkY4aVlaWXdCT2d0LTN5NlZadzlKS1Y5ZzViamFHR3VLSzR1V3Jnbzd2VGpUUmtCdWlxdXJiSzJ3b3U2WHc1UHZrVEd0bE5hbTVJYTdwbkVrOFQ5VXF2RS0zeUVnbUNiV0FwaGZwTktsS2pXd3Bmd3cwTmpZVndLZFZCV3Ytbm15aG5Zb2VR?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#9
-> **reason**：rank #9; source weight: Google News; hot terms: ai, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Anthony Albanese promises fast-track approvals for datacentres to shore up AI investment | AI (artificial intelligence) The Guardian
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **可延后 / 73** | UTC Center for Professional Education to offer two AI programs in September - University of Tennessee at Chattanooga
-> **标题**：UTC Center for Professional Education to offer two AI programs in September - University of Tennessee at Chattanooga
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirwFBVV95cUxNcEtVd2JDM1ZvclRfX3E0OGlIaVRJSGVNVU9wdTMtamFtYXREU3JEc2JfZ1kwd1hid3Y5bi1DN2dnbUxXUU8wMnFuMDRVOGFMNXpXMmc3Qkd2R1k2WWNVTDVRekF0N01iVWtRS0J6Sm82VlVIMU02ZURQcWVBZllBT1BrRG9VVmtNT1dYTThJUWdBWjRJbEJfYUt1VFBibUw2MktUTUo0V0xoN1UtU2JB?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#9
-> **reason**：rank #9; source weight: Google News; hot terms: ai, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：UTC Center for Professional Education to offer two AI programs in September University of Tennessee at Chattanooga
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **可延后 / 73** | US National Science Foundation to ban projects with flagged Chinese institutions - South China Morning Post
-> **标题**：US National Science Foundation to ban projects with flagged Chinese institutions - South China Morning Post
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUEZ0NGloVlhlZERJbGtMaEhiOHB1VGFEV21Yb0FETFNHME02WjZmRHhWUHlCZVJULWlVM2YwYzhJMEpvQzFoZDRXNlBwMm5XcS0za1dxdVRNWlAxckZSeDVZQ283RGM0MU9ycC03TGxpQlZTSHI1R1VkUmlTVUR0eldvczBvTXZzY3pPY25Vc19HZFFoUVFDRVI3YTlUdk96b0lQWENTRGd5QS1pRlRRTGZpWGRQdFY2dTR5QVczLWJVYVlCNzZOdHAzOEtENmlRbEHSAdIBQVVfeXFMTUNmZ0VWLVNoM18xSF9aS05XQWZNMjFGQnhHWk1PYk1BRno4dDYwcno0bFV4RHBuZ0hCTHozWFBLd19tZEt1YWNfZC1kTy1SbXIyWE1XVTI5N3BLbWZsZXpYU1ZxUjczZFJZeVV3bGtIaXZraXVuTTdGYmoySlVmNFNXWnRkOVZhVXpIUkVmakJSU2RfX0Q0WURjdG5hMW9tOVc5M2NQZ2pSOGl5SzI5cHF2RnRpcW5feDZEZXJmcE4yZ242bkd2ME85STZ6SG04RHB3?oc=5)
+> [!info]+ **今日必须看 / 83** | Shanghai and Technology Turn in Kazakhstan-China Relations - The Astana Times
+> **标题**：Shanghai and Technology Turn in Kazakhstan-China Relations - The Astana Times
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMilgFBVV95cUxOVUR2LUw5Uzh1SnNubU1lN1lIQ3Nhd0pYTExJeXdSWm9iZzktdDNWSUppNXlEV0dZM05hbF9obzY5TXVQc3owc3l1UnpELUREZlFnY3lKaFlXRzVvSTRkQzB5SDBLYmxSQTRGWTJZZmR5bG5JVUVJN3M5Q2lOX29NUjFGU09sR2NyVzlXRkd3Z2ZfdDdzUHc?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：综合
-> **rank**：#9
-> **reason**：rank #9; source weight: Google News; hot terms: 美国, china, us
+> **rank**：#6
+> **reason**：rank #6; source weight: Google News; hot terms: 美国, ai, china, us
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：US National Science Foundation to ban projects with flagged Chinese institutions South China Morning Post
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **可延后 / 71** | Nvidia's China Comeback Finally Begins - But Here's Why Investors Should Keep Expectations in Check - 24/7 Wall St.
-> **标题**：Nvidia's China Comeback Finally Begins - But Here's Why Investors Should Keep Expectations in Check - 24/7 Wall St.
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSlVxX3AwX0RZakhrZ0ZVcDdFT1ltdlhWNEdMcjhORS1remk3bndIVXJGVVU1b0VzZmw2OTA5WHZDelJKYUhldFRqS3ZqRUN4cUVkVVI2YjdUNU9HQ3ZOdGdzZHl4ZXhoWi1tejlUNmVKM3NFQUx2Y2pBQzh3a0JKZDB6NGVJYW95Mk56dk5RUVFqa3RzemZTb2dWMUE0THRxRW1lR2hRc2sxUm10T0U3MWhQYkVmdlcySXJyay0wVE9rQVJONkFuWEFlcGFSZ2t5Xy1qQ0dR?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#10
-> **reason**：rank #10; source weight: Google News; hot terms: 美国, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Nvidia's China Comeback Finally Begins - But Here's Why Investors Should Keep Expectations in Check 24/7 Wall St.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **可延后 / 71** | Chinese and Ghanaian peacekeepers conduct joint medical rescue drill - China Military Online
-> **标题**：Chinese and Ghanaian peacekeepers conduct joint medical rescue drill - China Military Online
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMic0FVX3lxTE5tdFZIbVUxMVNWVlRBMTI5WDA1VGN5V29GTHJfMVk5RHlmbV9vNzRDSUNtQ3RMOF9BTnh6ZHJUdDFSZkNabTBETi1IT09pM2lJdTE5ZnluYnpIc2huTUNZMmU1NGJfWlVtYXRnQ3BZYnlrZmM?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#12
-> **reason**：rank #12; source weight: Google News; hot terms: 美国, ai, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Chinese and Ghanaian peacekeepers conduct joint medical rescue drill China Military Online
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **可延后 / 71** | How AI is Shaping Childhood - Time Magazine
-> **标题**：How AI is Shaping Childhood - Time Magazine
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMimgFBVV95cUxNN1pzZ3pxR2lvNmktMjNfTVltOWVVRlpaRVRXWndOeXRpdVhrTHYtWDZKR0d3eDZtQjN1TzZ5YmZyOGVhRGdFTWphd0czV0RGNHZxS2lveVIzSnZyd1dkOWJVZ3Y2ZGVuSjFYd1F5UWY3Ry1WTW9kUl9Ldy1yM2xkRW11cW1GSW82dUtDRjdaQUppT0RIVWszNzBB?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#10
-> **reason**：rank #10; source weight: Google News; hot terms: ai, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：How AI is Shaping Childhood Time Magazine
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **可延后 / 69** | Portugal's AMALIA treats AI as a public good - Peterson Institute for International Economics
-> **标题**：Portugal's AMALIA treats AI as a public good - Peterson Institute for International Economics
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMikwFBVV95cUxOM2JnZXBXbE9Eek1iWGw2a1h5SmRYNnowLW1zbERIZllSS1E2a3hDMG9DRVYtS0ZwRFRsbW13eElBVFpITFpqTkFFdnNqN3hzbzlEOWFybGMtNzlLTmdfaGxmNGFoblpvS1JKLUJxQXBkdlg3S2U4TVRHWkZ5RHZRQlU5VUJxQ29XTHJkZnF1V3U5NVU?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#11
-> **reason**：rank #11; source weight: Google News; hot terms: ai, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Portugal's AMALIA treats AI as a public good Peterson Institute for International Economics
+> **summary**：Shanghai and Technology Turn in Kazakhstan-China Relations The Astana Times
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -280,170 +280,170 @@ tags:
 
 ## 美国/国际热点迁移
 
-> [!info]+ **今日必须看 / 91** | China's exports ride AI boom as domestic economy struggles - Reuters
-> **标题**：China's exports ride AI boom as domestic economy struggles - Reuters
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMinwFBVV95cUxNRGpqNHVtR2tXdDB5RnBUeHF0U2oyRDRMNnduQVM0eHBWOTVxalVjSGdOMXlFZGxNRUc2dW9fcUttclVoVTdKbk5rRUlVOEdqWHFQRzd5WllrZGI2dnhOVEJXRDU1eFhSVlAtZDk2UEFCRExBdEQxMEdhTENzdzVRVWpaVUhJU2l2RU1KT0xobmNyeGtPcEY1S3Exb3doaG8?oc=5)
-> **source**：Google News / Global Markets Tech
+> [!info]+ **今日必须看 / 99** | Exclusive | Can the US and its allies break China’s grip on rare earths and AI technology? - South China Morning Post
+> **标题**：Exclusive | Can the US and its allies break China’s grip on rare earths and AI technology? - South China Morning Post
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMixgFBVV95cUxQUWFvU3pwOXFxUFBuUmgtUXdZR2tYdDJoZ19EMVZDb2x6ZUg3QjNpa3ZGYmUtcHZxLWs3TE44a05lQlFIWDMxalZsV29mZUtsVUJhNHpPZGRYdl83SUZlS0paV25wVVk1Z3hudkNPaVBYOG1fSXpCUEFqWnc1dElZS2l0UFFudUxXVmxQV1ZqalN4aXRsdElsRVhyb20tcEJYWWRaNTBZWnBZeGdKeFR5UVhvSW5YeUppQ3BvbWRmek1INHRibUHSAcYBQVVfeXFMTUIzZ0d4ZGVoVDdaNWJncXRCM0hXM0xwMXAyMEUxUzgtME5UOUVVSzVYUHFvME5hbWMzVVJEVXlOQ3NVaDFsZThRcUNUZ3JVUFZMMWtrUlBCd1pqNE9pN1h3dzBsVU1oQW84M1g4b3hJTXhwTVZpUHQySFl6ZEVMdmg0YUFUYjV0b2xTLTNRYVdUbU5BX2RpLUhhbXU4TDVSTlNDREFNcGJYN1ZUaDJ5VnRxNHhJc3p4dms2R25OTGRiSy1aT09B?oc=5)
+> **source**：Google News / China US Hot News
 > **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
+> **region**：美国/国际
+> **category**：综合
 > **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, china, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：China's exports ride AI boom as domestic economy struggles Reuters
+> **reason**：rank #2; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Exclusive | Can the US and its allies break China’s grip on rare earths and AI technology? South China Morning Post
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 89** | FTC Takes Aim at AI Accuracy - Consumer Finance Monitor
-> **标题**：FTC Takes Aim at AI Accuracy - Consumer Finance Monitor
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxORVRQcE5RMldyWFV0S1FXZDg1SkQyem5rcUR2ZGoydUk2bmVRZUowbXpkdS03dVdVUlh2V08zbmxTci1nZnZIb0pRWDhoMkJFR0pLTm1zclJwOUxuMTFCLTN3NjJPOHRsckhnUHI3V3UyZUk3WGVxbHpuNk1BeE8xTVdDMWoyQQ?oc=5)
+> [!info]+ **今日必须看 / 97** | OpenAI and Hugging Face partner to address security incident during model evaluation - OpenAI
+> **标题**：OpenAI and Hugging Face partner to address security incident during model evaluation - OpenAI
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE5QM0NxYjlpZlBQVHNUaVZta3E1aGJ5LTZHcTg5bEU5T3JCbVdIc19BUk5pcFBlR0RNaDhoYVhGRm95TjVTMVZMLU9XOE1MeEhNQS02VGI3TDh6bWktZ2VoYU82eWFVcVJTM0NKbkUtWU83a2IzNUdvZFVCeDVzdw?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
 > **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets
+> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：FTC Takes Aim at AI Accuracy Consumer Finance Monitor
+> **summary**：OpenAI and Hugging Face partner to address security incident during model evaluation OpenAI
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 87** | Exclusive: Google DeepMind's Demis Hassabis calls for U.S.-led global AI watchdog - Axios
-> **标题**：Exclusive: Google DeepMind's Demis Hassabis calls for U.S.-led global AI watchdog - Axios
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMigwFBVV95cUxOVmpsdXhxUFM3ZUNpVXBHSW1hdGdCQ0NYWjR5THdESnM1aEhWZERZRTdkQy1zVjZURERVWEk0NlZWaDh1UUNnbWttQXNneXQ5aGx6T1JhY0FhU1hwSE5iOUNFbTQ3cUZtbnRWLWhrOVVEbTg3cUFXa1lUX0FjcnlLRWgtaw?oc=5)
+> [!info]+ **今日必须看 / 97** | To Base or Not to Base: The Iran War Exposes Flaws of U.S. Basing in the Middle East - Council on Foreign Relations
+> **标题**：To Base or Not to Base: The Iran War Exposes Flaws of U.S. Basing in the Middle East - Council on Foreign Relations
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirwFBVV95cUxPYW1nbGM5c3RKWnY4Mk5kZDU1dzh4aUFCRFBLaXhBbkdZT3FWcENKUTg4UTJIUDJua01oR0ltdGZZQ2pYaFVPTTdKeHZQbzJCNmNzcnpNVUhvbFR6dUR6cHhlSFpkQjAtT05HbmpTRzJBSlJFdUkzS0VsTmtUOUdrMEk3UVcya25VQ2hrZXEySWdRMU9kUV9UcWhDSTY4c19EQ3gzTGEtUU9aSXJjLVNr?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：To Base or Not to Base: The Iran War Exposes Flaws of U.S. Basing in the Middle East Council on Foreign Relations
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 95** | OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library - The New York Times
+> **标题**：OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library - The New York Times
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFFIX1hiUENTX3h0a3o0Vk5pYk9SU0VwWXNFQThrWS1paUE5RGpoUVdDRjV6QlBzOE1COU0zbW5qaVNfQnhzNXRJZzZCdDhiRkhZYzJhOGc2TXd3ZWhBeGlKTjN1VGRBaXVaMUUzbzBXWlNBczRiTUJlWlk5UnZSTXNZVQ?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library The New York Times
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 95** | Exclusive | White House to Redirect Billions in Research Funds Toward AI, Away From Colleges - WSJ
+> **标题**：Exclusive | White House to Redirect Billions in Research Funds Toward AI, Away From Colleges - WSJ
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNnpBamFXTmpXX1ROMHBmYjJFOEJuMEtfb0NmZ3MzUTNNWjhEVDctbXNyb0ZMejI4NUR1TFA5am5FNzBXbFkxRFd1RFdoWUI2U0NuUnpHWDJHV3N6Q05tMHNUQVVUNTBoLXFJOTZGQW5CTXozMlNZQWM2WnNNQUNWdXpVQWJfMjNOWnBsdW5vbi1GSTFqcW95bjlZRlFPMlZZcDdZRGVEeGxRb2RKQ21NcTdURFNhcDdSV20yS1puY1U2dw?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
 > **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: ai, us, ai, markets
+> **reason**：rank #4; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Exclusive: Google DeepMind's Demis Hassabis calls for U.S.-led global AI watchdog Axios
+> **summary**：Exclusive | White House to Redirect Billions in Research Funds Toward AI, Away From Colleges WSJ
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 81** | Antimony Resources Appoints Former Director and Professor of the United States Military Academy as Advisory to the Board of Directors - Junior Mining Network
-> **标题**：Antimony Resources Appoints Former Director and Professor of the United States Military Academy as Advisory to the Board of Directors - Junior Mining Network
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMi6AJBVV95cUxPRVNoNjJsUWFoUk5jLUFWZ1o5WkcwbHBxcktHM1VBQms0aGh0RGxGdzBFWVBpcFRVdkdCS0pDeGR6QmFuY3dEZFdyVmRkVVhTNmdRYnNrR2tEXzBzbE5NOUpSTGx6aWRSR19MWC1kN25Od3prNktrSlNfQVBBcWpHS3Z2ZnRKTktGbVNSZ29kQU5RZG1WTTg0Qy1Oa29KWlNvSGxLSXFGd3FuUUtGSjdiNWRtZkNCR1VoaHJtTGtoYjFEb2h1LWNiemU1aHdFMTYzSFE2eHdzTWFFTlNwMGtUWTgwbnhNd3lMVGtBYW9vdExUTGNFX0FaZlRZQ01EUlRSbWRjTzFhV0pzaTJ4ajY1dzd6NGN1bHZSUXNCVXplRnZIZkxvTTQwNlgwU0tybEk1eElWb2k3MkV4dHdLbnNOVlpaU3dJclNrMV91UzNmMjk0b1ZNS1R3Nk0zUkQ0LXJ6V04tNnc3bHc?oc=5)
+> [!info]+ **今日必须看 / 95** | China's new AI model halts new subscriptions as demand swamps capacity - ABC News - Breaking News, Latest News and Videos
+> **标题**：China's new AI model halts new subscriptions as demand swamps capacity - ABC News - Breaking News, Latest News and Videos
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiowFBVV95cUxNemx2T2xjMElLNGlRUjdzeDBiTXZQWlZHcVVzdERlM0NSOFpPSXE4UTBEZWZaVUhyWUNJYjhmTlNxXzFuT1d4TzNZVVhHaU15LTRvRnpXXzM0d1gySzJxdnBlb1BCbHM2Ukplc045bkFISjEyQ2Z2RWpBRElJemdlMlkydlR1UHlUWkVVN1Uya0VUSjN5MjJXeHBnbE56UzhCaVRz0gGoAUFVX3lxTE51VkJDRTY0elNRNWZBOHdmNWxuQlVUMUJOejRiS2wwc3k3TU1lQmMyRzZmeEN0VzVtMW5KYzdWRFZEX2FsWDhmNGRUZ0JyTHBmS1BlN0R1SkwzbXY1dk5Ec19jSjlrUUlocE5CT2MtRi1iYVBQNzJYdVpmN0FRU2JrbkgxWER1eWd1RUdlSVByVzZ0SG0xejM4M1IybTlNN2JseEFtSjA1Yw?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#4
+> **reason**：rank #4; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：China's new AI model halts new subscriptions as demand swamps capacity ABC News - Breaking News, Latest News and Videos
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 93** | Portland Thorns and Portland Fire Partner with Treasure AI to Power the Future of Women's Sports - Portland Fire
+> **标题**：Portland Thorns and Portland Fire Partner with Treasure AI to Power the Future of Women's Sports - Portland Fire
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivwFBVV95cUxPMXNMSEk2bnZtNDlfc1huY3R1TjZob2w0ZGRsNmQ1VUhpRy03ajJNemNkOWpUXy1XWDRkUEFhVVR0V2VBYk9LVXdQcFFlQm90T1BZdmdHRVJzWGl4SWVxenBjZXhVd2dIYlBxTzVXWTU0TnR5YjNkcVBMODRENmJwOGNHSFVkdS1mVHpGUGpDcG13S3JTN01HN24xZXBiS3BTWG5YMnplU19CSnVVcjYxYWVQS3hTYlUyMTA1OTJkSQ?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Portland Thorns and Portland Fire Partner with Treasure AI to Power the Future of Women's Sports Portland Fire
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 93** | Manila must stop dangerous provocations, infringements in South China Sea - China Military Online
+> **标题**：Manila must stop dangerous provocations, infringements in South China Sea - China Military Online
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQWjVPN0lpTS1kWm15NDhRdU9lMEJQYXBqTmJPcjA5WU9YZUd5Vkd6X0FkcUtEQ0dIZVQ1ZWt2MGp2WDY3Z2tSWTI4WHVMbjVfaGJId1FWd1JlSzByNzRyazk3WGd4YmM?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#5
+> **reason**：rank #5; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Manila must stop dangerous provocations, infringements in South China Sea China Military Online
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 89** | Elite universities face federal cash squeeze over millions tied to China-linked entities - Fox News
+> **标题**：Elite universities face federal cash squeeze over millions tied to China-linked entities - Fox News
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ0dKdmRqS3NndDNxaXB4c2l1MWVtSEU2eVpESUFWZjZrVVVJRjVTYWtOVy1kYk1nRVFVRkFIanRFQ0hpRzNDM3p0aGFuLThnemRDbXBDaDhrZEFrdGNZOEp2Z1lQNk4yLWpDWHp0RnFNUmJ6UVBfZ0t6elI1UDhQNlB1ckR2d1d6NmcyNzNlMUJIOUhFeGJGbXlIMkZZcjBtalVsU0s4SGFXV0VSRGJSeFJVZXRkYVBrQlHSAb8BQVVfeXFMT2dtUDZ3Y28xLUR5WUpWNzlqVWt6WGNsMU5NQWEtQTRzR0xLZ3pYTFI5VnRmQ0FyY2VXRVFjWFpKZjlOM3c5UUZIWGlWbVBkSVVudTBHeFMyZjRpQkV5SnNicjl2bnFDZU5zY2g0V2FXakdrWDVGeG1XVTBRTlNDeGZkM3VuOGpvM0ZaV0FCZmpHR0hjd3dGN0FXWmFRVTFYN2tUcWVJRGU2bmNhVVZETC1PNFRobnZQMUpab0FJcVk?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：综合
 > **rank**：#7
-> **reason**：rank #7; source weight: Google News; hot terms: 美国, china, united states, us
+> **reason**：rank #7; source weight: Google News; hot terms: 美国, china, us, fed; fresh within 12h
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Antimony Resources Appoints Former Director and Professor of the United States Military Academy as Advisory to the Board of Directors Junior Mining Network
+> **summary**：Elite universities face federal cash squeeze over millions tied to China-linked entities Fox News
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 81** | 'The Trojan Teddy Bear': The promise and peril of childhood in the age of AI : Planet Money - NPR
-> **标题**：'The Trojan Teddy Bear': The promise and peril of childhood in the age of AI : Planet Money - NPR
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ1FsaEJraENIU1RINWlmY2RyeGh4TmxBMW1MOEJwcXE1QjlRdlZtZl9tSy1ETEc5YldraUtiSDNwcTZQSk5NeTc5UGg3RzAxZjNlME1KQ2dmMl9BajB1M2twdERoX0dMbkhRRDBXUFpkSl9Dc2NNTW5mSi04cDVjR2FiT1RrNjN5THVuQ1FURXQxb005QnE4OGVWYjFpRnFLOHlDRGhtUThqenB6NGQyLXBiRDEzbDh3QWQ3Sldna2pQZXYzalRfbE5BNzZJck1FN1BtSQ?oc=5)
-> **source**：Google News / Global Markets Tech
+> [!info]+ **今日必须看 / 89** | U.S., China to hold AI talks in September, Reuters sources say - CNBC
+> **标题**：U.S., China to hold AI talks in September, Reuters sources say - CNBC
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMib0FVX3lxTFBpVFZXQmhYc3l5Mkx0dldUcmx2UFRkeVJQTU83dWhXUng5c1hCQ1dsZjdicUJ1cUF5YUtINy1SVjRtVDlxWU9UMkNqOU1Ia0lpU0dnSlhNMUJwakZ1Nl9CYURIbEhVMlJIbzY0RXN5TdIBdEFVX3lxTE9IaFpKeXpNVEJvRzhLSW91RExmLWEtai00RmFUNllHMkNCdDdXZ3U0cFcxN2UtaTFfVWFNY1RfYzdjVUZMcUV3ZDJoWWZlSllQU3NKYVlFQXpNby01QXY4SC1uX1NaU0VfbzYyY1hZcjVxYXJE?oc=5)
+> **source**：Google News / China US Hot News
 > **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#5
-> **reason**：rank #5; source weight: Google News; hot terms: ai, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：'The Trojan Teddy Bear': The promise and peril of childhood in the age of AI : Planet Money NPR
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 79** | Datavault AI (DVLT): The Fastest Growing Tech Penny Stocks to Buy - Yahoo Finance
-> **标题**：Datavault AI (DVLT): The Fastest Growing Tech Penny Stocks to Buy - Yahoo Finance
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMingFBVV95cUxPZjMxdGpBX244dDZ5cENRZ2hKUEFoM1JPRjVqWjAyVWRHR1RpcVJfbUc3aGJKcnFXSDRwVlFUUnFtSFl1WkNtTnY4NlRPXzJDYy1UUHdldlNhRmpiZ0pKQmg5YVRkOTQ5NWNyeFg2d3NGdjBKdVZMc255RHFLNWlhR2p4S3E0OVF2Umg5cVJKYTdDdG04ZnQ4TUtnLXlKZw?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#6
-> **reason**：rank #6; source weight: Google News; hot terms: ai, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Datavault AI (DVLT): The Fastest Growing Tech Penny Stocks to Buy Yahoo Finance
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **可延后 / 77** | Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people - CNBC
-> **标题**：Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people - CNBC
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMixAFBVV95cUxPMTVOeldLR0ZKajhJYmlDM2V0TlVUNkVnUGdNTnZUX0poam1SbnQ4Mk1ycmRZR3VXV3dVTlEza3pEMTBaODNVWi0xVFA3ckRjNVdDUDFHS3p5UkRLUHpDUzU5VGJZRVAtVm5EZmdxRW9qZTRlVUFLTE9IVE1DQllsQkp2MFM5RXVBMmt5WTFWdjBXbHNvU1k4VkphNXY2djVnMlRpWUx0azRWZUIxU2ZmNTNoRl9lMHZJbVhkY0hMZ291aV900gHKAUFVX3lxTE8zbVlvYkpJNHhjUm1GNTR4WmJDVXZQUkFfNEVuQ1ZaSzJKV1U5UklkRnZ1bkp0cmludnVqTGJPSGt0RUd0R2dyblRZLTQxa056cUU1V25TcFpyNGNwSkcwNnhrMEw5LTFfdllZbXByeDJNd0N3cnRBVXNGckQ2UkM0UVlmaHpWdk1MaW1pS2VIaE96bGRlUEFyU2daSmNnV0k5MTkxb1dmRlN0RFB5YTZqR3RYT2NMRmoyWlZhWlFGTzVjVzE0SkI1OGc?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#7
-> **reason**：rank #7; source weight: Google News; hot terms: markets, fed, inflation
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people CNBC
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **可延后 / 75** | AI-Generated ‘Odyssey’ Movie Adaptation Coming From ‘Dreams of Violets’ Director - Variety
-> **标题**：AI-Generated ‘Odyssey’ Movie Adaptation Coming From ‘Dreams of Violets’ Director - Variety
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiowFBVV95cUxQSmpNa3ZuNndhXzVkYUZfMVpoRGQxRGpZZ0N1a1diaVJTYU83clY2cXVJbVgzSVpuTUw0di1UTE1tT20yUEl6YXdZSlRDSG1wbUpHT2lleXlNSzkySzhMdDlwTS1BbklBbExhRVZla081SXJhc2NOeDFVUFFKd05fSlk0emNsWWlpMWlHSGI4ZVo1NDRBcnVWZThrU2ppWEVPU29z?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#8
-> **reason**：rank #8; source weight: Google News; hot terms: ai, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：AI-Generated ‘Odyssey’ Movie Adaptation Coming From ‘Dreams of Violets’ Director Variety
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **可延后 / 73** | Anthony Albanese promises fast-track approvals for datacentres to shore up AI investment | AI (artificial intelligence) - The Guardian
-> **标题**：Anthony Albanese promises fast-track approvals for datacentres to shore up AI investment | AI (artificial intelligence) - The Guardian
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMHFsVkpkbTV3bFllZWJxSENQNGU1QVQySnR1Mzc0alJTcWJPQV9VdTR2SUlRdVhoTGJrMEZ4YlVaSGdMb19YdDU4dU51MVpBTkY4aVlaWXdCT2d0LTN5NlZadzlKS1Y5ZzViamFHR3VLSzR1V3Jnbzd2VGpUUmtCdWlxdXJiSzJ3b3U2WHc1UHZrVEd0bE5hbTVJYTdwbkVrOFQ5VXF2RS0zeUVnbUNiV0FwaGZwTktsS2pXd3Bmd3cwTmpZVndLZFZCV3Ytbm15aG5Zb2VR?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#9
-> **reason**：rank #9; source weight: Google News; hot terms: ai, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Anthony Albanese promises fast-track approvals for datacentres to shore up AI investment | AI (artificial intelligence) The Guardian
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **可延后 / 73** | UTC Center for Professional Education to offer two AI programs in September - University of Tennessee at Chattanooga
-> **标题**：UTC Center for Professional Education to offer two AI programs in September - University of Tennessee at Chattanooga
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirwFBVV95cUxNcEtVd2JDM1ZvclRfX3E0OGlIaVRJSGVNVU9wdTMtamFtYXREU3JEc2JfZ1kwd1hid3Y5bi1DN2dnbUxXUU8wMnFuMDRVOGFMNXpXMmc3Qkd2R1k2WWNVTDVRekF0N01iVWtRS0J6Sm82VlVIMU02ZURQcWVBZllBT1BrRG9VVmtNT1dYTThJUWdBWjRJbEJfYUt1VFBibUw2MktUTUo0V0xoN1UtU2JB?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#9
-> **reason**：rank #9; source weight: Google News; hot terms: ai, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：UTC Center for Professional Education to offer two AI programs in September University of Tennessee at Chattanooga
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：U.S., China to hold AI talks in September, Reuters sources say CNBC
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -452,170 +452,170 @@ tags:
 
 ## 财经科技观察
 
-> [!info]+ **今日必须看 / 91** | China's exports ride AI boom as domestic economy struggles - Reuters
-> **标题**：China's exports ride AI boom as domestic economy struggles - Reuters
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMinwFBVV95cUxNRGpqNHVtR2tXdDB5RnBUeHF0U2oyRDRMNnduQVM0eHBWOTVxalVjSGdOMXlFZGxNRUc2dW9fcUttclVoVTdKbk5rRUlVOEdqWHFQRzd5WllrZGI2dnhOVEJXRDU1eFhSVlAtZDk2UEFCRExBdEQxMEdhTENzdzVRVWpaVUhJU2l2RU1KT0xobmNyeGtPcEY1S3Exb3doaG8?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, china, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：China's exports ride AI boom as domestic economy struggles Reuters
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 89** | FTC Takes Aim at AI Accuracy - Consumer Finance Monitor
-> **标题**：FTC Takes Aim at AI Accuracy - Consumer Finance Monitor
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxORVRQcE5RMldyWFV0S1FXZDg1SkQyem5rcUR2ZGoydUk2bmVRZUowbXpkdS03dVdVUlh2V08zbmxTci1nZnZIb0pRWDhoMkJFR0pLTm1zclJwOUxuMTFCLTN3NjJPOHRsckhnUHI3V3UyZUk3WGVxbHpuNk1BeE8xTVdDMWoyQQ?oc=5)
+> [!info]+ **今日必须看 / 97** | OpenAI and Hugging Face partner to address security incident during model evaluation - OpenAI
+> **标题**：OpenAI and Hugging Face partner to address security incident during model evaluation - OpenAI
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE5QM0NxYjlpZlBQVHNUaVZta3E1aGJ5LTZHcTg5bEU5T3JCbVdIc19BUk5pcFBlR0RNaDhoYVhGRm95TjVTMVZMLU9XOE1MeEhNQS02VGI3TDh6bWktZ2VoYU82eWFVcVJTM0NKbkUtWU83a2IzNUdvZFVCeDVzdw?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
 > **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets
+> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：FTC Takes Aim at AI Accuracy Consumer Finance Monitor
+> **summary**：OpenAI and Hugging Face partner to address security incident during model evaluation OpenAI
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 87** | Exclusive: Google DeepMind's Demis Hassabis calls for U.S.-led global AI watchdog - Axios
-> **标题**：Exclusive: Google DeepMind's Demis Hassabis calls for U.S.-led global AI watchdog - Axios
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMigwFBVV95cUxOVmpsdXhxUFM3ZUNpVXBHSW1hdGdCQ0NYWjR5THdESnM1aEhWZERZRTdkQy1zVjZURERVWEk0NlZWaDh1UUNnbWttQXNneXQ5aGx6T1JhY0FhU1hwSE5iOUNFbTQ3cUZtbnRWLWhrOVVEbTg3cUFXa1lUX0FjcnlLRWgtaw?oc=5)
+> [!info]+ **今日必须看 / 95** | OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library - The New York Times
+> **标题**：OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library - The New York Times
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFFIX1hiUENTX3h0a3o0Vk5pYk9SU0VwWXNFQThrWS1paUE5RGpoUVdDRjV6QlBzOE1COU0zbW5qaVNfQnhzNXRJZzZCdDhiRkhZYzJhOGc2TXd3ZWhBeGlKTjN1VGRBaXVaMUUzbzBXWlNBczRiTUJlWlk5UnZSTXNZVQ?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library The New York Times
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 95** | Exclusive | White House to Redirect Billions in Research Funds Toward AI, Away From Colleges - WSJ
+> **标题**：Exclusive | White House to Redirect Billions in Research Funds Toward AI, Away From Colleges - WSJ
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNnpBamFXTmpXX1ROMHBmYjJFOEJuMEtfb0NmZ3MzUTNNWjhEVDctbXNyb0ZMejI4NUR1TFA5am5FNzBXbFkxRFd1RFdoWUI2U0NuUnpHWDJHV3N6Q05tMHNUQVVUNTBoLXFJOTZGQW5CTXozMlNZQWM2WnNNQUNWdXpVQWJfMjNOWnBsdW5vbi1GSTFqcW95bjlZRlFPMlZZcDdZRGVEeGxRb2RKQ21NcTdURFNhcDdSV20yS1puY1U2dw?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
 > **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: ai, us, ai, markets
+> **reason**：rank #4; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Exclusive: Google DeepMind's Demis Hassabis calls for U.S.-led global AI watchdog Axios
+> **summary**：Exclusive | White House to Redirect Billions in Research Funds Toward AI, Away From Colleges WSJ
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 81** | 'The Trojan Teddy Bear': The promise and peril of childhood in the age of AI : Planet Money - NPR
-> **标题**：'The Trojan Teddy Bear': The promise and peril of childhood in the age of AI : Planet Money - NPR
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ1FsaEJraENIU1RINWlmY2RyeGh4TmxBMW1MOEJwcXE1QjlRdlZtZl9tSy1ETEc5YldraUtiSDNwcTZQSk5NeTc5UGg3RzAxZjNlME1KQ2dmMl9BajB1M2twdERoX0dMbkhRRDBXUFpkSl9Dc2NNTW5mSi04cDVjR2FiT1RrNjN5THVuQ1FURXQxb005QnE4OGVWYjFpRnFLOHlDRGhtUThqenB6NGQyLXBiRDEzbDh3QWQ3Sldna2pQZXYzalRfbE5BNzZJck1FN1BtSQ?oc=5)
+> [!info]+ **今日必须看 / 93** | Portland Thorns and Portland Fire Partner with Treasure AI to Power the Future of Women's Sports - Portland Fire
+> **标题**：Portland Thorns and Portland Fire Partner with Treasure AI to Power the Future of Women's Sports - Portland Fire
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivwFBVV95cUxPMXNMSEk2bnZtNDlfc1huY3R1TjZob2w0ZGRsNmQ1VUhpRy03ajJNemNkOWpUXy1XWDRkUEFhVVR0V2VBYk9LVXdQcFFlQm90T1BZdmdHRVJzWGl4SWVxenBjZXhVd2dIYlBxTzVXWTU0TnR5YjNkcVBMODRENmJwOGNHSFVkdS1mVHpGUGpDcG13S3JTN01HN24xZXBiS3BTWG5YMnplU19CSnVVcjYxYWVQS3hTYlUyMTA1OTJkSQ?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
-> **rank**：#5
-> **reason**：rank #5; source weight: Google News; hot terms: ai, ai, markets
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：'The Trojan Teddy Bear': The promise and peril of childhood in the age of AI : Planet Money NPR
+> **summary**：Portland Thorns and Portland Fire Partner with Treasure AI to Power the Future of Women's Sports Portland Fire
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 79** | Datavault AI (DVLT): The Fastest Growing Tech Penny Stocks to Buy - Yahoo Finance
-> **标题**：Datavault AI (DVLT): The Fastest Growing Tech Penny Stocks to Buy - Yahoo Finance
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMingFBVV95cUxPZjMxdGpBX244dDZ5cENRZ2hKUEFoM1JPRjVqWjAyVWRHR1RpcVJfbUc3aGJKcnFXSDRwVlFUUnFtSFl1WkNtTnY4NlRPXzJDYy1UUHdldlNhRmpiZ0pKQmg5YVRkOTQ5NWNyeFg2d3NGdjBKdVZMc255RHFLNWlhR2p4S3E0OVF2Umg5cVJKYTdDdG04ZnQ4TUtnLXlKZw?oc=5)
+> [!info]+ **今日必须看 / 87** | OpenAI says AI models went rogue during testing, triggering ‘unprecedented’ breach at startup - NBC News
+> **标题**：OpenAI says AI models went rogue during testing, triggering ‘unprecedented’ breach at startup - NBC News
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxQSHhPdV9LUXlBaDlRWkxIay1RMkxOaDRpYllraUFyaXhHMHpXeUM3T1oxZTlGRWJUZmF3M2ptQm9uLWpfVmdtM29vSkhrX3diMEtKdE11ckNRM2x2NXdGS014Q0htT1VNU2hnZ25BXzB1ZldGeTFvd2RXajljUlU0RmJURnoyT284bWlKS3JXZTNZcEstYkNjcUNxd2Q1UG43RHFrd29VUTZTWmRNUEg2ZWpfTXhLY3hyczBuTA?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
 > **rank**：#6
-> **reason**：rank #6; source weight: Google News; hot terms: ai, ai, markets
+> **reason**：rank #6; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Datavault AI (DVLT): The Fastest Growing Tech Penny Stocks to Buy Yahoo Finance
+> **summary**：OpenAI says AI models went rogue during testing, triggering ‘unprecedented’ breach at startup NBC News
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **可延后 / 77** | Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people - CNBC
-> **标题**：Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people - CNBC
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMixAFBVV95cUxPMTVOeldLR0ZKajhJYmlDM2V0TlVUNkVnUGdNTnZUX0poam1SbnQ4Mk1ycmRZR3VXV3dVTlEza3pEMTBaODNVWi0xVFA3ckRjNVdDUDFHS3p5UkRLUHpDUzU5VGJZRVAtVm5EZmdxRW9qZTRlVUFLTE9IVE1DQllsQkp2MFM5RXVBMmt5WTFWdjBXbHNvU1k4VkphNXY2djVnMlRpWUx0azRWZUIxU2ZmNTNoRl9lMHZJbVhkY0hMZ291aV900gHKAUFVX3lxTE8zbVlvYkpJNHhjUm1GNTR4WmJDVXZQUkFfNEVuQ1ZaSzJKV1U5UklkRnZ1bkp0cmludnVqTGJPSGt0RUd0R2dyblRZLTQxa056cUU1V25TcFpyNGNwSkcwNnhrMEw5LTFfdllZbXByeDJNd0N3cnRBVXNGckQ2UkM0UVlmaHpWdk1MaW1pS2VIaE96bGRlUEFyU2daSmNnV0k5MTkxb1dmRlN0RFB5YTZqR3RYT2NMRmoyWlZhWlFGTzVjVzE0SkI1OGc?oc=5)
+> [!info]+ **今日必须看 / 85** | Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control - Microsoft Source
+> **标题**：Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control - Microsoft Source
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYXY2QVMzcXpqZGY5T3NmRl9BX3FQdWkybktodjNVQWxxTTFFSjhfcHFWdUVNRVlRUkNlWFNFT1hUa2pIQks0ek9DNGp5WFJ3VXROeVZDS1BMU3JGd0JNc3U3LTBJcUNIRHBELUM1UFBGcHdRWGNxdkJJbnU2bk5ZUFlLODFaY2xNaDhrMDFxUy02S3dCWFhtb2VxazZVdERlN3lDX1l6ZjdfVkwtUXM2N0JaaWQ4cGRtbkNWRXVqUEJEdS1WbVRBalZVeWZLLUVMZms2am5mdDBDYnJoNThMUTZwbWUyUUdMRUhMM0tPNUIzN3pXc2s2eTNZWWtjeDA?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
-> **rank**：#7
-> **reason**：rank #7; source weight: Google News; hot terms: markets, fed, inflation
+> **rank**：#5
+> **reason**：rank #5; source weight: Google News; hot terms: ai, us, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Warsh pledges Fed policy 'regime change' to rid inflation 'tax' on American people CNBC
+> **summary**：Microsoft and Mistral expand strategic partnership to give enterprises and regulated industries frontier AI they can control Microsoft Source
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **可延后 / 75** | AI-Generated ‘Odyssey’ Movie Adaptation Coming From ‘Dreams of Violets’ Director - Variety
-> **标题**：AI-Generated ‘Odyssey’ Movie Adaptation Coming From ‘Dreams of Violets’ Director - Variety
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiowFBVV95cUxQSmpNa3ZuNndhXzVkYUZfMVpoRGQxRGpZZ0N1a1diaVJTYU83clY2cXVJbVgzSVpuTUw0di1UTE1tT20yUEl6YXdZSlRDSG1wbUpHT2lleXlNSzkySzhMdDlwTS1BbklBbExhRVZla081SXJhc2NOeDFVUFFKd05fSlk0emNsWWlpMWlHSGI4ZVo1NDRBcnVWZThrU2ppWEVPU29z?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#8
-> **reason**：rank #8; source weight: Google News; hot terms: ai, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：AI-Generated ‘Odyssey’ Movie Adaptation Coming From ‘Dreams of Violets’ Director Variety
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **可延后 / 73** | Anthony Albanese promises fast-track approvals for datacentres to shore up AI investment | AI (artificial intelligence) - The Guardian
-> **标题**：Anthony Albanese promises fast-track approvals for datacentres to shore up AI investment | AI (artificial intelligence) - The Guardian
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMHFsVkpkbTV3bFllZWJxSENQNGU1QVQySnR1Mzc0alJTcWJPQV9VdTR2SUlRdVhoTGJrMEZ4YlVaSGdMb19YdDU4dU51MVpBTkY4aVlaWXdCT2d0LTN5NlZadzlKS1Y5ZzViamFHR3VLSzR1V3Jnbzd2VGpUUmtCdWlxdXJiSzJ3b3U2WHc1UHZrVEd0bE5hbTVJYTdwbkVrOFQ5VXF2RS0zeUVnbUNiV0FwaGZwTktsS2pXd3Bmd3cwTmpZVndLZFZCV3Ytbm15aG5Zb2VR?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#9
-> **reason**：rank #9; source weight: Google News; hot terms: ai, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Anthony Albanese promises fast-track approvals for datacentres to shore up AI investment | AI (artificial intelligence) The Guardian
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **可延后 / 73** | UTC Center for Professional Education to offer two AI programs in September - University of Tennessee at Chattanooga
-> **标题**：UTC Center for Professional Education to offer two AI programs in September - University of Tennessee at Chattanooga
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirwFBVV95cUxNcEtVd2JDM1ZvclRfX3E0OGlIaVRJSGVNVU9wdTMtamFtYXREU3JEc2JfZ1kwd1hid3Y5bi1DN2dnbUxXUU8wMnFuMDRVOGFMNXpXMmc3Qkd2R1k2WWNVTDVRekF0N01iVWtRS0J6Sm82VlVIMU02ZURQcWVBZllBT1BrRG9VVmtNT1dYTThJUWdBWjRJbEJfYUt1VFBibUw2MktUTUo0V0xoN1UtU2JB?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#9
-> **reason**：rank #9; source weight: Google News; hot terms: ai, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：UTC Center for Professional Education to offer two AI programs in September University of Tennessee at Chattanooga
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **可延后 / 71** | How AI is Shaping Childhood - Time Magazine
-> **标题**：How AI is Shaping Childhood - Time Magazine
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMimgFBVV95cUxNN1pzZ3pxR2lvNmktMjNfTVltOWVVRlpaRVRXWndOeXRpdVhrTHYtWDZKR0d3eDZtQjN1TzZ5YmZyOGVhRGdFTWphd0czV0RGNHZxS2lveVIzSnZyd1dkOWJVZ3Y2ZGVuSjFYd1F5UWY3Ry1WTW9kUl9Ldy1yM2xkRW11cW1GSW82dUtDRjdaQUppT0RIVWszNzBB?oc=5)
+> [!info]+ **今日必须看 / 83** | AI tools update: What’s available for Coast Guard members now and new training - United States Coast Guard (.mil)
+> **标题**：AI tools update: What’s available for Coast Guard members now and new training - United States Coast Guard (.mil)
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV3ZwZFJYdHNDZEoyOGt2ZC1JVVJENjFoekNDTklaajRkeENGRW43LWxfclRBbEs2RVZwOU5NRDU5VG9qV1JOMk0yN3V1dDdNNUYxa3kwTlNPNU10QkFzR2dqaUwtRm1IaXFFX3p0dFVJZDQ1SFg5cWFYX1pVSklScjAydGhiVUFBT3RQOVhxZExYbmp0LWdjNXhQdF9FWWtPVi1zVzlUT1RlaXFUQk5HaVJVQlgtUG10VDNVSUZkbzRsdw?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
 > **rank**：#10
-> **reason**：rank #10; source weight: Google News; hot terms: ai, ai, markets
+> **reason**：rank #10; source weight: Google News; hot terms: ai, united states, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：How AI is Shaping Childhood Time Magazine
+> **summary**：AI tools update: What’s available for Coast Guard members now and new training United States Coast Guard (.mil)
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 83** | Agentic AI in biomedical research: What is it and can it expedite science? - Stanford Medicine
+> **标题**：Agentic AI in biomedical research: What is it and can it expedite science? - Stanford Medicine
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMijgFBVV95cUxQcGtmcFlsRktpWkpKOGdtbF9BZDR3bXRPWlB4MVVJNEFBWkNIaHFlZ0N5OXlEcmZIYUNzYmJuaFdrMkdBZTh4NUREY0FmTEk5SFA2aEFjekxvWmRlLVpPZXN2MW0zdFVyMXNRal9Na3pJQWIzaVZESzBYeE1mVTJtbGpZRW1rbWY4SkxPQUdR?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#8
+> **reason**：rank #8; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Agentic AI in biomedical research: What is it and can it expedite science? Stanford Medicine
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 81** | EXCLUSIVE: US, China to hold AI talks in September, sources say - Reuters
+> **标题**：EXCLUSIVE: US, China to hold AI talks in September, sources say - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMilwFBVV95cUxNRnA2ZW5UVVBMZkFtcExCdG5vSTJIMDFGYVhtcFpXellZRkpmcnJocExRNkp5c0VDdXRfVDdXcGs1OGszNEdMM3YxQ3R2UFVwYmdCQW85MjdYUHBlaWloVENJZmE1OVYxc2FFQml4LTFOWXEwOW5BcGIyVEQ3Rk5uMmxPQUFLVWY4cTYxNzJTZzZBbkJ1RkFr?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#11
+> **reason**：rank #11; source weight: Google News; hot terms: ai, china, us, ai; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：EXCLUSIVE: US, China to hold AI talks in September, sources say Reuters
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 77** | Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe - CNBC
+> **标题**：Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe - CNBC
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMigAFBVV95cUxPaEVmSnZkRGlDVkdQOE5CUm02WkUzQkNlaE9zN2xRN1RvNFZIQ0wxZnlGaE5nQWxWQklSd292OUZZUUV3UkdXSHh1eDRTajluSWMwQUVjZWllc1VXZkIyZnNORXB4NzJtbUpvNWFhZzB2M0dWdXlycHVFdGl2d3IxZ9IBhgFBVV95cUxPM1FBTHVWVGZmWC1KUTJCRDhneHFsOFAtWnIweS13dW05WnFZc0pjTVlhc2hXbzZVYVc0TUtwTTBnN2FRWWp0MmxCeUlIVEpxWmQxbUpvdEd3YWw0SGlaOE1qSU5XZmY0SG8tLUQ4UGM4T0V5WDZVa0dIRzNpWkhXRWJ5YXNaQQ?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#7
+> **reason**：rank #7; source weight: Google News; hot terms: markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Goldman Sachs creates private markets platform as rich investors seek the next SpaceX and Stripe CNBC
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
