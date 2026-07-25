@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W30
-date: 2026-07-22
+date: 2026-07-25
 tags:
   - weekly-review
   - research-radar
@@ -10,6 +10,19 @@ tags:
 
 ## 本周趋势
 
+> [!info]+ **今日必须看 / 89** | JKHeadley/instar
+> **标题**：JKHeadley/instar
+> **原文链接**：🔗 [打开原文](https://github.com/JKHeadley/instar)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, llm; high-value terms: agent, agents, mcp, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | PrismorSec/prismor
 > **标题**：PrismorSec/prismor
 > **原文链接**：🔗 [打开原文](https://github.com/PrismorSec/prismor)
@@ -44,32 +57,6 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, mcp; high-value terms: agent, agents, mcp, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Melodic Software — Claude Code plugin marketplace: reusable, repo-agnostic skills, hooks, agents, and MCP servers.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | sickn33/agentic-awesome-skills
-> **标题**：sickn33/agentic-awesome-skills
-> **原文链接**：🔗 [打开原文](https://github.com/sickn33/agentic-awesome-skills)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, claude code, codex, mcp; high-value terms: agent, mcp, codex, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Installable GitHub library of 1,900+ agentic skills for Claude Code, Cursor, Codex CLI, Autohand Code, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official/community skill collections.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | Moxi-Lab/obsidian-ai-workflow-kit
-> **标题**：Moxi-Lab/obsidian-ai-workflow-kit
-> **原文链接**：🔗 [打开原文](https://github.com/Moxi-Lab/obsidian-ai-workflow-kit)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Local-first Obsidian vault structure that gives AI agents persistent project memory across sessions. Works with Claude Code, Cursor, Codex, ChatGPT.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -88,6 +75,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | LucasSantana-Dev/forgekit
+> **标题**：LucasSantana-Dev/forgekit
+> **原文链接**：🔗 [打开原文](https://github.com/LucasSantana-Dev/forgekit)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：AI dev toolkit for coding agents — rules, skills, and setup for Claude Code, Codex, Cursor, Windsurf, and GitHub Copilot. One command to start.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 87** | ReasFlow: Assisting Reasoning-Centric Scientific Discovery in Applied Mathematics via a Knowledge-Based Multi-Agent System
 > **标题**：ReasFlow: Assisting Reasoning-Centric Scientific Discovery in Applied Mathematics via a Knowledge-Based Multi-Agent System
 > **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.14178)
@@ -101,40 +101,40 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | wlsdks/ontology-atlas
-> **标题**：wlsdks/ontology-atlas
-> **原文链接**：🔗 [打开原文](https://github.com/wlsdks/ontology-atlas)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, obsidian, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Understand what your AI agents are building. Agent-native, human-sovereign ontology workbench — one markdown graph humans and coding agents read, write, and keep fresh together. Local-first, MCP-native, open source.
+> [!info]+ **今日必须看 / 87** | InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents
+> **标题**：InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.20468)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm, research; high-value terms: benchmark, agent, agents, eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2607.20468v1 Announce Type: new Abstract: AI agents are increasingly used to automate research and development tasks, yet existing benchmarks typically evaluate them on prescribed workflows or narrow action spaces. Even nominally open-ended tasks can often be solved by retrieving a well-known...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | decocms/studio
-> **标题**：decocms/studio
-> **原文链接**：🔗 [打开原文](https://github.com/decocms/studio)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar
+> [!info]+ **今日必须看 / 87** | Profile-Graph Memory for LLM Agents: Implicit Cross-Entity Traversal through Narrative Profiles
+> **标题**：Profile-Graph Memory for LLM Agents: Implicit Cross-Entity Traversal through Narrative Profiles
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.19359)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm, benchmark; high-value terms: benchmark, agent, agents, eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2607.19359v1 Announce Type: new Abstract: Long-term memory is essential for LLM agents that interact across sessions, yet current memory benchmarks primarily evaluate single-hop recall, leaving multi-hop association largely unmeasured. We make three contributions. First, we introduce MemHop,...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | gabrielassisxyz/deep-researcher
-> **标题**：gabrielassisxyz/deep-researcher
-> **原文链接**：🔗 [打开原文](https://github.com/gabrielassisxyz/deep-researcher)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：A deep-research workflow for coding agents that produces an auditable dossier — with a search ledger, so you can tell whether it researched anything or just read your bookmarks back to you.
+> [!info]+ **今日必须看 / 86** | Be skeptical of OpenAI's rogue hacker agent story
+> **标题**：Be skeptical of OpenAI's rogue hacker agent story
+> **原文链接**：🔗 [打开原文](https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: agent, agents, openai; high-value terms: agent, agents; strong public engagement
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：387 points | 212 comments
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -143,6 +143,19 @@ tags:
 
 ## 值得试用的工具 / 模型
 
+> [!info]+ **今日必须看 / 89** | JKHeadley/instar
+> **标题**：JKHeadley/instar
+> **原文链接**：🔗 [打开原文](https://github.com/JKHeadley/instar)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, llm; high-value terms: agent, agents, mcp, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | PrismorSec/prismor
 > **标题**：PrismorSec/prismor
 > **原文链接**：🔗 [打开原文](https://github.com/PrismorSec/prismor)
@@ -164,19 +177,6 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, mcp, codex
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：AI-powered job search automation — evaluate offers, generate ATS-optimized CVs, scan portals, negotiate, and track applications. One config drives OpenCode, Cursor, Claude Code, and Codex. Free end-to-end via OpenCode + Geometra MCP.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | melodic-software/claude-code-plugins
-> **标题**：melodic-software/claude-code-plugins
-> **原文链接**：🔗 [打开原文](https://github.com/melodic-software/claude-code-plugins)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, mcp; high-value terms: agent, agents, mcp, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Melodic Software — Claude Code plugin marketplace: reusable, repo-agnostic skills, hooks, agents, and MCP servers.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -198,6 +198,45 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 87** | InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents
+> **标题**：InferenceBench: A Benchmark for Open-Ended LLM Inference Optimization by AI Agents
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.20468)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm, research; high-value terms: benchmark, agent, agents, eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2607.20468v1 Announce Type: new Abstract: AI agents are increasingly used to automate research and development tasks, yet existing benchmarks typically evaluate them on prescribed workflows or narrow action spaces. Even nominally open-ended tasks can often be solved by retrieving a well-known...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 87** | Profile-Graph Memory for LLM Agents: Implicit Cross-Entity Traversal through Narrative Profiles
+> **标题**：Profile-Graph Memory for LLM Agents: Implicit Cross-Entity Traversal through Narrative Profiles
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.19359)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm, benchmark; high-value terms: benchmark, agent, agents, eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2607.19359v1 Announce Type: new Abstract: Long-term memory is essential for LLM agents that interact across sessions, yet current memory benchmarks primarily evaluate single-hop recall, leaving multi-hop association largely unmeasured. We make three contributions. First, we introduce MemHop,...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 83** | DataPrep-Bench: Benchmarking LLMs as Training Data Preparators
+> **标题**：DataPrep-Bench: Benchmarking LLMs as Training Data Preparators
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.20465)
+> **source**：cs.LG updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm, benchmark; high-value terms: benchmark, agent, agents
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2607.20465v1 Announce Type: new Abstract: The quality of training data fundamentally determines the capabilities of large language models (LLMs), yet no unified benchmark exists to measure how well LLMs, agents, and data-centric workflows actually prepare training data end to end. We view LLM...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 77** | ToolVerse: Unlocking Massive Environments and Long-Horizon Tasks for Agentic Reinforcement Learning
 > **标题**：ToolVerse: Unlocking Massive Environments and Long-Horizon Tasks for Agentic Reinforcement Learning
 > **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.15660)
@@ -206,6 +245,19 @@ tags:
 > **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, reasoning
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
 > **summary**：arXiv:2607.15660v1 Announce Type: new Abstract: While LLM agents demonstrate strong reasoning abilities in compact and well-defined scenarios, they struggle to maintain robustness and effectiveness when faced with large-scale, diverse, and dynamic real-world environments that demand seamless tool i...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 77** | PersonaTrail: Benchmarking Personalized Web Agents through Browsing Trails
+> **标题**：PersonaTrail: Benchmarking Personalized Web Agents through Browsing Trails
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.20482)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, benchmark; high-value terms: benchmark, agent, agents
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2607.20482v1 Announce Type: new Abstract: Recent advances in large language models have enabled web agents to autonomously execute complex tasks. In practice, users frequently provide underspecified instructions, requiring agents to infer the missing context from their raw browsing histories....
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -237,61 +289,22 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 77** | Do Coding Agents Need Executable World Models, Simplification, and Verification to Solve ARC-AGI-3?
-> **标题**：Do Coding Agents Need Executable World Models, Simplification, and Verification to Solve ARC-AGI-3?
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.15439)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, codex; high-value terms: agent, agents, codex
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2607.15439v1 Announce Type: new Abstract: Our previous ARC-AGI-3 agent bundled executable world modeling, scheduled simplification, and exact replay verification, leaving unclear which idea accounted for its performance. We address this attribution question with four nested Codex-based agents...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **可延后 / 70** | Branching Policy Optimization: Sandbox-Native Language Agent Reinforcement Learning
-> **标题**：Branching Policy Optimization: Sandbox-Native Language Agent Reinforcement Learning
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.14171)
-> **source**：cs.LG updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2607.14171v1 Announce Type: new Abstract: Reinforcement learning has emerged as the dominant paradigm for training large language model (LLM) agents that interact with executable sandboxes. State-of-the-art algorithms such as PPO, RLOO, and GRPO inherit their rollout topology from RLHF: for e...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **可延后 / 70** | CIGPO: Contextual Information-Gain Policy Optimization for Multi-Turn Evidence-Reading LLM Agents
-> **标题**：CIGPO: Contextual Information-Gain Policy Optimization for Multi-Turn Evidence-Reading LLM Agents
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.16244)
-> **source**：cs.LG updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2607.16244v1 Announce Type: new Abstract: Training multi-turn evidence-reading agents with outcome-only reinforcement learning is unstable because intermediate turns receive little direct credit. In HotpotQA experiments with Qwen2.5-3B-Instruct, GRPO initially improves (standard F1 0.430) but...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **可延后 / 70** | From Memory to Skills: Evidence-Grounded Co-Evolution Governance for Long-Horizon LLM Agents
-> **标题**：From Memory to Skills: Evidence-Grounded Co-Evolution Governance for Long-Horizon LLM Agents
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.16621)
-> **source**：cs.CL updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2607.16621v1 Announce Type: new Abstract: Existing memory systems for long-horizon LLM agents often retrieve prior traces as passive context rather than converting them into executable capabilities. In this paper, we propose MSCE, a training-free Memory--Skill Co-Evolution framework that orga...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 
 ## 反复出现的信号
 
+> [!info]+ **今日必须看 / 89** | JKHeadley/instar
+> **标题**：JKHeadley/instar
+> **原文链接**：🔗 [打开原文](https://github.com/JKHeadley/instar)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, llm; high-value terms: agent, agents, mcp, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Persistent Claude Code agents with scheduling, sessions, memory, and Telegram.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | PrismorSec/prismor
 > **标题**：PrismorSec/prismor
 > **原文链接**：🔗 [打开原文](https://github.com/PrismorSec/prismor)
@@ -318,6 +331,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 86** | Be skeptical of OpenAI's rogue hacker agent story
+> **标题**：Be skeptical of OpenAI's rogue hacker agent story
+> **原文链接**：🔗 [打开原文](https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: agent, agents, openai; high-value terms: agent, agents; strong public engagement
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：387 points | 212 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 85** | wlsdks/ontology-atlas
 > **标题**：wlsdks/ontology-atlas
 > **原文链接**：🔗 [打开原文](https://github.com/wlsdks/ontology-atlas)
@@ -326,6 +352,19 @@ tags:
 > **reason**：matches topics: agent, agents, obsidian, mcp; high-value terms: agent, agents, mcp
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Understand what your AI agents are building. Agent-native, human-sovereign ontology workbench — one markdown graph humans and coding agents read, write, and keep fresh together. Local-first, MCP-native, open source.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | screenpipe/screenpipe
+> **标题**：screenpipe/screenpipe
+> **原文链接**：🔗 [打开原文](https://github.com/screenpipe/screenpipe)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：YC (S26) | Record your screen 24/7 and plug into your agents. Local, private, secure. Connect to OpenClaw, Hermes agent and 100+ apps
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -344,6 +383,32 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | hiper2d/marlow
+> **标题**：hiper2d/marlow
+> **原文链接**：🔗 [打开原文](https://github.com/hiper2d/marlow)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, research; high-value terms: agent, agents, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Long-loop agent experiment: Werewolf ops + AI safety research stream. Runs on Claude Code.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | foggy-projects/foggy-data-mcp-bridge
+> **标题**：foggy-projects/foggy-data-mcp-bridge
+> **原文链接**：🔗 [打开原文](https://github.com/foggy-projects/foggy-data-mcp-bridge)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：MCP Data Bridge for Java. Enabling safe Text-to-Query via a semantic layer, making enterprise data accessible to AI Agents.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 85** | gabrielassisxyz/deep-researcher
 > **标题**：gabrielassisxyz/deep-researcher
 > **原文链接**：🔗 [打开原文](https://github.com/gabrielassisxyz/deep-researcher)
@@ -352,71 +417,6 @@ tags:
 > **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：A deep-research workflow for coding agents that produces an auditable dossier — with a search ledger, so you can tell whether it researched anything or just read your bookmarks back to you.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | xInfer123/octobench
-> **标题**：xInfer123/octobench
-> **原文链接**：🔗 [打开原文](https://github.com/xInfer123/octobench)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, benchmark; high-value terms: benchmark, agent, agents
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Benchmark and compare LLM tool, configuration, and prompt setups using a shared case framework with automated scoring and telemetry.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 83** | saeedkolivand/ai-job-hunter-app
-> **标题**：saeedkolivand/ai-job-hunter-app
-> **原文链接**：🔗 [打开原文](https://github.com/saeedkolivand/ai-job-hunter-app)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, claude code, codex; high-value terms: agent, codex, claude code, api
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Local-first AI desktop assistant that scrapes job boards, matches roles to your resume, and auto-generates resumes & cover letters. Offline with Ollama, BYO API key, or route it through an AI CLI agent (Claude Code, Codex, Gemini CLI).
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | moymoytoto/shodhRAG
-> **标题**：moymoytoto/shodhRAG
-> **原文链接**：🔗 [打开原文](https://github.com/moymoytoto/shodhRAG)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, eval
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Build a local-first AI assistant using retrieval-augmented generation, agents, and tool calling, powered by Rust for secure and fast performance.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | mlflow/mlflow
-> **标题**：mlflow/mlflow
-> **原文链接**：🔗 [打开原文](https://github.com/mlflow/mlflow)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, eval
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | patchloom/patchloom
-> **标题**：patchloom/patchloom
-> **原文链接**：🔗 [打开原文](https://github.com/patchloom/patchloom)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Single-binary CLI that gives AI agents safe, structured file editing
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库

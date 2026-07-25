@@ -1,19 +1,25 @@
 ---
-title: News Radar Week 2026-W30
+title: News Daily 2026-07-25
 date: 2026-07-25
 tags:
   - news-radar
-  - weekly-review
+  - daily
+  - workbuddy
 ---
 
-# 2026-W30 News Radar
+# 2026-07-25 News Daily
 
-## 复盘方法
+## 今日概览
 
-- 汇总过去 7 天持续升温和跨来源重复出现的议题。
-- 排序原则：先看热度和重复出现，再看分类标签。
+- 新闻信号总数：44
+- 今日全局热点 Top 20：20
+- 中国热点：0
+- 美国/国际热点：12
+- 财经科技热点：12
+- 数据源失败：3
+- 排序原则：热度优先，分类只用于浏览和筛选。
 
-## 过去阶段最高热度
+## 今日全局热点 Top 20
 
 > [!info]+ **今日必须看 / 100** | États - Unis : feu vert pour les puces H200 vers la Chine , Nvidia en quête de percée
 > **标题**：États - Unis : feu vert pour les puces H200 vers la Chine , Nvidia en quête de percée
@@ -185,40 +191,6 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 91** | Exclusive | Can the US and its allies break China’s grip on rare earths and AI technology? - South China Morning Post
-> **标题**：Exclusive | Can the US and its allies break China’s grip on rare earths and AI technology? - South China Morning Post
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMixgFBVV95cUxQUWFvU3pwOXFxUFBuUmgtUXdZR2tYdDJoZ19EMVZDb2x6ZUg3QjNpa3ZGYmUtcHZxLWs3TE44a05lQlFIWDMxalZsV29mZUtsVUJhNHpPZGRYdl83SUZlS0paV25wVVk1Z3hudkNPaVBYOG1fSXpCUEFqWnc1dElZS2l0UFFudUxXVmxQV1ZqalN4aXRsdElsRVhyb20tcEJYWWRaNTBZWnBZeGdKeFR5UVhvSW5YeUppQ3BvbWRmek1INHRibUHSAcYBQVVfeXFMTUIzZ0d4ZGVoVDdaNWJncXRCM0hXM0xwMXAyMEUxUzgtME5UOUVVSzVYUHFvME5hbWMzVVJEVXlOQ3NVaDFsZThRcUNUZ3JVUFZMMWtrUlBCd1pqNE9pN1h3dzBsVU1oQW84M1g4b3hJTXhwTVZpUHQySFl6ZEVMdmg0YUFUYjV0b2xTLTNRYVdUbU5BX2RpLUhhbXU4TDVSTlNDREFNcGJYN1ZUaDJ5VnRxNHhJc3p4dms2R25OTGRiSy1aT09B?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: 美国, ai, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Exclusive | Can the US and its allies break China’s grip on rare earths and AI technology? South China Morning Post
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 91** | White House monitors OpenAI's 'rogue' AI incident, lawmakers propose 'kill switch' - Reuters
-> **标题**：White House monitors OpenAI's 'rogue' AI incident, lawmakers propose 'kill switch' - Reuters
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRnhrdU9BTTRoNGhtSV9RbmlUT21SMkxiRHZuTU9vdnN2NjZodU1iVjEyMWdVQmQ1OGVKalFXOHRuUFBWNzZaejdwc3hLRE05TzBOcmpNeF83SmlVU0MwNThMZk9aZDBYSFhhNjRMNWxuNndFbHhCdnFnMnhEQTVBVE5QYzkxUllpOEw4U1pBSjFjeHljaXVVcXdOWGF0TUU1cnl3Wg?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：White House monitors OpenAI's 'rogue' AI incident, lawmakers propose 'kill switch' Reuters
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
 > [!info]+ **今日必须看 / 91** | Democrats seize on AI data center backlash that's dividing rural Republicans in places like Texas - PBS
 > **标题**：Democrats seize on AI data center backlash that's dividing rural Republicans in places like Texas - PBS
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMizAFBVV95cUxOOUJlR05hQnJIbGJPTzFRbnhOZDVicVllM0IyZUlrcGE2Z3JRX29TdnJleEtOWWF6QjlYUUM3ZXpraTR0NUFTTG54QW1Gb3FZanhjTGU5OU5pbUJWcWFwTU8yeUxXUjdNdVhjaFhleTdnSEhfaUZvNnJBcGFtTDdJX3kyT3pSTlFsVmZOMktWa2oxVnNnQm92R0R6TVhBQXV0QkhZZlVKeVYwaTIxbS14cDBYdXpIUlExQVpCT1lCbFdvdE40MGo0MldVOVY?oc=5)
@@ -270,7 +242,542 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-## 反复出现的议题
+> [!info]+ **今日必须看 / 88** | Total War on Taipei: China Explores Elevating Cognitive Effects into Its Vision of Warfare - War on the Rocks
+> **标题**：Total War on Taipei: China Explores Elevating Cognitive Effects into Its Vision of Warfare - War on the Rocks
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZU4yZUhFRG5hVHlLc3RoanVLTHBNVDk4UHliQjRzTEV5eHhLNjdOQXBuZUpMdkIxYlhRQzJXSXgtVnpDWjdNN2NpTkVsT2lOdVRDYW5US01FdVZGcGZ0SU1hRnZUaE1QcmwzZk1QMkdvVHMwSVl4MGlGaTZzRVJUZjdjTGpNTVRfRDlMWkhMN0NUbUlXSHJBcW1EWHVSTWtiU0ZCRGszUnhIUzZ0S2RtSENMTHpPYVU?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#7
+> **reason**：rank #7; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Total War on Taipei: China Explores Elevating Cognitive Effects into Its Vision of Warfare War on the Rocks
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 87** | Big Tech companies defend open-weight AI models - Politico
+> **标题**：Big Tech companies defend open-weight AI models - Politico
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMingFBVV95cUxQMmRxcmw1WmJqMk1SekYzRFZYdm52RWtoMmZDbWtpeTlsdU02bXY3dDV5VkVmSnNnT1VDaXZOd2I1aDNzX0J3Y2NoZHg1ZWxEQTVOdzFPMGVpOV9LY2ZuQ2FwR0FFRFhhcWoySTREUnNXdTVXb0l6VnkwV1JBNHlFeFpzZmtQNkdTX3VwQWUxVXBURExKa3U5N2RxVkJKdw?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#6
+> **reason**：rank #6; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Big Tech companies defend open-weight AI models Politico
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 86** | ( 창간기획 - 반도체 전쟁 ) ①중국 반도체 굴기 , 미국이 앞당겼다
+> **标题**：( 창간기획 - 반도체 전쟁 ) ①중국 반도체 굴기 , 미국이 앞당겼다
+> **原文链接**：🔗 [打开原文](http://www.newstomato.com/ReadNews.aspx?no=1300277)
+> **source**：GDELT / newstomato.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#8
+> **reason**：rank #8; cross-source x15; source weight: GDELT; hot terms: 美国
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260511T073000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 85** | Amazon confirms it's closing key AI site in San Francisco but says work on its top models continues - GeekWire
+> **标题**：Amazon confirms it's closing key AI site in San Francisco but says work on its top models continues - GeekWire
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVDhBTlBIeFZZNzFKSV9iSlM4eFN1WGdmZHB5MUZMZnZURElrYzF1cTJhenI0WVVQbjYzUGdZWi1KUl9OUkRjOUVzQlpYbW9VNVBSdUZsdFJFY3VOSUVFcEZ5TjFSWlZfOU9icUxTLWJVX0xrc3VyaHE0Z3ZWNEJKQ3VMNUVRLURSV3NGcWVqeWpzS1YtMTlnZFQ3STYzem9ic0FvYlBuN2N2QjcwcUc0X0l5NV9Tb0hPQkVUQnhRQThLS08zMnNOQg?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#7
+> **reason**：rank #7; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Amazon confirms it's closing key AI site in San Francisco but says work on its top models continues GeekWire
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 85** | White House draws new AI line on China - Axios
+> **标题**：White House draws new AI line on China - Axios
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiakFVX3lxTFBlRHF5QzZsZ1lLeEVkdFNTcmxJcDNEUV9UVWlkY1lZSEpXREhaOGJpUFJVTV9IUFdsdWVyWTZtLTExNmNCalo1NHNIZExfZTBTX25JVnFnMnpaTHdwOEttSzh0TEpWa3oxdmc?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#5
+> **reason**：rank #5; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：White House draws new AI line on China Axios
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 85** | AI incidents bolster push for federal cyber improvements - Federal News Network
+> **标题**：AI incidents bolster push for federal cyber improvements - Federal News Network
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEpNdVBUSVN1anhmcXpvWlI4SlhPTk9rM2ZicTlrbEoyTXp6QmRJelM0dHZIb1hub0d3Q2oxYVpMZm9PZ3hELVBhTWZBQ0hqVlZ3NDBYb2VYZ0YzN2s1djYwdHR1SXkxVkFWcnd3SHAyaFBkU2hia0E5NTU0SjRQa282WGVrVTBSS3ZOQ2xGb2M0VHpsREZ6RW9UQTU4X3hfaXpsbVdRb0xiZ3V3T3g0?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#9
+> **reason**：rank #9; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：AI incidents bolster push for federal cyber improvements Federal News Network
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 84** | 特朗普曾批台 偷走芯片业 赖清德赠张忠谋自传盼促理解
+> **标题**：特朗普曾批台 偷走芯片业 赖清德赠张忠谋自传盼促理解
+> **原文链接**：🔗 [打开原文](https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E6%89%B9%E5%8F%B0%E5%81%B7%E8%B5%B0%E8%8A%AF%E7%89%87%E4%B8%9A-%E8%B5%96%E6%B8%85%E5%BE%B7%E8%B5%A0%E5%BC%A0%E5%BF%A0%E8%B0%8B%E8%87%AA%E4%BC%A0%E7%9B%BC%E4%BF%83%E7%90%86%E8%A7%A3/a-77321882)
+> **source**：GDELT / dw.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#9
+> **reason**：rank #9; cross-source x3; source weight: GDELT; hot terms: 美国, 芯片
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260528T070000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+## 中国热点
+
+- 暂无。
+
+## 美国/国际热点
+
+> [!info]+ **今日必须看 / 100** | États - Unis : feu vert pour les puces H200 vers la Chine , Nvidia en quête de percée
+> **标题**：États - Unis : feu vert pour les puces H200 vers la Chine , Nvidia en quête de percée
+> **原文链接**：🔗 [打开原文](https://www.tuniscope.com/article/431817/tech/high-tech/puces-nvidia-h200-2303888)
+> **source**：GDELT / tuniscope.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#1
+> **reason**：rank #1; cross-source x16; source weight: GDELT; hot terms: 美国
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260514T191500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | US Space Chipmaking Bill vs China
+> **标题**：US Space Chipmaking Bill vs China
+> **原文链接**：🔗 [打开原文](https://www.newkerala.com/news/a/us-pushes-space-chipmaking-initiative-counter-chinas-technological-228.htm)
+> **source**：GDELT / newkerala.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#3
+> **reason**：rank #3; cross-source x4; source weight: GDELT; hot terms: 美国, china, us
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260612T031500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters
+> **标题**：EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3Vadng3eFVJX2E0cGhld0pQbGMxMWlmQU1WWFFLaFA3VkdtV1FtYnpPeGs4OHZ0TzZHX2VLaE55cDlsR2poS1JxVDA3emxoVnhiSkNrUWpDOVFKWFJsb0QydHo5VWdyQTFUemh1aFdDa1RRYVJybGFhUXhrLTFVQjN5bTRoY1lFbEhuSXR1ZVFCQW1VT3pGMlBLSkFSc3E2N1dpcjVBVVdkWklwTGF3cTZraklYNkFobDFUbENwZXY?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week Reuters
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 98** | Китай получава по 500 млн . долара на час от износ , подкрепен от АІ
+> **标题**：Китай получава по 500 млн . долара на час от износ , подкрепен от АІ
+> **原文链接**：🔗 [打开原文](https://www.investor.bg/a/459-harduer/430462-kitay-poluchava-po-500-mln-dolara-na-chas-ot-iznos-podkrepen-ot-a)
+> **source**：GDELT / investor.bg
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#2
+> **reason**：rank #2; cross-source x16; source weight: GDELT; hot terms: 美国
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260512T183000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 98** | China is gaining troubling military know-how from Russia - The Economist
+> **标题**：China is gaining troubling military know-how from Russia - The Economist
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMipAFBVV95cUxON2oyLTdjV3dnaUtpcFp4Q3lsUUZ5dGgteFVKRkItRzJERlZWa2t5T1Y5MVVqM2tDRmlHMUJjVURXLUdpSDU1czQzQ0lDcGtsUmpqSlFVRHdmcUZqZ0x2WndDc1poUTEtRXZHelp1TnVraWJzbWY3S0xfZVlabXJ3TkpmZ2tFdVc2aWtPTlctdjQwSUdPVWxQT2xxdzJqc1BBLXpSSg?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#2
+> **reason**：rank #2; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：China is gaining troubling military know-how from Russia The Economist
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 97** | Trump warns China and Russia not to ‘give or sell’ weapons to Iran - Colorado Politics
+> **标题**：Trump warns China and Russia not to ‘give or sell’ weapons to Iran - Colorado Politics
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirgFBVV95cUxObzVtRzRMU2dTU3l6d1BRSnQ1OFdkZTVCYXREdXlld3pJSFJZcC1WM0hvMDJ1NTRRUEJoWGRSbVd4VDhqc0RYbU40TTRXV2xBMFkwT0ZWYVZhbmd4R2pleFJGZzMtNGVaZTZSZ2FJSmNRUVlXQjF1Zzk4OUlqRk81QmdaaHh1QWViM0s1a0dKT3RxTDZjdFF1Y0c5ZEZZR3JfelNxQWVCRWNqS1lwcFE?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Trump warns China and Russia not to ‘give or sell’ weapons to Iran Colorado Politics
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 95** | Trump warns China and Russia not to arm Iran as U.S. military faces weapons depletion concerns - CBS News
+> **标题**：Trump warns China and Russia not to arm Iran as U.S. military faces weapons depletion concerns - CBS News
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMizwFBVV95cUxQYVBMMmtFclF0bktMVEZoWkhxZHF5cGVjQ29NOXkwTXRvZ2UzX25RU2RORnc5TmI2Z3VjVFQxUllwRHFya2xTRVBtM2sybkE2V1htVkFiM0RpQVBZLXJiTXJkN3JfeTNLbzF1eXN6STlQSGQ5d210TVg5Q1lTaWNKS1lNQmJkY0U3YTN6T0lCaWlpY3ZYWHBpWjhfVnNxRVdCb2lDRDhjSjcxVnZuYTNBTVJ0dmFacDJwQVZ1VHY3QTh5RUJGZGxrTTlWdUpBczQ?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#4
+> **reason**：rank #4; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Trump warns China and Russia not to arm Iran as U.S. military faces weapons depletion concerns CBS News
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 95** | How OpenAI Lost Control of an AI Model—and What Needs to Change - Time Magazine
+> **标题**：How OpenAI Lost Control of an AI Model—and What Needs to Change - Time Magazine
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMicEFVX3lxTFB2SXZ0SXhYeUpETjZ2T2N1aDNZaml2bzZYUmpSWlhnMENQZ2VZTWNCemJsT24zWHNQQnJ6UlZraVd0Wk1wdkNrUXdGLUhQeENDWjJTd0ZiSmUtcWU0aXd5V2xWbmt4cHFnMkFhaTlEaGg?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：How OpenAI Lost Control of an AI Model—and What Needs to Change Time Magazine
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 93** | Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others - CNBC
+> **标题**：Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others - CNBC
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3Uzc2dUOF9odGJhRS16SzZrQ1ZYOFNLOWs3dFJ3T3d6ektVZzluX01Gb1haM0V4QzJGY0o1RWRybVN5Qi1OZUg1SEE0U3NTcjBSbGphdUdBZmNqci1zakhGNVliTUZVQWVjZ0hla0ZFOHZQeUZ3U19jelRENHl3TXlJZ1VtYkdpTndKVDJMRWtQQjEtaXfSAZsBQVVfeXFMT3FJRGVjZUV1MFJOaldHYmpwR0VJVG1DalVFeVA1SWw4V0lnM2dSbkoyNGU0aEFhZW1WU2lMWXVQMjdNRUZJSG1NOHV3ODFBQ1dMOUF1T3RfQm1yLVF0TWVsNmYxTlZ6VVkxTFAwbWd4akV5RTZPMTFLWlFYX25kWHlaZTVFamJLWjZsVnlUaE81M0VZNDViUVljQ1U?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others CNBC
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 92** | Huawei a développé un nouveau mode de fabrication de puces
+> **标题**：Huawei a développé un nouveau mode de fabrication de puces
+> **原文链接**：🔗 [打开原文](https://www.journaldemontreal.com/2026/05/25/huawei-a-developpe-un-nouveau-mode-de-fabrication-de-puces)
+> **source**：GDELT / africanmanager.com, GDELT / journaldemontreal.com, GDELT / journaldequebec.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#5
+> **reason**：rank #5; cross-source x10; source weight: GDELT; hot terms: 美国
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260525T110000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 91** | Democrats seize on AI data center backlash that's dividing rural Republicans in places like Texas - PBS
+> **标题**：Democrats seize on AI data center backlash that's dividing rural Republicans in places like Texas - PBS
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMizAFBVV95cUxOOUJlR05hQnJIbGJPTzFRbnhOZDVicVllM0IyZUlrcGE2Z3JRX29TdnJleEtOWWF6QjlYUUM3ZXpraTR0NUFTTG54QW1Gb3FZanhjTGU5OU5pbUJWcWFwTU8yeUxXUjdNdVhjaFhleTdnSEhfaUZvNnJBcGFtTDdJX3kyT3pSTlFsVmZOMktWa2oxVnNnQm92R0R6TVhBQXV0QkhZZlVKeVYwaTIxbS14cDBYdXpIUlExQVpCT1lCbFdvdE40MGo0MldVOVY?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#4
+> **reason**：rank #4; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Democrats seize on AI data center backlash that's dividing rural Republicans in places like Texas PBS
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 90** | Beijing conducts live-fire drills in Taiwan Strait after criticising Lai speech - South China Morning Post
+> **标题**：Beijing conducts live-fire drills in Taiwan Strait after criticising Lai speech - South China Morning Post
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ3dNeVVGdDliUzJRNFZJMm5YWlpJMktmS2dNMVdzaTdWMTZiUzNEZjZDOWhrakRuYXpfckd5OTJ4aGdHQ1ZmVG9DeHVHU3VLU3E3amliM1U0UDVodEk2RzV1ZXNzWFB0WmFhZl9zbFhXT2VmaWg1alBHMUN2eldPNzFqYjFXT1FvV2JMdUxzNmpQNWl4Rl9FVEVGX3hBTUJHWEZOeU5KY0FxUlJWVk1JUDFuNjNSUnVaclF3Qld30gG-AUFVX3lxTE5nTEdwbENQZTlKSHlZeGlXY0Z6dTFUUDhIZkcwWTNKcE1aN3Jjc1NWVjYxZGNZX1hfZDQtdFJvdkRrNElMVmh2TVRmUUNzbllvMkJHNDBYQTFEYWVTT0hfdTZzd3VZMVdQX1JCMk16dHRBbU45V3dnb09EWU9KR1p3SG1VZ1doaC1LVkNjSkRkZDB1Ykd6QmFQU2lGaHpPeE5YakhfcVNqZHBiV2dpYjltblNDMVFwNERuYzR1dlE?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#6
+> **reason**：rank #6; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Beijing conducts live-fire drills in Taiwan Strait after criticising Lai speech South China Morning Post
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+## 财经科技热点
+
+> [!info]+ **今日必须看 / 100** | États - Unis : feu vert pour les puces H200 vers la Chine , Nvidia en quête de percée
+> **标题**：États - Unis : feu vert pour les puces H200 vers la Chine , Nvidia en quête de percée
+> **原文链接**：🔗 [打开原文](https://www.tuniscope.com/article/431817/tech/high-tech/puces-nvidia-h200-2303888)
+> **source**：GDELT / tuniscope.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#1
+> **reason**：rank #1; cross-source x16; source weight: GDELT; hot terms: 美国
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260514T191500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | US Space Chipmaking Bill vs China
+> **标题**：US Space Chipmaking Bill vs China
+> **原文链接**：🔗 [打开原文](https://www.newkerala.com/news/a/us-pushes-space-chipmaking-initiative-counter-chinas-technological-228.htm)
+> **source**：GDELT / newkerala.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#3
+> **reason**：rank #3; cross-source x4; source weight: GDELT; hot terms: 美国, china, us
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260612T031500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters
+> **标题**：EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3Vadng3eFVJX2E0cGhld0pQbGMxMWlmQU1WWFFLaFA3VkdtV1FtYnpPeGs4OHZ0TzZHX2VLaE55cDlsR2poS1JxVDA3emxoVnhiSkNrUWpDOVFKWFJsb0QydHo5VWdyQTFUemh1aFdDa1RRYVJybGFhUXhrLTFVQjN5bTRoY1lFbEhuSXR1ZVFCQW1VT3pGMlBLSkFSc3E2N1dpcjVBVVdkWklwTGF3cTZraklYNkFobDFUbENwZXY?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week Reuters
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 98** | Китай получава по 500 млн . долара на час от износ , подкрепен от АІ
+> **标题**：Китай получава по 500 млн . долара на час от износ , подкрепен от АІ
+> **原文链接**：🔗 [打开原文](https://www.investor.bg/a/459-harduer/430462-kitay-poluchava-po-500-mln-dolara-na-chas-ot-iznos-podkrepen-ot-a)
+> **source**：GDELT / investor.bg
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#2
+> **reason**：rank #2; cross-source x16; source weight: GDELT; hot terms: 美国
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260512T183000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 95** | How OpenAI Lost Control of an AI Model—and What Needs to Change - Time Magazine
+> **标题**：How OpenAI Lost Control of an AI Model—and What Needs to Change - Time Magazine
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMicEFVX3lxTFB2SXZ0SXhYeUpETjZ2T2N1aDNZaml2bzZYUmpSWlhnMENQZ2VZTWNCemJsT24zWHNQQnJ6UlZraVd0Wk1wdkNrUXdGLUhQeENDWjJTd0ZiSmUtcWU0aXd5V2xWbmt4cHFnMkFhaTlEaGg?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：How OpenAI Lost Control of an AI Model—and What Needs to Change Time Magazine
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 93** | Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others - CNBC
+> **标题**：Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others - CNBC
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3Uzc2dUOF9odGJhRS16SzZrQ1ZYOFNLOWs3dFJ3T3d6ektVZzluX01Gb1haM0V4QzJGY0o1RWRybVN5Qi1OZUg1SEE0U3NTcjBSbGphdUdBZmNqci1zakhGNVliTUZVQWVjZ0hla0ZFOHZQeUZ3U19jelRENHl3TXlJZ1VtYkdpTndKVDJMRWtQQjEtaXfSAZsBQVVfeXFMT3FJRGVjZUV1MFJOaldHYmpwR0VJVG1DalVFeVA1SWw4V0lnM2dSbkoyNGU0aEFhZW1WU2lMWXVQMjdNRUZJSG1NOHV3ODFBQ1dMOUF1T3RfQm1yLVF0TWVsNmYxTlZ6VVkxTFAwbWd4akV5RTZPMTFLWlFYX25kWHlaZTVFamJLWjZsVnlUaE81M0VZNDViUVljQ1U?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others CNBC
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 92** | Huawei a développé un nouveau mode de fabrication de puces
+> **标题**：Huawei a développé un nouveau mode de fabrication de puces
+> **原文链接**：🔗 [打开原文](https://www.journaldemontreal.com/2026/05/25/huawei-a-developpe-un-nouveau-mode-de-fabrication-de-puces)
+> **source**：GDELT / africanmanager.com, GDELT / journaldemontreal.com, GDELT / journaldequebec.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#5
+> **reason**：rank #5; cross-source x10; source weight: GDELT; hot terms: 美国
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260525T110000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 91** | Democrats seize on AI data center backlash that's dividing rural Republicans in places like Texas - PBS
+> **标题**：Democrats seize on AI data center backlash that's dividing rural Republicans in places like Texas - PBS
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMizAFBVV95cUxOOUJlR05hQnJIbGJPTzFRbnhOZDVicVllM0IyZUlrcGE2Z3JRX29TdnJleEtOWWF6QjlYUUM3ZXpraTR0NUFTTG54QW1Gb3FZanhjTGU5OU5pbUJWcWFwTU8yeUxXUjdNdVhjaFhleTdnSEhfaUZvNnJBcGFtTDdJX3kyT3pSTlFsVmZOMktWa2oxVnNnQm92R0R6TVhBQXV0QkhZZlVKeVYwaTIxbS14cDBYdXpIUlExQVpCT1lCbFdvdE40MGo0MldVOVY?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#4
+> **reason**：rank #4; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Democrats seize on AI data center backlash that's dividing rural Republicans in places like Texas PBS
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 87** | Big Tech companies defend open-weight AI models - Politico
+> **标题**：Big Tech companies defend open-weight AI models - Politico
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMingFBVV95cUxQMmRxcmw1WmJqMk1SekYzRFZYdm52RWtoMmZDbWtpeTlsdU02bXY3dDV5VkVmSnNnT1VDaXZOd2I1aDNzX0J3Y2NoZHg1ZWxEQTVOdzFPMGVpOV9LY2ZuQ2FwR0FFRFhhcWoySTREUnNXdTVXb0l6VnkwV1JBNHlFeFpzZmtQNkdTX3VwQWUxVXBURExKa3U5N2RxVkJKdw?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#6
+> **reason**：rank #6; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Big Tech companies defend open-weight AI models Politico
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 86** | ( 창간기획 - 반도체 전쟁 ) ①중국 반도체 굴기 , 미국이 앞당겼다
+> **标题**：( 창간기획 - 반도체 전쟁 ) ①중국 반도체 굴기 , 미국이 앞당겼다
+> **原文链接**：🔗 [打开原文](http://www.newstomato.com/ReadNews.aspx?no=1300277)
+> **source**：GDELT / newstomato.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#8
+> **reason**：rank #8; cross-source x15; source weight: GDELT; hot terms: 美国
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260511T073000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 85** | Amazon confirms it's closing key AI site in San Francisco but says work on its top models continues - GeekWire
+> **标题**：Amazon confirms it's closing key AI site in San Francisco but says work on its top models continues - GeekWire
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVDhBTlBIeFZZNzFKSV9iSlM4eFN1WGdmZHB5MUZMZnZURElrYzF1cTJhenI0WVVQbjYzUGdZWi1KUl9OUkRjOUVzQlpYbW9VNVBSdUZsdFJFY3VOSUVFcEZ5TjFSWlZfOU9icUxTLWJVX0xrc3VyaHE0Z3ZWNEJKQ3VMNUVRLURSV3NGcWVqeWpzS1YtMTlnZFQ3STYzem9ic0FvYlBuN2N2QjcwcUc0X0l5NV9Tb0hPQkVUQnhRQThLS08zMnNOQg?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#7
+> **reason**：rank #7; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Amazon confirms it's closing key AI site in San Francisco but says work on its top models continues GeekWire
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 85** | AI incidents bolster push for federal cyber improvements - Federal News Network
+> **标题**：AI incidents bolster push for federal cyber improvements - Federal News Network
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEpNdVBUSVN1anhmcXpvWlI4SlhPTk9rM2ZicTlrbEoyTXp6QmRJelM0dHZIb1hub0d3Q2oxYVpMZm9PZ3hELVBhTWZBQ0hqVlZ3NDBYb2VYZ0YzN2s1djYwdHR1SXkxVkFWcnd3SHAyaFBkU2hia0E5NTU0SjRQa282WGVrVTBSS3ZOQ2xGb2M0VHpsREZ6RW9UQTU4X3hfaXpsbVdRb0xiZ3V3T3g0?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#9
+> **reason**：rank #9; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：AI incidents bolster push for federal cyber improvements Federal News Network
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+## 需要持续观察
 
 > [!info]+ **今日必须看 / 100** | États - Unis : feu vert pour les puces H200 vers la Chine , Nvidia en quête de percée
 > **标题**：États - Unis : feu vert pour les puces H200 vers la Chine , Nvidia en quête de percée
@@ -476,390 +983,12 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **可延后 / 74** | Why U.S. Technology Controls Keep Faltering, and How to Save Them - Lawfare
-> **标题**：Why U.S. Technology Controls Keep Faltering, and How to Save Them - Lawfare
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMipAFBVV95cUxNYTJBQUNSX0VzZDU5LVY2OUdXSzhmaHZiSlRZcnRlNFB0d0NFNl9YUVJpUVJCMjQtLUNJNG90ZFpENTBNdU5mNm5vTGk5c2w5WmkxTi1ZY0hnYjQ2RnRwSUtILWpFazRrQmNNUjJ5NG4zekpkczc5TkE4Y1pGc1FNMFhOdnMzcnVCQ3h5UWNjbTgwa0FWRjE4YUVCb3VnbFc4UC1FdQ?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#12
-> **reason**：rank #12; cross-source x2; source weight: Google News; hot terms: 美国, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Why U.S. Technology Controls Keep Faltering, and How to Save Them Lawfare
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
+## 数据源失败
 
-> [!info]+ **可延后 / 72** | China’s New Technology Trap - The Wire China
-> **标题**：China’s New Technology Trap - The Wire China
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMidkFVX3lxTE44UXlhOVBOMVpIczdjdHROSTdkcm9PUi16TWRER0U5VGhoVEpaSlg1T1I3aGtpblZGQkVJakZ3aC1mMFBtNXdhZlR0X3RXM0tSTnplSm41bmkwZkptWVNGYmZXRS1EM3pscXJJSkhVaEJTRUNiRmc?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#13
-> **reason**：rank #13; cross-source x2; source weight: Google News; hot terms: 美国, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China’s New Technology Trap The Wire China
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
+- NewsNow fetch failed: 
+- GDELT / US China geopolitics fetch failed: HTTP Error 429: Too Many Requests
+- GDELT / Global markets fetch failed: 
 
-## 中国热点迁移
+## 运行信息
 
-- 暂无。
-
-## 美国/国际热点迁移
-
-> [!info]+ **今日必须看 / 100** | États - Unis : feu vert pour les puces H200 vers la Chine , Nvidia en quête de percée
-> **标题**：États - Unis : feu vert pour les puces H200 vers la Chine , Nvidia en quête de percée
-> **原文链接**：🔗 [打开原文](https://www.tuniscope.com/article/431817/tech/high-tech/puces-nvidia-h200-2303888)
-> **source**：GDELT / tuniscope.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#1
-> **reason**：rank #1; cross-source x16; source weight: GDELT; hot terms: 美国
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260514T191500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 100** | US Space Chipmaking Bill vs China
-> **标题**：US Space Chipmaking Bill vs China
-> **原文链接**：🔗 [打开原文](https://www.newkerala.com/news/a/us-pushes-space-chipmaking-initiative-counter-chinas-technological-228.htm)
-> **source**：GDELT / newkerala.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#3
-> **reason**：rank #3; cross-source x4; source weight: GDELT; hot terms: 美国, china, us
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260612T031500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 100** | EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters
-> **标题**：EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3Vadng3eFVJX2E0cGhld0pQbGMxMWlmQU1WWFFLaFA3VkdtV1FtYnpPeGs4OHZ0TzZHX2VLaE55cDlsR2poS1JxVDA3emxoVnhiSkNrUWpDOVFKWFJsb0QydHo5VWdyQTFUemh1aFdDa1RRYVJybGFhUXhrLTFVQjN5bTRoY1lFbEhuSXR1ZVFCQW1VT3pGMlBLSkFSc3E2N1dpcjVBVVdkWklwTGF3cTZraklYNkFobDFUbENwZXY?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week Reuters
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 98** | Китай получава по 500 млн . долара на час от износ , подкрепен от АІ
-> **标题**：Китай получава по 500 млн . долара на час от износ , подкрепен от АІ
-> **原文链接**：🔗 [打开原文](https://www.investor.bg/a/459-harduer/430462-kitay-poluchava-po-500-mln-dolara-na-chas-ot-iznos-podkrepen-ot-a)
-> **source**：GDELT / investor.bg
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#2
-> **reason**：rank #2; cross-source x16; source weight: GDELT; hot terms: 美国
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260512T183000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 98** | China is gaining troubling military know-how from Russia - The Economist
-> **标题**：China is gaining troubling military know-how from Russia - The Economist
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMipAFBVV95cUxON2oyLTdjV3dnaUtpcFp4Q3lsUUZ5dGgteFVKRkItRzJERlZWa2t5T1Y5MVVqM2tDRmlHMUJjVURXLUdpSDU1czQzQ0lDcGtsUmpqSlFVRHdmcUZqZ0x2WndDc1poUTEtRXZHelp1TnVraWJzbWY3S0xfZVlabXJ3TkpmZ2tFdVc2aWtPTlctdjQwSUdPVWxQT2xxdzJqc1BBLXpSSg?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#2
-> **reason**：rank #2; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China is gaining troubling military know-how from Russia The Economist
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 97** | Trump warns China and Russia not to ‘give or sell’ weapons to Iran - Colorado Politics
-> **标题**：Trump warns China and Russia not to ‘give or sell’ weapons to Iran - Colorado Politics
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirgFBVV95cUxObzVtRzRMU2dTU3l6d1BRSnQ1OFdkZTVCYXREdXlld3pJSFJZcC1WM0hvMDJ1NTRRUEJoWGRSbVd4VDhqc0RYbU40TTRXV2xBMFkwT0ZWYVZhbmd4R2pleFJGZzMtNGVaZTZSZ2FJSmNRUVlXQjF1Zzk4OUlqRk81QmdaaHh1QWViM0s1a0dKT3RxTDZjdFF1Y0c5ZEZZR3JfelNxQWVCRWNqS1lwcFE?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us; fresh within 12h
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Trump warns China and Russia not to ‘give or sell’ weapons to Iran Colorado Politics
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | Trump warns China and Russia not to arm Iran as U.S. military faces weapons depletion concerns - CBS News
-> **标题**：Trump warns China and Russia not to arm Iran as U.S. military faces weapons depletion concerns - CBS News
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMizwFBVV95cUxQYVBMMmtFclF0bktMVEZoWkhxZHF5cGVjQ29NOXkwTXRvZ2UzX25RU2RORnc5TmI2Z3VjVFQxUllwRHFya2xTRVBtM2sybkE2V1htVkFiM0RpQVBZLXJiTXJkN3JfeTNLbzF1eXN6STlQSGQ5d210TVg5Q1lTaWNKS1lNQmJkY0U3YTN6T0lCaWlpY3ZYWHBpWjhfVnNxRVdCb2lDRDhjSjcxVnZuYTNBTVJ0dmFacDJwQVZ1VHY3QTh5RUJGZGxrTTlWdUpBczQ?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Trump warns China and Russia not to arm Iran as U.S. military faces weapons depletion concerns CBS News
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | How OpenAI Lost Control of an AI Model—and What Needs to Change - Time Magazine
-> **标题**：How OpenAI Lost Control of an AI Model—and What Needs to Change - Time Magazine
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMicEFVX3lxTFB2SXZ0SXhYeUpETjZ2T2N1aDNZaml2bzZYUmpSWlhnMENQZ2VZTWNCemJsT24zWHNQQnJ6UlZraVd0Wk1wdkNrUXdGLUhQeENDWjJTd0ZiSmUtcWU0aXd5V2xWbmt4cHFnMkFhaTlEaGg?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：How OpenAI Lost Control of an AI Model—and What Needs to Change Time Magazine
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 93** | Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others - CNBC
-> **标题**：Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others - CNBC
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3Uzc2dUOF9odGJhRS16SzZrQ1ZYOFNLOWs3dFJ3T3d6ektVZzluX01Gb1haM0V4QzJGY0o1RWRybVN5Qi1OZUg1SEE0U3NTcjBSbGphdUdBZmNqci1zakhGNVliTUZVQWVjZ0hla0ZFOHZQeUZ3U19jelRENHl3TXlJZ1VtYkdpTndKVDJMRWtQQjEtaXfSAZsBQVVfeXFMT3FJRGVjZUV1MFJOaldHYmpwR0VJVG1DalVFeVA1SWw4V0lnM2dSbkoyNGU0aEFhZW1WU2lMWXVQMjdNRUZJSG1NOHV3ODFBQ1dMOUF1T3RfQm1yLVF0TWVsNmYxTlZ6VVkxTFAwbWd4akV5RTZPMTFLWlFYX25kWHlaZTVFamJLWjZsVnlUaE81M0VZNDViUVljQ1U?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#3
-> **reason**：rank #3; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others CNBC
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 92** | Huawei a développé un nouveau mode de fabrication de puces
-> **标题**：Huawei a développé un nouveau mode de fabrication de puces
-> **原文链接**：🔗 [打开原文](https://www.journaldemontreal.com/2026/05/25/huawei-a-developpe-un-nouveau-mode-de-fabrication-de-puces)
-> **source**：GDELT / africanmanager.com, GDELT / journaldemontreal.com, GDELT / journaldequebec.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#5
-> **reason**：rank #5; cross-source x10; source weight: GDELT; hot terms: 美国
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260525T110000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-## 财经科技观察
-
-> [!info]+ **今日必须看 / 100** | États - Unis : feu vert pour les puces H200 vers la Chine , Nvidia en quête de percée
-> **标题**：États - Unis : feu vert pour les puces H200 vers la Chine , Nvidia en quête de percée
-> **原文链接**：🔗 [打开原文](https://www.tuniscope.com/article/431817/tech/high-tech/puces-nvidia-h200-2303888)
-> **source**：GDELT / tuniscope.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#1
-> **reason**：rank #1; cross-source x16; source weight: GDELT; hot terms: 美国
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260514T191500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 100** | US Space Chipmaking Bill vs China
-> **标题**：US Space Chipmaking Bill vs China
-> **原文链接**：🔗 [打开原文](https://www.newkerala.com/news/a/us-pushes-space-chipmaking-initiative-counter-chinas-technological-228.htm)
-> **source**：GDELT / newkerala.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#3
-> **reason**：rank #3; cross-source x4; source weight: GDELT; hot terms: 美国, china, us
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260612T031500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 100** | EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters
-> **标题**：EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3Vadng3eFVJX2E0cGhld0pQbGMxMWlmQU1WWFFLaFA3VkdtV1FtYnpPeGs4OHZ0TzZHX2VLaE55cDlsR2poS1JxVDA3emxoVnhiSkNrUWpDOVFKWFJsb0QydHo5VWdyQTFUemh1aFdDa1RRYVJybGFhUXhrLTFVQjN5bTRoY1lFbEhuSXR1ZVFCQW1VT3pGMlBLSkFSc3E2N1dpcjVBVVdkWklwTGF3cTZraklYNkFobDFUbENwZXY?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week Reuters
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 98** | Китай получава по 500 млн . долара на час от износ , подкрепен от АІ
-> **标题**：Китай получава по 500 млн . долара на час от износ , подкрепен от АІ
-> **原文链接**：🔗 [打开原文](https://www.investor.bg/a/459-harduer/430462-kitay-poluchava-po-500-mln-dolara-na-chas-ot-iznos-podkrepen-ot-a)
-> **source**：GDELT / investor.bg
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#2
-> **reason**：rank #2; cross-source x16; source weight: GDELT; hot terms: 美国
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260512T183000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | How OpenAI Lost Control of an AI Model—and What Needs to Change - Time Magazine
-> **标题**：How OpenAI Lost Control of an AI Model—and What Needs to Change - Time Magazine
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMicEFVX3lxTFB2SXZ0SXhYeUpETjZ2T2N1aDNZaml2bzZYUmpSWlhnMENQZ2VZTWNCemJsT24zWHNQQnJ6UlZraVd0Wk1wdkNrUXdGLUhQeENDWjJTd0ZiSmUtcWU0aXd5V2xWbmt4cHFnMkFhaTlEaGg?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：How OpenAI Lost Control of an AI Model—and What Needs to Change Time Magazine
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 93** | Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others - CNBC
-> **标题**：Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others - CNBC
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMilgFBVV95cUxQc3Uzc2dUOF9odGJhRS16SzZrQ1ZYOFNLOWs3dFJ3T3d6ektVZzluX01Gb1haM0V4QzJGY0o1RWRybVN5Qi1OZUg1SEE0U3NTcjBSbGphdUdBZmNqci1zakhGNVliTUZVQWVjZ0hla0ZFOHZQeUZ3U19jelRENHl3TXlJZ1VtYkdpTndKVDJMRWtQQjEtaXfSAZsBQVVfeXFMT3FJRGVjZUV1MFJOaldHYmpwR0VJVG1DalVFeVA1SWw4V0lnM2dSbkoyNGU0aEFhZW1WU2lMWXVQMjdNRUZJSG1NOHV3ODFBQ1dMOUF1T3RfQm1yLVF0TWVsNmYxTlZ6VVkxTFAwbWd4akV5RTZPMTFLWlFYX25kWHlaZTVFamJLWjZsVnlUaE81M0VZNDViUVljQ1U?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#3
-> **reason**：rank #3; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others CNBC
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 92** | Huawei a développé un nouveau mode de fabrication de puces
-> **标题**：Huawei a développé un nouveau mode de fabrication de puces
-> **原文链接**：🔗 [打开原文](https://www.journaldemontreal.com/2026/05/25/huawei-a-developpe-un-nouveau-mode-de-fabrication-de-puces)
-> **source**：GDELT / africanmanager.com, GDELT / journaldemontreal.com, GDELT / journaldequebec.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#5
-> **reason**：rank #5; cross-source x10; source weight: GDELT; hot terms: 美国
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260525T110000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 91** | White House monitors OpenAI's 'rogue' AI incident, lawmakers propose 'kill switch' - Reuters
-> **标题**：White House monitors OpenAI's 'rogue' AI incident, lawmakers propose 'kill switch' - Reuters
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRnhrdU9BTTRoNGhtSV9RbmlUT21SMkxiRHZuTU9vdnN2NjZodU1iVjEyMWdVQmQ1OGVKalFXOHRuUFBWNzZaejdwc3hLRE05TzBOcmpNeF83SmlVU0MwNThMZk9aZDBYSFhhNjRMNWxuNndFbHhCdnFnMnhEQTVBVE5QYzkxUllpOEw4U1pBSjFjeHljaXVVcXdOWGF0TUU1cnl3Wg?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：White House monitors OpenAI's 'rogue' AI incident, lawmakers propose 'kill switch' Reuters
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 91** | Democrats seize on AI data center backlash that's dividing rural Republicans in places like Texas - PBS
-> **标题**：Democrats seize on AI data center backlash that's dividing rural Republicans in places like Texas - PBS
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMizAFBVV95cUxOOUJlR05hQnJIbGJPTzFRbnhOZDVicVllM0IyZUlrcGE2Z3JRX29TdnJleEtOWWF6QjlYUUM3ZXpraTR0NUFTTG54QW1Gb3FZanhjTGU5OU5pbUJWcWFwTU8yeUxXUjdNdVhjaFhleTdnSEhfaUZvNnJBcGFtTDdJX3kyT3pSTlFsVmZOMktWa2oxVnNnQm92R0R6TVhBQXV0QkhZZlVKeVYwaTIxbS14cDBYdXpIUlExQVpCT1lCbFdvdE40MGo0MldVOVY?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Democrats seize on AI data center backlash that's dividing rural Republicans in places like Texas PBS
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 89** | OpenAI and Hugging Face partner to address security incident during model evaluation - OpenAI
-> **标题**：OpenAI and Hugging Face partner to address security incident during model evaluation - OpenAI
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE5QM0NxYjlpZlBQVHNUaVZta3E1aGJ5LTZHcTg5bEU5T3JCbVdIc19BUk5pcFBlR0RNaDhoYVhGRm95TjVTMVZMLU9XOE1MeEhNQS02VGI3TDh6bWktZ2VoYU82eWFVcVJTM0NKbkUtWU83a2IzNUdvZFVCeDVzdw?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：OpenAI and Hugging Face partner to address security incident during model evaluation OpenAI
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-## 后续观察清单
-
-- 对跨来源重复出现的事件建立长期主题卡片。
-- 对单源高热度事件等待第二来源确认。
-- 对财经科技事件检查是否影响投资、政策或工具链。
+- 生成方式：News Radar news_daily
