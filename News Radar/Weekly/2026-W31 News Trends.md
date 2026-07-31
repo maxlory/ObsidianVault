@@ -1,6 +1,6 @@
 ---
 title: News Radar Week 2026-W31
-date: 2026-07-30
+date: 2026-07-31
 tags:
   - news-radar
   - weekly-review
@@ -83,23 +83,6 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 99** | US to award GlobalFoundries $300 million to develop faster AI chip links - reuters.com
-> **标题**：US to award GlobalFoundries $300 million to develop faster AI chip links - reuters.com
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiswFBVV95cUxNOW0tVXFBZ2FXNkREcFU0S3dXaExacjNVemJWU3RsbnhiTTJWdkZram9nb0s2ZFdRVHJLZmM0VHdRTEMzRFpMcV9Ea0hZNEpoeDhlb0Nyc2RzUzBJSHBXckJ3aTIwQ1F6b2lqeEFkbUFNdXIwbEpLV191OTdoS2ZocUFsdXlIaGl1dFNaMDN2STN4ZXRyLThUemlSeVdoUXJMQ3hmUjdQaTR4cURDQ0JRcUpBNA?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：US to award GlobalFoundries $300 million to develop faster AI chip links reuters.com
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
 > [!info]+ **今日必须看 / 98** | Китай получава по 500 млн . долара на час от износ , подкрепен от АІ
 > **标题**：Китай получава по 500 млн . долара на час от износ , подкрепен от АІ
 > **原文链接**：🔗 [打开原文](https://www.investor.bg/a/459-harduer/430462-kitay-poluchava-po-500-mln-dolara-na-chas-ot-iznos-podkrepen-ot-a)
@@ -111,40 +94,6 @@ tags:
 > **reason**：rank #2; cross-source x16; source weight: GDELT; hot terms: 美国
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260512T183000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | Market expert warns China is ‘catching up’ in technology race - Fox Business
-> **标题**：Market expert warns China is ‘catching up’ in technology race - Fox Business
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ldEFBeDNpVzBHR0tyemNsZDNJOEpmTnp1YXZzZVcwSDl5bUVmVmpVbmZYLXVSOFN4eVJwZm1NeVEyeEpXQ3h3QXhlemRLNmZwekVqaDc1WmlVTFU?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: 美国, china, us; fresh within 12h
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Market expert warns China is ‘catching up’ in technology race Fox Business
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | Pentagon official honors Chinese military in Beijing - Washington Times
-> **标题**：Pentagon official honors Chinese military in Beijing - Washington Times
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMitwFBVV95cUxQN0pDeUhXakhnQVB1YVhCZk5Zb2dVaUFUVE1GbUdobmlTY3E5M2h1VkFrSnAxTy05cEwwX2pCcDNaX2FuVFJnaWZCWHpaZks1VXlVR0JpSHNDbHFiMHBtcGNicXQ0RUM2b0hYWTBEZmhGTDlUbU45VDNjOVdFQTN4c1Jid19Tc1YxR3ZOYU9fUjlaSlVPaW0xRVRaWXlxUF9CODZvbkNaN0tNaWxNM1F5T01Pa3VFeDQ?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Pentagon official honors Chinese military in Beijing Washington Times
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -185,6 +134,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 91** | US to award GlobalFoundries $300 million to develop faster AI chip links - reuters.com
+> **标题**：US to award GlobalFoundries $300 million to develop faster AI chip links - reuters.com
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiswFBVV95cUxNOW0tVXFBZ2FXNkREcFU0S3dXaExacjNVemJWU3RsbnhiTTJWdkZram9nb0s2ZFdRVHJLZmM0VHdRTEMzRFpMcV9Ea0hZNEpoeDhlb0Nyc2RzUzBJSHBXckJ3aTIwQ1F6b2lqeEFkbUFNdXIwbEpLV191OTdoS2ZocUFsdXlIaGl1dFNaMDN2STN4ZXRyLThUemlSeVdoUXJMQ3hmUjdQaTR4cURDQ0JRcUpBNA?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：US to award GlobalFoundries $300 million to develop faster AI chip links reuters.com
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 91** | Inside China’s All-Out Push to Catch Up With American AI Chips - WSJ
 > **标题**：Inside China’s All-Out Push to Catch Up With American AI Chips - WSJ
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE1pRUk2aURfSTVLeUZzMEszM3JWUG9kS2JwWTRMSmxXT2RJRzBMaUhCZE84bElMWTNhV2ZJd3MxcmRrd0YxMWJEYTg0OE91TjAtRmxJUklfckJEVGJBWGhqXzJqQTVERFR6TTB3Mg?oc=5)
@@ -196,23 +162,6 @@ tags:
 > **reason**：rank #2; source weight: Google News; hot terms: ai, china, us, chips
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：Inside China’s All-Out Push to Catch Up With American AI Chips WSJ
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 91** | White House monitors OpenAI's 'rogue' AI incident, lawmakers propose 'kill switch' - Reuters
-> **标题**：White House monitors OpenAI's 'rogue' AI incident, lawmakers propose 'kill switch' - Reuters
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRnhrdU9BTTRoNGhtSV9RbmlUT21SMkxiRHZuTU9vdnN2NjZodU1iVjEyMWdVQmQ1OGVKalFXOHRuUFBWNzZaejdwc3hLRE05TzBOcmpNeF83SmlVU0MwNThMZk9aZDBYSFhhNjRMNWxuNndFbHhCdnFnMnhEQTVBVE5QYzkxUllpOEw4U1pBSjFjeHljaXVVcXdOWGF0TUU1cnl3Wg?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：White House monitors OpenAI's 'rogue' AI incident, lawmakers propose 'kill switch' Reuters
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -264,6 +213,57 @@ tags:
 > **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
 > **summary**：Can the US fend off China’s subsea drones? Its coastguard looks for answers South China Morning Post
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 88** | China Stages Drills in Taiwan Strait Defying US Warning - Newsweek
+> **标题**：China Stages Drills in Taiwan Strait Defying US Warning - Newsweek
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMipAFBVV95cUxPcGpfV2tzR0RsWXcwa3QyaFhIVG5wNjVtRWFJQmlHNnBrMy1lbmcyek1uMUVyWU9RSm0xRm9JMWk0ME42MjNydlpGVTN0X1g1TGZLSTVQRzVmb1RMcUhzazhZY3Y4OTBSaUJJdjFxd0swaHNoMVF0LWtWM0p3ZHh5MnpIVllVMU43WXJuUUJJNndLbHI3WV9udjd5dlJLNEpBUnFKZg?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#7
+> **reason**：rank #7; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：China Stages Drills in Taiwan Strait Defying US Warning Newsweek
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 88** | Total War on Taipei: China Explores Elevating Cognitive Effects into Its Vision of Warfare - War on the Rocks
+> **标题**：Total War on Taipei: China Explores Elevating Cognitive Effects into Its Vision of Warfare - War on the Rocks
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZU4yZUhFRG5hVHlLc3RoanVLTHBNVDk4UHliQjRzTEV5eHhLNjdOQXBuZUpMdkIxYlhRQzJXSXgtVnpDWjdNN2NpTkVsT2lOdVRDYW5US01FdVZGcGZ0SU1hRnZUaE1QcmwzZk1QMkdvVHMwSVl4MGlGaTZzRVJUZjdjTGpNTVRfRDlMWkhMN0NUbUlXSHJBcW1EWHVSTWtiU0ZCRGszUnhIUzZ0S2RtSENMTHpPYVU?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#7
+> **reason**：rank #7; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Total War on Taipei: China Explores Elevating Cognitive Effects into Its Vision of Warfare War on the Rocks
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 87** | Market expert warns China is ‘catching up’ in technology race - Fox Business
+> **标题**：Market expert warns China is ‘catching up’ in technology race - Fox Business
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ldEFBeDNpVzBHR0tyemNsZDNJOEpmTnp1YXZzZVcwSDl5bUVmVmpVbmZYLXVSOFN4eVJwZm1NeVEyeEpXQ3h3QXhlemRLNmZwekVqaDc1WmlVTFU?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: 美国, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Market expert warns China is ‘catching up’ in technology race Fox Business
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -601,23 +601,6 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 99** | US to award GlobalFoundries $300 million to develop faster AI chip links - reuters.com
-> **标题**：US to award GlobalFoundries $300 million to develop faster AI chip links - reuters.com
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiswFBVV95cUxNOW0tVXFBZ2FXNkREcFU0S3dXaExacjNVemJWU3RsbnhiTTJWdkZram9nb0s2ZFdRVHJLZmM0VHdRTEMzRFpMcV9Ea0hZNEpoeDhlb0Nyc2RzUzBJSHBXckJ3aTIwQ1F6b2lqeEFkbUFNdXIwbEpLV191OTdoS2ZocUFsdXlIaGl1dFNaMDN2STN4ZXRyLThUemlSeVdoUXJMQ3hmUjdQaTR4cURDQ0JRcUpBNA?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：US to award GlobalFoundries $300 million to develop faster AI chip links reuters.com
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
 > [!info]+ **今日必须看 / 98** | Китай получава по 500 млн . долара на час от износ , подкрепен от АІ
 > **标题**：Китай получава по 500 млн . долара на час от износ , подкрепен от АІ
 > **原文链接**：🔗 [打开原文](https://www.investor.bg/a/459-harduer/430462-kitay-poluchava-po-500-mln-dolara-na-chas-ot-iznos-podkrepen-ot-a)
@@ -629,40 +612,6 @@ tags:
 > **reason**：rank #2; cross-source x16; source weight: GDELT; hot terms: 美国
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260512T183000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | Market expert warns China is ‘catching up’ in technology race - Fox Business
-> **标题**：Market expert warns China is ‘catching up’ in technology race - Fox Business
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ldEFBeDNpVzBHR0tyemNsZDNJOEpmTnp1YXZzZVcwSDl5bUVmVmpVbmZYLXVSOFN4eVJwZm1NeVEyeEpXQ3h3QXhlemRLNmZwekVqaDc1WmlVTFU?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: 美国, china, us; fresh within 12h
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Market expert warns China is ‘catching up’ in technology race Fox Business
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | Pentagon official honors Chinese military in Beijing - Washington Times
-> **标题**：Pentagon official honors Chinese military in Beijing - Washington Times
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMitwFBVV95cUxQN0pDeUhXakhnQVB1YVhCZk5Zb2dVaUFUVE1GbUdobmlTY3E5M2h1VkFrSnAxTy05cEwwX2pCcDNaX2FuVFJnaWZCWHpaZks1VXlVR0JpSHNDbHFiMHBtcGNicXQ0RUM2b0hYWTBEZmhGTDlUbU45VDNjOVdFQTN4c1Jid19Tc1YxR3ZOYU9fUjlaSlVPaW0xRVRaWXlxUF9CODZvbkNaN0tNaWxNM1F5T01Pa3VFeDQ?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Pentagon official honors Chinese military in Beijing Washington Times
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -697,6 +646,57 @@ tags:
 > **reason**：rank #5; cross-source x10; source weight: GDELT; hot terms: 美国
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260525T110000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 91** | US to award GlobalFoundries $300 million to develop faster AI chip links - reuters.com
+> **标题**：US to award GlobalFoundries $300 million to develop faster AI chip links - reuters.com
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiswFBVV95cUxNOW0tVXFBZ2FXNkREcFU0S3dXaExacjNVemJWU3RsbnhiTTJWdkZram9nb0s2ZFdRVHJLZmM0VHdRTEMzRFpMcV9Ea0hZNEpoeDhlb0Nyc2RzUzBJSHBXckJ3aTIwQ1F6b2lqeEFkbUFNdXIwbEpLV191OTdoS2ZocUFsdXlIaGl1dFNaMDN2STN4ZXRyLThUemlSeVdoUXJMQ3hmUjdQaTR4cURDQ0JRcUpBNA?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：US to award GlobalFoundries $300 million to develop faster AI chip links reuters.com
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 91** | Inside China’s All-Out Push to Catch Up With American AI Chips - WSJ
+> **标题**：Inside China’s All-Out Push to Catch Up With American AI Chips - WSJ
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE1pRUk2aURfSTVLeUZzMEszM3JWUG9kS2JwWTRMSmxXT2RJRzBMaUhCZE84bElMWTNhV2ZJd3MxcmRrd0YxMWJEYTg0OE91TjAtRmxJUklfckJEVGJBWGhqXzJqQTVERFR6TTB3Mg?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: ai, china, us, chips
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Inside China’s All-Out Push to Catch Up With American AI Chips WSJ
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 89** | SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory - NVIDIA Newsroom
+> **标题**：SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory - NVIDIA Newsroom
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiygFBVV95cUxQWWdmVzNHOG9UWDV2VnM0ek1kOTlMSDMydklMbjQzSDBSUWVYaGFJeFQwZk9tR09qNDVtMWlHS2pIUmVHVGxoOVFPSm1LYS1UUXdzNnNwa2U2MUVGaXFJLWVPb1NvNlN1OWhCX21OR3ROa1FjVFVsVVpuekRLMGVDYWw0SzBnMXRGMGY2ZlVXalpHVktOM2xhVlprcXpDLVV6WUVLdUFCOW43TkM2dW9lTnpBbS1TZ1hYd2pOMUMyc1lrVU1YaERxaWRR?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory NVIDIA Newsroom
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -739,23 +739,6 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 99** | US to award GlobalFoundries $300 million to develop faster AI chip links - reuters.com
-> **标题**：US to award GlobalFoundries $300 million to develop faster AI chip links - reuters.com
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiswFBVV95cUxNOW0tVXFBZ2FXNkREcFU0S3dXaExacjNVemJWU3RsbnhiTTJWdkZram9nb0s2ZFdRVHJLZmM0VHdRTEMzRFpMcV9Ea0hZNEpoeDhlb0Nyc2RzUzBJSHBXckJ3aTIwQ1F6b2lqeEFkbUFNdXIwbEpLV191OTdoS2ZocUFsdXlIaGl1dFNaMDN2STN4ZXRyLThUemlSeVdoUXJMQ3hmUjdQaTR4cURDQ0JRcUpBNA?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：US to award GlobalFoundries $300 million to develop faster AI chip links reuters.com
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
 > [!info]+ **今日必须看 / 98** | Китай получава по 500 млн . долара на час от износ , подкрепен от АІ
 > **标题**：Китай получава по 500 млн . долара на час от износ , подкрепен от АІ
 > **原文链接**：🔗 [打开原文](https://www.investor.bg/a/459-harduer/430462-kitay-poluchava-po-500-mln-dolara-na-chas-ot-iznos-podkrepen-ot-a)
@@ -807,6 +790,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 91** | US to award GlobalFoundries $300 million to develop faster AI chip links - reuters.com
+> **标题**：US to award GlobalFoundries $300 million to develop faster AI chip links - reuters.com
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiswFBVV95cUxNOW0tVXFBZ2FXNkREcFU0S3dXaExacjNVemJWU3RsbnhiTTJWdkZram9nb0s2ZFdRVHJLZmM0VHdRTEMzRFpMcV9Ea0hZNEpoeDhlb0Nyc2RzUzBJSHBXckJ3aTIwQ1F6b2lqeEFkbUFNdXIwbEpLV191OTdoS2ZocUFsdXlIaGl1dFNaMDN2STN4ZXRyLThUemlSeVdoUXJMQ3hmUjdQaTR4cURDQ0JRcUpBNA?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：US to award GlobalFoundries $300 million to develop faster AI chip links reuters.com
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 91** | Inside China’s All-Out Push to Catch Up With American AI Chips - WSJ
 > **标题**：Inside China’s All-Out Push to Catch Up With American AI Chips - WSJ
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE1pRUk2aURfSTVLeUZzMEszM3JWUG9kS2JwWTRMSmxXT2RJRzBMaUhCZE84bElMWTNhV2ZJd3MxcmRrd0YxMWJEYTg0OE91TjAtRmxJUklfckJEVGJBWGhqXzJqQTVERFR6TTB3Mg?oc=5)
@@ -818,23 +818,6 @@ tags:
 > **reason**：rank #2; source weight: Google News; hot terms: ai, china, us, chips
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：Inside China’s All-Out Push to Catch Up With American AI Chips WSJ
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 91** | White House monitors OpenAI's 'rogue' AI incident, lawmakers propose 'kill switch' - Reuters
-> **标题**：White House monitors OpenAI's 'rogue' AI incident, lawmakers propose 'kill switch' - Reuters
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMipAFBVV95cUxNRnhrdU9BTTRoNGhtSV9RbmlUT21SMkxiRHZuTU9vdnN2NjZodU1iVjEyMWdVQmQ1OGVKalFXOHRuUFBWNzZaejdwc3hLRE05TzBOcmpNeF83SmlVU0MwNThMZk9aZDBYSFhhNjRMNWxuNndFbHhCdnFnMnhEQTVBVE5QYzkxUllpOEw4U1pBSjFjeHljaXVVcXdOWGF0TUU1cnl3Wg?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：White House monitors OpenAI's 'rogue' AI incident, lawmakers propose 'kill switch' Reuters
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -858,17 +841,34 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 89** | Microsoft Increases Spending on A.I. as Profit Jumps 31% - The New York Times
-> **标题**：Microsoft Increases Spending on A.I. as Profit Jumps 31% - The New York Times
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMijwFBVV95cUxONlVJdzZ4aVVkaW8xaWRjNEJfU3dOaXYwcDExWktsSFRHbGdIaURndXRZbXlMYTBoajZlRmVNWGNlWENtbDl3TmhTU1hNZDFUaGQ4U3RCeTBJSjFNTnprNWw5aERsSzJ1WmhQeGFrN0FJMlJ0N3FZNmdTX2dheklwTHVVUEx5TlJ3RFlqamUwUQ?oc=5)
+> [!info]+ **今日必须看 / 87** | How OpenAI Lost Control of an AI Model—and What Needs to Change - Time Magazine
+> **标题**：How OpenAI Lost Control of an AI Model—and What Needs to Change - Time Magazine
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMicEFVX3lxTFB2SXZ0SXhYeUpETjZ2T2N1aDNZaml2bzZYUmpSWlhnMENQZ2VZTWNCemJsT24zWHNQQnJ6UlZraVd0Wk1wdkNrUXdGLUhQeENDWjJTd0ZiSmUtcWU0aXd5V2xWbmt4cHFnMkFhaTlEaGg?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: markets; fresh within 12h
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Microsoft Increases Spending on A.I. as Profit Jumps 31% The New York Times
+> **summary**：How OpenAI Lost Control of an AI Model—and What Needs to Change Time Magazine
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 86** | ( 창간기획 - 반도체 전쟁 ) ①중국 반도체 굴기 , 미국이 앞당겼다
+> **标题**：( 창간기획 - 반도체 전쟁 ) ①중국 반도체 굴기 , 미국이 앞당겼다
+> **原文链接**：🔗 [打开原文](http://www.newstomato.com/ReadNews.aspx?no=1300277)
+> **source**：GDELT / newstomato.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#8
+> **reason**：rank #8; cross-source x15; source weight: GDELT; hot terms: 美国
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260511T073000Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
