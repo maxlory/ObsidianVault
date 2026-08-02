@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W31
-date: 2026-08-01
+date: 2026-08-02
 tags:
   - weekly-review
   - research-radar
@@ -18,32 +18,6 @@ tags:
 > **reason**：matches topics: agent, codex; high-value terms: agent, codex, api
 > **follow_up**：检查模型卡、license、benchmark 和可部署性。
 > **summary**：🚀 DeepSeek-V4-Flash 官方 API 现已上线公测！ 🔷 我们大幅升级了其 Agent 能力--基准测试分数现已远超 V4-Pro-Preview。查看下方巨大的性能飞跃！👇 🔷 官方 V4-Flash 现已原生支持 Responses API 格式，并已完全适配 Codex！ 查看我们官方 API 文档中的配置详情：https://api-docs.deepseek.com/quick_start/agent_integrations/codex
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | melodic-software/claude-code-plugins
-> **标题**：melodic-software/claude-code-plugins
-> **原文链接**：🔗 [打开原文](https://github.com/melodic-software/claude-code-plugins)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, mcp; high-value terms: agent, agents, mcp, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Melodic Software — Claude Code plugin marketplace: reusable, repo-agnostic skills, hooks, agents, and MCP servers.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | Moxi-Lab/obsidian-ai-workflow-kit
-> **标题**：Moxi-Lab/obsidian-ai-workflow-kit
-> **原文链接**：🔗 [打开原文](https://github.com/Moxi-Lab/obsidian-ai-workflow-kit)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Local-first Obsidian vault structure that gives AI agents persistent project memory across sessions. Works with Claude Code, Cursor, Codex, ChatGPT.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -101,14 +75,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | CardSorting/LUMI
-> **标题**：CardSorting/LUMI
-> **原文链接**：🔗 [打开原文](https://github.com/CardSorting/LUMI)
+> [!info]+ **今日必须看 / 85** | balanced7/akashic-aurora
+> **标题**：balanced7/akashic-aurora
+> **原文链接**：🔗 [打开原文](https://github.com/balanced7/akashic-aurora)
 > **source**：GitHub Search
 > **kind**：`github_repo`
 > **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Calm VS Code coding companion — Plan/Act modes, approval-gated tools, governed parallel subagents (projection + durable receipts), MCP, BroccoliDB memory.
+> **summary**：Memory for AI agents that learns what actually helped: lessons injected at the moment of action, credited by outcome, challenged by counter-evidence. Local-first, multi-agent, test-gated.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -140,6 +114,32 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 83** | Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents
+> **标题**：Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.24759)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm, research; high-value terms: agent, agents, reasoning
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2607.24759v1 Announce Type: new Abstract: Research projects, educational efforts, and adjacent knowledge work accumulate findings, decisions, and reasoning that future collaborators rarely recover. The parts most useful to that work, including dead ends and walked-back claims, are routinely e...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 83** | sheawinkler/ContextLattice
+> **标题**：sheawinkler/ContextLattice
+> **原文链接**：🔗 [打开原文](https://github.com/sheawinkler/ContextLattice)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp, eval
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：The local-first intelligence layer that gives AI agents durable continuity, explainable retrieval, portable context, and verified learning across harnesses.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 
 ## 值得试用的工具 / 模型
 
@@ -156,27 +156,27 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | melodic-software/claude-code-plugins
-> **标题**：melodic-software/claude-code-plugins
-> **原文链接**：🔗 [打开原文](https://github.com/melodic-software/claude-code-plugins)
+> [!info]+ **今日必须看 / 85** | sairaman436/vybe-intelligence-vault
+> **标题**：sairaman436/vybe-intelligence-vault
+> **原文链接**：🔗 [打开原文](https://github.com/sairaman436/vybe-intelligence-vault)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, mcp; high-value terms: agent, agents, mcp, claude code
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Melodic Software — Claude Code plugin marketplace: reusable, repo-agnostic skills, hooks, agents, and MCP servers.
+> **summary**：An auto-updating open-source vault for AI agents, RAG systems, MCP servers, prompts, tools, templates, and next-generation web development.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | Moxi-Lab/obsidian-ai-workflow-kit
-> **标题**：Moxi-Lab/obsidian-ai-workflow-kit
-> **原文链接**：🔗 [打开原文](https://github.com/Moxi-Lab/obsidian-ai-workflow-kit)
+> [!info]+ **今日必须看 / 85** | mahimailabs/voicegateway
+> **标题**：mahimailabs/voicegateway
+> **原文链接**：🔗 [打开原文](https://github.com/mahimailabs/voicegateway)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Local-first Obsidian vault structure that gives AI agents persistent project memory across sessions. Works with Claude Code, Cursor, Codex, ChatGPT.
+> **summary**：The open-source profiler for voice agents
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -292,32 +292,6 @@ tags:
 
 ## 反复出现的信号
 
-> [!info]+ **今日必须看 / 89** | melodic-software/claude-code-plugins
-> **标题**：melodic-software/claude-code-plugins
-> **原文链接**：🔗 [打开原文](https://github.com/melodic-software/claude-code-plugins)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, mcp; high-value terms: agent, agents, mcp, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Melodic Software — Claude Code plugin marketplace: reusable, repo-agnostic skills, hooks, agents, and MCP servers.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | Moxi-Lab/obsidian-ai-workflow-kit
-> **标题**：Moxi-Lab/obsidian-ai-workflow-kit
-> **原文链接**：🔗 [打开原文](https://github.com/Moxi-Lab/obsidian-ai-workflow-kit)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Local-first Obsidian vault structure that gives AI agents persistent project memory across sessions. Works with Claude Code, Cursor, Codex, ChatGPT.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 85** | sairaman436/vybe-intelligence-vault
 > **标题**：sairaman436/vybe-intelligence-vault
 > **原文链接**：🔗 [打开原文](https://github.com/sairaman436/vybe-intelligence-vault)
@@ -357,14 +331,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | CardSorting/LUMI
-> **标题**：CardSorting/LUMI
-> **原文链接**：🔗 [打开原文](https://github.com/CardSorting/LUMI)
+> [!info]+ **今日必须看 / 85** | balanced7/akashic-aurora
+> **标题**：balanced7/akashic-aurora
+> **原文链接**：🔗 [打开原文](https://github.com/balanced7/akashic-aurora)
 > **source**：GitHub Search
 > **kind**：`github_repo`
 > **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Calm VS Code coding companion — Plan/Act modes, approval-gated tools, governed parallel subagents (projection + durable receipts), MCP, BroccoliDB memory.
+> **summary**：Memory for AI agents that learns what actually helped: lessons injected at the moment of action, credited by outcome, challenged by counter-evidence. Local-first, multi-agent, test-gated.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -409,14 +383,40 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | gridctl/gridctl
-> **标题**：gridctl/gridctl
-> **原文链接**：🔗 [打开原文](https://github.com/gridctl/gridctl)
+> [!info]+ **今日必须看 / 79** | monotykamary/pi-fabric
+> **标题**：monotykamary/pi-fabric
+> **原文链接**：🔗 [打开原文](https://github.com/monotykamary/pi-fabric)
 > **source**：GitHub Search
 > **kind**：`github_repo`
 > **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：🧪 Local dev stack for MCP and Agent Skills
+> **summary**：A programmable tool and agent runtime for Pi
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 79** | ohdearquant/khive
+> **标题**：ohdearquant/khive
+> **原文链接**：🔗 [打开原文](https://github.com/ohdearquant/khive)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：A knowledge graph your AI agents build, query, and grow. Built for agents that need structure beyond vectors
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 79** | phnx-labs/agents-cli
+> **标题**：phnx-labs/agents-cli
+> **原文链接**：🔗 [打开原文](https://github.com/phnx-labs/agents-cli)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Framework for building Agent Factories. CLI Native. Everything you will need!
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库

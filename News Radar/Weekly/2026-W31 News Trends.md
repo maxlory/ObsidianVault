@@ -1,6 +1,6 @@
 ---
 title: News Radar Week 2026-W31
-date: 2026-08-01
+date: 2026-08-02
 tags:
   - news-radar
   - weekly-review
@@ -15,136 +15,68 @@ tags:
 
 ## 过去阶段最高热度
 
-> [!info]+ **今日必须看 / 100** | China is gaining troubling military know-how from Russia - The Economist
-> **标题**：China is gaining troubling military know-how from Russia - The Economist
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMipAFBVV95cUxON2oyLTdjV3dnaUtpcFp4Q3lsUUZ5dGgteFVKRkItRzJERlZWa2t5T1Y5MVVqM2tDRmlHMUJjVURXLUdpSDU1czQzQ0lDcGtsUmpqSlFVRHdmcUZqZ0x2WndDc1poUTEtRXZHelp1TnVraWJzbWY3S0xfZVlabXJ3TkpmZ2tFdVc2aWtPTlctdjQwSUdPVWxQT2xxdzJqc1BBLXpSSg?oc=5)
+> [!info]+ **今日必须看 / 100** | Why is China’s Communist Party intent on control over the military? - South China Morning Post
+> **标题**：Why is China’s Communist Party intent on control over the military? - South China Morning Post
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxPSEtXamRQcUdpbG5nRjJZRWpkMmxmRHY3ajk2VUlUT2dEVno5dzZmRDd0Qkw4SkpLWWU5SDV5MjNna0lrcnVFbUF0RGZqN2szeENvX214U3BMRU9tR3VBWENYSThYQ2RIUjI3ZkJkNk9BUnZwaHFZUWFvMHpMWHJXREFmQXh5WENYX2FncTcxSUNUM044WHpPal9xYUt5MHlMS2lMdTY4NVFhMFVzSXdBNnR2RVhBZGk5Ny1MMdIBvAFBVV95cUxNR3ljU0Z4UUszQ0U5WjNaQzhTRXdUc0VHNE9uN2pXTzFRdlJEWXU1NVRuYURDQVpsUS1kTS1zNGNuSDU4RnF5Vks4ajhob3dIdkxGek9WSkNnS3B2eEJ5MnI3Q01IcHNXLW53OVo0S3Y0V3Q3dHFxSUl0UWdKM0NhaE5VSFpWZnh2QUJsVW1TQzNDWl9IYjJSak5rb0RKamVERHlzN1pxNWljMEVfMTVqQU1RZnQtdXBOMkYwOQ?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：综合
 > **rank**：#1
-> **reason**：rank #1; cross-source x3; source weight: Google News; hot terms: 美国, ai, china, us
+> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China is gaining troubling military know-how from Russia The Economist
+> **summary**：Why is China’s Communist Party intent on control over the military? South China Morning Post
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 100** | Beijing conducts live-fire drills in Taiwan Strait after criticising Lai speech - South China Morning Post
-> **标题**：Beijing conducts live-fire drills in Taiwan Strait after criticising Lai speech - South China Morning Post
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ3dNeVVGdDliUzJRNFZJMm5YWlpJMktmS2dNMVdzaTdWMTZiUzNEZjZDOWhrakRuYXpfckd5OTJ4aGdHQ1ZmVG9DeHVHU3VLU3E3amliM1U0UDVodEk2RzV1ZXNzWFB0WmFhZl9zbFhXT2VmaWg1alBHMUN2eldPNzFqYjFXT1FvV2JMdUxzNmpQNWl4Rl9FVEVGX3hBTUJHWEZOeU5KY0FxUlJWVk1JUDFuNjNSUnVaclF3Qld30gG-AUFVX3lxTE5nTEdwbENQZTlKSHlZeGlXY0Z6dTFUUDhIZkcwWTNKcE1aN3Jjc1NWVjYxZGNZX1hfZDQtdFJvdkRrNElMVmh2TVRmUUNzbllvMkJHNDBYQTFEYWVTT0hfdTZzd3VZMVdQX1JCMk16dHRBbU45V3dnb09EWU9KR1p3SG1VZ1doaC1LVkNjSkRkZDB1Ykd6QmFQU2lGaHpPeE5YakhfcVNqZHBiV2dpYjltblNDMVFwNERuYzR1dlE?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#2
-> **reason**：rank #2; cross-source x3; source weight: Google News; hot terms: 美国, ai, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Beijing conducts live-fire drills in Taiwan Strait after criticising Lai speech South China Morning Post
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 97** | China says attacks on non-military targets ‘unacceptable’ after Iranian strike hits Chinese company building in Kuwait - Anadolu Ajansı
-> **标题**：China says attacks on non-military targets ‘unacceptable’ after Iranian strike hits Chinese company building in Kuwait - Anadolu Ajansı
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMi9AFBVV95cUxORjBiNzVMTmM0bFNkVE1tUVpVRXFLV0twcld2TUY2eWQyYWZVMzVMMHAtQnlXRGk2NnVVdk9nbnpPZVEyWG1JT1h0bmFQWUFEZWw0bGtka0FyOUVoXzVyZGdIRFlGUW9paG5hbDY4V0syZnl5dUFWbGpBQ1lRb0ttNE1ROHR4bDhEakYxUDZXamdzUTAyWXd0Vko1S082VzZLV0xkX2hDS1Q5VTIxOTVCdXJDeUo5emdGbTQ4NXRURnlmMy1PMTNhNUh0V1N3MnBLLVpVMU5CTDFDallRRS01cVFDWkZVVHdrUmdHdEM5eUdYTjJL?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#3
-> **reason**：rank #3; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China says attacks on non-military targets ‘unacceptable’ after Iranian strike hits Chinese company building in Kuwait Anadolu Ajansı
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | Judge denies X.AI effort to halt ban on tech that depicts people nude without permission - MPR News
-> **标题**：Judge denies X.AI effort to halt ban on tech that depicts people nude without permission - MPR News
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMixwFBVV95cUxOOFR3Tlk1N1FwM1dNVVdzal92ZWVSajBsa0FlTHhHOG80QklMcEJWWkdWc1hjZzRkZ05Qc21BOXJ5cEM2Y01xRTFKWVd5NVNGSDRFVC1IWDdHTzhsVjFkajFQZ0tkdm5qWHJFRlpsMDROTTlZZzZSUUgwZWcxbUFqbXh6Yi1ZbEp4Vkp5U25JUnJPaGVfc0tXMWtSSDFIUndKQnJsWFdfNHEzU19zR01CYVdTQlN3QXg1cjhyajNwemN6TVo2Umtv?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Judge denies X.AI effort to halt ban on tech that depicts people nude without permission MPR News
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters
-> **标题**：EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe Reuters
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | China Is Training Military AI on Outputs From OpenAI and Anthropic Models - SOFX
-> **标题**：China Is Training Military AI on Outputs From OpenAI and Anthropic Models - SOFX
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMimwFBVV95cUxNcG1KQ2xrdWMtRkpQZzdKVmlLUlVmcVlNOVRQSTdxVlNGZkhiTnRubHJpWnp4Y3d4NGdZWWE3ckh0OUI4bzFPbVExWkhkbXo5UldGN2lDdVRJQjRPV1VEQmVQQWVWNUQyR0s0bjhWcVctQ2RoNlNCSEZJSUFtQmVfa09tYU42Zm93a2lmcWlGNlg0d29QMW1rUDQyOA?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China Is Training Military AI on Outputs From OpenAI and Anthropic Models SOFX
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | Opinion | Will US or China win the next war? That’s the wrong question to ask - South China Morning Post
-> **标题**：Opinion | Will US or China win the next war? That’s the wrong question to ask - South China Morning Post
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiswFBVV95cUxPZF9qSnU1eUIxN0lRWWNYNGFrZ2U3NHpwTzI0emZaN05VVi1HSERoLVcwdFhFWkJqOE5iX3I4WVVOTjBob3JOVkk1UHloZDJlalZwaEphNlRvS1UwSTRRQjFRVmN5M1hjaXdXbFJ6d09QM1FjNkwzZjdqdkpaRHlENHplZ2NFMEVrSnNoQU55LTViamdveGlQbmpOWk5RdUVlNWJkSG92M1NDdXQzZHByXzBMc9IBswFBVV95cUxQWC16VDJrRzIyRE1qZHJtWUlMYmR5ZEhOcWhLdktSUjkxSjFJUmdwZ29yQ1JTNFUweXVGMUZ1V3NxV25mRVROakZ3VndGU2gxN0RxVjctUjl0VG95bEtPcmJ0eUFLYjVZNlNnWGRfNWtJY3lKT3hEaG5JSWxiQ0taTFlZQVAyWUlpSE1UN3NoeGxKWGY1WVJLUW5hU0NPUXlyX040d3NfLXJ4VlJMbnFXaENZbw?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: 美国, china, us; fresh within 12h
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Opinion | Will US or China win the next war? That’s the wrong question to ask South China Morning Post
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 93** | China's Xi urges deeper anti-graft fight in military, modernisation advance - Reuters
+> [!info]+ **今日必须看 / 98** | China's Xi urges deeper anti-graft fight in military, modernisation advance - Reuters
 > **标题**：China's Xi urges deeper anti-graft fight in military, modernisation advance - Reuters
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHA1TDV6a0dWNTRkb3dKdHpJMFhiUlVLdS1URDBmN1ZQc1pjR2VjdFp0bzE2ZU5nbDhvOWJXWWZQdWhRYUVCWmw3dE5YVUJKcDdETXkxOHFsZ0h5V3I0blRDUmpYaXE0OGNmMFEzRG0wM3B3dmUwZFhGRUM0ZEVZeDdnMVh0Q05JaDZtYUp1a2NDV0pFek5aaEZpYWcxNUNBNDN6eWM5Wmx5bnN6SjJZdw?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：综合
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us, military
+> **rank**：#2
+> **reason**：rank #2; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
 > **summary**：China's Xi urges deeper anti-graft fight in military, modernisation advance Reuters
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 93** | ‘More than just objects’: Australian book sellers raise alarm over ‘horrific’ destruction of rare titles to feed AI - theguardian.com
+> **标题**：‘More than just objects’: Australian book sellers raise alarm over ‘horrific’ destruction of rare titles to feed AI - theguardian.com
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTTJBXzBtYmdvNlM2ZERtalkzZDdhUmVXckdVVmVxdnJTUGJYTTBaTlhSVUNVUXhRVkxsMlc4SU5BR2xhYjZ0Tkd6cllkRHlFMzRGVVhuZW0yTEpYZHduMWNiajZfUUMwTDEyZF91S0p3U0NVNEhsNnRiV01ZR29hSGUtaHlVbTNlVTRCLUh0bmxVYjZ3Y3kzWVdyblVsYkljcnFvQk5OQTg5WXg2cEVfVVpYLWdPNzZtMHFlQg?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#5
+> **reason**：rank #5; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：‘More than just objects’: Australian book sellers raise alarm over ‘horrific’ destruction of rare titles to feed AI theguardian.com
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 93** | Live-fire drills near Japanese island raise concerns over China’s extended military activity - Indo-Pacific Defense FORUM
+> **标题**：Live-fire drills near Japanese island raise concerns over China’s extended military activity - Indo-Pacific Defense FORUM
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMixgFBVV95cUxONU1wT0ZOX0lpMzd6anI2c1FBSkpSTGZVZUdKRkZxSHVEeE1iMEp6TGxoWFNFcFoxOHlXclFjVGUzSV8wY3hVVmVMdVB2TkV0alY2MXhFalAyMFF3NXRYd25KNHRLbk1xeHFfU19TMVFZX1VjeWE5MVZ5MUFhYzB2TVE4TjNCMFk3bXRFT056WHEtNjliMWFZa0hDcC1kbzhnelhmVFZ6S21RVnBKTm9SRHlrVUJwdE1sWlN0VWp5YmFOQmpmSGc?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#5
+> **reason**：rank #5; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Live-fire drills near Japanese island raise concerns over China’s extended military activity Indo-Pacific Defense FORUM
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -168,60 +100,43 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 91** | Inside China’s All-Out Push to Catch Up With American AI Chips - WSJ
-> **标题**：Inside China’s All-Out Push to Catch Up With American AI Chips - WSJ
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE1pRUk2aURfSTVLeUZzMEszM3JWUG9kS2JwWTRMSmxXT2RJRzBMaUhCZE84bElMWTNhV2ZJd3MxcmRrd0YxMWJEYTg0OE91TjAtRmxJUklfckJEVGJBWGhqXzJqQTVERFR6TTB3Mg?oc=5)
+> [!info]+ **今日必须看 / 91** | Looking at just the odds isn’t enough. How traders gain an edge on prediction markets - CNBC
+> **标题**：Looking at just the odds isn’t enough. How traders gain an edge on prediction markets - CNBC
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbHVQQVBfaHdNbUhPSHVUT0JPcFJEYWwyWUwxUFd3Vm8wQ3NJem1faFdiVmNpOUpDdC1Db09uYzgyT3c0d0RJMnZxTjByX182bUFTSDg2MFFhYVU1UU9FcHNENEtaTS1pX182a2ZRZHowX1V5ejFITHBuV3R1cWtBbnhtWk9vemQtNUVtMm1OMFdsRm5NYXZhc3BjUFN5dW9ubDI4cUVkQnFuZ9IBrwFBVV95cUxOdE5TN041clZnaDJiNXM2eU5VVWZlQUpSbXRPUFh2MmFDT1ltRmZzU2JTQ2JJLWVCR2YxNk0xR3BwVXhpdUhHTFRlZ1Z5d2p1RDBmOWFkcVlZU1BHbzU5OGxUdmxzNFNLTVlGVl9lSHZHQVpkVDJXWVRBbHRseGVVcDhMX2EwUU9HSHZ4YWE0NEpuTU5oX0NGOExSX2pqakd3ZFZYRWhLRlZHLW1JczVF?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
 > **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, china, us, chips
+> **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Inside China’s All-Out Push to Catch Up With American AI Chips WSJ
+> **summary**：Looking at just the odds isn’t enough. How traders gain an edge on prediction markets CNBC
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 91** | Could AI take your job? Some workers in China already know the answer - The Guardian
-> **标题**：Could AI take your job? Some workers in China already know the answer - The Guardian
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMilwFBVV95cUxOQnppV1BscTk3UThfNzVndkJITFpZV3c0NnQxNnlpaDcwOGhNcVAxc0FsVl91UnZVakRaUi1QRlJWZk92NWFsLWpLdGtYYlBhZlJPWFV6R0ZvS0tRY3huZWJOQkIwa2MtWFNJZnR5U3FEM3RpN0RnTF9zZ1NYQ2l5U0FKZ2Jtd040X3pPRDFLWWpiUTJKenVv?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#6
-> **reason**：rank #6; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Could AI take your job? Some workers in China already know the answer The Guardian
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 89** | The biggest gamble in the U.S. economy is starting to look riskier - The Washington Post
-> **标题**：The biggest gamble in the U.S. economy is starting to look riskier - The Washington Post
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirAFBVV95cUxQVDFlR21zT1pPMi1JUFZnSHdpZTRnbGJneFp3eUI3LU5YdWVhVGtycXBUR0F5Q2ZkVlVzTFVZaThNZlBIdWd3Rms5QjdmN2wtRmJTbG5jQzloLUJobzlQVkdINlRTaWxNemdyUXhkem9ZdlIwMXk2WkN0dmdVOWRReTJyd05oUi1nUHJLc0F5eWNrN0tIcHk3Sl9oOUdtVWNSQVNaNzdGVC1rdVN6?oc=5)
+> [!info]+ **今日必须看 / 89** | Is A.I. ‘Scheming’ Against Us? - The New York Times
+> **标题**：Is A.I. ‘Scheming’ Against Us? - The New York Times
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE9jWDZqc2pLTU1peVM2Y1J0cEIyNFZpN0kwWHRiOVVZeVp5RjVJU1p4UGdPdXozOUx0Y05fa1J1SlNuR3hBSnFOc2REaEZQRGw3bmdKOXhVRllRaFVKU3V4UGR1dmd6clFNU2dsRA?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: markets; fresh within 12h
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: ai, us, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：The biggest gamble in the U.S. economy is starting to look riskier The Washington Post
+> **summary**：Is A.I. ‘Scheming’ Against Us? The New York Times
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 89** | SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory - NVIDIA Newsroom
-> **标题**：SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory - NVIDIA Newsroom
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiygFBVV95cUxQWWdmVzNHOG9UWDV2VnM0ek1kOTlMSDMydklMbjQzSDBSUWVYaGFJeFQwZk9tR09qNDVtMWlHS2pIUmVHVGxoOVFPSm1LYS1UUXdzNnNwa2U2MUVGaXFJLWVPb1NvNlN1OWhCX21OR3ROa1FjVFVsVVpuekRLMGVDYWw0SzBnMXRGMGY2ZlVXalpHVktOM2xhVlprcXpDLVV6WUVLdUFCOW43TkM2dW9lTnpBbS1TZ1hYd2pOMUMyc1lrVU1YaERxaWRR?oc=5)
+> [!info]+ **今日必须看 / 89** | Why did OpenAI's and Anthropic's AI models hack other companies? - NPR
+> **标题**：Why did OpenAI's and Anthropic's AI models hack other companies? - NPR
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMikAFBVV95cUxQOXNtVEtudEtnV3NPSmczc29QRmhZNGpXcU1SakQwOWNEel9CbEtrNEhUYjRhbzBnLVVJQ0tvdHNVM0ctTS01dVo4SGtzczZtRVVuV2ZjVW0takpNcUZtNWxhdmt3SGdxUFVBYVplSUVnUC1xdm1NR2RKQ2Rkc04xcTJHYU9wVDlwZGtUOXdjX1U?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
@@ -229,41 +144,126 @@ tags:
 > **rank**：#1
 > **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory NVIDIA Newsroom
+> **summary**：Why did OpenAI's and Anthropic's AI models hack other companies? NPR
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 89** | Canadian Intern at NATO Military HQ Is Arrested on Suspicion of Spying - The New York Times
-> **标题**：Canadian Intern at NATO Military HQ Is Arrested on Suspicion of Spying - The New York Times
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxPYmZ2dnpqQnlGbnRaNWV6Q3VGNXlieUViWUYtNzZWYXlYSTJCcFIwUC1OU2MyQ0djZ1lsVG9SblhSQ1o1aTMzLUFyWTB3UG1iWFVOelVlOExFaHBURGRIWGNNQlJJYU9vaGg0YnM5R0ZjYXpRSGMxV1N4WEdCSTBoQks4N2N0MEdMZW1PNg?oc=5)
+> [!info]+ **今日必须看 / 89** | China says attacks on non-military targets ‘unacceptable’ after Iranian strike hits Chinese company building in Kuwait - Anadolu Ajansı
+> **标题**：China says attacks on non-military targets ‘unacceptable’ after Iranian strike hits Chinese company building in Kuwait - Anadolu Ajansı
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMi9AFBVV95cUxORjBiNzVMTmM0bFNkVE1tUVpVRXFLV0twcld2TUY2eWQyYWZVMzVMMHAtQnlXRGk2NnVVdk9nbnpPZVEyWG1JT1h0bmFQWUFEZWw0bGtka0FyOUVoXzVyZGdIRFlGUW9paG5hbDY4V0syZnl5dUFWbGpBQ1lRb0ttNE1ROHR4bDhEakYxUDZXamdzUTAyWXd0Vko1S082VzZLV0xkX2hDS1Q5VTIxOTVCdXJDeUo5emdGbTQ4NXRURnlmMy1PMTNhNUh0V1N3MnBLLVpVMU5CTDFDallRRS01cVFDWkZVVHdrUmdHdEM5eUdYTjJL?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：综合
 > **rank**：#3
-> **reason**：rank #3; source weight: Google News; hot terms: 美国, china, us, military
+> **reason**：rank #3; source weight: Google News; hot terms: 美国, ai, china, us
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Canadian Intern at NATO Military HQ Is Arrested on Suspicion of Spying The New York Times
+> **summary**：China says attacks on non-military targets ‘unacceptable’ after Iranian strike hits Chinese company building in Kuwait Anadolu Ajansı
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 89** | China And The U.S. Are Clashing In The AI Race. Beijing's Military Is Reportedly Using American Models to Train Its Defense Systems - International Business Times
-> **标题**：China And The U.S. Are Clashing In The AI Race. Beijing's Military Is Reportedly Using American Models to Train Its Defense Systems - International Business Times
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiugFBVV95cUxONUx3N2FqLUViY0NScllPSUVYb1RoUU1ERFpxcmxqSEJJMmtBVFR3cGlSVVNwVzdXZmhVbnZOM3R0NWpsUFlJcDNBeEVIVThQcGtGWnRFZWQ4SXdBX0thTHNwMExaODhKcF9iMXJKU3pOOFVsVXFJMVFTaHVYa3piNEUxeXdhMGx3N21VOW9XU3lrX05WaE9XRkNLT2JONFUxUm1OelhhV2ZaZVRrQjNHSG42UVNxbTQyYnc?oc=5)
+> [!info]+ **今日必须看 / 89** | Can the US fend off China’s subsea drones? Its coastguard looks for answers - South China Morning Post
+> **标题**：Can the US fend off China’s subsea drones? Its coastguard looks for answers - South China Morning Post
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiugFBVV95cUxPcVB2S1RVdHVERFF4UGtGbFRrM0Q0WUVsZ1NMWE5tbDBOR3BvVlV5SVFrUWs4UmZYbEcwelcwR2JNSkQ3Q1NVVnNXMWJJb3plU2xva0U2X0pLWmFfMm5IODBPNDJZREJINDFXZkxqSktZN0U0clExNThINms4QmlqMHhKWGUyTTV5U0pUS1h0V1BoMEhGVllxZDlZcmFzT0NnZ3c2cUFKeVZBNkk4RzJiRjRqUm9zcVNXLWfSAboBQVVfeXFMTzMwQVpmVTYzZHNaQ2NuYmNaSWkwa0VrLUI5Z19QcXFXM3h3MnEyVllRclF3QmFJUXlTb0RmTXpfbUxRaGNkVy1LUU9HVmlEZHkzbkhCU2hBXzlrOUZUODhuc3hvdUpJZ3VmYUhGRUd6cjZBakcwV19YbHp0dmd0M2ZYUTJ0ZjlSdEl5OERyRVJ4d19iN2syaXdxSEdhMm5pNXVGRnhuQ0JRYlZOZ0xHejdEdHItTnRJa1pR?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：综合
-> **rank**：#7
-> **reason**：rank #7; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China And The U.S. Are Clashing In The AI Race. Beijing's Military Is Reportedly Using American Models to Train Its Defense Systems International Business Times
+> **summary**：Can the US fend off China’s subsea drones? Its coastguard looks for answers South China Morning Post
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 87** | Judge denies X.AI effort to halt ban on tech that depicts people nude without permission - MPR News
+> **标题**：Judge denies X.AI effort to halt ban on tech that depicts people nude without permission - MPR News
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMixwFBVV95cUxOOFR3Tlk1N1FwM1dNVVdzal92ZWVSajBsa0FlTHhHOG80QklMcEJWWkdWc1hjZzRkZ05Qc21BOXJ5cEM2Y01xRTFKWVd5NVNGSDRFVC1IWDdHTzhsVjFkajFQZ0tkdm5qWHJFRlpsMDROTTlZZzZSUUgwZWcxbUFqbXh6Yi1ZbEp4Vkp5U25JUnJPaGVfc0tXMWtSSDFIUndKQnJsWFdfNHEzU19zR01CYVdTQlN3QXg1cjhyajNwemN6TVo2Umtv?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Judge denies X.AI effort to halt ban on tech that depicts people nude without permission MPR News
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 87** | Market expert warns China is ‘catching up’ in technology race - Fox Business
+> **标题**：Market expert warns China is ‘catching up’ in technology race - Fox Business
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ldEFBeDNpVzBHR0tyemNsZDNJOEpmTnp1YXZzZVcwSDl5bUVmVmpVbmZYLXVSOFN4eVJwZm1NeVEyeEpXQ3h3QXhlemRLNmZwekVqaDc1WmlVTFU?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: 美国, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Market expert warns China is ‘catching up’ in technology race Fox Business
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 87** | EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters
+> **标题**：EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#4
+> **reason**：rank #4; source weight: Google News; hot terms: ai, us, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe Reuters
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 87** | China Is Training Military AI on Outputs From OpenAI and Anthropic Models - SOFX
+> **标题**：China Is Training Military AI on Outputs From OpenAI and Anthropic Models - SOFX
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMimwFBVV95cUxNcG1KQ2xrdWMtRkpQZzdKVmlLUlVmcVlNOVRQSTdxVlNGZkhiTnRubHJpWnp4Y3d4NGdZWWE3ckh0OUI4bzFPbVExWkhkbXo5UldGN2lDdVRJQjRPV1VEQmVQQWVWNUQyR0s0bjhWcVctQ2RoNlNCSEZJSUFtQmVfa09tYU42Zm93a2lmcWlGNlg0d29QMW1rUDQyOA?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#4
+> **reason**：rank #4; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：China Is Training Military AI on Outputs From OpenAI and Anthropic Models SOFX
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 87** | China holds military drills near disputed shoal in the South China Sea - AP News
+> **标题**：China holds military drills near disputed shoal in the South China Sea - AP News
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMisAFBVV95cUxNdVltVTN1VjZFdU05eU9fdEF4aXU3WDVTSVg4blgwRzBNeWRZdll3NmN1ZHNkYy1lUm5jOHBqSHQxRWtPY1g2d29nOFZiU2J5YU44VjZnZkg1cTcyaTBzVXg2eU1oY0xHYVpNdGxPODZJa29ScnJkbUt5OFI4UTRIdWUwOTZreVBiamhzbVV1ZGpXcjRCOElNUV9qTFZGTUtKdlBkSWJURU9VQVphVl9vMQ?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#4
+> **reason**：rank #4; source weight: Google News; hot terms: 美国, china, us, military
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：China holds military drills near disputed shoal in the South China Sea AP News
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -272,51 +272,17 @@ tags:
 
 ## 反复出现的议题
 
-> [!info]+ **今日必须看 / 100** | China is gaining troubling military know-how from Russia - The Economist
-> **标题**：China is gaining troubling military know-how from Russia - The Economist
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMipAFBVV95cUxON2oyLTdjV3dnaUtpcFp4Q3lsUUZ5dGgteFVKRkItRzJERlZWa2t5T1Y5MVVqM2tDRmlHMUJjVURXLUdpSDU1czQzQ0lDcGtsUmpqSlFVRHdmcUZqZ0x2WndDc1poUTEtRXZHelp1TnVraWJzbWY3S0xfZVlabXJ3TkpmZ2tFdVc2aWtPTlctdjQwSUdPVWxQT2xxdzJqc1BBLXpSSg?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#1
-> **reason**：rank #1; cross-source x3; source weight: Google News; hot terms: 美国, ai, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China is gaining troubling military know-how from Russia The Economist
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 100** | Beijing conducts live-fire drills in Taiwan Strait after criticising Lai speech - South China Morning Post
-> **标题**：Beijing conducts live-fire drills in Taiwan Strait after criticising Lai speech - South China Morning Post
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ3dNeVVGdDliUzJRNFZJMm5YWlpJMktmS2dNMVdzaTdWMTZiUzNEZjZDOWhrakRuYXpfckd5OTJ4aGdHQ1ZmVG9DeHVHU3VLU3E3amliM1U0UDVodEk2RzV1ZXNzWFB0WmFhZl9zbFhXT2VmaWg1alBHMUN2eldPNzFqYjFXT1FvV2JMdUxzNmpQNWl4Rl9FVEVGX3hBTUJHWEZOeU5KY0FxUlJWVk1JUDFuNjNSUnVaclF3Qld30gG-AUFVX3lxTE5nTEdwbENQZTlKSHlZeGlXY0Z6dTFUUDhIZkcwWTNKcE1aN3Jjc1NWVjYxZGNZX1hfZDQtdFJvdkRrNElMVmh2TVRmUUNzbllvMkJHNDBYQTFEYWVTT0hfdTZzd3VZMVdQX1JCMk16dHRBbU45V3dnb09EWU9KR1p3SG1VZ1doaC1LVkNjSkRkZDB1Ykd6QmFQU2lGaHpPeE5YakhfcVNqZHBiV2dpYjltblNDMVFwNERuYzR1dlE?oc=5)
+> [!info]+ **今日必须看 / 98** | China's Xi urges deeper anti-graft fight in military, modernisation advance - Reuters
+> **标题**：China's Xi urges deeper anti-graft fight in military, modernisation advance - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHA1TDV6a0dWNTRkb3dKdHpJMFhiUlVLdS1URDBmN1ZQc1pjR2VjdFp0bzE2ZU5nbDhvOWJXWWZQdWhRYUVCWmw3dE5YVUJKcDdETXkxOHFsZ0h5V3I0blRDUmpYaXE0OGNmMFEzRG0wM3B3dmUwZFhGRUM0ZEVZeDdnMVh0Q05JaDZtYUp1a2NDV0pFek5aaEZpYWcxNUNBNDN6eWM5Wmx5bnN6SjJZdw?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：综合
 > **rank**：#2
-> **reason**：rank #2; cross-source x3; source weight: Google News; hot terms: 美国, ai, china, us
+> **reason**：rank #2; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Beijing conducts live-fire drills in Taiwan Strait after criticising Lai speech South China Morning Post
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 88** | China Stages Drills in Taiwan Strait Defying US Warning - Newsweek
-> **标题**：China Stages Drills in Taiwan Strait Defying US Warning - Newsweek
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMipAFBVV95cUxPcGpfV2tzR0RsWXcwa3QyaFhIVG5wNjVtRWFJQmlHNnBrMy1lbmcyek1uMUVyWU9RSm0xRm9JMWk0ME42MjNydlpGVTN0X1g1TGZLSTVQRzVmb1RMcUhzazhZY3Y4OTBSaUJJdjFxd0swaHNoMVF0LWtWM0p3ZHh5MnpIVllVMU43WXJuUUJJNndLbHI3WV9udjd5dlJLNEpBUnFKZg?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#7
-> **reason**：rank #7; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China Stages Drills in Taiwan Strait Defying US Warning Newsweek
+> **summary**：China's Xi urges deeper anti-graft fight in military, modernisation advance Reuters
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -340,26 +306,26 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 83** | Why U.S. Technology Controls Keep Faltering, and How to Save Them - Lawfare
-> **标题**：Why U.S. Technology Controls Keep Faltering, and How to Save Them - Lawfare
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMipAFBVV95cUxNYTJBQUNSX0VzZDU5LVY2OUdXSzhmaHZiSlRZcnRlNFB0d0NFNl9YUVJpUVJCMjQtLUNJNG90ZFpENTBNdU5mNm5vTGk5c2w5WmkxTi1ZY0hnYjQ2RnRwSUtILWpFazRrQmNNUjJ5NG4zekpkczc5TkE4Y1pGc1FNMFhOdnMzcnVCQ3h5UWNjbTgwa0FWRjE4YUVCb3VnbFc4UC1FdQ?oc=5)
+> [!info]+ **今日必须看 / 84** | China’s open-weight model lead exposes America’s AI blind spot - CNBC
+> **标题**：China’s open-weight model lead exposes America’s AI blind spot - CNBC
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMicEFVX3lxTFBKTFg2dllTS3ZtQlZ1NTVHQ3V2anRpN1NjVlZFNFVqTkdDY0xpSHBURGhSYXJ4NENJSE1QcHB2U2ZsOUFCV0JwWmdzelhNVTlaLUpKRVFvYmZPNW10djBONzJFYzR3VGFzRDYxSzh1dzTSAXZBVV95cUxPeHFIY255ZlV3emk5ZXBHX3gwZlp2Z1lRdTVOb2hGUzdtdHVoN01ocFh6RFJhQmhxeVZVa2tBSERXOTA1STRpeFZUN19iTUg3WVRZNUUyNGxjaTZJZHNIX0hTV05xeVl6WmZBeVFxVXhEdk84dmZn?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：综合
-> **rank**：#11
-> **reason**：rank #11; cross-source x3; source weight: Google News; hot terms: 美国, china, us
+> **rank**：#9
+> **reason**：rank #9; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Why U.S. Technology Controls Keep Faltering, and How to Save Them Lawfare
+> **summary**：China’s open-weight model lead exposes America’s AI blind spot CNBC
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 82** | A ship linked to China’s military sailed from Baltimore. That should worry US workers - The Hill
-> **标题**：A ship linked to China’s military sailed from Baltimore. That should worry US workers - The Hill
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUEwtcUwtRGpGREUwZmYtMlpvcjl1M1B2T3VZdEdtWW5MQ2k3QkNXdHlPcDlTMzAybV9VOVVudDE0RURvSmFGaXV2dnc1RVZucnJSVktyajFheThLc0hiSURSNU14T3VtQ1V1aDV4RXktY0RueDdYQUZQZ1NOYXJDUENsb0ZYdjVvMVh4RkdTVlPSAZYBQVVfeXFMTVRmRmlfODlPbzlCN0tIUTc3aklCdUpmcUJMZ284OUVHbVBuaXI3czNTTjNmb2N3ZDNRR3BybkNSREtBRFVKVWdLNWxJQ2lhdGxUYzAxV25TdXl1QTZoem1pZ1NCVFp6WjdZdUc1N1BrTzFITVVuWWU0QjVLem13d19VQzlYWDdXZ0lpNTUzME9qVERRRmp3?oc=5)
+> [!info]+ **今日必须看 / 82** | EXCLUSIVE: Chinese military researchers tap US AI models to train defence systems - Reuters
+> **标题**：EXCLUSIVE: Chinese military researchers tap US AI models to train defence systems - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRlZKM1E4OTlVQnVjUUs0ZEVFY2hxZHNvd2VHb0dabWZnbFZKTjJzemRrUkJsNS14blJPcDlmREZMbzdXekNqcWdSVnpQSG82YndnMUJ5TElaNlRBYkRWMlVfU2dWTWdDY1kxa2ZjNnhtQko1Nnd3QkZ1eUhIMVI1MU1wVjFTZ1N4WHE2UnBzVHp0QzBjMzI4RWlnVkVWMmVvTkxWeExNZUlFeE52WHhsdFZJSXlfNld4RFdjMVNNQQ?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
@@ -367,41 +333,75 @@ tags:
 > **rank**：#10
 > **reason**：rank #10; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：A ship linked to China’s military sailed from Baltimore. That should worry US workers The Hill
+> **summary**：EXCLUSIVE: Chinese military researchers tap US AI models to train defence systems Reuters
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 82** | Trump warns China and Russia not to ‘give or sell’ weapons to Iran - Colorado Politics
-> **标题**：Trump warns China and Russia not to ‘give or sell’ weapons to Iran - Colorado Politics
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirgFBVV95cUxObzVtRzRMU2dTU3l6d1BRSnQ1OFdkZTVCYXREdXlld3pJSFJZcC1WM0hvMDJ1NTRRUEJoWGRSbVd4VDhqc0RYbU40TTRXV2xBMFkwT0ZWYVZhbmd4R2pleFJGZzMtNGVaZTZSZ2FJSmNRUVlXQjF1Zzk4OUlqRk81QmdaaHh1QWViM0s1a0dKT3RxTDZjdFF1Y0c5ZEZZR3JfelNxQWVCRWNqS1lwcFE?oc=5)
-> **source**：Google News / China US Hot News
+> [!info]+ **今日必须看 / 78** | The biggest gamble in the U.S. economy is starting to look riskier - The Washington Post
+> **标题**：The biggest gamble in the U.S. economy is starting to look riskier - The Washington Post
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirAFBVV95cUxQVDFlR21zT1pPMi1JUFZnSHdpZTRnbGJneFp3eUI3LU5YdWVhVGtycXBUR0F5Q2ZkVlVzTFVZaThNZlBIdWd3Rms5QjdmN2wtRmJTbG5jQzloLUJobzlQVkdINlRTaWxNemdyUXhkem9ZdlIwMXk2WkN0dmdVOWRReTJyd05oUi1nUHJLc0F5eWNrN0tIcHk3Sl9oOUdtVWNSQVNaNzdGVC1rdVN6?oc=5)
+> **source**：Google News / Global Markets Tech
 > **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#6
+> **reason**：rank #6; cross-source x2; source weight: Google News; hot terms: markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：The biggest gamble in the U.S. economy is starting to look riskier The Washington Post
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 74** | Investigating three real-world incidents in our cybersecurity evaluations - Anthropic
+> **标题**：Investigating three real-world incidents in our cybersecurity evaluations - Anthropic
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
 > **rank**：#8
-> **reason**：rank #8; cross-source x2; source weight: Google News; hot terms: 美国, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Trump warns China and Russia not to ‘give or sell’ weapons to Iran Colorado Politics
+> **reason**：rank #8; cross-source x2; source weight: Google News; hot terms: markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Investigating three real-world incidents in our cybersecurity evaluations Anthropic
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 81** | China’s New Technology Trap - The Wire China
-> **标题**：China’s New Technology Trap - The Wire China
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMidkFVX3lxTE44UXlhOVBOMVpIczdjdHROSTdkcm9PUi16TWRER0U5VGhoVEpaSlg1T1I3aGtpblZGQkVJakZ3aC1mMFBtNXdhZlR0X3RXM0tSTnplSm41bmkwZkptWVNGYmZXRS1EM3pscXJJSkhVaEJTRUNiRmc?oc=5)
+> [!info]+ **可延后 / 74** | Could US subterranean warfare be a future threat to China’s military defences? - South China Morning Post
+> **标题**：Could US subterranean warfare be a future threat to China’s military defences? - South China Morning Post
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMixwFBVV95cUxPTGdFbjlENEdSZEVVTVBwTnJSNXdTZS1VU2JucXdpV05uVGVpODRUeEJqQVlHVk1WWEctMFRHU3lqN2hOQXM2Tk9xbVhrOXNhdm9iZkM5RDJHQmhDckZOck9VZ055cFRPNzkzT1BYOHhHODNMOTZfYjByYWpjenFUSE5LRHNlam5Wam90NXd2VWZJUElTa1hBZXNwVkpGWjlCeEp5aHRuTjIwWFhHTjU4R3FsQmJSQzdiX0JITlNIaExidjhaSWxN0gHHAUFVX3lxTE9udXBQb3dJUWVJazFXVEhLTnlGdHhOSHg2QjBwdjA0WmJrQkQ2dEJOSHhSTG1uMXdDeWhSeWdfcGZicEwtQnFKWjNYT1Aya2M4SWxBanM2Y3FzMVdPd2JoYmkyQW1NVzhTYklXazJKeXhOTnVURUhpVlJwSG1zdmRGSzZYVWl5eFJWUjVQYzJDeFFjeXZaSkNPbnVJSHIyYUJVd0lXcnlnaUM3UmRNSFAzVmlURWNINjBtQVdkVHYtbGNSdU9tanc?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：综合
-> **rank**：#12
-> **reason**：rank #12; cross-source x3; source weight: Google News; hot terms: 美国, china, us
+> **rank**：#14
+> **reason**：rank #14; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China’s New Technology Trap The Wire China
+> **summary**：Could US subterranean warfare be a future threat to China’s military defences? South China Morning Post
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 72** | US officials pressed China on rare earths, farm goods commitments, Bessent says - Reuters
+> **标题**：US officials pressed China on rare earths, farm goods commitments, Bessent says - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMixgFBVV95cUxNcUlkT0N4WDZ5QkltdVBPZ0VwV1hvRm4tUE94S3ZBNktSb1cxV3pVNUN3ZERjUWI2allaVi0tRXk5Zmp5Nnd5WS1BOHphM0tYeGJfaXYtVW9pa1prdzRzaUY0NHB5cEpGVG5FRTVrcllXT1ZfbVA2SVI0ellvVmk1R1JwdmZiZk8tV3JUdXJxRlhPVHhwZlVTVVZWV0xyZWpwZ0RTN0I0ZW9IWS14c2t2Tlctb2ZwYTd1azhPY0VIZkhoM09yWWc?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#13
+> **reason**：rank #13; cross-source x2; source weight: Google News; hot terms: 美国, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：US officials pressed China on rare earths, farm goods commitments, Bessent says Reuters
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -414,134 +414,32 @@ tags:
 
 ## 美国/国际热点迁移
 
-> [!info]+ **今日必须看 / 100** | China is gaining troubling military know-how from Russia - The Economist
-> **标题**：China is gaining troubling military know-how from Russia - The Economist
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMipAFBVV95cUxON2oyLTdjV3dnaUtpcFp4Q3lsUUZ5dGgteFVKRkItRzJERlZWa2t5T1Y5MVVqM2tDRmlHMUJjVURXLUdpSDU1czQzQ0lDcGtsUmpqSlFVRHdmcUZqZ0x2WndDc1poUTEtRXZHelp1TnVraWJzbWY3S0xfZVlabXJ3TkpmZ2tFdVc2aWtPTlctdjQwSUdPVWxQT2xxdzJqc1BBLXpSSg?oc=5)
+> [!info]+ **今日必须看 / 100** | Why is China’s Communist Party intent on control over the military? - South China Morning Post
+> **标题**：Why is China’s Communist Party intent on control over the military? - South China Morning Post
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxPSEtXamRQcUdpbG5nRjJZRWpkMmxmRHY3ajk2VUlUT2dEVno5dzZmRDd0Qkw4SkpLWWU5SDV5MjNna0lrcnVFbUF0RGZqN2szeENvX214U3BMRU9tR3VBWENYSThYQ2RIUjI3ZkJkNk9BUnZwaHFZUWFvMHpMWHJXREFmQXh5WENYX2FncTcxSUNUM044WHpPal9xYUt5MHlMS2lMdTY4NVFhMFVzSXdBNnR2RVhBZGk5Ny1MMdIBvAFBVV95cUxNR3ljU0Z4UUszQ0U5WjNaQzhTRXdUc0VHNE9uN2pXTzFRdlJEWXU1NVRuYURDQVpsUS1kTS1zNGNuSDU4RnF5Vks4ajhob3dIdkxGek9WSkNnS3B2eEJ5MnI3Q01IcHNXLW53OVo0S3Y0V3Q3dHFxSUl0UWdKM0NhaE5VSFpWZnh2QUJsVW1TQzNDWl9IYjJSak5rb0RKamVERHlzN1pxNWljMEVfMTVqQU1RZnQtdXBOMkYwOQ?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：综合
 > **rank**：#1
-> **reason**：rank #1; cross-source x3; source weight: Google News; hot terms: 美国, ai, china, us
+> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China is gaining troubling military know-how from Russia The Economist
+> **summary**：Why is China’s Communist Party intent on control over the military? South China Morning Post
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 100** | Beijing conducts live-fire drills in Taiwan Strait after criticising Lai speech - South China Morning Post
-> **标题**：Beijing conducts live-fire drills in Taiwan Strait after criticising Lai speech - South China Morning Post
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ3dNeVVGdDliUzJRNFZJMm5YWlpJMktmS2dNMVdzaTdWMTZiUzNEZjZDOWhrakRuYXpfckd5OTJ4aGdHQ1ZmVG9DeHVHU3VLU3E3amliM1U0UDVodEk2RzV1ZXNzWFB0WmFhZl9zbFhXT2VmaWg1alBHMUN2eldPNzFqYjFXT1FvV2JMdUxzNmpQNWl4Rl9FVEVGX3hBTUJHWEZOeU5KY0FxUlJWVk1JUDFuNjNSUnVaclF3Qld30gG-AUFVX3lxTE5nTEdwbENQZTlKSHlZeGlXY0Z6dTFUUDhIZkcwWTNKcE1aN3Jjc1NWVjYxZGNZX1hfZDQtdFJvdkRrNElMVmh2TVRmUUNzbllvMkJHNDBYQTFEYWVTT0hfdTZzd3VZMVdQX1JCMk16dHRBbU45V3dnb09EWU9KR1p3SG1VZ1doaC1LVkNjSkRkZDB1Ykd6QmFQU2lGaHpPeE5YakhfcVNqZHBiV2dpYjltblNDMVFwNERuYzR1dlE?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#2
-> **reason**：rank #2; cross-source x3; source weight: Google News; hot terms: 美国, ai, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Beijing conducts live-fire drills in Taiwan Strait after criticising Lai speech South China Morning Post
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 97** | China says attacks on non-military targets ‘unacceptable’ after Iranian strike hits Chinese company building in Kuwait - Anadolu Ajansı
-> **标题**：China says attacks on non-military targets ‘unacceptable’ after Iranian strike hits Chinese company building in Kuwait - Anadolu Ajansı
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMi9AFBVV95cUxORjBiNzVMTmM0bFNkVE1tUVpVRXFLV0twcld2TUY2eWQyYWZVMzVMMHAtQnlXRGk2NnVVdk9nbnpPZVEyWG1JT1h0bmFQWUFEZWw0bGtka0FyOUVoXzVyZGdIRFlGUW9paG5hbDY4V0syZnl5dUFWbGpBQ1lRb0ttNE1ROHR4bDhEakYxUDZXamdzUTAyWXd0Vko1S082VzZLV0xkX2hDS1Q5VTIxOTVCdXJDeUo5emdGbTQ4NXRURnlmMy1PMTNhNUh0V1N3MnBLLVpVMU5CTDFDallRRS01cVFDWkZVVHdrUmdHdEM5eUdYTjJL?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#3
-> **reason**：rank #3; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China says attacks on non-military targets ‘unacceptable’ after Iranian strike hits Chinese company building in Kuwait Anadolu Ajansı
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | Judge denies X.AI effort to halt ban on tech that depicts people nude without permission - MPR News
-> **标题**：Judge denies X.AI effort to halt ban on tech that depicts people nude without permission - MPR News
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMixwFBVV95cUxOOFR3Tlk1N1FwM1dNVVdzal92ZWVSajBsa0FlTHhHOG80QklMcEJWWkdWc1hjZzRkZ05Qc21BOXJ5cEM2Y01xRTFKWVd5NVNGSDRFVC1IWDdHTzhsVjFkajFQZ0tkdm5qWHJFRlpsMDROTTlZZzZSUUgwZWcxbUFqbXh6Yi1ZbEp4Vkp5U25JUnJPaGVfc0tXMWtSSDFIUndKQnJsWFdfNHEzU19zR01CYVdTQlN3QXg1cjhyajNwemN6TVo2Umtv?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Judge denies X.AI effort to halt ban on tech that depicts people nude without permission MPR News
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters
-> **标题**：EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe Reuters
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | China Is Training Military AI on Outputs From OpenAI and Anthropic Models - SOFX
-> **标题**：China Is Training Military AI on Outputs From OpenAI and Anthropic Models - SOFX
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMimwFBVV95cUxNcG1KQ2xrdWMtRkpQZzdKVmlLUlVmcVlNOVRQSTdxVlNGZkhiTnRubHJpWnp4Y3d4NGdZWWE3ckh0OUI4bzFPbVExWkhkbXo5UldGN2lDdVRJQjRPV1VEQmVQQWVWNUQyR0s0bjhWcVctQ2RoNlNCSEZJSUFtQmVfa09tYU42Zm93a2lmcWlGNlg0d29QMW1rUDQyOA?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China Is Training Military AI on Outputs From OpenAI and Anthropic Models SOFX
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | Opinion | Will US or China win the next war? That’s the wrong question to ask - South China Morning Post
-> **标题**：Opinion | Will US or China win the next war? That’s the wrong question to ask - South China Morning Post
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiswFBVV95cUxPZF9qSnU1eUIxN0lRWWNYNGFrZ2U3NHpwTzI0emZaN05VVi1HSERoLVcwdFhFWkJqOE5iX3I4WVVOTjBob3JOVkk1UHloZDJlalZwaEphNlRvS1UwSTRRQjFRVmN5M1hjaXdXbFJ6d09QM1FjNkwzZjdqdkpaRHlENHplZ2NFMEVrSnNoQU55LTViamdveGlQbmpOWk5RdUVlNWJkSG92M1NDdXQzZHByXzBMc9IBswFBVV95cUxQWC16VDJrRzIyRE1qZHJtWUlMYmR5ZEhOcWhLdktSUjkxSjFJUmdwZ29yQ1JTNFUweXVGMUZ1V3NxV25mRVROakZ3VndGU2gxN0RxVjctUjl0VG95bEtPcmJ0eUFLYjVZNlNnWGRfNWtJY3lKT3hEaG5JSWxiQ0taTFlZQVAyWUlpSE1UN3NoeGxKWGY1WVJLUW5hU0NPUXlyX040d3NfLXJ4VlJMbnFXaENZbw?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: 美国, china, us; fresh within 12h
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Opinion | Will US or China win the next war? That’s the wrong question to ask South China Morning Post
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 93** | China's Xi urges deeper anti-graft fight in military, modernisation advance - Reuters
+> [!info]+ **今日必须看 / 98** | China's Xi urges deeper anti-graft fight in military, modernisation advance - Reuters
 > **标题**：China's Xi urges deeper anti-graft fight in military, modernisation advance - Reuters
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHA1TDV6a0dWNTRkb3dKdHpJMFhiUlVLdS1URDBmN1ZQc1pjR2VjdFp0bzE2ZU5nbDhvOWJXWWZQdWhRYUVCWmw3dE5YVUJKcDdETXkxOHFsZ0h5V3I0blRDUmpYaXE0OGNmMFEzRG0wM3B3dmUwZFhGRUM0ZEVZeDdnMVh0Q05JaDZtYUp1a2NDV0pFek5aaEZpYWcxNUNBNDN6eWM5Wmx5bnN6SjJZdw?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：综合
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us, military
+> **rank**：#2
+> **reason**：rank #2; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
 > **summary**：China's Xi urges deeper anti-graft fight in military, modernisation advance Reuters
 >
@@ -550,6 +448,40 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 93** | ‘More than just objects’: Australian book sellers raise alarm over ‘horrific’ destruction of rare titles to feed AI - theguardian.com
+> **标题**：‘More than just objects’: Australian book sellers raise alarm over ‘horrific’ destruction of rare titles to feed AI - theguardian.com
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTTJBXzBtYmdvNlM2ZERtalkzZDdhUmVXckdVVmVxdnJTUGJYTTBaTlhSVUNVUXhRVkxsMlc4SU5BR2xhYjZ0Tkd6cllkRHlFMzRGVVhuZW0yTEpYZHduMWNiajZfUUMwTDEyZF91S0p3U0NVNEhsNnRiV01ZR29hSGUtaHlVbTNlVTRCLUh0bmxVYjZ3Y3kzWVdyblVsYkljcnFvQk5OQTg5WXg2cEVfVVpYLWdPNzZtMHFlQg?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#5
+> **reason**：rank #5; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：‘More than just objects’: Australian book sellers raise alarm over ‘horrific’ destruction of rare titles to feed AI theguardian.com
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 93** | Live-fire drills near Japanese island raise concerns over China’s extended military activity - Indo-Pacific Defense FORUM
+> **标题**：Live-fire drills near Japanese island raise concerns over China’s extended military activity - Indo-Pacific Defense FORUM
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMixgFBVV95cUxONU1wT0ZOX0lpMzd6anI2c1FBSkpSTGZVZUdKRkZxSHVEeE1iMEp6TGxoWFNFcFoxOHlXclFjVGUzSV8wY3hVVmVMdVB2TkV0alY2MXhFalAyMFF3NXRYd25KNHRLbk1xeHFfU19TMVFZX1VjeWE5MVZ5MUFhYzB2TVE4TjNCMFk3bXRFT056WHEtNjliMWFZa0hDcC1kbzhnelhmVFZ6S21RVnBKTm9SRHlrVUJwdE1sWlN0VWp5YmFOQmpmSGc?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#5
+> **reason**：rank #5; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Live-fire drills near Japanese island raise concerns over China’s extended military activity Indo-Pacific Defense FORUM
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 91** | US to award GlobalFoundries $300 million to develop faster AI chip links - reuters.com
 > **标题**：US to award GlobalFoundries $300 million to develop faster AI chip links - reuters.com
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiswFBVV95cUxNOW0tVXFBZ2FXNkREcFU0S3dXaExacjNVemJWU3RsbnhiTTJWdkZram9nb0s2ZFdRVHJLZmM0VHdRTEMzRFpMcV9Ea0hZNEpoeDhlb0Nyc2RzUzBJSHBXckJ3aTIwQ1F6b2lqeEFkbUFNdXIwbEpLV191OTdoS2ZocUFsdXlIaGl1dFNaMDN2STN4ZXRyLThUemlSeVdoUXJMQ3hmUjdQaTR4cURDQ0JRcUpBNA?oc=5)
@@ -567,17 +499,85 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 91** | Inside China’s All-Out Push to Catch Up With American AI Chips - WSJ
-> **标题**：Inside China’s All-Out Push to Catch Up With American AI Chips - WSJ
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE1pRUk2aURfSTVLeUZzMEszM3JWUG9kS2JwWTRMSmxXT2RJRzBMaUhCZE84bElMWTNhV2ZJd3MxcmRrd0YxMWJEYTg0OE91TjAtRmxJUklfckJEVGJBWGhqXzJqQTVERFR6TTB3Mg?oc=5)
+> [!info]+ **今日必须看 / 91** | Looking at just the odds isn’t enough. How traders gain an edge on prediction markets - CNBC
+> **标题**：Looking at just the odds isn’t enough. How traders gain an edge on prediction markets - CNBC
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbHVQQVBfaHdNbUhPSHVUT0JPcFJEYWwyWUwxUFd3Vm8wQ3NJem1faFdiVmNpOUpDdC1Db09uYzgyT3c0d0RJMnZxTjByX182bUFTSDg2MFFhYVU1UU9FcHNENEtaTS1pX182a2ZRZHowX1V5ejFITHBuV3R1cWtBbnhtWk9vemQtNUVtMm1OMFdsRm5NYXZhc3BjUFN5dW9ubDI4cUVkQnFuZ9IBrwFBVV95cUxOdE5TN041clZnaDJiNXM2eU5VVWZlQUpSbXRPUFh2MmFDT1ltRmZzU2JTQ2JJLWVCR2YxNk0xR3BwVXhpdUhHTFRlZ1Z5d2p1RDBmOWFkcVlZU1BHbzU5OGxUdmxzNFNLTVlGVl9lSHZHQVpkVDJXWVRBbHRseGVVcDhMX2EwUU9HSHZ4YWE0NEpuTU5oX0NGOExSX2pqakd3ZFZYRWhLRlZHLW1JczVF?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
 > **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, china, us, chips
+> **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Inside China’s All-Out Push to Catch Up With American AI Chips WSJ
+> **summary**：Looking at just the odds isn’t enough. How traders gain an edge on prediction markets CNBC
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 89** | Is A.I. ‘Scheming’ Against Us? - The New York Times
+> **标题**：Is A.I. ‘Scheming’ Against Us? - The New York Times
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE9jWDZqc2pLTU1peVM2Y1J0cEIyNFZpN0kwWHRiOVVZeVp5RjVJU1p4UGdPdXozOUx0Y05fa1J1SlNuR3hBSnFOc2REaEZQRGw3bmdKOXhVRllRaFVKU3V4UGR1dmd6clFNU2dsRA?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: ai, us, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Is A.I. ‘Scheming’ Against Us? The New York Times
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 89** | Why did OpenAI's and Anthropic's AI models hack other companies? - NPR
+> **标题**：Why did OpenAI's and Anthropic's AI models hack other companies? - NPR
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMikAFBVV95cUxQOXNtVEtudEtnV3NPSmczc29QRmhZNGpXcU1SakQwOWNEel9CbEtrNEhUYjRhbzBnLVVJQ0tvdHNVM0ctTS01dVo4SGtzczZtRVVuV2ZjVW0takpNcUZtNWxhdmt3SGdxUFVBYVplSUVnUC1xdm1NR2RKQ2Rkc04xcTJHYU9wVDlwZGtUOXdjX1U?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Why did OpenAI's and Anthropic's AI models hack other companies? NPR
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 89** | China says attacks on non-military targets ‘unacceptable’ after Iranian strike hits Chinese company building in Kuwait - Anadolu Ajansı
+> **标题**：China says attacks on non-military targets ‘unacceptable’ after Iranian strike hits Chinese company building in Kuwait - Anadolu Ajansı
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMi9AFBVV95cUxORjBiNzVMTmM0bFNkVE1tUVpVRXFLV0twcld2TUY2eWQyYWZVMzVMMHAtQnlXRGk2NnVVdk9nbnpPZVEyWG1JT1h0bmFQWUFEZWw0bGtka0FyOUVoXzVyZGdIRFlGUW9paG5hbDY4V0syZnl5dUFWbGpBQ1lRb0ttNE1ROHR4bDhEakYxUDZXamdzUTAyWXd0Vko1S082VzZLV0xkX2hDS1Q5VTIxOTVCdXJDeUo5emdGbTQ4NXRURnlmMy1PMTNhNUh0V1N3MnBLLVpVMU5CTDFDallRRS01cVFDWkZVVHdrUmdHdEM5eUdYTjJL?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：China says attacks on non-military targets ‘unacceptable’ after Iranian strike hits Chinese company building in Kuwait Anadolu Ajansı
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 89** | Can the US fend off China’s subsea drones? Its coastguard looks for answers - South China Morning Post
+> **标题**：Can the US fend off China’s subsea drones? Its coastguard looks for answers - South China Morning Post
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiugFBVV95cUxPcVB2S1RVdHVERFF4UGtGbFRrM0Q0WUVsZ1NMWE5tbDBOR3BvVlV5SVFrUWs4UmZYbEcwelcwR2JNSkQ3Q1NVVnNXMWJJb3plU2xva0U2X0pLWmFfMm5IODBPNDJZREJINDFXZkxqSktZN0U0clExNThINms4QmlqMHhKWGUyTTV5U0pUS1h0V1BoMEhGVllxZDlZcmFzT0NnZ3c2cUFKeVZBNkk4RzJiRjRqUm9zcVNXLWfSAboBQVVfeXFMTzMwQVpmVTYzZHNaQ2NuYmNaSWkwa0VrLUI5Z19QcXFXM3h3MnEyVllRclF3QmFJUXlTb0RmTXpfbUxRaGNkVy1LUU9HVmlEZHkzbkhCU2hBXzlrOUZUODhuc3hvdUpJZ3VmYUhGRUd6cjZBakcwV19YbHp0dmd0M2ZYUTJ0ZjlSdEl5OERyRVJ4d19iN2syaXdxSEdhMm5pNXVGRnhuQ0JRYlZOZ0xHejdEdHItTnRJa1pR?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Can the US fend off China’s subsea drones? Its coastguard looks for answers South China Morning Post
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -586,34 +586,17 @@ tags:
 
 ## 财经科技观察
 
-> [!info]+ **今日必须看 / 95** | Judge denies X.AI effort to halt ban on tech that depicts people nude without permission - MPR News
-> **标题**：Judge denies X.AI effort to halt ban on tech that depicts people nude without permission - MPR News
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMixwFBVV95cUxOOFR3Tlk1N1FwM1dNVVdzal92ZWVSajBsa0FlTHhHOG80QklMcEJWWkdWc1hjZzRkZ05Qc21BOXJ5cEM2Y01xRTFKWVd5NVNGSDRFVC1IWDdHTzhsVjFkajFQZ0tkdm5qWHJFRlpsMDROTTlZZzZSUUgwZWcxbUFqbXh6Yi1ZbEp4Vkp5U25JUnJPaGVfc0tXMWtSSDFIUndKQnJsWFdfNHEzU19zR01CYVdTQlN3QXg1cjhyajNwemN6TVo2Umtv?oc=5)
+> [!info]+ **今日必须看 / 93** | ‘More than just objects’: Australian book sellers raise alarm over ‘horrific’ destruction of rare titles to feed AI - theguardian.com
+> **标题**：‘More than just objects’: Australian book sellers raise alarm over ‘horrific’ destruction of rare titles to feed AI - theguardian.com
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTTJBXzBtYmdvNlM2ZERtalkzZDdhUmVXckdVVmVxdnJTUGJYTTBaTlhSVUNVUXhRVkxsMlc4SU5BR2xhYjZ0Tkd6cllkRHlFMzRGVVhuZW0yTEpYZHduMWNiajZfUUMwTDEyZF91S0p3U0NVNEhsNnRiV01ZR29hSGUtaHlVbTNlVTRCLUh0bmxVYjZ3Y3kzWVdyblVsYkljcnFvQk5OQTg5WXg2cEVfVVpYLWdPNzZtMHFlQg?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **rank**：#5
+> **reason**：rank #5; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Judge denies X.AI effort to halt ban on tech that depicts people nude without permission MPR News
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters
-> **标题**：EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe Reuters
+> **summary**：‘More than just objects’: Australian book sellers raise alarm over ‘horrific’ destruction of rare titles to feed AI theguardian.com
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -637,43 +620,43 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 91** | Inside China’s All-Out Push to Catch Up With American AI Chips - WSJ
-> **标题**：Inside China’s All-Out Push to Catch Up With American AI Chips - WSJ
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE1pRUk2aURfSTVLeUZzMEszM3JWUG9kS2JwWTRMSmxXT2RJRzBMaUhCZE84bElMWTNhV2ZJd3MxcmRrd0YxMWJEYTg0OE91TjAtRmxJUklfckJEVGJBWGhqXzJqQTVERFR6TTB3Mg?oc=5)
+> [!info]+ **今日必须看 / 91** | Looking at just the odds isn’t enough. How traders gain an edge on prediction markets - CNBC
+> **标题**：Looking at just the odds isn’t enough. How traders gain an edge on prediction markets - CNBC
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbHVQQVBfaHdNbUhPSHVUT0JPcFJEYWwyWUwxUFd3Vm8wQ3NJem1faFdiVmNpOUpDdC1Db09uYzgyT3c0d0RJMnZxTjByX182bUFTSDg2MFFhYVU1UU9FcHNENEtaTS1pX182a2ZRZHowX1V5ejFITHBuV3R1cWtBbnhtWk9vemQtNUVtMm1OMFdsRm5NYXZhc3BjUFN5dW9ubDI4cUVkQnFuZ9IBrwFBVV95cUxOdE5TN041clZnaDJiNXM2eU5VVWZlQUpSbXRPUFh2MmFDT1ltRmZzU2JTQ2JJLWVCR2YxNk0xR3BwVXhpdUhHTFRlZ1Z5d2p1RDBmOWFkcVlZU1BHbzU5OGxUdmxzNFNLTVlGVl9lSHZHQVpkVDJXWVRBbHRseGVVcDhMX2EwUU9HSHZ4YWE0NEpuTU5oX0NGOExSX2pqakd3ZFZYRWhLRlZHLW1JczVF?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
 > **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, china, us, chips
+> **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Inside China’s All-Out Push to Catch Up With American AI Chips WSJ
+> **summary**：Looking at just the odds isn’t enough. How traders gain an edge on prediction markets CNBC
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 89** | The biggest gamble in the U.S. economy is starting to look riskier - The Washington Post
-> **标题**：The biggest gamble in the U.S. economy is starting to look riskier - The Washington Post
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirAFBVV95cUxQVDFlR21zT1pPMi1JUFZnSHdpZTRnbGJneFp3eUI3LU5YdWVhVGtycXBUR0F5Q2ZkVlVzTFVZaThNZlBIdWd3Rms5QjdmN2wtRmJTbG5jQzloLUJobzlQVkdINlRTaWxNemdyUXhkem9ZdlIwMXk2WkN0dmdVOWRReTJyd05oUi1nUHJLc0F5eWNrN0tIcHk3Sl9oOUdtVWNSQVNaNzdGVC1rdVN6?oc=5)
+> [!info]+ **今日必须看 / 89** | Is A.I. ‘Scheming’ Against Us? - The New York Times
+> **标题**：Is A.I. ‘Scheming’ Against Us? - The New York Times
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE9jWDZqc2pLTU1peVM2Y1J0cEIyNFZpN0kwWHRiOVVZeVp5RjVJU1p4UGdPdXozOUx0Y05fa1J1SlNuR3hBSnFOc2REaEZQRGw3bmdKOXhVRllRaFVKU3V4UGR1dmd6clFNU2dsRA?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: markets; fresh within 12h
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: ai, us, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：The biggest gamble in the U.S. economy is starting to look riskier The Washington Post
+> **summary**：Is A.I. ‘Scheming’ Against Us? The New York Times
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 89** | SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory - NVIDIA Newsroom
-> **标题**：SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory - NVIDIA Newsroom
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiygFBVV95cUxQWWdmVzNHOG9UWDV2VnM0ek1kOTlMSDMydklMbjQzSDBSUWVYaGFJeFQwZk9tR09qNDVtMWlHS2pIUmVHVGxoOVFPSm1LYS1UUXdzNnNwa2U2MUVGaXFJLWVPb1NvNlN1OWhCX21OR3ROa1FjVFVsVVpuekRLMGVDYWw0SzBnMXRGMGY2ZlVXalpHVktOM2xhVlprcXpDLVV6WUVLdUFCOW43TkM2dW9lTnpBbS1TZ1hYd2pOMUMyc1lrVU1YaERxaWRR?oc=5)
+> [!info]+ **今日必须看 / 89** | Why did OpenAI's and Anthropic's AI models hack other companies? - NPR
+> **标题**：Why did OpenAI's and Anthropic's AI models hack other companies? - NPR
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMikAFBVV95cUxQOXNtVEtudEtnV3NPSmczc29QRmhZNGpXcU1SakQwOWNEel9CbEtrNEhUYjRhbzBnLVVJQ0tvdHNVM0ctTS01dVo4SGtzczZtRVVuV2ZjVW0takpNcUZtNWxhdmt3SGdxUFVBYVplSUVnUC1xdm1NR2RKQ2Rkc04xcTJHYU9wVDlwZGtUOXdjX1U?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
@@ -681,41 +664,41 @@ tags:
 > **rank**：#1
 > **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory NVIDIA Newsroom
+> **summary**：Why did OpenAI's and Anthropic's AI models hack other companies? NPR
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 89** | The Latest in U.S.-China AI Competition - Council on Foreign Relations
-> **标题**：The Latest in U.S.-China AI Competition - Council on Foreign Relations
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMidkFVX3lxTE1Hems4X0N5aGpYcXQ5NEZpVFYzZ1BibWV4S1Y5bUlmaGZnRmE4LXdQNGpodk9fMFdnM2RSQ1NQRkN2eC0yaXJQY0xpZFVYbzVfM1FRc2RkRmV3UVRuQVA5WHNVd2ZxVUFYZU5QT2c0RGYwaEpWT1E?oc=5)
+> [!info]+ **今日必须看 / 87** | Judge denies X.AI effort to halt ban on tech that depicts people nude without permission - MPR News
+> **标题**：Judge denies X.AI effort to halt ban on tech that depicts people nude without permission - MPR News
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMixwFBVV95cUxOOFR3Tlk1N1FwM1dNVVdzal92ZWVSajBsa0FlTHhHOG80QklMcEJWWkdWc1hjZzRkZ05Qc21BOXJ5cEM2Y01xRTFKWVd5NVNGSDRFVC1IWDdHTzhsVjFkajFQZ0tkdm5qWHJFRlpsMDROTTlZZzZSUUgwZWcxbUFqbXh6Yi1ZbEp4Vkp5U25JUnJPaGVfc0tXMWtSSDFIUndKQnJsWFdfNHEzU19zR01CYVdTQlN3QXg1cjhyajNwemN6TVo2Umtv?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
-> **rank**：#7
-> **reason**：rank #7; source weight: Google News; hot terms: ai, china, ai, markets; fresh within 12h
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：The Latest in U.S.-China AI Competition Council on Foreign Relations
+> **summary**：Judge denies X.AI effort to halt ban on tech that depicts people nude without permission MPR News
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 87** | The market’s big AI doubts are exposing the riskiest players - CNN
-> **标题**：The market’s big AI doubts are exposing the riskiest players - CNN
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUN5MkpWcGhDZ0N1cUhmRVNDd2FLc1lnN1lRVllTUGVHTUNBM0NsQVNYNjZzdHdmX1JUdll5SmVYNlVTdnJ2ckNHSEtpSHNoX0VsLWJvWUxuakhmaGlIMFVrMWRjc0c0T2hmTmRJbVlaRVlGS1FxZXVvN2RXYWxqWUFvMVU?oc=5)
+> [!info]+ **今日必须看 / 87** | EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters
+> **标题**：EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
-> **rank**：#6
-> **reason**：rank #6; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **rank**：#4
+> **reason**：rank #4; source weight: Google News; hot terms: ai, us, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：The market’s big AI doubts are exposing the riskiest players CNN
+> **summary**：EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe Reuters
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -739,17 +722,34 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 85** | When A.I. Invaded ‘Heated Rivalry’ Fan Fiction, the Meltdown Was Epic - The New York Times
-> **标题**：When A.I. Invaded ‘Heated Rivalry’ Fan Fiction, the Meltdown Was Epic - The New York Times
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihwFBVV95cUxPQnl5MXFUT3l1aGVPb0lOdGJQNnItREJPWnNjN3JFeE5rNS1aekxSMDhwREkxaXJHZHAzTzBNbDdpNGwwSExGYmd0TE5ZdHlsbnBfNnhZMEJsalJnRFpJMlNIby0yazMzR3NqV3BkWUR0UEhHdFhuMzRNUW1idnkzNkx1eTA5Ym8?oc=5)
+> [!info]+ **今日必须看 / 85** | Ten advances in mathematics and theoretical computer science - OpenAI
+> **标题**：Ten advances in mathematics and theoretical computer science - OpenAI
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wTU5ZbnQ5NlZCOEg4YXlhTFFPTmVIdlE2bUt3OTBnanFvSWRCX04zeUN2VVd0NV9pSklyb3ZwSDBZejFwTmpqYUg3TmV2YmtsZXQ1dkppQ0p3ckFCdk45NnFZZw?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
-> **rank**：#3
-> **reason**：rank #3; source weight: Google News; hot terms: markets; fresh within 12h
+> **rank**：#7
+> **reason**：rank #7; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：When A.I. Invaded ‘Heated Rivalry’ Fan Fiction, the Meltdown Was Epic The New York Times
+> **summary**：Ten advances in mathematics and theoretical computer science OpenAI
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 83** | DeepSeek's new bargain model accelerates AI's race to zero - Axios
+> **标题**：DeepSeek's new bargain model accelerates AI's race to zero - Axios
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMidEFVX3lxTE04emlXWXpVQXhNcjJsU1d5ZmhnU1J2TFRyeFlxM2hqUUNUNVR2UmxFQUNBanYwWnd5ZUpTRnptVEh2TXU2NU5aa0FRbFV6ejVPd2wxWFNXa3RoaTZPQ0dQSHc0Tkk4WE93Q1JwV0tIWGNBaGNG?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#4
+> **reason**：rank #4; source weight: Google News; hot terms: ai, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：DeepSeek's new bargain model accelerates AI's race to zero Axios
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
