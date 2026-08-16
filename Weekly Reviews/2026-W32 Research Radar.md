@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W32
-date: 2026-08-04
+date: 2026-08-05
 tags:
   - weekly-review
   - research-radar
@@ -18,6 +18,19 @@ tags:
 > **reason**：matches topics: agent, agents, codex; high-value terms: agent, agents, codex, reasoning
 > **follow_up**：判断是否需要沉淀为长期主题笔记。
 > **summary**：Codex 高阶玩法：让 Sol 在 `~/.codex/agents/` 下创建 `luna-worker.toml` 子代理，模型设 `gpt-5.6-luna`、reasoning effort 设 max，Sol 负责拆任务与审代码，具体实现自动委托给 Luna Max。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 91** | Agent skills that bring team coding standards to Claude Code and Codex
+> **标题**：Agent skills that bring team coding standards to Claude Code and Codex
+> **原文链接**：🔗 [打开原文](https://github.com/tikalk/adlc-team-skills)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：74 points | 39 comments
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -75,6 +88,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | DanielC000/loom
+> **标题**：DanielC000/loom
+> **原文链接**：🔗 [打开原文](https://github.com/DanielC000/loom)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, obsidian; high-value terms: agent, agents, claude code, api
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Orchestrate a fleet of real Claude Code agents on your Claude subscription, not per-token API bills - local-first.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | bloo-mind/awesome-multi-agent-systems
 > **标题**：bloo-mind/awesome-multi-agent-systems
 > **原文链接**：🔗 [打开原文](https://github.com/bloo-mind/awesome-multi-agent-systems)
@@ -88,6 +114,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | codecast-sh/codecast
+> **标题**：codecast-sh/codecast
+> **原文链接**：🔗 [打开原文](https://github.com/codecast-sh/codecast)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：See, steer, and remember every coding agent session — Claude Code, Codex, Cursor, Gemini. Team memory, live steering from any device, line-level agent attribution.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 87** | Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary
 > **标题**：Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary
 > **原文链接**：🔗 [打开原文](https://github.com/paoloanzn/microcodex)
@@ -96,45 +135,6 @@ tags:
 > **reason**：matches topics: agent, agents, codex, openai; high-value terms: agent, agents, codex
 > **follow_up**：阅读讨论区，提炼争议点和实践经验。
 > **summary**：19 points | 19 comments
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 87** | Nanocodex: Building blocks for frontier OpenAI agents in Rust
-> **标题**：Nanocodex: Building blocks for frontier OpenAI agents in Rust
-> **原文链接**：🔗 [打开原文](https://github.com/gakonst/nanocodex)
-> **source**：Hacker News
-> **kind**：`community`
-> **reason**：matches topics: agent, agents, codex, openai; high-value terms: agent, agents, codex
-> **follow_up**：阅读讨论区，提炼争议点和实践经验。
-> **summary**：5 points | 1 comments
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 86** | Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone
-> **标题**：Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone
-> **原文链接**：🔗 [打开原文](https://github.com/garagehq/nightcrawler/)
-> **source**：Hacker News
-> **kind**：`community`
-> **reason**：matches topics: agent, agents, local ai; high-value terms: agent, agents; strong public engagement
-> **follow_up**：阅读讨论区，提炼争议点和实践经验。
-> **summary**：102 points | 30 comments
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 86** | Perplexity 开源智能体检测层 Numbat
-> **标题**：Perplexity 开源智能体检测层 Numbat
-> **原文链接**：🔗 [打开原文](https://x.com/perplexity_ai/status/2082511900580196596)
-> **source**：AI HOT / X：Perplexity (@perplexity_ai)
-> **kind**：`product`
-> **reason**：matches topics: agent, agents, research; high-value terms: agent, agents
-> **follow_up**：判断是否需要沉淀为长期主题笔记。
-> **summary**：今天我们开源了 Numbat，这是一个智能体检测与响应层，旨在跨多种智能体框架工作。 Numbat 为安全团队提供对智能体活动的可见性，并可在执行前阻止选定操作。 了解更多：https://research.perplexity.ai/articles/securing-agents-across-perplexity%E2%80%99s-client-endpoints-with-numbat
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -237,6 +237,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 81** | AgentMemBench: A Systematic Benchmark for Evaluating Long-Term Memory Management Strategies in Conversational AI Agents
+> **标题**：AgentMemBench: A Systematic Benchmark for Evaluating Long-Term Memory Management Strategies in Conversational AI Agents
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.00009)
+> **source**：cs.CL updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, benchmark; high-value terms: benchmark, agent, agents, eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2608.00009v1 Announce Type: new Abstract: Long-term memory remains a critical bottleneck for conversational AI agents, whose finite context windows cannot support coherent recall across thousands of turns. We present AgentMemBench, a unified, reproducible benchmark evaluating five memory mana...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 81** | ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science
 > **标题**：ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science
 > **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.26155)
@@ -271,19 +284,6 @@ tags:
 > **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, reasoning
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
 > **summary**：arXiv:2607.26393v1 Announce Type: new Abstract: Social deduction games (SDGs) such as Werewolf have become challenging testbeds for AI agents. These games require complex social skills such as reasoning, deception, and collaboration. While recent advances in large language models (LLMs) have driven...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 77** | CORVUS: Context Optimization and Reduction Via Underlying Synchronization for LLM Coding Agents
-> **标题**：CORVUS: Context Optimization and Reduction Via Underlying Synchronization for LLM Coding Agents
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2607.22711)
-> **source**：cs.LG updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, reasoning
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2607.22711v1 Announce Type: new Abstract: LLM coding agents operate by constructing trajectories that accumulate reasoning, tool calls, and results to enable multi-step decision-making. However, the conventional append-only trajectory architecture found in practice tightly couples file-read a...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -339,6 +339,19 @@ tags:
 > **reason**：matches topics: agent, agents, local ai; high-value terms: agent, agents; strong public engagement
 > **follow_up**：阅读讨论区，提炼争议点和实践经验。
 > **summary**：102 points | 30 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | decocms/studio
+> **标题**：decocms/studio
+> **原文链接**：🔗 [打开原文](https://github.com/decocms/studio)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -404,19 +417,6 @@ tags:
 > **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Smart git diff context for LLMs and AI agents — selects the minimal code fragments needed to understand a change, under a token budget. Deterministic, local, MCP server included. Also exports a full codebase to YAML/JSON/MD.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | Cassette-Editor/oh-my-cassette
-> **标题**：Cassette-Editor/oh-my-cassette
-> **原文链接**：🔗 [打开原文](https://github.com/Cassette-Editor/oh-my-cassette)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: claude code, codex, llm, mcp; high-value terms: mcp, codex, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：你的随身 AI 剪辑搭档 | Pocket AI co-editor for video montage — AI video editing plugin & MCP server for Claude Code, Codex, Hermes & OpenCode
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
