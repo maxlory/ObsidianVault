@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W34
-date: 2026-08-17
+date: 2026-08-18
 tags:
   - weekly-review
   - research-radar
@@ -31,6 +31,19 @@ tags:
 > **reason**：matches topics: agent, claude code, codex, obsidian; high-value terms: agent, mcp, codex, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Your coding agent starts every session with amnesia — memo fixes that, 100% on your machine. Persistent memory for Claude Code, Codex, Cursor & any MCP client: Markdown source of truth, hybrid search (MLX/CPU + sqlite-vec), time-machine, contradiction radar, nightly self-optimiz...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | kris-hansen/comanda
+> **标题**：kris-hansen/comanda
+> **原文链接**：🔗 [打开原文](https://github.com/kris-hansen/comanda)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, mcp, codex
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：The CLI-native orchestrator for AI agent workflows. Run Claude Code, Codex, Gemini CLI & Kimi Code from declarative YAML. Because the terminal is where real work happens.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -75,14 +88,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 83** | Every Coding Agent Session Starts by Rediscovering Your Repository
-> **标题**：Every Coding Agent Session Starts by Rediscovering Your Repository
-> **原文链接**：🔗 [打开原文](https://dev.to/sabahattink/every-coding-agent-session-starts-by-rediscovering-your-repository-2i9e)
-> **source**：Dev.to
-> **kind**：`article`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
-> **follow_up**：判断是否需要沉淀为长期主题笔记。
-> **summary**：I've been using coding agents heavily across real projects. Claude Code. Codex. Cursor. They are...
+> [!info]+ **今日必须看 / 85** | joedanz/brainkit
+> **标题**：joedanz/brainkit
+> **原文链接**：🔗 [打开原文](https://github.com/joedanz/brainkit)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, obsidian, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：One brain for the company, a filtered copy for every person. Obsidian-compatible markdown + git, self-hosted; works with your AI agents and tools.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -101,6 +114,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 83** | Every Coding Agent Session Starts by Rediscovering Your Repository
+> **标题**：Every Coding Agent Session Starts by Rediscovering Your Repository
+> **原文链接**：🔗 [打开原文](https://dev.to/sabahattink/every-coding-agent-session-starts-by-rediscovering-your-repository-2i9e)
+> **source**：Dev.to
+> **kind**：`article`
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：I've been using coding agents heavily across real projects. Claude Code. Codex. Cursor. They are...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 83** | api-evangelist/meetandy-ai
 > **标题**：api-evangelist/meetandy-ai
 > **原文链接**：🔗 [打开原文](https://github.com/api-evangelist/meetandy-ai)
@@ -109,32 +135,6 @@ tags:
 > **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp, api
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：MeetAndy (operated by MeetTomorrow Inc.) is an AI project assistant — an "AI teammate" that lives in Slack, Google Chat, GitHub, GitLab, and Jira and turns plain-language requests into reviewable plans, opens pull requests, runs CI, and reports back.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 83** | andy-diericks/azure-pricing-radar
-> **标题**：andy-diericks/azure-pricing-radar
-> **原文链接**：🔗 [打开原文](https://github.com/andy-diericks/azure-pricing-radar)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code; high-value terms: agent, agents, claude code, api
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Azure retail price history & change radar. Tracks price drops, increases, new SKUs and regional availability over time via the public Retail Prices API, visualized in a live dashboard. Uniquely: the app itself is developed autonomously by an AI (Claude Code). Open data, open jou...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 83** | api-evangelist/mcp-manager
-> **标题**：api-evangelist/mcp-manager
-> **原文链接**：🔗 [打开原文](https://github.com/api-evangelist/mcp-manager)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp, api
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：MCP Manager, by Usercentrics, is an enterprise governance and security layer for the Model Context Protocol (MCP). It sits as a governed gateway between AI clients (Claude, ChatGPT, Cursor, and custom agents) and MCP servers — SaaS tools, internal databases, and custom servers —...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -156,6 +156,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | kris-hansen/comanda
+> **标题**：kris-hansen/comanda
+> **原文链接**：🔗 [打开原文](https://github.com/kris-hansen/comanda)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, mcp, codex
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：The CLI-native orchestrator for AI agent workflows. Run Claude Code, Codex, Gemini CLI & Kimi Code from declarative YAML. Because the terminal is where real work happens.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | guyshonshon/vibestrate
 > **标题**：guyshonshon/vibestrate
 > **原文链接**：🔗 [打开原文](https://github.com/guyshonshon/vibestrate)
@@ -164,19 +177,6 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Open-source supervised flow for AI coding. Run Claude Code, Codex, Gemini, Aider or local models as one crew, approve the risky steps yourself, and keep every run log on your machine. Swap providers without rewriting the flow.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | awslabs/cli-agent-orchestrator
-> **标题**：awslabs/cli-agent-orchestrator
-> **原文链接**：🔗 [打开原文](https://github.com/awslabs/cli-agent-orchestrator)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, claude code, codex, mcp; high-value terms: agent, mcp, codex, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -305,6 +305,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | kris-hansen/comanda
+> **标题**：kris-hansen/comanda
+> **原文链接**：🔗 [打开原文](https://github.com/kris-hansen/comanda)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, mcp, codex
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：The CLI-native orchestrator for AI agent workflows. Run Claude Code, Codex, Gemini CLI & Kimi Code from declarative YAML. Because the terminal is where real work happens.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 85** | liyexiaoyi/Mnemosis
 > **标题**：liyexiaoyi/Mnemosis
 > **原文链接**：🔗 [打开原文](https://github.com/liyexiaoyi/Mnemosis)
@@ -318,14 +331,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 83** | Every Coding Agent Session Starts by Rediscovering Your Repository
-> **标题**：Every Coding Agent Session Starts by Rediscovering Your Repository
-> **原文链接**：🔗 [打开原文](https://dev.to/sabahattink/every-coding-agent-session-starts-by-rediscovering-your-repository-2i9e)
-> **source**：Dev.to
-> **kind**：`article`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
-> **follow_up**：判断是否需要沉淀为长期主题笔记。
-> **summary**：I've been using coding agents heavily across real projects. Claude Code. Codex. Cursor. They are...
+> [!info]+ **今日必须看 / 85** | joedanz/brainkit
+> **标题**：joedanz/brainkit
+> **原文链接**：🔗 [打开原文](https://github.com/joedanz/brainkit)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, obsidian, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：One brain for the company, a filtered copy for every person. Obsidian-compatible markdown + git, self-hosted; works with your AI agents and tools.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -339,6 +352,19 @@ tags:
 > **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp, api
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Securely scale AI usage across your organization. A single stack to Connect, Secure, Observe and Distribute agents, MCPs, and Skills within your company.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 83** | Every Coding Agent Session Starts by Rediscovering Your Repository
+> **标题**：Every Coding Agent Session Starts by Rediscovering Your Repository
+> **原文链接**：🔗 [打开原文](https://dev.to/sabahattink/every-coding-agent-session-starts-by-rediscovering-your-repository-2i9e)
+> **source**：Dev.to
+> **kind**：`article`
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：I've been using coding agents heavily across real projects. Claude Code. Codex. Cursor. They are...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -383,40 +409,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 76** | msitarzewski/agency-agents
-> **标题**：msitarzewski/agency-agents
-> **原文链接**：🔗 [打开原文](https://github.com/msitarzewski/agency-agents)
-> **source**：GitHub Trending
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents; high-value terms: agent, agents
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 76** | macro-inc/macro
-> **标题**：macro-inc/macro
-> **原文链接**：🔗 [打开原文](https://github.com/macro-inc/macro)
-> **source**：GitHub Trending, Hacker News
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents; high-value terms: agent, agents
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **可延后 / 72** | anthropics/claude-plugins-official
-> **标题**：anthropics/claude-plugins-official
-> **原文链接**：🔗 [打开原文](https://github.com/anthropics/claude-plugins-official)
+> [!info]+ **今日必须看 / 76** | usestrix/strix
+> **标题**：usestrix/strix
+> **原文链接**：🔗 [打开原文](https://github.com/usestrix/strix)
 > **source**：GitHub Search, GitHub Trending
 > **kind**：`github_repo`
-> **reason**：matches topics: claude code, anthropic, mcp; high-value terms: mcp, claude code
+> **reason**：matches topics: agent, agents; high-value terms: agent, agents
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Official, Anthropic-managed directory of high quality Claude Code Plugins.
+> **summary**：No summary.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
