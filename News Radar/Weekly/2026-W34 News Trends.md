@@ -1,6 +1,6 @@
 ---
 title: News Radar Week 2026-W34
-date: 2026-08-18
+date: 2026-08-19
 tags:
   - news-radar
   - weekly-review
@@ -15,51 +15,17 @@ tags:
 
 ## 过去阶段最高热度
 
-> [!info]+ **今日必须看 / 100** | Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC
-> **标题**：Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihAFBVV95cUxPYU55bUVtSkMySDZUS2RPRWpBTTRRZHhucjFpaUxWM0RoV0NuMVFPNFh1T29XMkpSR1NYRm5Oc1hUc1hnWTNVOXd5T29qXzNVTWdxRWxpal9oT1VCNk1kQVNYeW9fVDBZNG1jODVJNHN3R0lMQ19KSmwtY2JNQXM1V3ptYk7SAYoBQVVfeXFMTmt2WjUtTThxd2gzZnhqcW8wejI3WWdRNDlaZGFLaVFTZXQyZ0tkLW80RW4wSXFoMDBlNTVjZ1pnNFBpQzBQZjJFY0xHQ3Q5S2p4OHdSV05QZi01eG5XcFFmOGVHWmV6MndsZ2dNNU9NLU9FVHUzMkpmaE1DTGVEcS12NXBHcl9CWlJ3?oc=5)
-> **source**：Google News / China US Hot News, Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合 / 财经/科技
-> **rank**：#1
-> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China CNBC
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 100** | Trump alarms South Korea with call to scale back military drills and deference to Kim Jong Un - NBC News
-> **标题**：Trump alarms South Korea with call to scale back military drills and deference to Kim Jong Un - NBC News
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUERzelFFc21ZeXRlYUZ0NTB0dGk1X2pLSlY1dFJieHhQOHZuV1U2c2NDUGJ5aU9sMlFicERJN25fcnZzbFlWUFdJRnBneVFQVGxJYTViMTVoN0RtT09rVkUzZXphZUtFc3VDMU5maHZvR0RPU1hDN0J0MUJadnpYSVY3bG5JNG85TXNBNjlPTVlmbUJuRE0wRmhPcmQ0NUlpTlJRZFZvZzk0dw?oc=5)
+> [!info]+ **今日必须看 / 100** | How US military funding propelled China’s robot dogs - Reuters
+> **标题**：How US military funding propelled China’s robot dogs - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0U2OVlyZEFWVkZ4WGFMTHhDZzV3bzA2WFRzaWtYZl9paUdPNFB5bDl5aFM4Slllc2lKTU0xdjVIUTA1V3Ewc2FRTS05NVlSRGtZWXBBcVI0SWhrTUs1VTloQnhwbC1aZ25PekVkVGQ5ejQ3R3lOb1Q0Si1VX1ZkaE0yUTlJTGpoN0dHcDZmSXBtWGxEZGRlOHhZWlo2OEpJWHpkcUdwbUZtQQ?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：综合
 > **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
+> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Trump alarms South Korea with call to scale back military drills and deference to Kim Jong Un NBC News
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 99** | The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. - The New York Times
-> **标题**：The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. - The New York Times
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxPcTlBWXp3WVBMVkNlVDViWFMxN1FMTFcycmVnaWIxUk95ZGUzeXFtVDk1MWFfb2VUQUhzQ2Z4T3VSbzAySllkMzJwek1OQm9qS3BZMWZNM0EzMWExNFk5bDU5NFFLeC13dVZmTzhoLXkzM1FNMVRmU3lPTXN1Rm9FUzE5dFZEUQ?oc=5)
-> **source**：Google News / China US Hot News, Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#5
-> **reason**：rank #5; cross-source x3; source weight: Google News; hot terms: 美国, china, us, military
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. The New York Times
+> **summary**：How US military funding propelled China’s robot dogs Reuters
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -83,9 +49,26 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 97** | Trump crypto firm backs venture offering AI from restricted Chinese companies - Reuters
-> **标题**：Trump crypto firm backs venture offering AI from restricted Chinese companies - Reuters
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ?oc=5)
+> [!info]+ **今日必须看 / 97** | The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. - The New York Times
+> **标题**：The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. - The New York Times
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxPcTlBWXp3WVBMVkNlVDViWFMxN1FMTFcycmVnaWIxUk95ZGUzeXFtVDk1MWFfb2VUQUhzQ2Z4T3VSbzAySllkMzJwek1OQm9qS3BZMWZNM0EzMWExNFk5bDU5NFFLeC13dVZmTzhoLXkzM1FNMVRmU3lPTXN1Rm9FUzE5dFZEUQ?oc=5)
+> **source**：Google News / China US Hot News, Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#8
+> **reason**：rank #8; cross-source x4; source weight: Google News; hot terms: 美国, china, us, military
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. The New York Times
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 97** | Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs - Pew Research Center
+> **标题**：Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs - Pew Research Center
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiygFBVV95cUxOb2RZeVlaT0ZaNzh1emgyY1lyUkdCeGNCSUR4NlhFQTRuN0R3LUw3QTFoV0ZyczlJYUJFdFRLWm04WlF2cU4zeWxXd3EzR1Z3Wkk1SlJGR242cTVzTEcxTlJmQmJpWlVaQ3VBWGNLcTFDWVYyWFZoUDdPYlFfUmNEVVF2UzFfQ2FPMDJQanU1a0pDUEVEWFA3Tk0wUmhqZDlVQXJ6ZmhOMGhjek1GaU1pUDRWQ0tiRkdlSVdUZVd3TlMzQ3R0aWpMOTRR?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
@@ -93,50 +76,16 @@ tags:
 > **rank**：#1
 > **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Trump crypto firm backs venture offering AI from restricted Chinese companies Reuters
+> **summary**：Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs Pew Research Center
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 96** | رحيل باول وصعود وارش ، تحول جديد في السياسة النقدية الأمريكية
-> **标题**：رحيل باول وصعود وارش ، تحول جديد في السياسة النقدية الأمريكية
-> **原文链接**：🔗 [打开原文](https://www.vetogate.com/5660423)
-> **source**：GDELT / vetogate.com
-> **kind**：`news`
-> **region**：国际
-> **category**：财经
-> **rank**：#1
-> **reason**：rank #1; cross-source x9; source weight: GDELT
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：20260522T180000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | UNCSA and a/perture cinema Present: The AI Doc - uncsa.edu
-> **标题**：UNCSA and a/perture cinema Present: The AI Doc - uncsa.edu
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMidEFVX3lxTFBrcFBQMTJKX3RJYmxCaU1IckZQZWtnY09lMFdVdWlZYi1hR3lrSUh4Xy13VlpOd1JjXzdLNVl6SzFZM2c0TG1qaERuV013MUdYRi0zOXlYSC1PbF9JMjBDZzdVaGZkcjZONlVkdnl6MlczckRV?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：UNCSA and a/perture cinema Present: The AI Doc uncsa.edu
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | Middle East demands are testing America's Pacific presence - Axios
-> **标题**：Middle East demands are testing America's Pacific presence - Axios
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMie0FVX3lxTE1zMC1McWJXY0hsbmoxV294S2NBbUFFc0lYdVdIbld1WmpXcWM0WUxTWEt6cUIyWV80dzhvemJ2T2xIc0JkZmFia1hjWVFJc3ZVUm9FZ2VfbGhabjVlOFF2Qi1Pb0VJMURjYm14YllhcWhhUVgxeVcwMG1kVQ?oc=5)
+> [!info]+ **今日必须看 / 95** | West Point Welcomes 62nd Superintendent - army.mil
+> **标题**：West Point Welcomes 62nd Superintendent - army.mil
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXpKS1pudmVfZzdLNzd2WkRmc2hsSS1xM0NIQm1xMDFRbVEzaFdfLVRxODdweERsVWhyaDd3OHQ2djhQamg1MkMtTEktNjZQbE5kWHBTUG5TeWQ4X0VnRXJNOC13UlJ6U0dwVUQ4SkNZRjd0T01tRllMWUN2ZW5tYdIBhgFBVV95cUxNeEpqaHVfX290XzlxWDkwVTdkeWFsX1hXUWp1cjVRRWlXekZhN3lVcG1yNW9ZTEp4eDNENWdaM0F0MlUyZDI5QkRYYXlySmplMnB5d201ODBldEdaTkVNYV9ZaEY5X21hUkRKa0c1QlZOQ3VPTGNYRVBITUQ1S3U1ZG9xQ1QzQQ?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
@@ -144,7 +93,7 @@ tags:
 > **rank**：#2
 > **reason**：rank #2; source weight: Google News; hot terms: 美国, china, us; fresh within 12h
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Middle East demands are testing America's Pacific presence Axios
+> **summary**：West Point Welcomes 62nd Superintendent army.mil
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -162,40 +111,6 @@ tags:
 > **reason**：rank #4; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
 > **summary**：China calls Taiwan's annual military drills a 'wasteful charade' reuters.com
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 93** | AI Companies Are Buying—And Destroying—Antique Books. Here’s Why. - Forbes
-> **标题**：AI Companies Are Buying—And Destroying—Antique Books. Here’s Why. - Forbes
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMitwFBVV95cUxPQnd1QUlGMXpJakV0dXc2aS1KbTFJaWwwQV9xWTFFRldRWGhySkFtZmVVem1lZmtYbUg5aFFGdzVDM1Jic0pSTDd2SnJ6YmdqUDdQSklfVG1aUnBVTEd1NkF5NkNLQjN4OVhMZUFmbmRNSldyODZpQm5FaWdDUzJJMUhCV21wQ2NobkRXc2xEeHA5d3NrVXZma3FfUng3Vzdhb1kxU2F5SmJFZ0xGdlhjNDZkdlR6S0U?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#3
-> **reason**：rank #3; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：AI Companies Are Buying—And Destroying—Antique Books. Here’s Why. Forbes
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 93** | What China’s PLA says it is learning from the Iran war - Breaking Defense
-> **标题**：What China’s PLA says it is learning from the Iran war - Breaking Defense
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMilAFBVV95cUxNT3ptVm1YY2x6c0xqeUYzek1HZ3NHUVdPbHNMQmJxVWpRLTh0akNjYTd4bUJIVkhMdXJ0ZlpsMWxDcGkzcmJWa212b01MMEVNcWZSQlBLU3NoUVNMa0d6NlVrYUFwcTBmLXI1SENNVkhMeWczRldadW5jZjlvaTZ5eGhmaWlvcjRSTEFiS1BnemlvYlB4?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#3
-> **reason**：rank #3; source weight: Google News; hot terms: 美国, china, us; fresh within 12h
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：What China’s PLA says it is learning from the Iran war Breaking Defense
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -219,51 +134,136 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 92** | رجل ترامب في أصعب توقيت اقتصادي ، من هو كيفن وارش رئيس الفيدرالي الجديد ؟
-> **标题**：رجل ترامب في أصعب توقيت اقتصادي ، من هو كيفن وارش رئيس الفيدرالي الجديد ؟
-> **原文链接**：🔗 [打开原文](https://www.vetogate.com/5660429)
-> **source**：GDELT / vetogate.com
+> [!info]+ **今日必须看 / 93** | OpenAI Is Slowing Down Its AI Training - Time Magazine
+> **标题**：OpenAI Is Slowing Down Its AI Training - Time Magazine
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE5tZEhHbEpNTEVQbl9naG1hRVdaRWVKQnJlU1VGTXBmdWRNNml2WllUMFFsNEdDb3R1NTE1NkotTWVwYVhyVG5CMTh3MmJCaXNzaWFULUpSdG03RkhVdy14Vlp6YTEwYms1azFtbg?oc=5)
+> **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
-> **category**：财经
+> **category**：财经/科技
 > **rank**：#3
-> **reason**：rank #3; cross-source x9; source weight: GDELT
+> **reason**：rank #3; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：20260522T180000Z
+> **summary**：OpenAI Is Slowing Down Its AI Training Time Magazine
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 92** | Kevin Warsh takes over the Fed : What his reform - oriented vision means for the US economy ?
-> **标题**：Kevin Warsh takes over the Fed : What his reform - oriented vision means for the US economy ?
-> **原文链接**：🔗 [打开原文](https://www.livemint.com/news/us-news/kevin-warsh-takes-over-the-fed-what-his-reform-oriented-vision-means-for-the-us-economy-11779517662302.html)
-> **source**：GDELT / livemint.com
+> [!info]+ **今日必须看 / 93** | Trump alarms South Korea with call to scale back military drills and deference to Kim Jong Un - NBC News
+> **标题**：Trump alarms South Korea with call to scale back military drills and deference to Kim Jong Un - NBC News
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUERzelFFc21ZeXRlYUZ0NTB0dGk1X2pLSlY1dFJieHhQOHZuV1U2c2NDUGJ5aU9sMlFicERJN25fcnZzbFlWUFdJRnBneVFQVGxJYTViMTVoN0RtT09rVkUzZXphZUtFc3VDMU5maHZvR0RPU1hDN0J0MUJadnpYSVY3bG5JNG85TXNBNjlPTVlmbUJuRE0wRmhPcmQ0NUlpTlJRZFZvZzk0dw?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us, military
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Trump alarms South Korea with call to scale back military drills and deference to Kim Jong Un NBC News
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 93** | U.S.-China 2026 Tech Race: 2 AI Stocks & 2 Quantum Stocks to Watch - Yahoo Finance
+> **标题**：U.S.-China 2026 Tech Race: 2 AI Stocks & 2 Quantum Stocks to Watch - Yahoo Finance
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMijwFBVV95cUxNcVlXSjFETzA2bkF0VG5tQ1FSU3QtVER0Rnd0Ym1FUUlEY2FGZldTeDI5X1NmX3gxQkEya09mcU9IVVo1dThIRDFPMkFxc29aTmN4aURfNDZ3aGVpQk00QUJfTjd4UTNJU2kxZ0I2d3hER296QXBKbGxhWkkyUUtmRGdNdTZKc1RyN3lEWVQxaw?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#5
+> **reason**：rank #5; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：U.S.-China 2026 Tech Race: 2 AI Stocks & 2 Quantum Stocks to Watch Yahoo Finance
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 91** | The grueling fight over who profits from AI music : Planet Money - NPR
+> **标题**：The grueling fight over who profits from AI music : Planet Money - NPR
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUF92a2FOaGNJcVVFam9fYjUyQjR4dHFreGhZc3VnZkdLTTh5N2k2UHk4a0o0WTV5dEhpTG1PVEU3UjBSc0R5aUdyb2FwMnlPVnlveGdsb1c4eFRQQU1JZGVCM3BFZUhfaEZURUF1M2ZhYlVNcjJCS2hsQ1JYMEVyM1M0RTdTUkZBd2VoZGw5VmlWWnNoNkZ2X3VwallFRk9MVVMxNXVVQnZOcFlhbHRr?oc=5)
+> **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
-> **category**：财经
-> **rank**：#7
-> **reason**：rank #7; cross-source x9; source weight: GDELT; hot terms: us, fed
+> **category**：财经/科技
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：20260523T100000Z
+> **summary**：The grueling fight over who profits from AI music : Planet Money NPR
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 91** | US Navy destroyer adrift in South China Sea for four days after losing power - The Guardian
-> **标题**：US Navy destroyer adrift in South China Sea for four days after losing power - The Guardian
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVmpsNFJfVWkwaUFwaEcyVW81WGZiclFYSG1sSExIRDNCQzU1YkQ5dGFaaXVzR09wQ25pTHk3WWROTUs3NFdzdFBKc2V0dW5Pd3FPSHQ2dDh0Z3A1ZXRHSE9TRFBHcFhoUTZKZV95eWRPNzA5d0VxRW9wM3k1WWtsWXBIejlOdmJ3?oc=5)
+> [!info]+ **今日必须看 / 90** | What China’s PLA says it is learning from the Iran war - Breaking Defense
+> **标题**：What China’s PLA says it is learning from the Iran war - Breaking Defense
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMilAFBVV95cUxNT3ptVm1YY2x6c0xqeUYzek1HZ3NHUVdPbHNMQmJxVWpRLTh0akNjYTd4bUJIVkhMdXJ0ZlpsMWxDcGkzcmJWa212b01MMEVNcWZSQlBLU3NoUVNMa0d6NlVrYUFwcTBmLXI1SENNVkhMeWczRldadW5jZjlvaTZ5eGhmaWlvcjRSTEFiS1BnemlvYlB4?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：综合
 > **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: 美国, china, us; fresh within 12h
+> **reason**：rank #4; cross-source x2; source weight: Google News; hot terms: 美国, china, us
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：US Navy destroyer adrift in South China Sea for four days after losing power The Guardian
+> **summary**：What China’s PLA says it is learning from the Iran war Breaking Defense
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 89** | Jim Cramer says the AI data center trade is back. These 6 stocks are leading the comeback - cnbc.com
+> **标题**：Jim Cramer says the AI data center trade is back. These 6 stocks are leading the comeback - cnbc.com
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRGxRUjRhdnE0eGZPZGc0SWlFQlZHbXBiX2dKdm4xdnRFNmxZWGUxYXpMNUM3YlNNbnFFTlVqMEMyV3RXX0J5WldiTDdOYUxhVk1GZnZELUhDN3EycWNEUzVFOUx4eDRJS3czMFJZUTZwc2NRb1I5M0dFd19zU015Vmw5LUdXV0FsWWdB0gGQAUFVX3lxTE9jbjlzRkJUaHhoYm1PV1dwSU5KdWRnVERncGhHOW1fOUJiamtXTzNGRGthZ2Q3cFZmZ1JzYlJjVF9fUFo4UXpXSFlCYU53SDl0NENlNmJxWWdWWktWSDZfc24yd2dHMW5SUjA5Y20tZjlnMzAzZFVEbW9aUURDRzdETXpTT1ZrTzNwWTNFSFpFNg?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Jim Cramer says the AI data center trade is back. These 6 stocks are leading the comeback cnbc.com
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 89** | Russia is helping China close gap with US forces amid Taiwan tensions, warns longtime military leader - Fox News
+> **标题**：Russia is helping China close gap with US forces amid Taiwan tensions, warns longtime military leader - Fox News
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMnU0Ykk1ZFFTdEpxZjNIUEpzNEdiSmRvZTZTeTN1MEc2NERPRkp4MUZzd0Z2ak5oWDlhQUZyWEtqdms3aHI2NkdQUjREaEZBY3QyQ1EyV3JIMFRCWGRkRXpyZmp1QUFQUDRqdU1YX2NTSHhfbS1YTGhHSzcwbXlhRTNnTV84cVFPQ3ViMFZjX3lwbWN1aDRwNmhFcXFvV3p2MEZNT0hRbnVrc3haS0oyaWxsUExVNFdtMzBrWjB0MkJ0RnPSAcgBQVVfeXFMTXU4YzZaTEJ3NlpudFEyMUZkNjlxbHZJa3BsaWJpVVFFYU5WUnp5ajhrcjdyOXdCbUxlaHpaM29wOGJodjYxVVhycHVFeVVNRU12MGNlWlFsREVXNV9hVEVocUpnUFNyUzB0TUVMRDZCUEthWjBXazZKR0xxSGJXcVlSLWJaUm1QdHlrckFaOGJmb0JKeEJLQkgyZHRodFVFYnZJZC1ldnhKQzk2Q1YtNUp0RTR6OGplUnNuUU9pMGFpZHUxdFg2Q0I?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Russia is helping China close gap with US forces amid Taiwan tensions, warns longtime military leader Fox News
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 89** | Trump crypto firm backs venture offering AI from restricted Chinese companies - Reuters
+> **标题**：Trump crypto firm backs venture offering AI from restricted Chinese companies - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Trump crypto firm backs venture offering AI from restricted Chinese companies Reuters
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -272,34 +272,17 @@ tags:
 
 ## 反复出现的议题
 
-> [!info]+ **今日必须看 / 100** | Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC
-> **标题**：Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihAFBVV95cUxPYU55bUVtSkMySDZUS2RPRWpBTTRRZHhucjFpaUxWM0RoV0NuMVFPNFh1T29XMkpSR1NYRm5Oc1hUc1hnWTNVOXd5T29qXzNVTWdxRWxpal9oT1VCNk1kQVNYeW9fVDBZNG1jODVJNHN3R0lMQ19KSmwtY2JNQXM1V3ptYk7SAYoBQVVfeXFMTmt2WjUtTThxd2gzZnhqcW8wejI3WWdRNDlaZGFLaVFTZXQyZ0tkLW80RW4wSXFoMDBlNTVjZ1pnNFBpQzBQZjJFY0xHQ3Q5S2p4OHdSV05QZi01eG5XcFFmOGVHWmV6MndsZ2dNNU9NLU9FVHUzMkpmaE1DTGVEcS12NXBHcl9CWlJ3?oc=5)
-> **source**：Google News / China US Hot News, Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合 / 财经/科技
-> **rank**：#1
-> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China CNBC
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 99** | The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. - The New York Times
-> **标题**：The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. - The New York Times
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxPcTlBWXp3WVBMVkNlVDViWFMxN1FMTFcycmVnaWIxUk95ZGUzeXFtVDk1MWFfb2VUQUhzQ2Z4T3VSbzAySllkMzJwek1OQm9qS3BZMWZNM0EzMWExNFk5bDU5NFFLeC13dVZmTzhoLXkzM1FNMVRmU3lPTXN1Rm9FUzE5dFZEUQ?oc=5)
-> **source**：Google News / China US Hot News, Google News / Global Markets Tech
+> [!info]+ **今日必须看 / 100** | How US military funding propelled China’s robot dogs - Reuters
+> **标题**：How US military funding propelled China’s robot dogs - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0U2OVlyZEFWVkZ4WGFMTHhDZzV3bzA2WFRzaWtYZl9paUdPNFB5bDl5aFM4Slllc2lKTU0xdjVIUTA1V3Ewc2FRTS05NVlSRGtZWXBBcVI0SWhrTUs1VTloQnhwbC1aZ25PekVkVGQ5ejQ3R3lOb1Q0Si1VX1ZkaE0yUTlJTGpoN0dHcDZmSXBtWGxEZGRlOHhZWlo2OEpJWHpkcUdwbUZtQQ?oc=5)
+> **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：综合
-> **rank**：#5
-> **reason**：rank #5; cross-source x3; source weight: Google News; hot terms: 美国, china, us, military
+> **rank**：#1
+> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. The New York Times
+> **summary**：How US military funding propelled China’s robot dogs Reuters
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -323,17 +306,17 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 96** | رحيل باول وصعود وارش ، تحول جديد في السياسة النقدية الأمريكية
-> **标题**：رحيل باول وصعود وارش ، تحول جديد في السياسة النقدية الأمريكية
-> **原文链接**：🔗 [打开原文](https://www.vetogate.com/5660423)
-> **source**：GDELT / vetogate.com
+> [!info]+ **今日必须看 / 97** | The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. - The New York Times
+> **标题**：The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. - The New York Times
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxPcTlBWXp3WVBMVkNlVDViWFMxN1FMTFcycmVnaWIxUk95ZGUzeXFtVDk1MWFfb2VUQUhzQ2Z4T3VSbzAySllkMzJwek1OQm9qS3BZMWZNM0EzMWExNFk5bDU5NFFLeC13dVZmTzhoLXkzM1FNMVRmU3lPTXN1Rm9FUzE5dFZEUQ?oc=5)
+> **source**：Google News / China US Hot News, Google News / Global Markets Tech
 > **kind**：`news`
-> **region**：国际
-> **category**：财经
-> **rank**：#1
-> **reason**：rank #1; cross-source x9; source weight: GDELT
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：20260522T180000Z
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#8
+> **reason**：rank #8; cross-source x4; source weight: Google News; hot terms: 美国, china, us, military
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. The New York Times
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -357,68 +340,17 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 92** | رجل ترامب في أصعب توقيت اقتصادي ، من هو كيفن وارش رئيس الفيدرالي الجديد ؟
-> **标题**：رجل ترامب في أصعب توقيت اقتصادي ، من هو كيفن وارش رئيس الفيدرالي الجديد ؟
-> **原文链接**：🔗 [打开原文](https://www.vetogate.com/5660429)
-> **source**：GDELT / vetogate.com
+> [!info]+ **今日必须看 / 90** | What China’s PLA says it is learning from the Iran war - Breaking Defense
+> **标题**：What China’s PLA says it is learning from the Iran war - Breaking Defense
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMilAFBVV95cUxNT3ptVm1YY2x6c0xqeUYzek1HZ3NHUVdPbHNMQmJxVWpRLTh0akNjYTd4bUJIVkhMdXJ0ZlpsMWxDcGkzcmJWa212b01MMEVNcWZSQlBLU3NoUVNMa0d6NlVrYUFwcTBmLXI1SENNVkhMeWczRldadW5jZjlvaTZ5eGhmaWlvcjRSTEFiS1BnemlvYlB4?oc=5)
+> **source**：Google News / China US Hot News
 > **kind**：`news`
-> **region**：国际
-> **category**：财经
-> **rank**：#3
-> **reason**：rank #3; cross-source x9; source weight: GDELT
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：20260522T180000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 92** | Kevin Warsh takes over the Fed : What his reform - oriented vision means for the US economy ?
-> **标题**：Kevin Warsh takes over the Fed : What his reform - oriented vision means for the US economy ?
-> **原文链接**：🔗 [打开原文](https://www.livemint.com/news/us-news/kevin-warsh-takes-over-the-fed-what-his-reform-oriented-vision-means-for-the-us-economy-11779517662302.html)
-> **source**：GDELT / livemint.com
-> **kind**：`news`
-> **region**：国际
-> **category**：财经
-> **rank**：#7
-> **reason**：rank #7; cross-source x9; source weight: GDELT; hot terms: us, fed
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：20260523T100000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 90** | پیش‌بینی بانک آمریکا از افزایش ۳ مرحله‌ای نرخ بهره فدرال رزرو
-> **标题**：پیش‌بینی بانک آمریکا از افزایش ۳ مرحله‌ای نرخ بهره فدرال رزرو
-> **原文链接**：🔗 [打开原文](https://banker.ir/%D9%BE%DB%8C%D8%B4%D8%A8%DB%8C%D9%86%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%B3-%D9%85%D8%B1%D8%AD%D9%84/)
-> **source**：GDELT / banker.ir
-> **kind**：`news`
-> **region**：国际
-> **category**：财经
-> **rank**：#2
-> **reason**：rank #2; cross-source x3; source weight: GDELT
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：20260623T080000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 84** | Stock market today : US futures rise as Iran peace talks progress ahead of inflation report
-> **标题**：Stock market today : US futures rise as Iran peace talks progress ahead of inflation report
-> **原文链接**：🔗 [打开原文](https://www.hindustantimes.com/world-news/us-news/stock-market-today-us-futures-rise-as-iran-peace-talks-progress-ahead-of-inflation-report-101782135549851.html)
-> **source**：GDELT / hindustantimes.com
-> **kind**：`news`
-> **region**：国际
-> **category**：财经
-> **rank**：#11
-> **reason**：rank #11; cross-source x4; source weight: GDELT; hot terms: us, inflation
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：20260622T160000Z
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#4
+> **reason**：rank #4; cross-source x2; source weight: Google News; hot terms: 美国, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：What China’s PLA says it is learning from the Iran war Breaking Defense
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -436,57 +368,6 @@ tags:
 > **reason**：rank #9; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
 > **summary**：China’s military drills do not alter Philippines’ legal claim to Scarborough Reef Indo-Pacific Defense FORUM
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 82** | « بنك أوف أمريكا » يتوقع ثلاث زيادات للفائدة الأمريكية فى 2026
-> **标题**：« بنك أوف أمريكا » يتوقع ثلاث زيادات للفائدة الأمريكية فى 2026
-> **原文链接**：🔗 [打开原文](https://www.almasryalyoum.com/news/details/4299987)
-> **source**：GDELT / almasryalyoum.com
-> **kind**：`news`
-> **region**：国际
-> **category**：财经
-> **rank**：#6
-> **reason**：rank #6; cross-source x3; source weight: GDELT
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：20260623T174500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 80** | 美 경제 마에스트로 그린스펀 … 비이성적 과열 경고 남기고 퇴장 [ 종합 ]
-> **标题**：美 경제 마에스트로 그린스펀 … 비이성적 과열 경고 남기고 퇴장 [ 종합 ]
-> **原文链接**：🔗 [打开原文](https://www.etoday.co.kr/news/view/2596268)
-> **source**：GDELT / etoday.co.kr
-> **kind**：`news`
-> **region**：国际
-> **category**：财经
-> **rank**：#9
-> **reason**：rank #9; cross-source x4; source weight: GDELT
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：20260623T014500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **可延后 / 74** | وارش يتسلّم رئاسة الاحتياطي الفدرالي وسط رهانات متزايدة على رفع الفائدة
-> **标题**：وارش يتسلّم رئاسة الاحتياطي الفدرالي وسط رهانات متزايدة على رفع الفائدة
-> **原文链接**：🔗 [打开原文](https://www.aljazeera.net/ebusiness/2026/5/22/%D9%88%D8%A7%D8%B1%D8%B4-%D9%8A%D8%AA%D8%B3%D9%84%D9%85-%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D8%B7%D9%8A-%D8%A7%D9%84%D9%81%D8%AF%D8%B1%D8%A7%D9%84%D9%8A)
-> **source**：GDELT / aljazeera.net
-> **kind**：`news`
-> **region**：国际
-> **category**：财经
-> **rank**：#12
-> **reason**：rank #12; cross-source x9; source weight: GDELT
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：20260522T194500Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -527,57 +408,40 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **可延后 / 70** | First day of classes delayed to Monday, Aug. 24 - UT San Antonio Today
+> **标题**：First day of classes delayed to Monday, Aug. 24 - UT San Antonio Today
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirgFBVV95cUxQLUZiTWJpSTVoaEV4bEZkZXNWQXNTVVhpN05PeDNsZGJPUGlNd3ppRWFscndhZWtWZkF0a2U4NGF1TEpReUI2YUpld19ZTDF6WktJRmVmQUhrWnR4QlkxX0owaUJZa1ROdWthZS1Tdy1KX1hoQWxUYkUwZmZOMGJLZzZMbnZienJOMC14WDJtbFhfSEhjcHdpblFlNk5rY2gxWS1nTEpkWVBLZzF6QkE?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#14
+> **reason**：rank #14; cross-source x2; source weight: Google News; hot terms: markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：First day of classes delayed to Monday, Aug. 24 UT San Antonio Today
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 ## 中国热点迁移
 
 - 暂无。
 
 ## 美国/国际热点迁移
 
-> [!info]+ **今日必须看 / 100** | Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC
-> **标题**：Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihAFBVV95cUxPYU55bUVtSkMySDZUS2RPRWpBTTRRZHhucjFpaUxWM0RoV0NuMVFPNFh1T29XMkpSR1NYRm5Oc1hUc1hnWTNVOXd5T29qXzNVTWdxRWxpal9oT1VCNk1kQVNYeW9fVDBZNG1jODVJNHN3R0lMQ19KSmwtY2JNQXM1V3ptYk7SAYoBQVVfeXFMTmt2WjUtTThxd2gzZnhqcW8wejI3WWdRNDlaZGFLaVFTZXQyZ0tkLW80RW4wSXFoMDBlNTVjZ1pnNFBpQzBQZjJFY0xHQ3Q5S2p4OHdSV05QZi01eG5XcFFmOGVHWmV6MndsZ2dNNU9NLU9FVHUzMkpmaE1DTGVEcS12NXBHcl9CWlJ3?oc=5)
-> **source**：Google News / China US Hot News, Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合 / 财经/科技
-> **rank**：#1
-> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China CNBC
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 100** | Trump alarms South Korea with call to scale back military drills and deference to Kim Jong Un - NBC News
-> **标题**：Trump alarms South Korea with call to scale back military drills and deference to Kim Jong Un - NBC News
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUERzelFFc21ZeXRlYUZ0NTB0dGk1X2pLSlY1dFJieHhQOHZuV1U2c2NDUGJ5aU9sMlFicERJN25fcnZzbFlWUFdJRnBneVFQVGxJYTViMTVoN0RtT09rVkUzZXphZUtFc3VDMU5maHZvR0RPU1hDN0J0MUJadnpYSVY3bG5JNG85TXNBNjlPTVlmbUJuRE0wRmhPcmQ0NUlpTlJRZFZvZzk0dw?oc=5)
+> [!info]+ **今日必须看 / 100** | How US military funding propelled China’s robot dogs - Reuters
+> **标题**：How US military funding propelled China’s robot dogs - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0U2OVlyZEFWVkZ4WGFMTHhDZzV3bzA2WFRzaWtYZl9paUdPNFB5bDl5aFM4Slllc2lKTU0xdjVIUTA1V3Ewc2FRTS05NVlSRGtZWXBBcVI0SWhrTUs1VTloQnhwbC1aZ25PekVkVGQ5ejQ3R3lOb1Q0Si1VX1ZkaE0yUTlJTGpoN0dHcDZmSXBtWGxEZGRlOHhZWlo2OEpJWHpkcUdwbUZtQQ?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：综合
 > **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
+> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Trump alarms South Korea with call to scale back military drills and deference to Kim Jong Un NBC News
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 99** | The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. - The New York Times
-> **标题**：The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. - The New York Times
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxPcTlBWXp3WVBMVkNlVDViWFMxN1FMTFcycmVnaWIxUk95ZGUzeXFtVDk1MWFfb2VUQUhzQ2Z4T3VSbzAySllkMzJwek1OQm9qS3BZMWZNM0EzMWExNFk5bDU5NFFLeC13dVZmTzhoLXkzM1FNMVRmU3lPTXN1Rm9FUzE5dFZEUQ?oc=5)
-> **source**：Google News / China US Hot News, Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#5
-> **reason**：rank #5; cross-source x3; source weight: Google News; hot terms: 美国, china, us, military
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. The New York Times
+> **summary**：How US military funding propelled China’s robot dogs Reuters
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -601,9 +465,26 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 97** | Trump crypto firm backs venture offering AI from restricted Chinese companies - Reuters
-> **标题**：Trump crypto firm backs venture offering AI from restricted Chinese companies - Reuters
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ?oc=5)
+> [!info]+ **今日必须看 / 97** | The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. - The New York Times
+> **标题**：The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. - The New York Times
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxPcTlBWXp3WVBMVkNlVDViWFMxN1FMTFcycmVnaWIxUk95ZGUzeXFtVDk1MWFfb2VUQUhzQ2Z4T3VSbzAySllkMzJwek1OQm9qS3BZMWZNM0EzMWExNFk5bDU5NFFLeC13dVZmTzhoLXkzM1FNMVRmU3lPTXN1Rm9FUzE5dFZEUQ?oc=5)
+> **source**：Google News / China US Hot News, Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#8
+> **reason**：rank #8; cross-source x4; source weight: Google News; hot terms: 美国, china, us, military
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It. The New York Times
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 97** | Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs - Pew Research Center
+> **标题**：Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs - Pew Research Center
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiygFBVV95cUxOb2RZeVlaT0ZaNzh1emgyY1lyUkdCeGNCSUR4NlhFQTRuN0R3LUw3QTFoV0ZyczlJYUJFdFRLWm04WlF2cU4zeWxXd3EzR1Z3Wkk1SlJGR242cTVzTEcxTlJmQmJpWlVaQ3VBWGNLcTFDWVYyWFZoUDdPYlFfUmNEVVF2UzFfQ2FPMDJQanU1a0pDUEVEWFA3Tk0wUmhqZDlVQXJ6ZmhOMGhjek1GaU1pUDRWQ0tiRkdlSVdUZVd3TlMzQ3R0aWpMOTRR?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
@@ -611,50 +492,16 @@ tags:
 > **rank**：#1
 > **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Trump crypto firm backs venture offering AI from restricted Chinese companies Reuters
+> **summary**：Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs Pew Research Center
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 96** | رحيل باول وصعود وارش ، تحول جديد في السياسة النقدية الأمريكية
-> **标题**：رحيل باول وصعود وارش ، تحول جديد في السياسة النقدية الأمريكية
-> **原文链接**：🔗 [打开原文](https://www.vetogate.com/5660423)
-> **source**：GDELT / vetogate.com
-> **kind**：`news`
-> **region**：国际
-> **category**：财经
-> **rank**：#1
-> **reason**：rank #1; cross-source x9; source weight: GDELT
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：20260522T180000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | UNCSA and a/perture cinema Present: The AI Doc - uncsa.edu
-> **标题**：UNCSA and a/perture cinema Present: The AI Doc - uncsa.edu
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMidEFVX3lxTFBrcFBQMTJKX3RJYmxCaU1IckZQZWtnY09lMFdVdWlZYi1hR3lrSUh4Xy13VlpOd1JjXzdLNVl6SzFZM2c0TG1qaERuV013MUdYRi0zOXlYSC1PbF9JMjBDZzdVaGZkcjZONlVkdnl6MlczckRV?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：UNCSA and a/perture cinema Present: The AI Doc uncsa.edu
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | Middle East demands are testing America's Pacific presence - Axios
-> **标题**：Middle East demands are testing America's Pacific presence - Axios
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMie0FVX3lxTE1zMC1McWJXY0hsbmoxV294S2NBbUFFc0lYdVdIbld1WmpXcWM0WUxTWEt6cUIyWV80dzhvemJ2T2xIc0JkZmFia1hjWVFJc3ZVUm9FZ2VfbGhabjVlOFF2Qi1Pb0VJMURjYm14YllhcWhhUVgxeVcwMG1kVQ?oc=5)
+> [!info]+ **今日必须看 / 95** | West Point Welcomes 62nd Superintendent - army.mil
+> **标题**：West Point Welcomes 62nd Superintendent - army.mil
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXpKS1pudmVfZzdLNzd2WkRmc2hsSS1xM0NIQm1xMDFRbVEzaFdfLVRxODdweERsVWhyaDd3OHQ2djhQamg1MkMtTEktNjZQbE5kWHBTUG5TeWQ4X0VnRXJNOC13UlJ6U0dwVUQ4SkNZRjd0T01tRllMWUN2ZW5tYdIBhgFBVV95cUxNeEpqaHVfX290XzlxWDkwVTdkeWFsX1hXUWp1cjVRRWlXekZhN3lVcG1yNW9ZTEp4eDNENWdaM0F0MlUyZDI5QkRYYXlySmplMnB5d201ODBldEdaTkVNYV9ZaEY5X21hUkRKa0c1QlZOQ3VPTGNYRVBITUQ1S3U1ZG9xQ1QzQQ?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
@@ -662,7 +509,7 @@ tags:
 > **rank**：#2
 > **reason**：rank #2; source weight: Google News; hot terms: 美国, china, us; fresh within 12h
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Middle East demands are testing America's Pacific presence Axios
+> **summary**：West Point Welcomes 62nd Superintendent army.mil
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -686,9 +533,26 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 93** | AI Companies Are Buying—And Destroying—Antique Books. Here’s Why. - Forbes
-> **标题**：AI Companies Are Buying—And Destroying—Antique Books. Here’s Why. - Forbes
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMitwFBVV95cUxPQnd1QUlGMXpJakV0dXc2aS1KbTFJaWwwQV9xWTFFRldRWGhySkFtZmVVem1lZmtYbUg5aFFGdzVDM1Jic0pSTDd2SnJ6YmdqUDdQSklfVG1aUnBVTEd1NkF5NkNLQjN4OVhMZUFmbmRNSldyODZpQm5FaWdDUzJJMUhCV21wQ2NobkRXc2xEeHA5d3NrVXZma3FfUng3Vzdhb1kxU2F5SmJFZ0xGdlhjNDZkdlR6S0U?oc=5)
+> [!info]+ **今日必须看 / 93** | India says border peace critical to ties with China amid reports of military tensions - Reuters
+> **标题**：India says border peace critical to ties with China amid reports of military tensions - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWNGWmx4dVY4QjloM1pZVERMNkxjZFVyc2Zmd1JYWnoySVhyTHpJZHg0YlFsVmZMUnFVd1BXelFwdExFM3QxWENXVFF1YlhwNDFqaVNudzN2OWtPczRBbTRPQ21zUEM1M0w2enMtNWJSc2pwOTI5Wm9FbXZlaFhQbHB1STFBRlBRSVZuTnNEUWJDWGdkSUtWLXZwYXRkRU1KRWlXS2NneGE4SkNXWXpkeXJhQzNPUXZlVDNoakRRMExqOGY3Rnc?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us, military
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：India says border peace critical to ties with China amid reports of military tensions Reuters
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 93** | OpenAI Is Slowing Down Its AI Training - Time Magazine
+> **标题**：OpenAI Is Slowing Down Its AI Training - Time Magazine
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE5tZEhHbEpNTEVQbl9naG1hRVdaRWVKQnJlU1VGTXBmdWRNNml2WllUMFFsNEdDb3R1NTE1NkotTWVwYVhyVG5CMTh3MmJCaXNzaWFULUpSdG03RkhVdy14Vlp6YTEwYms1azFtbg?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
@@ -696,7 +560,41 @@ tags:
 > **rank**：#3
 > **reason**：rank #3; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：AI Companies Are Buying—And Destroying—Antique Books. Here’s Why. Forbes
+> **summary**：OpenAI Is Slowing Down Its AI Training Time Magazine
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 93** | Trump alarms South Korea with call to scale back military drills and deference to Kim Jong Un - NBC News
+> **标题**：Trump alarms South Korea with call to scale back military drills and deference to Kim Jong Un - NBC News
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUERzelFFc21ZeXRlYUZ0NTB0dGk1X2pLSlY1dFJieHhQOHZuV1U2c2NDUGJ5aU9sMlFicERJN25fcnZzbFlWUFdJRnBneVFQVGxJYTViMTVoN0RtT09rVkUzZXphZUtFc3VDMU5maHZvR0RPU1hDN0J0MUJadnpYSVY3bG5JNG85TXNBNjlPTVlmbUJuRE0wRmhPcmQ0NUlpTlJRZFZvZzk0dw?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us, military
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Trump alarms South Korea with call to scale back military drills and deference to Kim Jong Un NBC News
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 93** | U.S.-China 2026 Tech Race: 2 AI Stocks & 2 Quantum Stocks to Watch - Yahoo Finance
+> **标题**：U.S.-China 2026 Tech Race: 2 AI Stocks & 2 Quantum Stocks to Watch - Yahoo Finance
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMijwFBVV95cUxNcVlXSjFETzA2bkF0VG5tQ1FSU3QtVER0Rnd0Ym1FUUlEY2FGZldTeDI5X1NmX3gxQkEya09mcU9IVVo1dThIRDFPMkFxc29aTmN4aURfNDZ3aGVpQk00QUJfTjd4UTNJU2kxZ0I2d3hER296QXBKbGxhWkkyUUtmRGdNdTZKc1RyN3lEWVQxaw?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#5
+> **reason**：rank #5; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：U.S.-China 2026 Tech Race: 2 AI Stocks & 2 Quantum Stocks to Watch Yahoo Finance
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -705,26 +603,9 @@ tags:
 
 ## 财经科技观察
 
-> [!info]+ **今日必须看 / 100** | Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC
-> **标题**：Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihAFBVV95cUxPYU55bUVtSkMySDZUS2RPRWpBTTRRZHhucjFpaUxWM0RoV0NuMVFPNFh1T29XMkpSR1NYRm5Oc1hUc1hnWTNVOXd5T29qXzNVTWdxRWxpal9oT1VCNk1kQVNYeW9fVDBZNG1jODVJNHN3R0lMQ19KSmwtY2JNQXM1V3ptYk7SAYoBQVVfeXFMTmt2WjUtTThxd2gzZnhqcW8wejI3WWdRNDlaZGFLaVFTZXQyZ0tkLW80RW4wSXFoMDBlNTVjZ1pnNFBpQzBQZjJFY0xHQ3Q5S2p4OHdSV05QZi01eG5XcFFmOGVHWmV6MndsZ2dNNU9NLU9FVHUzMkpmaE1DTGVEcS12NXBHcl9CWlJ3?oc=5)
-> **source**：Google News / China US Hot News, Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合 / 财经/科技
-> **rank**：#1
-> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China CNBC
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 97** | Trump crypto firm backs venture offering AI from restricted Chinese companies - Reuters
-> **标题**：Trump crypto firm backs venture offering AI from restricted Chinese companies - Reuters
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ?oc=5)
+> [!info]+ **今日必须看 / 97** | Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs - Pew Research Center
+> **标题**：Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs - Pew Research Center
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiygFBVV95cUxOb2RZeVlaT0ZaNzh1emgyY1lyUkdCeGNCSUR4NlhFQTRuN0R3LUw3QTFoV0ZyczlJYUJFdFRLWm04WlF2cU4zeWxXd3EzR1Z3Wkk1SlJGR242cTVzTEcxTlJmQmJpWlVaQ3VBWGNLcTFDWVYyWFZoUDdPYlFfUmNEVVF2UzFfQ2FPMDJQanU1a0pDUEVEWFA3Tk0wUmhqZDlVQXJ6ZmhOMGhjek1GaU1pUDRWQ0tiRkdlSVdUZVd3TlMzQ3R0aWpMOTRR?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
@@ -732,50 +613,16 @@ tags:
 > **rank**：#1
 > **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Trump crypto firm backs venture offering AI from restricted Chinese companies Reuters
+> **summary**：Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs Pew Research Center
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 96** | رحيل باول وصعود وارش ، تحول جديد في السياسة النقدية الأمريكية
-> **标题**：رحيل باول وصعود وارش ، تحول جديد في السياسة النقدية الأمريكية
-> **原文链接**：🔗 [打开原文](https://www.vetogate.com/5660423)
-> **source**：GDELT / vetogate.com
-> **kind**：`news`
-> **region**：国际
-> **category**：财经
-> **rank**：#1
-> **reason**：rank #1; cross-source x9; source weight: GDELT
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：20260522T180000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | UNCSA and a/perture cinema Present: The AI Doc - uncsa.edu
-> **标题**：UNCSA and a/perture cinema Present: The AI Doc - uncsa.edu
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMidEFVX3lxTFBrcFBQMTJKX3RJYmxCaU1IckZQZWtnY09lMFdVdWlZYi1hR3lrSUh4Xy13VlpOd1JjXzdLNVl6SzFZM2c0TG1qaERuV013MUdYRi0zOXlYSC1PbF9JMjBDZzdVaGZkcjZONlVkdnl6MlczckRV?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：UNCSA and a/perture cinema Present: The AI Doc uncsa.edu
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 93** | AI Companies Are Buying—And Destroying—Antique Books. Here’s Why. - Forbes
-> **标题**：AI Companies Are Buying—And Destroying—Antique Books. Here’s Why. - Forbes
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMitwFBVV95cUxPQnd1QUlGMXpJakV0dXc2aS1KbTFJaWwwQV9xWTFFRldRWGhySkFtZmVVem1lZmtYbUg5aFFGdzVDM1Jic0pSTDd2SnJ6YmdqUDdQSklfVG1aUnBVTEd1NkF5NkNLQjN4OVhMZUFmbmRNSldyODZpQm5FaWdDUzJJMUhCV21wQ2NobkRXc2xEeHA5d3NrVXZma3FfUng3Vzdhb1kxU2F5SmJFZ0xGdlhjNDZkdlR6S0U?oc=5)
+> [!info]+ **今日必须看 / 93** | OpenAI Is Slowing Down Its AI Training - Time Magazine
+> **标题**：OpenAI Is Slowing Down Its AI Training - Time Magazine
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE5tZEhHbEpNTEVQbl9naG1hRVdaRWVKQnJlU1VGTXBmdWRNNml2WllUMFFsNEdDb3R1NTE1NkotTWVwYVhyVG5CMTh3MmJCaXNzaWFULUpSdG03RkhVdy14Vlp6YTEwYms1azFtbg?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
@@ -783,58 +630,24 @@ tags:
 > **rank**：#3
 > **reason**：rank #3; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：AI Companies Are Buying—And Destroying—Antique Books. Here’s Why. Forbes
+> **summary**：OpenAI Is Slowing Down Its AI Training Time Magazine
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 92** | رجل ترامب في أصعب توقيت اقتصادي ، من هو كيفن وارش رئيس الفيدرالي الجديد ؟
-> **标题**：رجل ترامب في أصعب توقيت اقتصادي ، من هو كيفن وارش رئيس الفيدرالي الجديد ؟
-> **原文链接**：🔗 [打开原文](https://www.vetogate.com/5660429)
-> **source**：GDELT / vetogate.com
+> [!info]+ **今日必须看 / 91** | The grueling fight over who profits from AI music : Planet Money - NPR
+> **标题**：The grueling fight over who profits from AI music : Planet Money - NPR
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUF92a2FOaGNJcVVFam9fYjUyQjR4dHFreGhZc3VnZkdLTTh5N2k2UHk4a0o0WTV5dEhpTG1PVEU3UjBSc0R5aUdyb2FwMnlPVnlveGdsb1c4eFRQQU1JZGVCM3BFZUhfaEZURUF1M2ZhYlVNcjJCS2hsQ1JYMEVyM1M0RTdTUkZBd2VoZGw5VmlWWnNoNkZ2X3VwallFRk9MVVMxNXVVQnZOcFlhbHRr?oc=5)
+> **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
-> **category**：财经
-> **rank**：#3
-> **reason**：rank #3; cross-source x9; source weight: GDELT
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：20260522T180000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 92** | Kevin Warsh takes over the Fed : What his reform - oriented vision means for the US economy ?
-> **标题**：Kevin Warsh takes over the Fed : What his reform - oriented vision means for the US economy ?
-> **原文链接**：🔗 [打开原文](https://www.livemint.com/news/us-news/kevin-warsh-takes-over-the-fed-what-his-reform-oriented-vision-means-for-the-us-economy-11779517662302.html)
-> **source**：GDELT / livemint.com
-> **kind**：`news`
-> **region**：国际
-> **category**：财经
-> **rank**：#7
-> **reason**：rank #7; cross-source x9; source weight: GDELT; hot terms: us, fed
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：20260523T100000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 90** | پیش‌بینی بانک آمریکا از افزایش ۳ مرحله‌ای نرخ بهره فدرال رزرو
-> **标题**：پیش‌بینی بانک آمریکا از افزایش ۳ مرحله‌ای نرخ بهره فدرال رزرو
-> **原文链接**：🔗 [打开原文](https://banker.ir/%D9%BE%DB%8C%D8%B4%D8%A8%DB%8C%D9%86%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%B3-%D9%85%D8%B1%D8%AD%D9%84/)
-> **source**：GDELT / banker.ir
-> **kind**：`news`
-> **region**：国际
-> **category**：财经
+> **category**：财经/科技
 > **rank**：#2
-> **reason**：rank #2; cross-source x3; source weight: GDELT
+> **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：20260623T080000Z
+> **summary**：The grueling fight over who profits from AI music : Planet Money NPR
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -858,6 +671,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 89** | Trump crypto firm backs venture offering AI from restricted Chinese companies - Reuters
+> **标题**：Trump crypto firm backs venture offering AI from restricted Chinese companies - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Trump crypto firm backs venture offering AI from restricted Chinese companies Reuters
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 89** | EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle - Reuters
 > **标题**：EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle - Reuters
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiowFBVV95cUxOSU94aktXTlJLQ3ppVXlTTWcyZVhBNU9oT09IMXQ2UG1IenF5ZjBPemNWdDZJVFFuNk45N3VnWW8wUzhMaU1pNkQ1UXU1SnJJWFNxM29MQkFyQmp1Qy1sbE5aX3lZQ2JOX0taWW90WFpGRTFuUXI5TDRpN0FlVmItb196ZHlMMlU2VWNCLUxNa19GOXkzanZLdGM5My1CWXhLMU9B?oc=5)
@@ -869,6 +699,74 @@ tags:
 > **reason**：rank #3; source weight: Google News; hot terms: ai, us, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle Reuters
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 89** | Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies - Yahoo Finance
+> **标题**：Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies - Yahoo Finance
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOC14bE00QXU2TkhOSDJmejlQajhaNGVWQ1dFT0hUaU5DclI1bUlqTnNEaTk5alN4WU94OGprZmFSbjBJcFN1RnNJVXRpMjJkeEFRYXp3U2I1WmlzTExCdXRaeVhwdUFESERQejNpWFoxOFE4eDV3VzdTdnVjeUJHbjYwN2tNRWN6aXRtVHc5SlpmcFFpRXlYOVF3?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies Yahoo Finance
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 87** | UNCSA and a/perture cinema Present: The AI Doc - uncsa.edu
+> **标题**：UNCSA and a/perture cinema Present: The AI Doc - uncsa.edu
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMidEFVX3lxTFBrcFBQMTJKX3RJYmxCaU1IckZQZWtnY09lMFdVdWlZYi1hR3lrSUh4Xy13VlpOd1JjXzdLNVl6SzFZM2c0TG1qaERuV013MUdYRi0zOXlYSC1PbF9JMjBDZzdVaGZkcjZONlVkdnl6MlczckRV?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：UNCSA and a/perture cinema Present: The AI Doc uncsa.edu
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 87** | NVIDIA Guarantees SB Energy's PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute - NVIDIA Newsroom
+> **标题**：NVIDIA Guarantees SB Energy's PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute - NVIDIA Newsroom
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYXdyMXl0ZUs3UDVBSFo1a3BCcDg4UlZUazQxSEp1allrY1B3SEVxYnQ2RjFQVFY5T3Q1YUFYM19Jc1ZQNXVobGtZNVJBc1BPQXpFWFFsTlBvWEJqV3VRM1lCU0ZzSVlHcS14UGxUZldBaEVsdUJveHN0TXJOLURfWDBxRlJYaFdXMHREU3VSNlVrcFZncENub1czY2lGV1F6eGpGSWZiU2loYlJYVVRFZTdQSU80Q0lNZmdvX3FZQ0hTU1pjZF8weHhCRWEzeURkcDk3N1Z3?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#4
+> **reason**：rank #4; source weight: Google News; hot terms: ai, us, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：NVIDIA Guarantees SB Energy's PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute NVIDIA Newsroom
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 87** | US advisory body says China's data dominance gives it AI advantage - Reuters
+> **标题**：US advisory body says China's data dominance gives it AI advantage - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0cwTEZpQTJoZFQycjVPbjFtNEo5cW9EQWlDcWRUbHhuQkU4TUpJX0N6ekhJVmlERGZVMnZDODZMcEw5azEtaXRLREF2UFlwWEk5MVBhVTJDSnpMTm1sbURHTEV3cFoyMWQ4Sl9JbnhSMkFXcUFhZFFlMi0ydzJLSlVtU2pWSnBubWhUUHhzVVZGaURrcmpfUE5wTDdVYUtCTmp3Mi02QzNSSVVIMnVnVllfdw?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#4
+> **reason**：rank #4; source weight: Google News; hot terms: ai, china, us, ai
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：US advisory body says China's data dominance gives it AI advantage Reuters
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库

@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W34
-date: 2026-08-18
+date: 2026-08-19
 tags:
   - weekly-review
   - research-radar
@@ -10,14 +10,14 @@ tags:
 
 ## 本周趋势
 
-> [!info]+ **今日必须看 / 93** | ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线
-> **标题**：ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线
-> **原文链接**：🔗 [打开原文](https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9)
-> **source**：AI HOT / 公众号：智谱（GLM）
-> **kind**：`product`
-> **reason**：matches topics: agent, agents, claude code; high-value terms: agent, agents, claude code
-> **follow_up**：判断是否需要沉淀为长期主题笔记。
-> **summary**：ZCode针对GLM深度优化，今日上线Goal、Subagents、Remote Control与闲时任务四大功能。在Z.ai Code Bench测试中，GLM-5.2搭配ZCode较搭配Claude Code任务整体通过率高2.39%；ZCode缓存命中率超98%，叠加1.5倍限时额度加成后，GLM Coding Plan整体使用量接近常规额度的1.8倍。
+> [!info]+ **今日必须看 / 91** | Show HN: Agents Workbook watch Claude Code, Codex write down their working notes
+> **标题**：Show HN: Agents Workbook watch Claude Code, Codex write down their working notes
+> **原文链接**：🔗 [打开原文](https://github.com/softcane/agents-workbook)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：5 points | 3 comments
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -31,6 +31,19 @@ tags:
 > **reason**：matches topics: agent, claude code, codex, obsidian; high-value terms: agent, mcp, codex, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Your coding agent starts every session with amnesia — memo fixes that, 100% on your machine. Persistent memory for Claude Code, Codex, Cursor & any MCP client: Markdown source of truth, hybrid search (MLX/CPU + sqlite-vec), time-machine, contradiction radar, nightly self-optimiz...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | imbflool/cc-plugin-eval
+> **标题**：imbflool/cc-plugin-eval
+> **原文链接**：🔗 [打开原文](https://github.com/imbflool/cc-plugin-eval)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, llm; high-value terms: agent, agents, claude code, eval
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：🚀 Automate the evaluation of Claude Code plugin components to ensure accurate triggering of skills, agents, commands, and hooks.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -101,6 +114,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | shawn1905/generation-ship
+> **标题**：shawn1905/generation-ship
+> **原文链接**：🔗 [打开原文](https://github.com/shawn1905/generation-ship)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Multi-AI collaborative worldbuilding — a 1000-year future history (2025-3000+) built by many LLMs. Agents: read the docs, write one artifact, get credited. MCP server included: list_open_cells / get_artifact / submit_artifact. 多AI共创未来世界：科幻世界构建+AI协作
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 83** | speakeasy-api/gram
 > **标题**：speakeasy-api/gram
 > **原文链接**：🔗 [打开原文](https://github.com/speakeasy-api/gram)
@@ -109,32 +135,6 @@ tags:
 > **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp, api
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Securely scale AI usage across your organization. A single stack to Connect, Secure, Observe and Distribute agents, MCPs, and Skills within your company.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 83** | Every Coding Agent Session Starts by Rediscovering Your Repository
-> **标题**：Every Coding Agent Session Starts by Rediscovering Your Repository
-> **原文链接**：🔗 [打开原文](https://dev.to/sabahattink/every-coding-agent-session-starts-by-rediscovering-your-repository-2i9e)
-> **source**：Dev.to
-> **kind**：`article`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
-> **follow_up**：判断是否需要沉淀为长期主题笔记。
-> **summary**：I've been using coding agents heavily across real projects. Claude Code. Codex. Cursor. They are...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 83** | api-evangelist/meetandy-ai
-> **标题**：api-evangelist/meetandy-ai
-> **原文链接**：🔗 [打开原文](https://github.com/api-evangelist/meetandy-ai)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp, api
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：MeetAndy (operated by MeetTomorrow Inc.) is an AI project assistant — an "AI teammate" that lives in Slack, Google Chat, GitHub, GitLab, and Jira and turns plain-language requests into reviewable plans, opens pull requests, runs CI, and reports back.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -156,6 +156,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | imbflool/cc-plugin-eval
+> **标题**：imbflool/cc-plugin-eval
+> **原文链接**：🔗 [打开原文](https://github.com/imbflool/cc-plugin-eval)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, llm; high-value terms: agent, agents, claude code, eval
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：🚀 Automate the evaluation of Claude Code plugin components to ensure accurate triggering of skills, agents, commands, and hooks.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | kris-hansen/comanda
 > **标题**：kris-hansen/comanda
 > **原文链接**：🔗 [打开原文](https://github.com/kris-hansen/comanda)
@@ -164,19 +177,6 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, mcp, codex
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：The CLI-native orchestrator for AI agent workflows. Run Claude Code, Codex, Gemini CLI & Kimi Code from declarative YAML. Because the terminal is where real work happens.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | guyshonshon/vibestrate
-> **标题**：guyshonshon/vibestrate
-> **原文链接**：🔗 [打开原文](https://github.com/guyshonshon/vibestrate)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Open-source supervised flow for AI coding. Run Claude Code, Codex, Gemini, Aider or local models as one crew, approve the risky steps yourself, and keep every run log on your machine. Swap providers without rewriting the flow.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -211,14 +211,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 76** | SkillConsist: Detecting Inconsistencies in Agent Skills via Bidirectional Graph Alignment
-> **标题**：SkillConsist: Detecting Inconsistencies in Agent Skills via Bidirectional Graph Alignment
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.07639)
-> **source**：cs.LG updates on arXiv.org
+> [!info]+ **今日必须看 / 77** | Toward Safe LLM Agents: A Survey of Specification, Verification, and Enforcement
+> **标题**：Toward Safe LLM Agents: A Survey of Specification, Verification, and Enforcement
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.14590)
+> **source**：cs.AI updates on arXiv.org
 > **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm, research; high-value terms: agent, agents
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, api
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2608.07639v1 Announce Type: new Abstract: Agent Skills provide reusable capabilities to LLM agents. Agent Skill inconsistencies can expose undisclosed dangerous behavior or cause wrong Skill selection. Recent Agent Skill research has increasingly examined Agent Skill consistency detection. Ex...
+> **summary**：arXiv:2608.14590v1 Announce Type: new Abstract: LLM agents increasingly perform irreversible real-world actions, including database updates, API calls, file operations, and autonomous use of tools. However, no existing system provides formally grounded, task-level safety guarantees for the plans th...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -250,27 +250,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **可延后 / 70** | Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems
-> **标题**：Mind Viruses: Self-Propagating Ideas in Multi-Agent LLM Systems
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.10218)
-> **source**：cs.AI updates on arXiv.org
+> [!info]+ **可延后 / 70** | AutoMem: A Text-Gradient Recursive Self-Improvement Framework for Automated Memory Architectures Search
+> **标题**：AutoMem: A Text-Gradient Recursive Self-Improvement Framework for Automated Memory Architectures Search
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.14621)
+> **source**：cs.CL updates on arXiv.org
 > **kind**：`paper`
 > **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2608.10218v1 Announce Type: new Abstract: AI agents are becoming more autonomous and increasingly interconnected, exposing them to new emergent risks arising from agent-to-agent interaction. One such risk is the spread of mind viruses: ideas or goals that propagate through multi-agent systems...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **可延后 / 70** | Controlled Memory Interference in Continual LLM Agents
-> **标题**：Controlled Memory Interference in Continual LLM Agents
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.07622)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2608.07622v1 Announce Type: new Abstract: Long-term memory enables AI agents to maintain continuity across sessions, personalize behavior, and evolve through accumulated experience. Yet memory evolution is not simply a process of storing more information: new experiences may reinforce, revise...
+> **summary**：arXiv:2608.14621v1 Announce Type: new Abstract: Long-term memory is increasingly central to LLM agents, yet memory design remains a highly coupled architecture problem: what to encode, how to store it, how to retrieve it, and how to manage it can vary substantially across tasks and backbone models....
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -289,6 +276,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **可延后 / 70** | The Hallucination Snowball: Modeling Error Propagation as State Transitions in Multi-Agent LLM Pipelines
+> **标题**：The Hallucination Snowball: Modeling Error Propagation as State Transitions in Multi-Agent LLM Pipelines
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.14588)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2608.14588v1 Announce Type: new Abstract: Sequential multi-agent LLM pipelines chain specialized agents without verification at handoffs, creating a structural flaw with measurable and severe consequences. We show that hallucinations injected at Stage 1 do not merely persist; they transform:...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 
 ## 反复出现的信号
 
@@ -300,6 +300,19 @@ tags:
 > **reason**：matches topics: agent, claude code, codex, obsidian; high-value terms: agent, mcp, codex, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Your coding agent starts every session with amnesia — memo fixes that, 100% on your machine. Persistent memory for Claude Code, Codex, Cursor & any MCP client: Markdown source of truth, hybrid search (MLX/CPU + sqlite-vec), time-machine, contradiction radar, nightly self-optimiz...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | imbflool/cc-plugin-eval
+> **标题**：imbflool/cc-plugin-eval
+> **原文链接**：🔗 [打开原文](https://github.com/imbflool/cc-plugin-eval)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, llm; high-value terms: agent, agents, claude code, eval
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：🚀 Automate the evaluation of Claude Code plugin components to ensure accurate triggering of skills, agents, commands, and hooks.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -357,32 +370,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 83** | Every Coding Agent Session Starts by Rediscovering Your Repository
-> **标题**：Every Coding Agent Session Starts by Rediscovering Your Repository
-> **原文链接**：🔗 [打开原文](https://dev.to/sabahattink/every-coding-agent-session-starts-by-rediscovering-your-repository-2i9e)
-> **source**：Dev.to
-> **kind**：`article`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
-> **follow_up**：判断是否需要沉淀为长期主题笔记。
-> **summary**：I've been using coding agents heavily across real projects. Claude Code. Codex. Cursor. They are...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 83** | api-evangelist/meetandy-ai
-> **标题**：api-evangelist/meetandy-ai
-> **原文链接**：🔗 [打开原文](https://github.com/api-evangelist/meetandy-ai)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp, api
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：MeetAndy (operated by MeetTomorrow Inc.) is an AI project assistant — an "AI teammate" that lives in Slack, Google Chat, GitHub, GitLab, and Jira and turns plain-language requests into reviewable plans, opens pull requests, runs CI, and reports back.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 79** | dimitrilaouanis-tech/0n1x
 > **标题**：dimitrilaouanis-tech/0n1x
 > **原文链接**：🔗 [打开原文](https://github.com/dimitrilaouanis-tech/0n1x)
@@ -413,6 +400,19 @@ tags:
 > **标题**：usestrix/strix
 > **原文链接**：🔗 [打开原文](https://github.com/usestrix/strix)
 > **source**：GitHub Search, GitHub Trending
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents; high-value terms: agent, agents
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 76** | msitarzewski/agency-agents
+> **标题**：msitarzewski/agency-agents
+> **原文链接**：🔗 [打开原文](https://github.com/msitarzewski/agency-agents)
+> **source**：GitHub Trending
 > **kind**：`github_repo`
 > **reason**：matches topics: agent, agents; high-value terms: agent, agents
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
