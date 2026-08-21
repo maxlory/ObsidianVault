@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W34
-date: 2026-08-20
+date: 2026-08-21
 tags:
   - weekly-review
   - research-radar
@@ -88,6 +88,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | jmylchreest/aide
+> **标题**：jmylchreest/aide
+> **原文链接**：🔗 [打开原文](https://github.com/jmylchreest/aide)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, claude code, codex, mcp; high-value terms: agent, mcp, codex, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code, OpenCode and Codex.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | guyshonshon/vibestrate
 > **标题**：guyshonshon/vibestrate
 > **原文链接**：🔗 [打开原文](https://github.com/guyshonshon/vibestrate)
@@ -114,27 +127,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | decocms/studio
-> **标题**：decocms/studio
-> **原文链接**：🔗 [打开原文](https://github.com/decocms/studio)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | joedanz/brainkit
-> **标题**：joedanz/brainkit
-> **原文链接**：🔗 [打开原文](https://github.com/joedanz/brainkit)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, obsidian, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：One brain for the company, a filtered copy for every person. Obsidian-compatible markdown + git, self-hosted; works with your AI agents and tools.
+> [!info]+ **今日必须看 / 86** | Feature Request: Support AGENTS.md
+> **标题**：Feature Request: Support AGENTS.md
+> **原文链接**：🔗 [打开原文](https://github.com/anthropics/claude-code/issues/6235)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: agent, agents, anthropic; high-value terms: agent, agents; strong public engagement
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：351 points | 215 comments
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -237,6 +237,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **可延后 / 73** | Looped Language Models Improve Compositional Tool Calling
+> **标题**：Looped Language Models Improve Compositional Tool Calling
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.18171)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, benchmark; high-value terms: benchmark, agent, api, reasoning
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2608.18171v1 Announce Type: new Abstract: Looped language models have shown promising results on reasoning benchmarks, yet their potential for agentic tool use remains largely unexplored. We study this question in compositional tool-calling settings, where models must coordinate multiple API...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **可延后 / 73** | Governed Persistent Memory: Source-Bound State Semantics and Fail-Closed Release for Long-Horizon Agents
 > **标题**：Governed Persistent Memory: Source-Bound State Semantics and Fail-Closed Release for Long-Horizon Agents
 > **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.12476)
@@ -250,6 +263,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **可延后 / 70** | Position: Multi-Agent Systems Should Prioritize Concurrency Control
+> **标题**：Position: Multi-Agent Systems Should Prioritize Concurrency Control
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.18092)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2608.18092v1 Announce Type: new Abstract: LLM-based multi-agent systems (MAS) promise scalable collaboration, yet adding agents often reduces reliability. This position paper argues that many MAS failures are fundamentally concurrency control problems: agents concurrently read and write share...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **可延后 / 70** | Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists
 > **标题**：Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists
 > **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.12345)
@@ -258,32 +284,6 @@ tags:
 > **reason**：matches topics: llm, research, benchmark; high-value terms: benchmark, eval
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
 > **summary**：arXiv:2608.12345v1 Announce Type: new Abstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classification, ethical action r...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **可延后 / 70** | AutoMem: A Text-Gradient Recursive Self-Improvement Framework for Automated Memory Architectures Search
-> **标题**：AutoMem: A Text-Gradient Recursive Self-Improvement Framework for Automated Memory Architectures Search
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.14621)
-> **source**：cs.CL updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2608.14621v1 Announce Type: new Abstract: Long-term memory is increasingly central to LLM agents, yet memory design remains a highly coupled architecture problem: what to encode, how to store it, how to retrieve it, and how to manage it can vary substantially across tasks and backbone models....
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **可延后 / 70** | Foundation Agents Meet Agentic Deep Research: Evidence-Grounded Clinical Code Forecasting
-> **标题**：Foundation Agents Meet Agentic Deep Research: Evidence-Grounded Clinical Code Forecasting
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.17075)
-> **source**：cs.CL updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, research; high-value terms: agent, agents
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2608.17075v1 Announce Type: new Abstract: Next-encounter ICD forecasting predicts which standardized diagnosis codes will be documented at a future visit from the longitudinal record available beforehand. The task is prospective and multi-label: the target note does not yet exist, and several...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -357,6 +357,32 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | jmylchreest/aide
+> **标题**：jmylchreest/aide
+> **原文链接**：🔗 [打开原文](https://github.com/jmylchreest/aide)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, claude code, codex, mcp; high-value terms: agent, mcp, codex, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code, OpenCode and Codex.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 86** | Feature Request: Support AGENTS.md
+> **标题**：Feature Request: Support AGENTS.md
+> **原文链接**：🔗 [打开原文](https://github.com/anthropics/claude-code/issues/6235)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: agent, agents, anthropic; high-value terms: agent, agents; strong public engagement
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：351 points | 215 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 85** | decocms/studio
 > **标题**：decocms/studio
 > **原文链接**：🔗 [打开原文](https://github.com/decocms/studio)
@@ -391,32 +417,6 @@ tags:
 > **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp, api
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Securely scale AI usage across your organization. A single stack to Connect, Secure, Observe and Distribute agents, MCPs, and Skills within your company.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | patchloom/patchloom
-> **标题**：patchloom/patchloom
-> **原文链接**：🔗 [打开原文](https://github.com/patchloom/patchloom)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Structured file edits for AI agents (JSON/YAML/TOML, markdown, AST, dry-run, MCP). Not a generic filesystem MCP.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | dimitrilaouanis-tech/0n1x
-> **标题**：dimitrilaouanis-tech/0n1x
-> **原文链接**：🔗 [打开原文](https://github.com/dimitrilaouanis-tech/0n1x)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：0n1x — Proof of Agent Execution. The neutral, signed trust layer for AI agents: verify before you pay, signed facts not judgments. The Carfax for AI agents.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
