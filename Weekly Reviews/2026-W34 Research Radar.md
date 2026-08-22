@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W34
-date: 2026-08-21
+date: 2026-08-22
 tags:
   - weekly-review
   - research-radar
@@ -127,14 +127,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 86** | Feature Request: Support AGENTS.md
-> **标题**：Feature Request: Support AGENTS.md
-> **原文链接**：🔗 [打开原文](https://github.com/anthropics/claude-code/issues/6235)
-> **source**：Hacker News
-> **kind**：`community`
-> **reason**：matches topics: agent, agents, anthropic; high-value terms: agent, agents; strong public engagement
-> **follow_up**：阅读讨论区，提炼争议点和实践经验。
-> **summary**：351 points | 215 comments
+> [!info]+ **今日必须看 / 89** | fstubner/harness-dispatch
+> **标题**：fstubner/harness-dispatch
+> **原文链接**：🔗 [打开原文](https://github.com/fstubner/harness-dispatch)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, claude code, codex, mcp; high-value terms: agent, mcp, codex, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Delegate coding tasks to the agent CLIs you already pay for — a local MCP server routing each task to the best-fit harness (Claude Code, Codex, Cursor, Antigravity, or any endpoint), billing- and safety-aware.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -185,6 +185,19 @@ tags:
 
 ## 论文到代码观察
 
+> [!info]+ **今日必须看 / 83** | Can Agent Memory Systems Track Evolving State?
+> **标题**：Can Agent Memory Systems Track Evolving State?
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.19652)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm, benchmark; high-value terms: benchmark, agent, agents
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2608.19652v1 Announce Type: new Abstract: As LLM-based agents are deployed for longer and higher-stakes tasks, their memory systems continue to have crucial gaps. While existing memory benchmarks focus largely on recall-shaped tasks, we argue an effective memory system must track the evolving...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 77** | Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments
 > **标题**：Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments
 > **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.12368)
@@ -271,19 +284,6 @@ tags:
 > **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
 > **summary**：arXiv:2608.18092v1 Announce Type: new Abstract: LLM-based multi-agent systems (MAS) promise scalable collaboration, yet adding agents often reduces reliability. This position paper argues that many MAS failures are fundamentally concurrency control problems: agents concurrently read and write share...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **可延后 / 70** | Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists
-> **标题**：Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.12345)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: llm, research, benchmark; high-value terms: benchmark, eval
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2608.12345v1 Announce Type: new Abstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classification, ethical action r...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
