@@ -1,6 +1,6 @@
 ---
 title: News Radar Week 2026-W34
-date: 2026-08-22
+date: 2026-08-23
 tags:
   - news-radar
   - weekly-review
@@ -40,7 +40,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#3
-> **reason**：rank #3; cross-source x3; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
+> **reason**：rank #3; cross-source x4; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260812T021500Z
 >
@@ -57,7 +57,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#1
-> **reason**：rank #1; source weight: GDELT; hot terms: 中国, 美国, 军事, 制裁; fresh within 12h
+> **reason**：rank #1; cross-source x2; source weight: GDELT; hot terms: 中国, 美国, 军事, 制裁
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260821T224500Z
 >
@@ -66,17 +66,51 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 100** | How Taiwan’s Elite Military Police Plan to Defend Taipei - USNI News
-> **标题**：How Taiwan’s Elite Military Police Plan to Defend Taipei - USNI News
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMikgFBVV95cUxOdW1OYUxJRHFUQTZSV0tBdzUtRERIeEpPY3VPSHhnNGpoR2RuRjVObWxIR0hTaFVYa0pkTmpCOS1FVlE0V1VwajhGVXpTQjdacVItWHdJR1lxbDYtWUpScVc1WENpeWNrNFRqU1lXbmJ3Tml4TFYyRUtsLXV0VEpfLWdicUo1bDR6b2NTR3hDZmttdw?oc=5)
+> [!info]+ **今日必须看 / 100** | China, Indonesia agree to boost military ties, work closer on minerals, energy and tech - Reuters
+> **标题**：China, Indonesia agree to boost military ties, work closer on minerals, energy and tech - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiugFBVV95cUxPYS1vaHdfWG55NkRDMU1xRU1DYnB4MV94eElsODBWaF95c0VoZGxHUlB5dEk2N2w1Qkt3U3JhbThRUDdpM1ZCM05GWWtqQmhBU1VNaFMtNloxbklpUEUtV1NDcllNN0hmVUhSc00zcDJiT0JaWkRjV0VsemRVelNLWVExWGxLejExNHZ3LURtOUVsTmxaeEV4c0lleDBaNDdJLTBwQjdvaGZnNE5SUkRoNjFJSUtodDIwbHc?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：综合
 > **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
+> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：How Taiwan’s Elite Military Police Plan to Defend Taipei USNI News
+> **summary**：China, Indonesia agree to boost military ties, work closer on minerals, energy and tech Reuters
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Yahoo Finance
+> **标题**：Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Yahoo Finance
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUF9oRExlOUE1eWZncXFtUDktNDlVR2JkRlliWjVoVkNnMHptWDBETk1tRUcxaTZrVk1OX2V3YURQX1YyaFNmZGRzdGhkOFltRmtWU0dsaXE4NEFweG1zSE5MdkRmX2I0eUlHZWtRSnpfQ3U4RGlTdVJ2am9XTmo2c1FpT1A5T2ZKTVZnQzF4V1BxdWVaZ0xfdGF1TUc1RjNRVHc?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#4
+> **reason**：rank #4; cross-source x2; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports Yahoo Finance
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 99** | Nvidia customers reportedly warned about AI-related price hikes - CNBC
+> **标题**：Nvidia customers reportedly warned about AI-related price hikes - CNBC
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiowFBVV95cUxQbDg2ZnNCREtJeGoxQlhMdWp2M1lSRjM2dDg5R1AwanNOdEZIYVFOMUZ0RG5rbGRfa3JFMmhVUDhyTWcxM3VNVEhERnc3VmtwM2F5eGZaVllKeUZ1dFVrRmxwc0E1Sm80VDctYzlDNkFSejFrU2N6X1FTWlM0bG03UlpKQUFXNkx3ekE3Q3lBcGhjUVlBVThnWHRGY0tsZi1MSTBV0gGoAUFVX3lxTFBrdUpId05mVHUwNWVSZW1ibUNKVW9pV1pvNjBBdkx3WWNDdmxIOG4yR2dkZFd3OG1GQ0hBeWw1NlEyM2x5S3EyRUw0R3BnMVRLM1pjNU1IMU5sNVRENktqbVdMYUNMS2dUQkF4MTRmLW9FMmlMMy1CUWV2RUJUc0pWeElhdV9GN2NEQndueDhFclMtakdlcjFkNy1HYzUtaXdvekJCcVVSeA?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Nvidia customers reportedly warned about AI-related price hikes CNBC
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -134,17 +168,34 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 97** | Anthropic IPO filing will show AI backlash as a risk factor, sources say - CNBC
-> **标题**：Anthropic IPO filing will show AI backlash as a risk factor, sources say - CNBC
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXdwbzNJcERVMTFvY2JtSkNBMUVaWGpSNlRqYXM1MndRT0lFOWw0NFpURjU4aVFZeTZvdjNRRWs0VWNaWXhzTXQ1QlJ4eUEwR2FXdl9Ca2xIQzVwQmgteVVLRkZneTlHMUt1dXJWNGk3UWladzNVQWZRc3ZpRFlQR2xTbGZLdGlRZzF2RWRvTk5CcVJQM19ZZlA1U2tCN1lkRkHSAacBQVVfeXFMTXQtbkxtMGJVQ0lSUjgwcG1EUFZkb1pWRjY4czE4M3NlQ1RsVWtWOVBESjM2SllMby1jN2haVy1wMWYxR2FnSFpwOUhKT180bVpRTzlETERmYjVQdE1SYjBiYXc0VzRRQnVSUC10Z2lpc0FqZlJibF8waTdOSndRa091YXZwUkRSWnlxbEI3NTYyeW55a1NkZ2NGVTc4YUM3UHZtQ056aGM?oc=5)
+> [!info]+ **今日必须看 / 97** | China ‘Not Playing by the Rules,’ German Finance Minister Says - Bloomberg.com
+> **标题**：China ‘Not Playing by the Rules,’ German Finance Minister Says - Bloomberg.com
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVDd4U0hwcjlQQkZjaFN5TG1BWG0xdHR3SlVkTUxlUXdBU2E3V1k3cHV2NkRFMGtwMk9iY2dWa2hhZ2phbnc5aFotU0F6dlU4aGtVQXBQR1FvSHJiTkk4TEMydTRXTEdlZ1JwSWdMZVNHNHA0WV9CSFZoanp4X3BOYXdyVEgyNVJSLUFHcTY0Wk5wUlJPamZaOXhrZWRtSm5oejV0NkZPZHpZRklBYTdn?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#4
+> **reason**：rank #4; cross-source x3; source weight: Google News; hot terms: 美国, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：China ‘Not Playing by the Rules,’ German Finance Minister Says Bloomberg.com
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 97** | The Brains Who Powered China’s Surprising AI Leap - WSJ
+> **标题**：The Brains Who Powered China’s Surprising AI Leap - WSJ
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMickFVX3lxTFBjWE5CYjA1SjdibGl2UXJ5cmJkRm43NHZkU29wSTM3Rm9faUFqbTUzdmplcWwwcDFTbE80M3dSNzdXRDJnZVVCc2N6Tlh6M0hwNy1HRXJ6eGJYMDk0ZFN6T3FvRU1ybXhGRFl4bXl4dDRPZw?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: ai, china, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Anthropic IPO filing will show AI backlash as a risk factor, sources say CNBC
+> **summary**：The Brains Who Powered China’s Surprising AI Leap WSJ
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -168,17 +219,17 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 96** | 美点名要求加入针对伊朗经济制裁 中方作出回应
-> **标题**：美点名要求加入针对伊朗经济制裁 中方作出回应
-> **原文链接**：🔗 [打开原文](https://www.wenxuecity.com/news/2026/08/21/126749340.html)
-> **source**：GDELT / wenxuecity.com
+> [!info]+ **今日必须看 / 96** | China rejects US claim that Myanmar analyst wrongfully detained - Al Jazeera
+> **标题**：China rejects US claim that Myanmar analyst wrongfully detained - Al Jazeera
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMipwFBVV95cUxObGxoWlRCdEhhbXVzX1NSbVhBdEt5WUJaa2VpalJkcUptMUdubExVQ0Q1cnJlNHdTdmJfYTFfMnNMUGk4bm13U2lQdEJFS2VxeXhZam85UmxiZC1JaXNBZVVObUpZYUxPMlo2eG9iVUktbnMydUJCZXY2YTJqUUR1aUFJd1J0S1Q1WkVwMk1QQ2x0dFQ0czdrbWtEaXJyZzh6VXJVdnBiY9IBrAFBVV95cUxOc1BRS1BpY0ljV2V2dGZJbjUzVmdjRDdkWEhoNkZQRTc0TDlQWFVyNEY5TFJGd1JKT0d6TWk4alV1UmZTd1hUQzJMenNVbUJ4SDlxMnJXdlpwd01IV1BtVmNDWTR6ZG5HWFBTV3hOWEY3STdnMEtVVWREdEYwbm1MZDZzaTUxcVYxWHp6ejBJOHlIUzB1VDBpRkZzQnFGVFV2emhTdkJJRnpuTnRi?oc=5)
+> **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#2
-> **reason**：rank #2; source weight: GDELT; hot terms: 美国, 军事, 制裁; fresh within 12h
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260821T173000Z
+> **category**：综合
+> **rank**：#3
+> **reason**：rank #3; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：China rejects US claim that Myanmar analyst wrongfully detained Al Jazeera
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -202,68 +253,17 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 95** | Private Equity Is Deploying an Army of AI Wonks to Embed in the Firms They Back - WSJ
-> **标题**：Private Equity Is Deploying an Army of AI Wonks to Embed in the Firms They Back - WSJ
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMitwFBVV95cUxQemJ0SHpLNXJVOGFSRnMwNVdDZUN5VHd0T3FEemJ4dTBvVTN2ZjVXQzN4aW1nM1JiLWFWMmdKbG4tMloyc0NkTXhZbmJWMG5RaGE1WXVZVUh5NFNGSnp5U3VLd19zb0poY2hnVXAyZkxDUGp3WjhubnNZS1pMTUc1SEoxeFVzcDFsZndvYy1Idmw5Wk8xMzh2a1NVV3ZPejhYWXN2Y1FGTlFMUlUxR2VEclJWUkRPdVU?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Private Equity Is Deploying an Army of AI Wonks to Embed in the Firms They Back WSJ
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 94** | China calls Taiwan's annual military drills a 'wasteful charade' - reuters.com
-> **标题**：China calls Taiwan's annual military drills a 'wasteful charade' - reuters.com
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbGhMU25fVEswcGdXUVItRVJmUE05cG52RjJXRUJZMWRsMElTVHhMeTQ4SVd6QXJRRTh5NUFSV3NmdmJHLXpTclI2U09NdlN5c3pGTlFGRkhMVm55Z21QWHZ3dVJTMUU4N2ZzX2VFX25DVXpGU2FKTFNlVlYyTXFjS1Zhcm8ydmFLRF9neTJCbW10RDlCcV9JUS1mUG9EcHMtelZnbVZ0bHAxV1k?oc=5)
+> [!info]+ **今日必须看 / 95** | Trump’s South Korea Social Post Poses Risks for the United States - Council on Foreign Relations
+> **标题**：Trump’s South Korea Social Post Poses Risks for the United States - Council on Foreign Relations
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiggFBVV95cUxON0xjenpfM0lzekpkaHhwRGdBRDIzUGFqWmsxMmZxZ1NsdTBSWHVoQ2szVjBwM1AtejU5NW1qN2xxc1dnLUhfaEZMX0l3WWNmcjMyZWNrRVF4NWNlOHppNy1teUd2aUdWMVFOeDExTjJyVHhGaUMxbmpLcFFLTkxwa0NB?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：综合
-> **rank**：#4
-> **reason**：rank #4; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
+> **rank**：#7
+> **reason**：rank #7; cross-source x3; source weight: Google News; hot terms: 美国, china, united states, us
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China calls Taiwan's annual military drills a 'wasteful charade' reuters.com
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 93** | US corporate AI debt surge tests investor limits as fatigue emerges - Reuters
-> **标题**：US corporate AI debt surge tests investor limits as fatigue emerges - Reuters
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxNR0I5VXZyeVp4RlV6cnhVdXFwZ2RNZUU0Q1czQ2c0WkpZUUJuRV9PNEg0VHkzLVlnSUdZMWVOalJzNkNXdlNtamlGSzRLbVRXb0VkVzl3dm5Uc3hPV21Cb3BIdTNyOWZQSDRGQ1ZvV2xUVUZ6eExfeGpRM0hQck8wSDlzR3ViRDJHS25NaGxwNHdVYWN5cHRUcWJvb0hybjRtclNxMFFGT18tMmc2SEw5RFNYb3ZrSWZpS0VYTw?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#5
-> **reason**：rank #5; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：US corporate AI debt surge tests investor limits as fatigue emerges Reuters
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 93** | Trump alarms South Korea with call to scale back military drills and deference to Kim Jong Un - NBC News
-> **标题**：Trump alarms South Korea with call to scale back military drills and deference to Kim Jong Un - NBC News
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUERzelFFc21ZeXRlYUZ0NTB0dGk1X2pLSlY1dFJieHhQOHZuV1U2c2NDUGJ5aU9sMlFicERJN25fcnZzbFlWUFdJRnBneVFQVGxJYTViMTVoN0RtT09rVkUzZXphZUtFc3VDMU5maHZvR0RPU1hDN0J0MUJadnpYSVY3bG5JNG85TXNBNjlPTVlmbUJuRE0wRmhPcmQ0NUlpTlJRZFZvZzk0dw?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us, military
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Trump alarms South Korea with call to scale back military drills and deference to Kim Jong Un NBC News
+> **summary**：Trump’s South Korea Social Post Poses Risks for the United States Council on Foreign Relations
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -297,9 +297,60 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#3
-> **reason**：rank #3; cross-source x3; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
+> **reason**：rank #3; cross-source x4; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260812T021500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | 伊朗回应美国经济战威胁 ： 美方 注定失败 ， 中国表态 ： 反对非法单边制裁
+> **标题**：伊朗回应美国经济战威胁 ： 美方 注定失败 ， 中国表态 ： 反对非法单边制裁
+> **原文链接**：🔗 [打开原文](https://wallstreetcn.com/articles/3780032)
+> **source**：GDELT / wallstreetcn.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：政治/军事
+> **rank**：#1
+> **reason**：rank #1; cross-source x2; source weight: GDELT; hot terms: 中国, 美国, 军事, 制裁
+> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
+> **summary**：20260821T224500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | China, Indonesia agree to boost military ties, work closer on minerals, energy and tech - Reuters
+> **标题**：China, Indonesia agree to boost military ties, work closer on minerals, energy and tech - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiugFBVV95cUxPYS1vaHdfWG55NkRDMU1xRU1DYnB4MV94eElsODBWaF95c0VoZGxHUlB5dEk2N2w1Qkt3U3JhbThRUDdpM1ZCM05GWWtqQmhBU1VNaFMtNloxbklpUEUtV1NDcllNN0hmVUhSc00zcDJiT0JaWkRjV0VsemRVelNLWVExWGxLejExNHZ3LURtOUVsTmxaeEV4c0lleDBaNDdJLTBwQjdvaGZnNE5SUkRoNjFJSUtodDIwbHc?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#1
+> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：China, Indonesia agree to boost military ties, work closer on minerals, energy and tech Reuters
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Yahoo Finance
+> **标题**：Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Yahoo Finance
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUF9oRExlOUE1eWZncXFtUDktNDlVR2JkRlliWjVoVkNnMHptWDBETk1tRUcxaTZrVk1OX2V3YURQX1YyaFNmZGRzdGhkOFltRmtWU0dsaXE4NEFweG1zSE5MdkRmX2I0eUlHZWtRSnpfQ3U4RGlTdVJ2am9XTmo2c1FpT1A5T2ZKTVZnQzF4V1BxdWVaZ0xfdGF1TUc1RjNRVHc?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#4
+> **reason**：rank #4; cross-source x2; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports Yahoo Finance
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -357,6 +408,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 97** | China ‘Not Playing by the Rules,’ German Finance Minister Says - Bloomberg.com
+> **标题**：China ‘Not Playing by the Rules,’ German Finance Minister Says - Bloomberg.com
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVDd4U0hwcjlQQkZjaFN5TG1BWG0xdHR3SlVkTUxlUXdBU2E3V1k3cHV2NkRFMGtwMk9iY2dWa2hhZ2phbnc5aFotU0F6dlU4aGtVQXBQR1FvSHJiTkk4TEMydTRXTEdlZ1JwSWdMZVNHNHA0WV9CSFZoanp4X3BOYXdyVEgyNVJSLUFHcTY0Wk5wUlJPamZaOXhrZWRtSm5oejV0NkZPZHpZRklBYTdn?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#4
+> **reason**：rank #4; cross-source x3; source weight: Google News; hot terms: 美国, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：China ‘Not Playing by the Rules,’ German Finance Minister Says Bloomberg.com
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 96** | 特朗普曾批台 偷走芯片业 赖清德赠张忠谋自传盼促理解
 > **标题**：特朗普曾批台 偷走芯片业 赖清德赠张忠谋自传盼促理解
 > **原文链接**：🔗 [打开原文](https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E6%89%B9%E5%8F%B0%E5%81%B7%E8%B5%B0%E8%8A%AF%E7%89%87%E4%B8%9A-%E8%B5%96%E6%B8%85%E5%BE%B7%E8%B5%A0%E5%BC%A0%E5%BF%A0%E8%B0%8B%E8%87%AA%E4%BC%A0%E7%9B%BC%E4%BF%83%E7%90%86%E8%A7%A3/a-77321882)
@@ -368,6 +436,23 @@ tags:
 > **reason**：rank #5; cross-source x5; source weight: GDELT; hot terms: 美国, 芯片
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260528T070000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 96** | China rejects US claim that Myanmar analyst wrongfully detained - Al Jazeera
+> **标题**：China rejects US claim that Myanmar analyst wrongfully detained - Al Jazeera
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMipwFBVV95cUxObGxoWlRCdEhhbXVzX1NSbVhBdEt5WUJaa2VpalJkcUptMUdubExVQ0Q1cnJlNHdTdmJfYTFfMnNMUGk4bm13U2lQdEJFS2VxeXhZam85UmxiZC1JaXNBZVVObUpZYUxPMlo2eG9iVUktbnMydUJCZXY2YTJqUUR1aUFJd1J0S1Q1WkVwMk1QQ2x0dFQ0czdrbWtEaXJyZzh6VXJVdnBiY9IBrAFBVV95cUxOc1BRS1BpY0ljV2V2dGZJbjUzVmdjRDdkWEhoNkZQRTc0TDlQWFVyNEY5TFJGd1JKT0d6TWk4alV1UmZTd1hUQzJMenNVbUJ4SDlxMnJXdlpwd01IV1BtVmNDWTR6ZG5HWFBTV3hOWEY3STdnMEtVVWREdEYwbm1MZDZzaTUxcVYxWHp6ejBJOHlIUzB1VDBpRkZzQnFGVFV2emhTdkJJRnpuTnRi?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#3
+> **reason**：rank #3; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：China rejects US claim that Myanmar analyst wrongfully detained Al Jazeera
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -391,117 +476,15 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 94** | China calls Taiwan's annual military drills a 'wasteful charade' - reuters.com
-> **标题**：China calls Taiwan's annual military drills a 'wasteful charade' - reuters.com
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbGhMU25fVEswcGdXUVItRVJmUE05cG52RjJXRUJZMWRsMElTVHhMeTQ4SVd6QXJRRTh5NUFSV3NmdmJHLXpTclI2U09NdlN5c3pGTlFGRkhMVm55Z21QWHZ3dVJTMUU4N2ZzX2VFX25DVXpGU2FKTFNlVlYyTXFjS1Zhcm8ydmFLRF9neTJCbW10RDlCcV9JUS1mUG9EcHMtelZnbVZ0bHAxV1k?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#4
-> **reason**：rank #4; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China calls Taiwan's annual military drills a 'wasteful charade' reuters.com
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 90** | Tech Self - Reliance Eludes Beijing
-> **标题**：Tech Self - Reliance Eludes Beijing
-> **原文链接**：🔗 [打开原文](https://www.theepochtimes.com/opinion/tech-self-reliance-eludes-beijing-6060662)
-> **source**：GDELT / theepochtimes.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#4
-> **reason**：rank #4; cross-source x3; source weight: GDELT; hot terms: 美国
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260716T221500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 90** | What China’s PLA says it is learning from the Iran war - Breaking Defense
-> **标题**：What China’s PLA says it is learning from the Iran war - Breaking Defense
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMilAFBVV95cUxNT3ptVm1YY2x6c0xqeUYzek1HZ3NHUVdPbHNMQmJxVWpRLTh0akNjYTd4bUJIVkhMdXJ0ZlpsMWxDcGkzcmJWa212b01MMEVNcWZSQlBLU3NoUVNMa0d6NlVrYUFwcTBmLXI1SENNVkhMeWczRldadW5jZjlvaTZ5eGhmaWlvcjRSTEFiS1BnemlvYlB4?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#4
-> **reason**：rank #4; cross-source x2; source weight: Google News; hot terms: 美国, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：What China’s PLA says it is learning from the Iran war Breaking Defense
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 89** | Taïwan : enquête sur 17 entreprises financées par la Chine pour débaucher des talents technologiques
-> **标题**：Taïwan : enquête sur 17 entreprises financées par la Chine pour débaucher des talents technologiques
-> **原文链接**：🔗 [打开原文](https://www.sudouest.fr:443/international/asie/taiwan/taiwan-enquete-sur-17-entreprises-financees-par-la-chine-pour-debaucher-des-talents-technologiques-30168162.php)
-> **source**：GDELT / sudouest.fr
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#1
-> **reason**：rank #1; cross-source x2; source weight: GDELT; hot terms: 美国
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260805T080000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 85** | House Republicans Take Aim at Harvard Over Ties to China in New Report - The Harvard Crimson
-> **标题**：House Republicans Take Aim at Harvard Over Ties to China in New Report - The Harvard Crimson
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxQLTFHNS1DMDUwUVBhOUhkalJjaDg0VTdqY1VpdmRPeld6ZkpZeXprdFhsZ1czb0pPNUZSSUlLUk54Y0EzbVU5ZmNmakRwcGdkWk9MNmp5OW1aazF2LTh2NzdRWGh1R2FHRzZrTXM2Tkp4UzVDNEVSbWp2ZWdYUUhfbHh3Y3BQc2hLQUdQYQ?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#12
-> **reason**：rank #12; cross-source x3; source weight: Google News; hot terms: 美国, ai, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：House Republicans Take Aim at Harvard Over Ties to China in New Report The Harvard Crimson
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 84** | China’s military drills do not alter Philippines’ legal claim to Scarborough Reef - Indo-Pacific Defense FORUM
-> **标题**：China’s military drills do not alter Philippines’ legal claim to Scarborough Reef - Indo-Pacific Defense FORUM
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMitgFBVV95cUxQWkFzbklhTXJEOGpjUHcwX1dCNEh4RGFwc0lDNVp1alU3aldTVGFKb1dqUUFJSWNoT0xTZXRzWG1hTmY4OEhSZmtDenJ5UUpkMWZleGVDU0dRMlNUMjZRaklZNnBMUmg4UmJFZWwzUnNMS1BRUEItTENsX2pEOHJGaks2cmpiU1dJV1JXT2lmOHByMmw0VXg1MVdkNkU3QXo1ZU1fckt1cjhRZDBPbGFPVHJ6Y0Z4UQ?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#9
-> **reason**：rank #9; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China’s military drills do not alter Philippines’ legal claim to Scarborough Reef Indo-Pacific Defense FORUM
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 82** | Trump’s South Korea Social Post Poses Risks for the United States - Council on Foreign Relations
+> [!info]+ **今日必须看 / 95** | Trump’s South Korea Social Post Poses Risks for the United States - Council on Foreign Relations
 > **标题**：Trump’s South Korea Social Post Poses Risks for the United States - Council on Foreign Relations
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiggFBVV95cUxON0xjenpfM0lzekpkaHhwRGdBRDIzUGFqWmsxMmZxZ1NsdTBSWHVoQ2szVjBwM1AtejU5NW1qN2xxc1dnLUhfaEZMX0l3WWNmcjMyZWNrRVF4NWNlOHppNy1teUd2aUdWMVFOeDExTjJyVHhGaUMxbmpLcFFLTkxwa0NB?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：综合
-> **rank**：#10
-> **reason**：rank #10; cross-source x2; source weight: Google News; hot terms: 美国, china, united states, us
+> **rank**：#7
+> **reason**：rank #7; cross-source x3; source weight: Google News; hot terms: 美国, china, united states, us
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
 > **summary**：Trump’s South Korea Social Post Poses Risks for the United States Council on Foreign Relations
 >
@@ -510,17 +493,34 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 82** | China Tests Quantum Technology in Power Grid - The Quantum Insider
-> **标题**：China Tests Quantum Technology in Power Grid - The Quantum Insider
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMijwFBVV95cUxPQXFlN1VFaTdvQ3Y5bDVHTnpzV0ljV24zdTdxSk9LMlFXTUx3UG1BbmJsSlhKSjdKajVEUEk3QjdXV2pXWUNPc1VYa3pKaUNKRUVYN2RmOHhOakNHM1FWd3RScjB3cmp1YXByeThsRDJ6UGJRYkdrV1JQdDZ4TDByNWdERDl2cjRIVWd2NmFsYw?oc=5)
-> **source**：Google News / China US Hot News
+> [!info]+ **今日必须看 / 95** | 制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 千龙网 · 中国首都网
+> **标题**：制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 千龙网 · 中国首都网
+> **原文链接**：🔗 [打开原文](https://world.qianlong.com/2026/0812/8711047.shtml)
+> **source**：GDELT / world.qianlong.com
 > **kind**：`news`
 > **region**：美国/国际
-> **category**：综合
-> **rank**：#8
-> **reason**：rank #8; cross-source x2; source weight: Google News; hot terms: 美国, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China Tests Quantum Technology in Power Grid The Quantum Insider
+> **category**：政治/军事
+> **rank**：#4
+> **reason**：rank #4; cross-source x2; source weight: GDELT; hot terms: 中国, 美国, 军事, 外交
+> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
+> **summary**：20260812T064500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 95** | 美点名要求加入针对伊朗经济制裁 中方作出回应
+> **标题**：美点名要求加入针对伊朗经济制裁 中方作出回应
+> **原文链接**：🔗 [打开原文](https://www.wenxuecity.com/news/2026/08/21/126749340.html)
+> **source**：GDELT / wenxuecity.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：政治/军事
+> **rank**：#2
+> **reason**：rank #2; cross-source x2; source weight: GDELT; hot terms: 美国, 军事, 制裁
+> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
+> **summary**：20260821T173000Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -558,7 +558,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#3
-> **reason**：rank #3; cross-source x3; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
+> **reason**：rank #3; cross-source x4; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260812T021500Z
 >
@@ -575,7 +575,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#1
-> **reason**：rank #1; source weight: GDELT; hot terms: 中国, 美国, 军事, 制裁; fresh within 12h
+> **reason**：rank #1; cross-source x2; source weight: GDELT; hot terms: 中国, 美国, 军事, 制裁
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260821T224500Z
 >
@@ -584,17 +584,51 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 100** | How Taiwan’s Elite Military Police Plan to Defend Taipei - USNI News
-> **标题**：How Taiwan’s Elite Military Police Plan to Defend Taipei - USNI News
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMikgFBVV95cUxOdW1OYUxJRHFUQTZSV0tBdzUtRERIeEpPY3VPSHhnNGpoR2RuRjVObWxIR0hTaFVYa0pkTmpCOS1FVlE0V1VwajhGVXpTQjdacVItWHdJR1lxbDYtWUpScVc1WENpeWNrNFRqU1lXbmJ3Tml4TFYyRUtsLXV0VEpfLWdicUo1bDR6b2NTR3hDZmttdw?oc=5)
+> [!info]+ **今日必须看 / 100** | China, Indonesia agree to boost military ties, work closer on minerals, energy and tech - Reuters
+> **标题**：China, Indonesia agree to boost military ties, work closer on minerals, energy and tech - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiugFBVV95cUxPYS1vaHdfWG55NkRDMU1xRU1DYnB4MV94eElsODBWaF95c0VoZGxHUlB5dEk2N2w1Qkt3U3JhbThRUDdpM1ZCM05GWWtqQmhBU1VNaFMtNloxbklpUEUtV1NDcllNN0hmVUhSc00zcDJiT0JaWkRjV0VsemRVelNLWVExWGxLejExNHZ3LURtOUVsTmxaeEV4c0lleDBaNDdJLTBwQjdvaGZnNE5SUkRoNjFJSUtodDIwbHc?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：综合
 > **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
+> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：How Taiwan’s Elite Military Police Plan to Defend Taipei USNI News
+> **summary**：China, Indonesia agree to boost military ties, work closer on minerals, energy and tech Reuters
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Yahoo Finance
+> **标题**：Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Yahoo Finance
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUF9oRExlOUE1eWZncXFtUDktNDlVR2JkRlliWjVoVkNnMHptWDBETk1tRUcxaTZrVk1OX2V3YURQX1YyaFNmZGRzdGhkOFltRmtWU0dsaXE4NEFweG1zSE5MdkRmX2I0eUlHZWtRSnpfQ3U4RGlTdVJ2am9XTmo2c1FpT1A5T2ZKTVZnQzF4V1BxdWVaZ0xfdGF1TUc1RjNRVHc?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#4
+> **reason**：rank #4; cross-source x2; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports Yahoo Finance
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 99** | Nvidia customers reportedly warned about AI-related price hikes - CNBC
+> **标题**：Nvidia customers reportedly warned about AI-related price hikes - CNBC
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiowFBVV95cUxQbDg2ZnNCREtJeGoxQlhMdWp2M1lSRjM2dDg5R1AwanNOdEZIYVFOMUZ0RG5rbGRfa3JFMmhVUDhyTWcxM3VNVEhERnc3VmtwM2F5eGZaVllKeUZ1dFVrRmxwc0E1Sm80VDctYzlDNkFSejFrU2N6X1FTWlM0bG03UlpKQUFXNkx3ekE3Q3lBcGhjUVlBVThnWHRGY0tsZi1MSTBV0gGoAUFVX3lxTFBrdUpId05mVHUwNWVSZW1ibUNKVW9pV1pvNjBBdkx3WWNDdmxIOG4yR2dkZFd3OG1GQ0hBeWw1NlEyM2x5S3EyRUw0R3BnMVRLM1pjNU1IMU5sNVRENktqbVdMYUNMS2dUQkF4MTRmLW9FMmlMMy1CUWV2RUJUc0pWeElhdV9GN2NEQndueDhFclMtakdlcjFkNy1HYzUtaXdvekJCcVVSeA?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Nvidia customers reportedly warned about AI-related price hikes CNBC
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -652,51 +686,17 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 97** | Anthropic IPO filing will show AI backlash as a risk factor, sources say - CNBC
-> **标题**：Anthropic IPO filing will show AI backlash as a risk factor, sources say - CNBC
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXdwbzNJcERVMTFvY2JtSkNBMUVaWGpSNlRqYXM1MndRT0lFOWw0NFpURjU4aVFZeTZvdjNRRWs0VWNaWXhzTXQ1QlJ4eUEwR2FXdl9Ca2xIQzVwQmgteVVLRkZneTlHMUt1dXJWNGk3UWladzNVQWZRc3ZpRFlQR2xTbGZLdGlRZzF2RWRvTk5CcVJQM19ZZlA1U2tCN1lkRkHSAacBQVVfeXFMTXQtbkxtMGJVQ0lSUjgwcG1EUFZkb1pWRjY4czE4M3NlQ1RsVWtWOVBESjM2SllMby1jN2haVy1wMWYxR2FnSFpwOUhKT180bVpRTzlETERmYjVQdE1SYjBiYXc0VzRRQnVSUC10Z2lpc0FqZlJibF8waTdOSndRa091YXZwUkRSWnlxbEI3NTYyeW55a1NkZ2NGVTc4YUM3UHZtQ056aGM?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Anthropic IPO filing will show AI backlash as a risk factor, sources say CNBC
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 96** | 特朗普曾批台 偷走芯片业 赖清德赠张忠谋自传盼促理解
-> **标题**：特朗普曾批台 偷走芯片业 赖清德赠张忠谋自传盼促理解
-> **原文链接**：🔗 [打开原文](https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E6%89%B9%E5%8F%B0%E5%81%B7%E8%B5%B0%E8%8A%AF%E7%89%87%E4%B8%9A-%E8%B5%96%E6%B8%85%E5%BE%B7%E8%B5%A0%E5%BC%A0%E5%BF%A0%E8%B0%8B%E8%87%AA%E4%BC%A0%E7%9B%BC%E4%BF%83%E7%90%86%E8%A7%A3/a-77321882)
-> **source**：GDELT / dw.com
+> [!info]+ **今日必须看 / 97** | China ‘Not Playing by the Rules,’ German Finance Minister Says - Bloomberg.com
+> **标题**：China ‘Not Playing by the Rules,’ German Finance Minister Says - Bloomberg.com
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVDd4U0hwcjlQQkZjaFN5TG1BWG0xdHR3SlVkTUxlUXdBU2E3V1k3cHV2NkRFMGtwMk9iY2dWa2hhZ2phbnc5aFotU0F6dlU4aGtVQXBQR1FvSHJiTkk4TEMydTRXTEdlZ1JwSWdMZVNHNHA0WV9CSFZoanp4X3BOYXdyVEgyNVJSLUFHcTY0Wk5wUlJPamZaOXhrZWRtSm5oejV0NkZPZHpZRklBYTdn?oc=5)
+> **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
-> **category**：科技
-> **rank**：#5
-> **reason**：rank #5; cross-source x5; source weight: GDELT; hot terms: 美国, 芯片
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260528T070000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 96** | 美点名要求加入针对伊朗经济制裁 中方作出回应
-> **标题**：美点名要求加入针对伊朗经济制裁 中方作出回应
-> **原文链接**：🔗 [打开原文](https://www.wenxuecity.com/news/2026/08/21/126749340.html)
-> **source**：GDELT / wenxuecity.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#2
-> **reason**：rank #2; source weight: GDELT; hot terms: 美国, 军事, 制裁; fresh within 12h
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260821T173000Z
+> **category**：综合
+> **rank**：#4
+> **reason**：rank #4; cross-source x3; source weight: Google News; hot terms: 美国, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：China ‘Not Playing by the Rules,’ German Finance Minister Says Bloomberg.com
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -722,6 +722,40 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 100** | Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Yahoo Finance
+> **标题**：Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Yahoo Finance
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUF9oRExlOUE1eWZncXFtUDktNDlVR2JkRlliWjVoVkNnMHptWDBETk1tRUcxaTZrVk1OX2V3YURQX1YyaFNmZGRzdGhkOFltRmtWU0dsaXE4NEFweG1zSE5MdkRmX2I0eUlHZWtRSnpfQ3U4RGlTdVJ2am9XTmo2c1FpT1A5T2ZKTVZnQzF4V1BxdWVaZ0xfdGF1TUc1RjNRVHc?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#4
+> **reason**：rank #4; cross-source x2; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports Yahoo Finance
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 99** | Nvidia customers reportedly warned about AI-related price hikes - CNBC
+> **标题**：Nvidia customers reportedly warned about AI-related price hikes - CNBC
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiowFBVV95cUxQbDg2ZnNCREtJeGoxQlhMdWp2M1lSRjM2dDg5R1AwanNOdEZIYVFOMUZ0RG5rbGRfa3JFMmhVUDhyTWcxM3VNVEhERnc3VmtwM2F5eGZaVllKeUZ1dFVrRmxwc0E1Sm80VDctYzlDNkFSejFrU2N6X1FTWlM0bG03UlpKQUFXNkx3ekE3Q3lBcGhjUVlBVThnWHRGY0tsZi1MSTBV0gGoAUFVX3lxTFBrdUpId05mVHUwNWVSZW1ibUNKVW9pV1pvNjBBdkx3WWNDdmxIOG4yR2dkZFd3OG1GQ0hBeWw1NlEyM2x5S3EyRUw0R3BnMVRLM1pjNU1IMU5sNVRENktqbVdMYUNMS2dUQkF4MTRmLW9FMmlMMy1CUWV2RUJUc0pWeElhdV9GN2NEQndueDhFclMtakdlcjFkNy1HYzUtaXdvekJCcVVSeA?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Nvidia customers reportedly warned about AI-related price hikes CNBC
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 98** | Тайван налага по - строг контрол над AI чиповете за Китай - ще има ли отговор ?
 > **标题**：Тайван налага по - строг контрол над AI чиповете за Китай - ще има ли отговор ?
 > **原文链接**：🔗 [打开原文](https://money.bg/economics/tayvan-nalaga-po-strog-kontrol-nad-ai-chipovete-za-kitay-shte-ima-li-otgovor.html)
@@ -739,17 +773,17 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 97** | Anthropic IPO filing will show AI backlash as a risk factor, sources say - CNBC
-> **标题**：Anthropic IPO filing will show AI backlash as a risk factor, sources say - CNBC
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXdwbzNJcERVMTFvY2JtSkNBMUVaWGpSNlRqYXM1MndRT0lFOWw0NFpURjU4aVFZeTZvdjNRRWs0VWNaWXhzTXQ1QlJ4eUEwR2FXdl9Ca2xIQzVwQmgteVVLRkZneTlHMUt1dXJWNGk3UWladzNVQWZRc3ZpRFlQR2xTbGZLdGlRZzF2RWRvTk5CcVJQM19ZZlA1U2tCN1lkRkHSAacBQVVfeXFMTXQtbkxtMGJVQ0lSUjgwcG1EUFZkb1pWRjY4czE4M3NlQ1RsVWtWOVBESjM2SllMby1jN2haVy1wMWYxR2FnSFpwOUhKT180bVpRTzlETERmYjVQdE1SYjBiYXc0VzRRQnVSUC10Z2lpc0FqZlJibF8waTdOSndRa091YXZwUkRSWnlxbEI3NTYyeW55a1NkZ2NGVTc4YUM3UHZtQ056aGM?oc=5)
+> [!info]+ **今日必须看 / 97** | The Brains Who Powered China’s Surprising AI Leap - WSJ
+> **标题**：The Brains Who Powered China’s Surprising AI Leap - WSJ
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMickFVX3lxTFBjWE5CYjA1SjdibGl2UXJ5cmJkRm43NHZkU29wSTM3Rm9faUFqbTUzdmplcWwwcDFTbE80M3dSNzdXRDJnZVVCc2N6Tlh6M0hwNy1HRXJ6eGJYMDk0ZFN6T3FvRU1ybXhGRFl4bXl4dDRPZw?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: ai, china, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Anthropic IPO filing will show AI backlash as a risk factor, sources say CNBC
+> **summary**：The Brains Who Powered China’s Surprising AI Leap WSJ
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -773,40 +807,6 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 95** | Private Equity Is Deploying an Army of AI Wonks to Embed in the Firms They Back - WSJ
-> **标题**：Private Equity Is Deploying an Army of AI Wonks to Embed in the Firms They Back - WSJ
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMitwFBVV95cUxQemJ0SHpLNXJVOGFSRnMwNVdDZUN5VHd0T3FEemJ4dTBvVTN2ZjVXQzN4aW1nM1JiLWFWMmdKbG4tMloyc0NkTXhZbmJWMG5RaGE1WXVZVUh5NFNGSnp5U3VLd19zb0poY2hnVXAyZkxDUGp3WjhubnNZS1pMTUc1SEoxeFVzcDFsZndvYy1Idmw5Wk8xMzh2a1NVV3ZPejhYWXN2Y1FGTlFMUlUxR2VEclJWUkRPdVU?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Private Equity Is Deploying an Army of AI Wonks to Embed in the Firms They Back WSJ
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 93** | US corporate AI debt surge tests investor limits as fatigue emerges - Reuters
-> **标题**：US corporate AI debt surge tests investor limits as fatigue emerges - Reuters
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxNR0I5VXZyeVp4RlV6cnhVdXFwZ2RNZUU0Q1czQ2c0WkpZUUJuRV9PNEg0VHkzLVlnSUdZMWVOalJzNkNXdlNtamlGSzRLbVRXb0VkVzl3dm5Uc3hPV21Cb3BIdTNyOWZQSDRGQ1ZvV2xUVUZ6eExfeGpRM0hQck8wSDlzR3ViRDJHS25NaGxwNHdVYWN5cHRUcWJvb0hybjRtclNxMFFGT18tMmc2SEw5RFNYb3ZrSWZpS0VYTw?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#5
-> **reason**：rank #5; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：US corporate AI debt surge tests investor limits as fatigue emerges Reuters
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
 > [!info]+ **今日必须看 / 91** | The grueling fight over who profits from AI music : Planet Money - NPR
 > **标题**：The grueling fight over who profits from AI music : Planet Money - NPR
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirwFBVV95cUxNUF92a2FOaGNJcVVFam9fYjUyQjR4dHFreGhZc3VnZkdLTTh5N2k2UHk4a0o0WTV5dEhpTG1PVEU3UjBSc0R5aUdyb2FwMnlPVnlveGdsb1c4eFRQQU1JZGVCM3BFZUhfaEZURUF1M2ZhYlVNcjJCS2hsQ1JYMEVyM1M0RTdTUkZBd2VoZGw5VmlWWnNoNkZ2X3VwallFRk9MVVMxNXVVQnZOcFlhbHRr?oc=5)
@@ -818,23 +818,6 @@ tags:
 > **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：The grueling fight over who profits from AI music : Planet Money NPR
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 91** | Woman covertly filmed by Meta AI smart glasses raises privacy and consent concerns: "I had no say" - CBS News
-> **标题**：Woman covertly filmed by Meta AI smart glasses raises privacy and consent concerns: "I had no say" - CBS News
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMif0FVX3lxTE42emlnYXJZb3ZYNVQ5dHhsVUxPTElVeFI5aHRScEdUS1FKZTRQUUNsNVFFUWZBSEUzRkhwMG52bEk2amgzZHZBX3R6eEg2UlphSXZ1aFlkYnNZaVZMNldCTkcxYlhrRlZJS2hQZDhqMHhRQk5lMXB3YkFtNmoxb1k?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Woman covertly filmed by Meta AI smart glasses raises privacy and consent concerns: "I had no say" CBS News
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -869,6 +852,23 @@ tags:
 > **reason**：rank #1; cross-source x2; source weight: GDELT; hot terms: 美国
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260805T080000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 89** | Inside Big Tech’s Frantic Race to Quell the Growing Backlash to AI - WSJ
+> **标题**：Inside Big Tech’s Frantic Race to Quell the Growing Backlash to AI - WSJ
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMioAFBVV95cUxOd0ZMN28xd2NTdzNCbllaLVFGVkVDaGJlMkZOOU1xMlplVjR6ZnpoRVcxT0ZYMFdDcDJCN3p1SHdYT00waFVkT0loNGxMcXN0NFpyVzZJbzE5R3hsaHhTM2xZWUREOTdyN0R3RmJ3ajNzd2lFRGlUOVlZckVzQTRUYVJzeWFVZEwwSzY1QW84NGJfM3B4OWNMWkpFZHBiS3NI?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Inside Big Tech’s Frantic Race to Quell the Growing Backlash to AI WSJ
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库

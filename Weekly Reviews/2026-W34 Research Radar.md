@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W34
-date: 2026-08-22
+date: 2026-08-23
 tags:
   - weekly-review
   - research-radar
@@ -101,6 +101,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | corbet-labs/cfetch
+> **标题**：corbet-labs/cfetch
+> **原文链接**：🔗 [打开原文](https://github.com/corbet-labs/cfetch)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：A cited, trust-tiered memory layer for Claude Code, Codex, Gemini and other AI agents, built on plain Markdown and Rust.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | guyshonshon/vibestrate
 > **标题**：guyshonshon/vibestrate
 > **原文链接**：🔗 [打开原文](https://github.com/guyshonshon/vibestrate)
@@ -122,19 +135,6 @@ tags:
 > **reason**：matches topics: agent, claude code, codex, mcp; high-value terms: agent, mcp, codex, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | fstubner/harness-dispatch
-> **标题**：fstubner/harness-dispatch
-> **原文链接**：🔗 [打开原文](https://github.com/fstubner/harness-dispatch)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, claude code, codex, mcp; high-value terms: agent, mcp, codex, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Delegate coding tasks to the agent CLIs you already pay for — a local MCP server routing each task to the best-fit harness (Claude Code, Codex, Cursor, Antigravity, or any endpoint), billing- and safety-aware.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -396,27 +396,27 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | joedanz/brainkit
-> **标题**：joedanz/brainkit
-> **原文链接**：🔗 [打开原文](https://github.com/joedanz/brainkit)
+> [!info]+ **今日必须看 / 85** | hiper2d/marlow
+> **标题**：hiper2d/marlow
+> **原文链接**：🔗 [打开原文](https://github.com/hiper2d/marlow)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, obsidian, mcp; high-value terms: agent, agents, mcp
+> **reason**：matches topics: agent, agents, claude code, research; high-value terms: agent, agents, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：One brain for the company, a filtered copy for every person. Obsidian-compatible markdown + git, self-hosted; works with your AI agents and tools.
+> **summary**：Long-loop agent experiment: Werewolf ops + AI safety research stream. Runs on Claude Code.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 83** | speakeasy-api/gram
-> **标题**：speakeasy-api/gram
-> **原文链接**：🔗 [打开原文](https://github.com/speakeasy-api/gram)
+> [!info]+ **今日必须看 / 85** | minipuft/claude-prompts-mcp
+> **标题**：minipuft/claude-prompts-mcp
+> **原文链接**：🔗 [打开原文](https://github.com/minipuft/claude-prompts-mcp)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp, api
+> **reason**：matches topics: agent, claude code, llm, mcp; high-value terms: agent, mcp, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Securely scale AI usage across your organization. A single stack to Connect, Secure, Observe and Distribute agents, MCPs, and Skills within your company.
+> **summary**：MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with an operator syntax; export as native skills to Claude Code, Cursor, OpenCode, and Gemini CLI.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
