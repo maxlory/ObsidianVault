@@ -1,6 +1,6 @@
 ---
 title: News Radar Week 2026-W35
-date: 2026-08-24
+date: 2026-08-25
 tags:
   - news-radar
   - weekly-review
@@ -40,7 +40,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#3
-> **reason**：rank #3; cross-source x4; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
+> **reason**：rank #3; cross-source x5; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260812T021500Z
 >
@@ -57,9 +57,43 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#1
-> **reason**：rank #1; cross-source x2; source weight: GDELT; hot terms: 中国, 美国, 军事, 制裁
+> **reason**：rank #1; cross-source x3; source weight: GDELT; hot terms: 中国, 美国, 军事, 制裁
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260821T224500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | 制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 千龙网 · 中国首都网
+> **标题**：制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 千龙网 · 中国首都网
+> **原文链接**：🔗 [打开原文](https://world.qianlong.com/2026/0812/8711047.shtml)
+> **source**：GDELT / world.qianlong.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：政治/军事
+> **rank**：#4
+> **reason**：rank #4; cross-source x3; source weight: GDELT; hot terms: 中国, 美国, 军事, 外交
+> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
+> **summary**：20260812T064500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | 美点名要求加入针对伊朗经济制裁 中方作出回应
+> **标题**：美点名要求加入针对伊朗经济制裁 中方作出回应
+> **原文链接**：🔗 [打开原文](https://www.wenxuecity.com/news/2026/08/21/126749340.html)
+> **source**：GDELT / wenxuecity.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：政治/军事
+> **rank**：#2
+> **reason**：rank #2; cross-source x3; source weight: GDELT; hot terms: 美国, 军事, 制裁
+> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
+> **summary**：20260821T173000Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -151,6 +185,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 97** | Flock cameras join data centers as a top AI boogeyman in 2026 midterms - Axios
+> **标题**：Flock cameras join data centers as a top AI boogeyman in 2026 midterms - Axios
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdFlaanA3bFBuX0hvcEphTnVnMi1oNmdRZjJoTG9HdDQ3dVpWeUVMT1FSM21CM2R0SWVlYzNrWFhqVVN6ck9tbzk2Zm5keTIzYmpUYllfa042OF9rZFJfd0FreVFBN3NEM05NM3Z3ellQMlNPQXAzUlhEaWdxUWRETkhSMlpISXdZ?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Flock cameras join data centers as a top AI boogeyman in 2026 midterms Axios
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 96** | 特朗普曾批台 偷走芯片业 赖清德赠张忠谋自传盼促理解
 > **标题**：特朗普曾批台 偷走芯片业 赖清德赠张忠谋自传盼促理解
 > **原文链接**：🔗 [打开原文](https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E6%89%B9%E5%8F%B0%E5%81%B7%E8%B5%B0%E8%8A%AF%E7%89%87%E4%B8%9A-%E8%B5%96%E6%B8%85%E5%BE%B7%E8%B5%A0%E5%BC%A0%E5%BF%A0%E8%B0%8B%E8%87%AA%E4%BC%A0%E7%9B%BC%E4%BF%83%E7%90%86%E8%A7%A3/a-77321882)
@@ -213,57 +264,6 @@ tags:
 > **reason**：rank #7; cross-source x3; source weight: Google News; hot terms: 美国, china, united states, us
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
 > **summary**：Trump’s South Korea Social Post Poses Risks for the United States Council on Foreign Relations
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | 制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 千龙网 · 中国首都网
-> **标题**：制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 千龙网 · 中国首都网
-> **原文链接**：🔗 [打开原文](https://world.qianlong.com/2026/0812/8711047.shtml)
-> **source**：GDELT / world.qianlong.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#4
-> **reason**：rank #4; cross-source x2; source weight: GDELT; hot terms: 中国, 美国, 军事, 外交
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260812T064500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | 美点名要求加入针对伊朗经济制裁 中方作出回应
-> **标题**：美点名要求加入针对伊朗经济制裁 中方作出回应
-> **原文链接**：🔗 [打开原文](https://www.wenxuecity.com/news/2026/08/21/126749340.html)
-> **source**：GDELT / wenxuecity.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#2
-> **reason**：rank #2; cross-source x2; source weight: GDELT; hot terms: 美国, 军事, 制裁
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260821T173000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 94** | Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Yahoo Finance
-> **标题**：Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Yahoo Finance
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUF9oRExlOUE1eWZncXFtUDktNDlVR2JkRlliWjVoVkNnMHptWDBETk1tRUcxaTZrVk1OX2V3YURQX1YyaFNmZGRzdGhkOFltRmtWU0dsaXE4NEFweG1zSE5MdkRmX2I0eUlHZWtRSnpfQ3U4RGlTdVJ2am9XTmo2c1FpT1A5T2ZKTVZnQzF4V1BxdWVaZ0xfdGF1TUc1RjNRVHc?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#4
-> **reason**：rank #4; cross-source x2; source weight: Google News; hot terms: ai, us, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports Yahoo Finance
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -297,7 +297,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#3
-> **reason**：rank #3; cross-source x4; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
+> **reason**：rank #3; cross-source x5; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260812T021500Z
 >
@@ -314,9 +314,43 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#1
-> **reason**：rank #1; cross-source x2; source weight: GDELT; hot terms: 中国, 美国, 军事, 制裁
+> **reason**：rank #1; cross-source x3; source weight: GDELT; hot terms: 中国, 美国, 军事, 制裁
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260821T224500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | 制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 千龙网 · 中国首都网
+> **标题**：制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 千龙网 · 中国首都网
+> **原文链接**：🔗 [打开原文](https://world.qianlong.com/2026/0812/8711047.shtml)
+> **source**：GDELT / world.qianlong.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：政治/军事
+> **rank**：#4
+> **reason**：rank #4; cross-source x3; source weight: GDELT; hot terms: 中国, 美国, 军事, 外交
+> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
+> **summary**：20260812T064500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | 美点名要求加入针对伊朗经济制裁 中方作出回应
+> **标题**：美点名要求加入针对伊朗经济制裁 中方作出回应
+> **原文链接**：🔗 [打开原文](https://www.wenxuecity.com/news/2026/08/21/126749340.html)
+> **source**：GDELT / wenxuecity.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：政治/军事
+> **rank**：#2
+> **reason**：rank #2; cross-source x3; source weight: GDELT; hot terms: 美国, 军事, 制裁
+> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
+> **summary**：20260821T173000Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -476,51 +510,17 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 95** | 制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 千龙网 · 中国首都网
-> **标题**：制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 千龙网 · 中国首都网
-> **原文链接**：🔗 [打开原文](https://world.qianlong.com/2026/0812/8711047.shtml)
-> **source**：GDELT / world.qianlong.com
+> [!info]+ **今日必须看 / 94** | 制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 西部网 （ 陕西新闻网 ）
+> **标题**：制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 西部网 （ 陕西新闻网 ）
+> **原文链接**：🔗 [打开原文](http://news.cnwest.com/szyw/a/2026/08/12/23411732.html)
+> **source**：GDELT / news.cnwest.com
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：政治/军事
-> **rank**：#4
-> **reason**：rank #4; cross-source x2; source weight: GDELT; hot terms: 中国, 美国, 军事, 外交
+> **rank**：#8
+> **reason**：rank #8; cross-source x3; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260812T064500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | 美点名要求加入针对伊朗经济制裁 中方作出回应
-> **标题**：美点名要求加入针对伊朗经济制裁 中方作出回应
-> **原文链接**：🔗 [打开原文](https://www.wenxuecity.com/news/2026/08/21/126749340.html)
-> **source**：GDELT / wenxuecity.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#2
-> **reason**：rank #2; cross-source x2; source weight: GDELT; hot terms: 美国, 军事, 制裁
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260821T173000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 94** | Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Yahoo Finance
-> **标题**：Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Yahoo Finance
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUF9oRExlOUE1eWZncXFtUDktNDlVR2JkRlliWjVoVkNnMHptWDBETk1tRUcxaTZrVk1OX2V3YURQX1YyaFNmZGRzdGhkOFltRmtWU0dsaXE4NEFweG1zSE5MdkRmX2I0eUlHZWtRSnpfQ3U4RGlTdVJ2am9XTmo2c1FpT1A5T2ZKTVZnQzF4V1BxdWVaZ0xfdGF1TUc1RjNRVHc?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#4
-> **reason**：rank #4; cross-source x2; source weight: Google News; hot terms: ai, us, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports Yahoo Finance
+> **summary**：20260812T041500Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -558,7 +558,7 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#3
-> **reason**：rank #3; cross-source x4; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
+> **reason**：rank #3; cross-source x5; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260812T021500Z
 >
@@ -575,9 +575,43 @@ tags:
 > **region**：美国/国际
 > **category**：政治/军事
 > **rank**：#1
-> **reason**：rank #1; cross-source x2; source weight: GDELT; hot terms: 中国, 美国, 军事, 制裁
+> **reason**：rank #1; cross-source x3; source weight: GDELT; hot terms: 中国, 美国, 军事, 制裁
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260821T224500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | 制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 千龙网 · 中国首都网
+> **标题**：制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 千龙网 · 中国首都网
+> **原文链接**：🔗 [打开原文](https://world.qianlong.com/2026/0812/8711047.shtml)
+> **source**：GDELT / world.qianlong.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：政治/军事
+> **rank**：#4
+> **reason**：rank #4; cross-source x3; source weight: GDELT; hot terms: 中国, 美国, 军事, 外交
+> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
+> **summary**：20260812T064500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | 美点名要求加入针对伊朗经济制裁 中方作出回应
+> **标题**：美点名要求加入针对伊朗经济制裁 中方作出回应
+> **原文链接**：🔗 [打开原文](https://www.wenxuecity.com/news/2026/08/21/126749340.html)
+> **source**：GDELT / wenxuecity.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：政治/军事
+> **rank**：#2
+> **reason**：rank #2; cross-source x3; source weight: GDELT; hot terms: 美国, 军事, 制裁
+> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
+> **summary**：20260821T173000Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -663,40 +697,6 @@ tags:
 > **reason**：rank #4; cross-source x3; source weight: Google News; hot terms: 美国, china, us
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
 > **summary**：China ‘Not Playing by the Rules,’ German Finance Minister Says Bloomberg.com
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 96** | 特朗普曾批台 偷走芯片业 赖清德赠张忠谋自传盼促理解
-> **标题**：特朗普曾批台 偷走芯片业 赖清德赠张忠谋自传盼促理解
-> **原文链接**：🔗 [打开原文](https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E6%89%B9%E5%8F%B0%E5%81%B7%E8%B5%B0%E8%8A%AF%E7%89%87%E4%B8%9A-%E8%B5%96%E6%B8%85%E5%BE%B7%E8%B5%A0%E5%BC%A0%E5%BF%A0%E8%B0%8B%E8%87%AA%E4%BC%A0%E7%9B%BC%E4%BF%83%E7%90%86%E8%A7%A3/a-77321882)
-> **source**：GDELT / dw.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#5
-> **reason**：rank #5; cross-source x5; source weight: GDELT; hot terms: 美国, 芯片
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260528T070000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 96** | China rejects US claim that Myanmar analyst wrongfully detained - Al Jazeera
-> **标题**：China rejects US claim that Myanmar analyst wrongfully detained - Al Jazeera
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMipwFBVV95cUxObGxoWlRCdEhhbXVzX1NSbVhBdEt5WUJaa2VpalJkcUptMUdubExVQ0Q1cnJlNHdTdmJfYTFfMnNMUGk4bm13U2lQdEJFS2VxeXhZam85UmxiZC1JaXNBZVVObUpZYUxPMlo2eG9iVUktbnMydUJCZXY2YTJqUUR1aUFJd1J0S1Q1WkVwMk1QQ2x0dFQ0czdrbWtEaXJyZzh6VXJVdnBiY9IBrAFBVV95cUxOc1BRS1BpY0ljV2V2dGZJbjUzVmdjRDdkWEhoNkZQRTc0TDlQWFVyNEY5TFJGd1JKT0d6TWk4alV1UmZTd1hUQzJMenNVbUJ4SDlxMnJXdlpwd01IV1BtVmNDWTR6ZG5HWFBTV3hOWEY3STdnMEtVVWREdEYwbm1MZDZzaTUxcVYxWHp6ejBJOHlIUzB1VDBpRkZzQnFGVFV2emhTdkJJRnpuTnRi?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#3
-> **reason**：rank #3; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China rejects US claim that Myanmar analyst wrongfully detained Al Jazeera
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -739,6 +739,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 97** | Flock cameras join data centers as a top AI boogeyman in 2026 midterms - Axios
+> **标题**：Flock cameras join data centers as a top AI boogeyman in 2026 midterms - Axios
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdFlaanA3bFBuX0hvcEphTnVnMi1oNmdRZjJoTG9HdDQ3dVpWeUVMT1FSM21CM2R0SWVlYzNrWFhqVVN6ck9tbzk2Zm5keTIzYmpUYllfa042OF9rZFJfd0FreVFBN3NEM05NM3Z3ellQMlNPQXAzUlhEaWdxUWRETkhSMlpISXdZ?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Flock cameras join data centers as a top AI boogeyman in 2026 midterms Axios
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 96** | 特朗普曾批台 偷走芯片业 赖清德赠张忠谋自传盼促理解
 > **标题**：特朗普曾批台 偷走芯片业 赖清德赠张忠谋自传盼促理解
 > **原文链接**：🔗 [打开原文](https://www.dw.com/zh/%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E6%89%B9%E5%8F%B0%E5%81%B7%E8%B5%B0%E8%8A%AF%E7%89%87%E4%B8%9A-%E8%B5%96%E6%B8%85%E5%BE%B7%E8%B5%A0%E5%BC%A0%E5%BF%A0%E8%B0%8B%E8%87%AA%E4%BC%A0%E7%9B%BC%E4%BF%83%E7%90%86%E8%A7%A3/a-77321882)
@@ -756,6 +773,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 95** | SpaceXAI Adopts NVIDIA Vera CPU to Accelerate Agentic AI at Massive Scale - NVIDIA Newsroom
+> **标题**：SpaceXAI Adopts NVIDIA Vera CPU to Accelerate Agentic AI at Massive Scale - NVIDIA Newsroom
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0VWYXd5MnAyUzdGRDB5YkJsdzk4ZW5zbDZnTUdRNVZDS1d1dE5ISUVkVzUyUmRLcDBjNzJLQ1dWMUNkUUI3MWxIT2xZWHp6bndLYy1hM2I2ZnF1emNZRWh5ZzAxQzVYWEI3ZTFVZzJpUjhLQ05rTmVybjVkeWNfMmtMQlFPSTZGX0ZPNnRIdDJ5bmoyZlJ6TVppbHVkWnJnVmJlMU1JNDhpV1VY?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：SpaceXAI Adopts NVIDIA Vera CPU to Accelerate Agentic AI at Massive Scale NVIDIA Newsroom
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 94** | Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Yahoo Finance
 > **标题**：Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Yahoo Finance
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUF9oRExlOUE1eWZncXFtUDktNDlVR2JkRlliWjVoVkNnMHptWDBETk1tRUcxaTZrVk1OX2V3YURQX1YyaFNmZGRzdGhkOFltRmtWU0dsaXE4NEFweG1zSE5MdkRmX2I0eUlHZWtRSnpfQ3U4RGlTdVJ2am9XTmo2c1FpT1A5T2ZKTVZnQzF4V1BxdWVaZ0xfdGF1TUc1RjNRVHc?oc=5)
@@ -767,6 +801,23 @@ tags:
 > **reason**：rank #4; cross-source x2; source weight: Google News; hot terms: ai, us, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports Yahoo Finance
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 93** | Intel Outlines Architectures for Agentic AI at Hot Chips 2026 - Intel Newsroom
+> **标题**：Intel Outlines Architectures for Agentic AI at Hot Chips 2026 - Intel Newsroom
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR3pPUGQ5SFlqYndHbURabk5kUzE5d09FRDIxR3BRX0dhb29DT3JtX051cXY5VXlJcFE2aHgydmFUSnNQUmJwclJZQkNJaWhScExRQTNSeTcyUlJsN2UzekJkUXhBRWdFT1BqZjgyekJyQzRTMXdRU3I5c1RHdDFlMV91aGVieTJXMFVpWlRYOWpkUE1Rd2xMeHNGOXhUTlRoR194dmZUbVQ?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#5
+> **reason**：rank #5; source weight: Google News; hot terms: ai, chips, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Intel Outlines Architectures for Agentic AI at Hot Chips 2026 Intel Newsroom
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -807,68 +858,17 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 90** | Tech Self - Reliance Eludes Beijing
-> **标题**：Tech Self - Reliance Eludes Beijing
-> **原文链接**：🔗 [打开原文](https://www.theepochtimes.com/opinion/tech-self-reliance-eludes-beijing-6060662)
-> **source**：GDELT / theepochtimes.com
+> [!info]+ **今日必须看 / 91** | Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills - CNBC
+> **标题**：Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills - CNBC
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMigAFBVV95cUxOQUhxcnhmTUVlMTRPYUM1TXZvY3RabEEtcDl5b3lnazJoYlZoNFhQZTVPa1ZnNG1lSTk3TVNfcjFXcjdUeERhMVV2dTEzMWxiN2g5YWY0SG5MWkpVSFhLR1p5RndmYWlxcUNxTVhzSU92dlBIbzJUcnNlWU9QV1JJS9IBhgFBVV95cUxQQnpMUGI2d3JsZF83ZGJBYVhaeFMtQmVUY1dQSjF4Y2t1S3R6RUg4ZUQxSjdKLWhfLUJ3NHd6VjhBeTFsY1B1aVNFb1Z1bFByeTZUYVBnUG9ZdFRKYzRHSy1xdl9iQkk4a09CdnFSREwzS20tUVlWczNVaEFFRmM4dGJNek9XZw?oc=5)
+> **source**：Google News / Global Markets Tech
 > **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
+> **region**：国际
+> **category**：财经/科技
 > **rank**：#4
-> **reason**：rank #4; cross-source x3; source weight: GDELT; hot terms: 美国
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260716T221500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 89** | Taïwan : enquête sur 17 entreprises financées par la Chine pour débaucher des talents technologiques
-> **标题**：Taïwan : enquête sur 17 entreprises financées par la Chine pour débaucher des talents technologiques
-> **原文链接**：🔗 [打开原文](https://www.sudouest.fr:443/international/asie/taiwan/taiwan-enquete-sur-17-entreprises-financees-par-la-chine-pour-debaucher-des-talents-technologiques-30168162.php)
-> **source**：GDELT / sudouest.fr
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#1
-> **reason**：rank #1; cross-source x2; source weight: GDELT; hot terms: 美国
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260805T080000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 89** | The Brains Who Powered China’s Surprising AI Leap - WSJ
-> **标题**：The Brains Who Powered China’s Surprising AI Leap - WSJ
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMickFVX3lxTFBjWE5CYjA1SjdibGl2UXJ5cmJkRm43NHZkU29wSTM3Rm9faUFqbTUzdmplcWwwcDFTbE80M3dSNzdXRDJnZVVCc2N6Tlh6M0hwNy1HRXJ6eGJYMDk0ZFN6T3FvRU1ybXhGRFl4bXl4dDRPZw?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#3
-> **reason**：rank #3; source weight: Google News; hot terms: ai, china, ai, markets
+> **reason**：rank #4; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：The Brains Who Powered China’s Surprising AI Leap WSJ
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 89** | Inside Big Tech’s Frantic Race to Quell the Growing Backlash to AI - WSJ
-> **标题**：Inside Big Tech’s Frantic Race to Quell the Growing Backlash to AI - WSJ
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMioAFBVV95cUxOd0ZMN28xd2NTdzNCbllaLVFGVkVDaGJlMkZOOU1xMlplVjR6ZnpoRVcxT0ZYMFdDcDJCN3p1SHdYT00waFVkT0loNGxMcXN0NFpyVzZJbzE5R3hsaHhTM2xZWUREOTdyN0R3RmJ3ajNzd2lFRGlUOVlZckVzQTRUYVJzeWFVZEwwSzY1QW84NGJfM3B4OWNMWkpFZHBiS3NI?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Inside Big Tech’s Frantic Race to Quell the Growing Backlash to AI WSJ
+> **summary**：Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills CNBC
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
