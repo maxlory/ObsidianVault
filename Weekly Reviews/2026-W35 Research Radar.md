@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W35
-date: 2026-08-25
+date: 2026-08-26
 tags:
   - weekly-review
   - research-radar
@@ -10,14 +10,14 @@ tags:
 
 ## 本周趋势
 
-> [!info]+ **今日必须看 / 91** | Show HN: Agents Workbook watch Claude Code, Codex write down their working notes
-> **标题**：Show HN: Agents Workbook watch Claude Code, Codex write down their working notes
-> **原文链接**：🔗 [打开原文](https://github.com/softcane/agents-workbook)
-> **source**：Hacker News
-> **kind**：`community`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
-> **follow_up**：阅读讨论区，提炼争议点和实践经验。
-> **summary**：5 points | 3 comments
+> [!info]+ **今日必须看 / 89** | brightwave-inc/tidebreak
+> **标题**：brightwave-inc/tidebreak
+> **原文链接**：🔗 [打开原文](https://github.com/brightwave-inc/tidebreak)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, mcp, codex
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Open-source, local-first desktop for AI coding agents and document work. Run Claude Code, Codex CLI, opencode, and Grok CLI in isolated Git worktrees.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -31,19 +31,6 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：You, multiplied. Mission control for Claude Code, Codex, and OpenCode: see every session, approve what your agents do, and run them on a schedule. Self-hosted, MIT.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | imbflool/cc-plugin-eval
-> **标题**：imbflool/cc-plugin-eval
-> **原文链接**：🔗 [打开原文](https://github.com/imbflool/cc-plugin-eval)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, llm; high-value terms: agent, agents, claude code, eval
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：🚀 Automate the evaluation of Claude Code plugin components to ensure accurate triggering of skills, agents, commands, and hooks.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -140,9 +127,35 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | HarjjotSinghh/reinstate
+> **标题**：HarjjotSinghh/reinstate
+> **原文链接**：🔗 [打开原文](https://github.com/HarjjotSinghh/reinstate)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Find, resume, and hand off Claude Code and Codex sessions across machines — encrypted, your own bucket.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 
 ## 值得试用的工具 / 模型
 
+> [!info]+ **今日必须看 / 89** | brightwave-inc/tidebreak
+> **标题**：brightwave-inc/tidebreak
+> **原文链接**：🔗 [打开原文](https://github.com/brightwave-inc/tidebreak)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, mcp, codex
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Open-source, local-first desktop for AI coding agents and document work. Run Claude Code, Codex CLI, opencode, and Grok CLI in isolated Git worktrees.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | dork-labs/dorkos
 > **标题**：dork-labs/dorkos
 > **原文链接**：🔗 [打开原文](https://github.com/dork-labs/dorkos)
@@ -151,19 +164,6 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：You, multiplied. Mission control for Claude Code, Codex, and OpenCode: see every session, approve what your agents do, and run them on a schedule. Self-hosted, MIT.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | imbflool/cc-plugin-eval
-> **标题**：imbflool/cc-plugin-eval
-> **原文链接**：🔗 [打开原文](https://github.com/imbflool/cc-plugin-eval)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, llm; high-value terms: agent, agents, claude code, eval
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：🚀 Automate the evaluation of Claude Code plugin components to ensure accurate triggering of skills, agents, commands, and hooks.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -211,6 +211,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 77** | LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform
+> **标题**：LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.21374)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, research; high-value terms: agent, agents, eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2608.21374v1 Announce Type: new Abstract: Literature reviews are essential to scientific progress, but rigorously evaluating automatically generated reviews remains difficult because many aspects of research utility depend on expert judgment rather than reference-overlap metrics. We introduce...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 77** | Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory
 > **标题**：Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory
 > **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.20397)
@@ -237,14 +250,27 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 77** | Toward Safe LLM Agents: A Survey of Specification, Verification, and Enforcement
-> **标题**：Toward Safe LLM Agents: A Survey of Specification, Verification, and Enforcement
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.14590)
-> **source**：cs.AI updates on arXiv.org
+> [!info]+ **今日必须看 / 77** | Agentic Security: A Systematization of Tools, Failure Modes, and Design Laws for LLM-Driven Penetration Testing
+> **标题**：Agentic Security: A Systematization of Tools, Failure Modes, and Design Laws for LLM-Driven Penetration Testing
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.21423)
+> **source**：cs.CL updates on arXiv.org
 > **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, api
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, security
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2608.14590v1 Announce Type: new Abstract: LLM agents increasingly perform irreversible real-world actions, including database updates, API calls, file operations, and autonomous use of tools. However, no existing system provides formally grounded, task-level safety guarantees for the plans th...
+> **summary**：arXiv:2608.21423v1 Announce Type: new Abstract: Agentic security uses large-language-model (LLM) agents to plan, dispatch, and interpret security tools. As these systems move from demonstrations to deployed products, practitioners repeatedly encounter the same operational failures. We systematize t...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 77** | Forgotten in Weights, Recovered by Tools: Agentic Tool Unlearning for LLM Agents
+> **标题**：Forgotten in Weights, Recovered by Tools: Agentic Tool Unlearning for LLM Agents
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.21544)
+> **source**：cs.CL updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2608.21544v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as tool-augmented agents, where responses can depend on tool calls and external observations rather than model parameters alone. This creates an evaluation mismatch for LLM unlearning: previous un...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -263,35 +289,22 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **可延后 / 73** | Looped Language Models Improve Compositional Tool Calling
-> **标题**：Looped Language Models Improve Compositional Tool Calling
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.18171)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, benchmark; high-value terms: benchmark, agent, api, reasoning
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2608.18171v1 Announce Type: new Abstract: Looped language models have shown promising results on reasoning benchmarks, yet their potential for agentic tool use remains largely unexplored. We study this question in compositional tool-calling settings, where models must coordinate multiple API...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **可延后 / 70** | Position: Multi-Agent Systems Should Prioritize Concurrency Control
-> **标题**：Position: Multi-Agent Systems Should Prioritize Concurrency Control
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.18092)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2608.18092v1 Announce Type: new Abstract: LLM-based multi-agent systems (MAS) promise scalable collaboration, yet adding agents often reduces reliability. This position paper argues that many MAS failures are fundamentally concurrency control problems: agents concurrently read and write share...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 
 ## 反复出现的信号
 
+> [!info]+ **今日必须看 / 89** | brightwave-inc/tidebreak
+> **标题**：brightwave-inc/tidebreak
+> **原文链接**：🔗 [打开原文](https://github.com/brightwave-inc/tidebreak)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, mcp, codex
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Open-source, local-first desktop for AI coding agents and document work. Run Claude Code, Codex CLI, opencode, and Grok CLI in isolated Git worktrees.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | dork-labs/dorkos
 > **标题**：dork-labs/dorkos
 > **原文链接**：🔗 [打开原文](https://github.com/dork-labs/dorkos)
@@ -300,19 +313,6 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：You, multiplied. Mission control for Claude Code, Codex, and OpenCode: see every session, approve what your agents do, and run them on a schedule. Self-hosted, MIT.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | imbflool/cc-plugin-eval
-> **标题**：imbflool/cc-plugin-eval
-> **原文链接**：🔗 [打开原文](https://github.com/imbflool/cc-plugin-eval)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, llm; high-value terms: agent, agents, claude code, eval
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：🚀 Automate the evaluation of Claude Code plugin components to ensure accurate triggering of skills, agents, commands, and hooks.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -370,6 +370,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | wlsdks/ontology-atlas
+> **标题**：wlsdks/ontology-atlas
+> **原文链接**：🔗 [打开原文](https://github.com/wlsdks/ontology-atlas)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, obsidian, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Understand what your AI agents are building. Agent-native, human-sovereign ontology workbench — one markdown graph humans and coding agents read, write, and keep fresh together. Local-first, MCP-native, open source.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 85** | decocms/studio
 > **标题**：decocms/studio
 > **原文链接**：🔗 [打开原文](https://github.com/decocms/studio)
@@ -404,19 +417,6 @@ tags:
 > **reason**：matches topics: agent, claude code, llm, mcp; high-value terms: agent, mcp, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with an operator syntax; export as native skills to Claude Code, Cursor, OpenCode, and Gemini CLI.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | zeroshotmind/chief
-> **标题**：zeroshotmind/chief
-> **原文链接**：🔗 [打开原文](https://github.com/zeroshotmind/chief)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Your agents plan, you approve, Chief keeps the record. A local tracker for agentic workflows: plans arrive as drafts, mid-run changes pause for your decision, everything lands in an audit log.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
