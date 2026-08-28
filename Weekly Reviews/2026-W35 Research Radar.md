@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W35
-date: 2026-08-27
+date: 2026-08-28
 tags:
   - weekly-review
   - research-radar
@@ -75,19 +75,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | jmylchreest/aide
-> **标题**：jmylchreest/aide
-> **原文链接**：🔗 [打开原文](https://github.com/jmylchreest/aide)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, claude code, codex, mcp; high-value terms: agent, mcp, codex, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code, OpenCode and Codex.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | corbet-labs/cfetch
 > **标题**：corbet-labs/cfetch
 > **原文链接**：🔗 [打开原文](https://github.com/corbet-labs/cfetch)
@@ -135,6 +122,19 @@ tags:
 > **reason**：matches topics: agent, agents, mcp, research; high-value terms: agent, agents, mcp, security
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：A security-first MCP server that empowers AI agents to perform automated reverse engineering, malware analysis, forensics, vulnerability research, and SAST — powered by Radare2, YARA, LIEF, Capstone, and more.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | HarjjotSinghh/reinstate
+> **标题**：HarjjotSinghh/reinstate
+> **原文链接**：🔗 [打开原文](https://github.com/HarjjotSinghh/reinstate)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Find, resume, and hand off Claude Code and Codex sessions across machines — encrypted, your own bucket.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -237,32 +237,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 77** | LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform
-> **标题**：LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.21374)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, research; high-value terms: agent, agents, eval
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2608.21374v1 Announce Type: new Abstract: Literature reviews are essential to scientific progress, but rigorously evaluating automatically generated reviews remains difficult because many aspects of research utility depend on expert judgment rather than reference-overlap metrics. We introduce...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 77** | Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory
-> **标题**：Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.20397)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, llm, mcp; high-value terms: agent, mcp, eval
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2608.20397v1 Announce Type: new Abstract: Agentic large language models (LLMs) on the Model Context Protocol (MCP) re-encode verbose tool schemas every turn, so prefill - quadratic in sequence length - dominates time-to-first-token (TTFT) as the tool registry grows. Nexus's primary lever is t...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 77** | LLM Agents Perform Controlled Experiments Using Simulation Models
 > **标题**：LLM Agents Perform Controlled Experiments Using Simulation Models
 > **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.23622)
@@ -284,6 +258,32 @@ tags:
 > **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, eval
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
 > **summary**：arXiv:2608.23631v1 Announce Type: new Abstract: Multi-objective materials discovery with LLM agents is often limited not only by how many candidates can be proposed, but by how effectively each costly property evaluation informs the next search step. Existing agents mainly store evaluated candidate...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 77** | LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform
+> **标题**：LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.21374)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, research; high-value terms: agent, agents, eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2608.21374v1 Announce Type: new Abstract: Literature reviews are essential to scientific progress, but rigorously evaluating automatically generated reviews remains difficult because many aspects of research utility depend on expert judgment rather than reference-overlap metrics. We introduce...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 77** | Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory
+> **标题**：Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.20397)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, llm, mcp; high-value terms: agent, mcp, eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2608.20397v1 Announce Type: new Abstract: Agentic large language models (LLMs) on the Model Context Protocol (MCP) re-encode verbose tool schemas every turn, so prefill - quadratic in sequence length - dominates time-to-first-token (TTFT) as the tool registry grows. Nexus's primary lever is t...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -357,32 +357,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | jmylchreest/aide
-> **标题**：jmylchreest/aide
-> **原文链接**：🔗 [打开原文](https://github.com/jmylchreest/aide)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, claude code, codex, mcp; high-value terms: agent, mcp, codex, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Multi-agent orchestration, persistent memory, and intelligent workflows for AI coding assistants. Supports Claude Code, OpenCode and Codex.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 86** | Feature Request: Support AGENTS.md
-> **标题**：Feature Request: Support AGENTS.md
-> **原文链接**：🔗 [打开原文](https://github.com/anthropics/claude-code/issues/6235)
-> **source**：Hacker News
-> **kind**：`community`
-> **reason**：matches topics: agent, agents, anthropic; high-value terms: agent, agents; strong public engagement
-> **follow_up**：阅读讨论区，提炼争议点和实践经验。
-> **summary**：351 points | 215 comments
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 85** | wlsdks/ontology-atlas
 > **标题**：wlsdks/ontology-atlas
 > **原文链接**：🔗 [打开原文](https://github.com/wlsdks/ontology-atlas)
@@ -396,19 +370,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | decocms/studio
-> **标题**：decocms/studio
-> **原文链接**：🔗 [打开原文](https://github.com/decocms/studio)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Open-source control plane for your AI agents. Connect tools, hire agents, track every token and dollar
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 85** | hiper2d/marlow
 > **标题**：hiper2d/marlow
 > **原文链接**：🔗 [打开原文](https://github.com/hiper2d/marlow)
@@ -417,6 +378,45 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, research; high-value terms: agent, agents, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Long-loop agent experiment: Werewolf ops + AI safety research stream. Runs on Claude Code.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | shaylaisotonic44/pcloud-mcp
+> **标题**：shaylaisotonic44/pcloud-mcp
+> **原文链接**：🔗 [打开原文](https://github.com/shaylaisotonic44/pcloud-mcp)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Connect pCloud storage to AI agents using this Model Context Protocol server written in Go.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | minipuft/claude-prompts-mcp
+> **标题**：minipuft/claude-prompts-mcp
+> **原文链接**：🔗 [打开原文](https://github.com/minipuft/claude-prompts-mcp)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, claude code, llm, mcp; high-value terms: agent, mcp, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：MCP server for reusable prompt templates, multi-step workflow chains, and quality gates. Compose agentic workflows with an operator syntax; export as native skills to Claude Code, Cursor, OpenCode, and Gemini CLI.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | zeroshotmind/chief
+> **标题**：zeroshotmind/chief
+> **原文链接**：🔗 [打开原文](https://github.com/zeroshotmind/chief)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Your agents plan, you approve, Chief keeps the record. A local tracker for agentic workflows: plans arrive as drafts, mid-run changes pause for your decision, everything lands in an audit log.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库

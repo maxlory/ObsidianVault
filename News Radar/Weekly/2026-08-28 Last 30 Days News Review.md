@@ -1,19 +1,36 @@
 ---
-title: News Radar Week 2026-W35
+title: News Radar Last 30 Days 2026-08-28
 date: 2026-08-28
 tags:
   - news-radar
-  - weekly-review
+  - last30days-review
 ---
 
-# 2026-W35 News Radar
+# 2026-08-28 Last 30 Days News Review
 
 ## 复盘方法
 
-- 汇总过去 7 天持续升温和跨来源重复出现的议题。
+- 借鉴 last30days-skill：近期变化、关键节点、趋势判断、后续观察。
 - 排序原则：先看热度和重复出现，再看分类标签。
 
 ## 过去阶段最高热度
+
+> [!info]+ **今日必须看 / 100** | États - Unis : feu vert pour les puces H200 vers la Chine , Nvidia en quête de percée
+> **标题**：États - Unis : feu vert pour les puces H200 vers la Chine , Nvidia en quête de percée
+> **原文链接**：🔗 [打开原文](https://www.tuniscope.com/article/431817/tech/high-tech/puces-nvidia-h200-2303888)
+> **source**：GDELT / tuniscope.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#1
+> **reason**：rank #1; cross-source x17; source weight: GDELT; hot terms: 美国
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260514T191500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 
 > [!info]+ **今日必须看 / 100** | US Space Chipmaking Bill vs China
 > **标题**：US Space Chipmaking Bill vs China
@@ -83,6 +100,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 100** | EXCLUSIVE: Chinese military researchers tap US AI models to train defence systems - Reuters
+> **标题**：EXCLUSIVE: Chinese military researchers tap US AI models to train defence systems - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRlZKM1E4OTlVQnVjUUs0ZEVFY2hxZHNvd2VHb0dabWZnbFZKTjJzemRrUkJsNS14blJPcDlmREZMbzdXekNqcWdSVnpQSG82YndnMUJ5TElaNlRBYkRWMlVfU2dWTWdDY1kxa2ZjNnhtQko1Nnd3QkZ1eUhIMVI1MU1wVjFTZ1N4WHE2UnBzVHp0QzBjMzI4RWlnVkVWMmVvTkxWeExNZUlFeE52WHhsdFZJSXlfNld4RFdjMVNNQQ?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#2
+> **reason**：rank #2; cross-source x4; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：EXCLUSIVE: Chinese military researchers tap US AI models to train defence systems Reuters
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 100** | 美点名要求加入针对伊朗经济制裁 中方作出回应
 > **标题**：美点名要求加入针对伊朗经济制裁 中方作出回应
 > **原文链接**：🔗 [打开原文](https://www.wenxuecity.com/news/2026/08/21/126749340.html)
@@ -145,6 +179,23 @@ tags:
 > **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
 > **summary**：The Risks of Downplaying China’s Military War on the Rocks
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC
+> **标题**：Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihAFBVV95cUxPYU55bUVtSkMySDZUS2RPRWpBTTRRZHhucjFpaUxWM0RoV0NuMVFPNFh1T29XMkpSR1NYRm5Oc1hUc1hnWTNVOXd5T29qXzNVTWdxRWxpal9oT1VCNk1kQVNYeW9fVDBZNG1jODVJNHN3R0lMQ19KSmwtY2JNQXM1V3ptYk7SAYoBQVVfeXFMTmt2WjUtTThxd2gzZnhqcW8wejI3WWdRNDlaZGFLaVFTZXQyZ0tkLW80RW4wSXFoMDBlNTVjZ1pnNFBpQzBQZjJFY0xHQ3Q5S2p4OHdSV05QZi01eG5XcFFmOGVHWmV6MndsZ2dNNU9NLU9FVHUzMkpmaE1DTGVEcS12NXBHcl9CWlJ3?oc=5)
+> **source**：Google News / China US Hot News, Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合 / 财经/科技
+> **rank**：#1
+> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China CNBC
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -168,6 +219,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 98** | Китай получава по 500 млн . долара на час от износ , подкрепен от АІ
+> **标题**：Китай получава по 500 млн . долара на час от износ , подкрепен от АІ
+> **原文链接**：🔗 [打开原文](https://www.investor.bg/a/459-harduer/430462-kitay-poluchava-po-500-mln-dolara-na-chas-ot-iznos-podkrepen-ot-a)
+> **source**：GDELT / investor.bg
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#2
+> **reason**：rank #2; cross-source x17; source weight: GDELT; hot terms: 美国
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260512T183000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 98** | Тайван налага по - строг контрол над AI чиповете за Китай - ще има ли отговор ?
 > **标题**：Тайван налага по - строг контрол над AI чиповете за Китай - ще има ли отговор ?
 > **原文链接**：🔗 [打开原文](https://money.bg/economics/tayvan-nalaga-po-strog-kontrol-nad-ai-chipovete-za-kitay-shte-ima-li-otgovor.html)
@@ -202,75 +270,24 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 98** | China’s Military Says AI Can’t Replace Commanders. Xi Is Testing That - War on the Rocks
-> **标题**：China’s Military Says AI Can’t Replace Commanders. Xi Is Testing That - War on the Rocks
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3Y3YW9hZGhMdzh1Mzg5U0lDR2dfLWVaWWcwSlAxUUZJbGh2R1JXSXQ0V2RkTTl6ZndxZ2djVHFTZW96WWpmemJwVXhTMFZuTmtuRnBUTG1DLUM2a1NJQjJkdTJtM01BSDBuSXlxSXAyLThRXzNsMlJmZUJoUVQxZWpCZEZEQU1NWW9QeEFuM1V2aVpWTnNTSA?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#2
-> **reason**：rank #2; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China’s Military Says AI Can’t Replace Commanders. Xi Is Testing That War on the Rocks
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
+## 反复出现的议题
 
-> [!info]+ **今日必须看 / 97** | China ‘Not Playing by the Rules,’ German Finance Minister Says - Bloomberg.com
-> **标题**：China ‘Not Playing by the Rules,’ German Finance Minister Says - Bloomberg.com
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVDd4U0hwcjlQQkZjaFN5TG1BWG0xdHR3SlVkTUxlUXdBU2E3V1k3cHV2NkRFMGtwMk9iY2dWa2hhZ2phbnc5aFotU0F6dlU4aGtVQXBQR1FvSHJiTkk4TEMydTRXTEdlZ1JwSWdMZVNHNHA0WV9CSFZoanp4X3BOYXdyVEgyNVJSLUFHcTY0Wk5wUlJPamZaOXhrZWRtSm5oejV0NkZPZHpZRklBYTdn?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#4
-> **reason**：rank #4; cross-source x3; source weight: Google News; hot terms: 美国, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China ‘Not Playing by the Rules,’ German Finance Minister Says Bloomberg.com
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 97** | The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com
-> **标题**：The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：The turbulent AI era is here. The choices we make now are critical. gatesnotes.com
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 96** | Taïwan : enquête sur 17 entreprises financées par la Chine pour débaucher des talents technologiques
-> **标题**：Taïwan : enquête sur 17 entreprises financées par la Chine pour débaucher des talents technologiques
-> **原文链接**：🔗 [打开原文](https://www.sudouest.fr:443/international/asie/taiwan/taiwan-enquete-sur-17-entreprises-financees-par-la-chine-pour-debaucher-des-talents-technologiques-30168162.php)
-> **source**：GDELT / sudouest.fr
+> [!info]+ **今日必须看 / 100** | États - Unis : feu vert pour les puces H200 vers la Chine , Nvidia en quête de percée
+> **标题**：États - Unis : feu vert pour les puces H200 vers la Chine , Nvidia en quête de percée
+> **原文链接**：🔗 [打开原文](https://www.tuniscope.com/article/431817/tech/high-tech/puces-nvidia-h200-2303888)
+> **source**：GDELT / tuniscope.com
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：科技
 > **rank**：#1
-> **reason**：rank #1; cross-source x3; source weight: GDELT; hot terms: 美国
+> **reason**：rank #1; cross-source x17; source weight: GDELT; hot terms: 美国
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260805T080000Z
+> **summary**：20260514T191500Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-
-## 反复出现的议题
 
 > [!info]+ **今日必须看 / 100** | US Space Chipmaking Bill vs China
 > **标题**：US Space Chipmaking Bill vs China
@@ -334,6 +351,23 @@ tags:
 > **reason**：rank #4; cross-source x4; source weight: GDELT; hot terms: 中国, 美国, 军事, 外交
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260812T064500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | EXCLUSIVE: Chinese military researchers tap US AI models to train defence systems - Reuters
+> **标题**：EXCLUSIVE: Chinese military researchers tap US AI models to train defence systems - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRlZKM1E4OTlVQnVjUUs0ZEVFY2hxZHNvd2VHb0dabWZnbFZKTjJzemRrUkJsNS14blJPcDlmREZMbzdXekNqcWdSVnpQSG82YndnMUJ5TElaNlRBYkRWMlVfU2dWTWdDY1kxa2ZjNnhtQko1Nnd3QkZ1eUhIMVI1MU1wVjFTZ1N4WHE2UnBzVHp0QzBjMzI4RWlnVkVWMmVvTkxWeExNZUlFeE52WHhsdFZJSXlfNld4RFdjMVNNQQ?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#2
+> **reason**：rank #2; cross-source x4; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：EXCLUSIVE: Chinese military researchers tap US AI models to train defence systems Reuters
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -408,6 +442,40 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 100** | Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC
+> **标题**：Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihAFBVV95cUxPYU55bUVtSkMySDZUS2RPRWpBTTRRZHhucjFpaUxWM0RoV0NuMVFPNFh1T29XMkpSR1NYRm5Oc1hUc1hnWTNVOXd5T29qXzNVTWdxRWxpal9oT1VCNk1kQVNYeW9fVDBZNG1jODVJNHN3R0lMQ19KSmwtY2JNQXM1V3ptYk7SAYoBQVVfeXFMTmt2WjUtTThxd2gzZnhqcW8wejI3WWdRNDlaZGFLaVFTZXQyZ0tkLW80RW4wSXFoMDBlNTVjZ1pnNFBpQzBQZjJFY0xHQ3Q5S2p4OHdSV05QZi01eG5XcFFmOGVHWmV6MndsZ2dNNU9NLU9FVHUzMkpmaE1DTGVEcS12NXBHcl9CWlJ3?oc=5)
+> **source**：Google News / China US Hot News, Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合 / 财经/科技
+> **rank**：#1
+> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China CNBC
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 98** | Китай получава по 500 млн . долара на час от износ , подкрепен от АІ
+> **标题**：Китай получава по 500 млн . долара на час от износ , подкрепен от АІ
+> **原文链接**：🔗 [打开原文](https://www.investor.bg/a/459-harduer/430462-kitay-poluchava-po-500-mln-dolara-na-chas-ot-iznos-podkrepen-ot-a)
+> **source**：GDELT / investor.bg
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#2
+> **reason**：rank #2; cross-source x17; source weight: GDELT; hot terms: 美国
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260512T183000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 98** | Тайван налага по - строг контрол над AI чиповете за Китай - ще има ли отговор ?
 > **标题**：Тайван налага по - строг контрол над AI чиповете за Китай - ще има ли отговор ?
 > **原文链接**：🔗 [打开原文](https://money.bg/economics/tayvan-nalaga-po-strog-kontrol-nad-ai-chipovete-za-kitay-shte-ima-li-otgovor.html)
@@ -453,74 +521,6 @@ tags:
 > **reason**：rank #2; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
 > **summary**：China’s Military Says AI Can’t Replace Commanders. Xi Is Testing That War on the Rocks
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 97** | China ‘Not Playing by the Rules,’ German Finance Minister Says - Bloomberg.com
-> **标题**：China ‘Not Playing by the Rules,’ German Finance Minister Says - Bloomberg.com
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVDd4U0hwcjlQQkZjaFN5TG1BWG0xdHR3SlVkTUxlUXdBU2E3V1k3cHV2NkRFMGtwMk9iY2dWa2hhZ2phbnc5aFotU0F6dlU4aGtVQXBQR1FvSHJiTkk4TEMydTRXTEdlZ1JwSWdMZVNHNHA0WV9CSFZoanp4X3BOYXdyVEgyNVJSLUFHcTY0Wk5wUlJPamZaOXhrZWRtSm5oejV0NkZPZHpZRklBYTdn?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#4
-> **reason**：rank #4; cross-source x3; source weight: Google News; hot terms: 美国, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China ‘Not Playing by the Rules,’ German Finance Minister Says Bloomberg.com
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 96** | Taïwan : enquête sur 17 entreprises financées par la Chine pour débaucher des talents technologiques
-> **标题**：Taïwan : enquête sur 17 entreprises financées par la Chine pour débaucher des talents technologiques
-> **原文链接**：🔗 [打开原文](https://www.sudouest.fr:443/international/asie/taiwan/taiwan-enquete-sur-17-entreprises-financees-par-la-chine-pour-debaucher-des-talents-technologiques-30168162.php)
-> **source**：GDELT / sudouest.fr
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#1
-> **reason**：rank #1; cross-source x3; source weight: GDELT; hot terms: 美国
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260805T080000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 96** | China rejects US claim that Myanmar analyst wrongfully detained - Al Jazeera
-> **标题**：China rejects US claim that Myanmar analyst wrongfully detained - Al Jazeera
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMipwFBVV95cUxObGxoWlRCdEhhbXVzX1NSbVhBdEt5WUJaa2VpalJkcUptMUdubExVQ0Q1cnJlNHdTdmJfYTFfMnNMUGk4bm13U2lQdEJFS2VxeXhZam85UmxiZC1JaXNBZVVObUpZYUxPMlo2eG9iVUktbnMydUJCZXY2YTJqUUR1aUFJd1J0S1Q1WkVwMk1QQ2x0dFQ0czdrbWtEaXJyZzh6VXJVdnBiY9IBrAFBVV95cUxOc1BRS1BpY0ljV2V2dGZJbjUzVmdjRDdkWEhoNkZQRTc0TDlQWFVyNEY5TFJGd1JKT0d6TWk4alV1UmZTd1hUQzJMenNVbUJ4SDlxMnJXdlpwd01IV1BtVmNDWTR6ZG5HWFBTV3hOWEY3STdnMEtVVWREdEYwbm1MZDZzaTUxcVYxWHp6ejBJOHlIUzB1VDBpRkZzQnFGVFV2emhTdkJJRnpuTnRi?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#3
-> **reason**：rank #3; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China rejects US claim that Myanmar analyst wrongfully detained Al Jazeera
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | Trump’s South Korea Social Post Poses Risks for the United States - Council on Foreign Relations
-> **标题**：Trump’s South Korea Social Post Poses Risks for the United States - Council on Foreign Relations
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiggFBVV95cUxON0xjenpfM0lzekpkaHhwRGdBRDIzUGFqWmsxMmZxZ1NsdTBSWHVoQ2szVjBwM1AtejU5NW1qN2xxc1dnLUhfaEZMX0l3WWNmcjMyZWNrRVF4NWNlOHppNy1teUd2aUdWMVFOeDExTjJyVHhGaUMxbmpLcFFLTkxwa0NB?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#7
-> **reason**：rank #7; cross-source x3; source weight: Google News; hot terms: 美国, china, united states, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Trump’s South Korea Social Post Poses Risks for the United States Council on Foreign Relations
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -533,6 +533,23 @@ tags:
 
 ## 美国/国际热点迁移
 
+> [!info]+ **今日必须看 / 100** | États - Unis : feu vert pour les puces H200 vers la Chine , Nvidia en quête de percée
+> **标题**：États - Unis : feu vert pour les puces H200 vers la Chine , Nvidia en quête de percée
+> **原文链接**：🔗 [打开原文](https://www.tuniscope.com/article/431817/tech/high-tech/puces-nvidia-h200-2303888)
+> **source**：GDELT / tuniscope.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#1
+> **reason**：rank #1; cross-source x17; source weight: GDELT; hot terms: 美国
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260514T191500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 100** | US Space Chipmaking Bill vs China
 > **标题**：US Space Chipmaking Bill vs China
 > **原文链接**：🔗 [打开原文](https://www.newkerala.com/news/a/us-pushes-space-chipmaking-initiative-counter-chinas-technological-228.htm)
@@ -595,6 +612,23 @@ tags:
 > **reason**：rank #4; cross-source x4; source weight: GDELT; hot terms: 中国, 美国, 军事, 外交
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260812T064500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | EXCLUSIVE: Chinese military researchers tap US AI models to train defence systems - Reuters
+> **标题**：EXCLUSIVE: Chinese military researchers tap US AI models to train defence systems - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivwFBVV95cUxQRlZKM1E4OTlVQnVjUUs0ZEVFY2hxZHNvd2VHb0dabWZnbFZKTjJzemRrUkJsNS14blJPcDlmREZMbzdXekNqcWdSVnpQSG82YndnMUJ5TElaNlRBYkRWMlVfU2dWTWdDY1kxa2ZjNnhtQko1Nnd3QkZ1eUhIMVI1MU1wVjFTZ1N4WHE2UnBzVHp0QzBjMzI4RWlnVkVWMmVvTkxWeExNZUlFeE52WHhsdFZJSXlfNld4RFdjMVNNQQ?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#2
+> **reason**：rank #2; cross-source x4; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：EXCLUSIVE: Chinese military researchers tap US AI models to train defence systems Reuters
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -669,41 +703,24 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 99** | 'We have a limited window': 116 companies, entities sign on to major AI cyber defense push - CNBC
-> **标题**：'We have a limited window': 116 companies, entities sign on to major AI cyber defense push - CNBC
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ga0RXWlJZWVNWbFZBUno5T2hpVW9reTAwT2ZEYktDRmItRnJNMVRKelBjQlpUNWpsbEgwQ0xmd2RzNVdfOG5iWDE1U2F6Z1p3TzFXY2RFYmtPTktUSmhIdl82aXZaNXRCODNxeNIBckFVX3lxTE53NVBDNDRNczJJRk9SZmpDQW5hVEpKdjBRZjFSUGhKSVV3WU90TjdyeUduVzE0ZjVwLTVYM1EtYUg1cjJPdFRYWGlaVXh1cklXc1AzNDM0bWg1UjB5NW5GTDZQc2pIejRuVkx6SEdoTkpMZw?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：'We have a limited window': 116 companies, entities sign on to major AI cyber defense push CNBC
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
+## 财经科技观察
 
-> [!info]+ **今日必须看 / 98** | Тайван налага по - строг контрол над AI чиповете за Китай - ще има ли отговор ?
-> **标题**：Тайван налага по - строг контрол над AI чиповете за Китай - ще има ли отговор ?
-> **原文链接**：🔗 [打开原文](https://money.bg/economics/tayvan-nalaga-po-strog-kontrol-nad-ai-chipovete-za-kitay-shte-ima-li-otgovor.html)
-> **source**：GDELT / money.bg
+> [!info]+ **今日必须看 / 100** | États - Unis : feu vert pour les puces H200 vers la Chine , Nvidia en quête de percée
+> **标题**：États - Unis : feu vert pour les puces H200 vers la Chine , Nvidia en quête de percée
+> **原文链接**：🔗 [打开原文](https://www.tuniscope.com/article/431817/tech/high-tech/puces-nvidia-h200-2303888)
+> **source**：GDELT / tuniscope.com
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：科技
-> **rank**：#6
-> **reason**：rank #6; cross-source x6; source weight: GDELT; hot terms: 美国, ai, ai
+> **rank**：#1
+> **reason**：rank #1; cross-source x17; source weight: GDELT; hot terms: 美国
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260610T154500Z
+> **summary**：20260514T191500Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-
-## 财经科技观察
 
 > [!info]+ **今日必须看 / 100** | US Space Chipmaking Bill vs China
 > **标题**：US Space Chipmaking Bill vs China
@@ -739,6 +756,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 100** | Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC
+> **标题**：Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihAFBVV95cUxPYU55bUVtSkMySDZUS2RPRWpBTTRRZHhucjFpaUxWM0RoV0NuMVFPNFh1T29XMkpSR1NYRm5Oc1hUc1hnWTNVOXd5T29qXzNVTWdxRWxpal9oT1VCNk1kQVNYeW9fVDBZNG1jODVJNHN3R0lMQ19KSmwtY2JNQXM1V3ptYk7SAYoBQVVfeXFMTmt2WjUtTThxd2gzZnhqcW8wejI3WWdRNDlaZGFLaVFTZXQyZ0tkLW80RW4wSXFoMDBlNTVjZ1pnNFBpQzBQZjJFY0xHQ3Q5S2p4OHdSV05QZi01eG5XcFFmOGVHWmV6MndsZ2dNNU9NLU9FVHUzMkpmaE1DTGVEcS12NXBHcl9CWlJ3?oc=5)
+> **source**：Google News / China US Hot News, Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合 / 财经/科技
+> **rank**：#1
+> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China CNBC
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 99** | 'We have a limited window': 116 companies, entities sign on to major AI cyber defense push - CNBC
 > **标题**：'We have a limited window': 116 companies, entities sign on to major AI cyber defense push - CNBC
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ga0RXWlJZWVNWbFZBUno5T2hpVW9reTAwT2ZEYktDRmItRnJNMVRKelBjQlpUNWpsbEgwQ0xmd2RzNVdfOG5iWDE1U2F6Z1p3TzFXY2RFYmtPTktUSmhIdl82aXZaNXRCODNxeNIBckFVX3lxTE53NVBDNDRNczJJRk9SZmpDQW5hVEpKdjBRZjFSUGhKSVV3WU90TjdyeUduVzE0ZjVwLTVYM1EtYUg1cjJPdFRYWGlaVXh1cklXc1AzNDM0bWg1UjB5NW5GTDZQc2pIejRuVkx6SEdoTkpMZw?oc=5)
@@ -750,6 +784,23 @@ tags:
 > **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：'We have a limited window': 116 companies, entities sign on to major AI cyber defense push CNBC
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 98** | Китай получава по 500 млн . долара на час от износ , подкрепен от АІ
+> **标题**：Китай получава по 500 млн . долара на час от износ , подкрепен от АІ
+> **原文链接**：🔗 [打开原文](https://www.investor.bg/a/459-harduer/430462-kitay-poluchava-po-500-mln-dolara-na-chas-ot-iznos-podkrepen-ot-a)
+> **source**：GDELT / investor.bg
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#2
+> **reason**：rank #2; cross-source x17; source weight: GDELT; hot terms: 美国
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260512T183000Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -773,6 +824,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 98** | White House finalizes AI framework behind closed doors - Axios
+> **标题**：White House finalizes AI framework behind closed doors - Axios
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMikAFBVV95cUxNeFRzVmxJdkNIWGMxeTZTZndERVA2bGQwNUZocEw3aGltU09WaUY3dEV3eXNtdU9obUVoZnBkcUpTbnRkNG1hTHNyc1RFSjk5VFV6Z2VSZmVpdG5oWUVXbEl2NTNDd2pzM2RWazFtUVBreTJFaVk1MGtVcnh6ek9SZUNfMm9WTHRUbGpaaUJqZDg?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#2
+> **reason**：rank #2; cross-source x2; source weight: Google News; hot terms: ai, us, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：White House finalizes AI framework behind closed doors Axios
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 97** | The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com
 > **标题**：The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5)
@@ -790,85 +858,17 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 96** | Taïwan : enquête sur 17 entreprises financées par la Chine pour débaucher des talents technologiques
-> **标题**：Taïwan : enquête sur 17 entreprises financées par la Chine pour débaucher des talents technologiques
-> **原文链接**：🔗 [打开原文](https://www.sudouest.fr:443/international/asie/taiwan/taiwan-enquete-sur-17-entreprises-financees-par-la-chine-pour-debaucher-des-talents-technologiques-30168162.php)
-> **source**：GDELT / sudouest.fr
+> [!info]+ **今日必须看 / 96** | رحيل باول وصعود وارش ، تحول جديد في السياسة النقدية الأمريكية
+> **标题**：رحيل باول وصعود وارش ، تحول جديد في السياسة النقدية الأمريكية
+> **原文链接**：🔗 [打开原文](https://www.vetogate.com/5660423)
+> **source**：GDELT / vetogate.com
 > **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
+> **region**：国际
+> **category**：财经
 > **rank**：#1
-> **reason**：rank #1; cross-source x3; source weight: GDELT; hot terms: 美国
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260805T080000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 94** | Tech Self - Reliance Eludes Beijing
-> **标题**：Tech Self - Reliance Eludes Beijing
-> **原文链接**：🔗 [打开原文](https://www.theepochtimes.com/opinion/tech-self-reliance-eludes-beijing-6060662)
-> **source**：GDELT / theepochtimes.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#4
-> **reason**：rank #4; cross-source x4; source weight: GDELT; hot terms: 美国
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260716T221500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 94** | Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Yahoo Finance
-> **标题**：Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Yahoo Finance
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUF9oRExlOUE1eWZncXFtUDktNDlVR2JkRlliWjVoVkNnMHptWDBETk1tRUcxaTZrVk1OX2V3YURQX1YyaFNmZGRzdGhkOFltRmtWU0dsaXE4NEFweG1zSE5MdkRmX2I0eUlHZWtRSnpfQ3U4RGlTdVJ2am9XTmo2c1FpT1A5T2ZKTVZnQzF4V1BxdWVaZ0xfdGF1TUc1RjNRVHc?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#4
-> **reason**：rank #4; cross-source x2; source weight: Google News; hot terms: ai, us, ai, markets
+> **reason**：rank #1; cross-source x9; source weight: GDELT
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports Yahoo Finance
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 93** | OpenAI and Other Tech Giants Call for Greater Defense Against A.I. Attacks - The New York Times
-> **标题**：OpenAI and Other Tech Giants Call for Greater Defense Against A.I. Attacks - The New York Times
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMigAFBVV95cUxOMWdJNEdsTXRNZHVjeW1zc2hDYzdodk95bHh4Y1BrOWd6Z3VvV1c3RVNMbTgzMV9CVEJOY0FkNlRBSjlQT0c0UzlpRDFUcnhsd2xjYzNtREJIanR0SGU5Qlg1UXotV3JWMTR6UDZKZHJKSk9qSVMxT3VPcm5TM253LQ?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#3
-> **reason**：rank #3; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：OpenAI and Other Tech Giants Call for Greater Defense Against A.I. Attacks The New York Times
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 91** | Nvidia customers reportedly warned about AI-related price hikes - CNBC
-> **标题**：Nvidia customers reportedly warned about AI-related price hikes - CNBC
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiowFBVV95cUxQbDg2ZnNCREtJeGoxQlhMdWp2M1lSRjM2dDg5R1AwanNOdEZIYVFOMUZ0RG5rbGRfa3JFMmhVUDhyTWcxM3VNVEhERnc3VmtwM2F5eGZaVllKeUZ1dFVrRmxwc0E1Sm80VDctYzlDNkFSejFrU2N6X1FTWlM0bG03UlpKQUFXNkx3ekE3Q3lBcGhjUVlBVThnWHRGY0tsZi1MSTBV0gGoAUFVX3lxTFBrdUpId05mVHUwNWVSZW1ibUNKVW9pV1pvNjBBdkx3WWNDdmxIOG4yR2dkZFd3OG1GQ0hBeWw1NlEyM2x5S3EyRUw0R3BnMVRLM1pjNU1IMU5sNVRENktqbVdMYUNMS2dUQkF4MTRmLW9FMmlMMy1CUWV2RUJUc0pWeElhdV9GN2NEQndueDhFclMtakdlcjFkNy1HYzUtaXdvekJCcVVSeA?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Nvidia customers reportedly warned about AI-related price hikes CNBC
+> **summary**：20260522T180000Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
