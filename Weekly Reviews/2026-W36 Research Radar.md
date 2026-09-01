@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W36
-date: 2026-08-31
+date: 2026-09-01
 tags:
   - weekly-review
   - research-radar
@@ -36,19 +36,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | dork-labs/dorkos
-> **标题**：dork-labs/dorkos
-> **原文链接**：🔗 [打开原文](https://github.com/dork-labs/dorkos)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：You, multiplied. Mission control for Claude Code, Codex, and OpenCode: see every session, approve what your agents do, and run them on a schedule. Self-hosted, MIT.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | DanielC000/loom
 > **标题**：DanielC000/loom
 > **原文链接**：🔗 [打开原文](https://github.com/DanielC000/loom)
@@ -57,19 +44,6 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, obsidian; high-value terms: agent, agents, claude code, api
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Orchestrate a fleet of real Claude Code agents on your Claude subscription, not per-token API bills - local-first.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | api-evangelist/api-evangelist
-> **标题**：api-evangelist/api-evangelist
-> **原文链接**：🔗 [打开原文](https://github.com/api-evangelist/api-evangelist)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, mcp, research; high-value terms: agent, agents, mcp, api
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：The index of everything available via the API Evangelist developer portal at developer.apievangelist.com — sixteen years of API research served as one REST API, an MCP server for agents, a governance compute layer, and the JSON feeds behind each network collection.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -127,14 +101,40 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | zeroshotmind/chief
-> **标题**：zeroshotmind/chief
-> **原文链接**：🔗 [打开原文](https://github.com/zeroshotmind/chief)
+> [!info]+ **今日必须看 / 85** | openmake/openmake_llm
+> **标题**：openmake/openmake_llm
+> **原文链接**：🔗 [打开原文](https://github.com/openmake/openmake_llm)
 > **source**：GitHub Search
 > **kind**：`github_repo`
 > **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Your agents plan, you approve, Chief keeps the record. A local tracker for agentic workflows: plans arrive as drafts, mid-run changes pause for your decision, everything lands in an audit log.
+> **summary**：Open-source, self-hosted AI workspace for local and open-weight LLMs with vLLM, LiteLLM, autonomous agents, MCP tools, deep research, artifacts, and BYOK.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 84** | backnotprop/plannotator
+> **标题**：backnotprop/plannotator
+> **原文链接**：🔗 [打开原文](https://github.com/backnotprop/plannotator)
+> **source**：GitHub Search, GitHub Trending
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, obsidian; high-value terms: agent, agents
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 84** | TauricResearch/TradingAgents
+> **标题**：TauricResearch/TradingAgents
+> **原文链接**：🔗 [打开原文](https://github.com/TauricResearch/TradingAgents)
+> **source**：GitHub Trending
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, research; high-value terms: agent, agents
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：No summary.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -169,14 +169,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | dork-labs/dorkos
-> **标题**：dork-labs/dorkos
-> **原文链接**：🔗 [打开原文](https://github.com/dork-labs/dorkos)
+> [!info]+ **今日必须看 / 89** | DanielC000/loom
+> **标题**：DanielC000/loom
+> **原文链接**：🔗 [打开原文](https://github.com/DanielC000/loom)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
+> **reason**：matches topics: agent, agents, claude code, obsidian; high-value terms: agent, agents, claude code, api
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：You, multiplied. Mission control for Claude Code, Codex, and OpenCode: see every session, approve what your agents do, and run them on a schedule. Self-hosted, MIT.
+> **summary**：Orchestrate a fleet of real Claude Code agents on your Claude subscription, not per-token API bills - local-first.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -185,19 +185,6 @@ tags:
 
 ## 论文到代码观察
 
-> [!info]+ **今日必须看 / 83** | PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure
-> **标题**：PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.20342)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, claude code, anthropic; high-value terms: agent, agents, claude code
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2608.20342v1 Announce Type: new Abstract: Large language model (LLM) coding agents start each session with an empty context window, discarding accumulated knowledge from prior work. We present PrimeAgentOrchestrator (PAO), a system that spawns new instances of Claude Code -- Anthropic's termi...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 77** | Agentic Security: A Systematization of Tools, Failure Modes, and Design Laws for LLM-Driven Penetration Testing
 > **标题**：Agentic Security: A Systematization of Tools, Failure Modes, and Design Laws for LLM-Driven Penetration Testing
 > **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.21423)
@@ -263,19 +250,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 77** | Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory
-> **标题**：Nexus: Depth-Adaptive KV-Cache Splicing and Retrieval-Decoupled Tool Routing for Agentic LLMs on Unified Memory
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.20397)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, llm, mcp; high-value terms: agent, mcp, eval
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2608.20397v1 Announce Type: new Abstract: Agentic large language models (LLMs) on the Model Context Protocol (MCP) re-encode verbose tool schemas every turn, so prefill - quadratic in sequence length - dominates time-to-first-token (TTFT) as the tool registry grows. Nexus's primary lever is t...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **可延后 / 73** | Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果
 > **标题**：Anthropic 开放 Claude 真实使用数据供外部独立研究，公布试点结果
 > **原文链接**：🔗 [打开原文](https://www.anthropic.com/research/enabling-independent-research)
@@ -284,6 +258,32 @@ tags:
 > **reason**：matches topics: claude code, anthropic; high-value terms: claude code
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
 > **summary**：Anthropic 今年春季启动试点，通过隐私保护工具 Anthropic Insights（原 Clio）向斯坦福大学 SALT Lab、牛津大学人类信息处理实验室及 METR 三个外部机构开放约 25 万段 2026 年 4-5 月的 Claude.ai 或 Claude Code 对话数据，供其独立设计研究并公开发布结果。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **可延后 / 70** | Automata from Agent Traces: Failure and Next-Step Prediction
+> **标题**：Automata from Agent Traces: Failure and Next-Step Prediction
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.23670)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2608.23670v1 Announce Type: new Abstract: LLM-based agents execute multi-step tasks, but their behavioral structure remains opaque: long unstructured traces resist the safety auditing and runtime monitoring that deployment requires. Existing approaches operate per-trace or success-only, so th...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **可延后 / 70** | Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment
+> **标题**：Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.23691)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, research; high-value terms: agent, agents
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2608.23691v1 Announce Type: new Abstract: We study autonomous mathematical discovery in the Station, an open-world multi-agent environment in which AI agents from different model families pursue a shared research goal without a central coordinator or scripted pipeline. Agents choose their own...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -318,19 +318,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | dork-labs/dorkos
-> **标题**：dork-labs/dorkos
-> **原文链接**：🔗 [打开原文](https://github.com/dork-labs/dorkos)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：You, multiplied. Mission control for Claude Code, Codex, and OpenCode: see every session, approve what your agents do, and run them on a schedule. Self-hosted, MIT.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | DanielC000/loom
 > **标题**：DanielC000/loom
 > **原文链接**：🔗 [打开原文](https://github.com/DanielC000/loom)
@@ -339,19 +326,6 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, obsidian; high-value terms: agent, agents, claude code, api
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Orchestrate a fleet of real Claude Code agents on your Claude subscription, not per-token API bills - local-first.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | api-evangelist/api-evangelist
-> **标题**：api-evangelist/api-evangelist
-> **原文链接**：🔗 [打开原文](https://github.com/api-evangelist/api-evangelist)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, mcp, research; high-value terms: agent, agents, mcp, api
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：The index of everything available via the API Evangelist developer portal at developer.apievangelist.com — sixteen years of API research served as one REST API, an MCP server for agents, a governance compute layer, and the JSON feeds behind each network collection.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -383,19 +357,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | zeroshotmind/chief
-> **标题**：zeroshotmind/chief
-> **原文链接**：🔗 [打开原文](https://github.com/zeroshotmind/chief)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Your agents plan, you approve, Chief keeps the record. A local tracker for agentic workflows: plans arrive as drafts, mid-run changes pause for your decision, everything lands in an audit log.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 84** | backnotprop/plannotator
 > **标题**：backnotprop/plannotator
 > **原文链接**：🔗 [打开原文](https://github.com/backnotprop/plannotator)
@@ -417,6 +378,45 @@ tags:
 > **reason**：matches topics: agent, agents, research; high-value terms: agent, agents
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 81** | WebMCP: Teaching Your Website to Talk to AI Agents
+> **标题**：WebMCP: Teaching Your Website to Talk to AI Agents
+> **原文链接**：🔗 [打开原文](https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：55 points | 55 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 80** | Independent investigation of agents' behavior in OpenAI/Hugging Face incident
+> **标题**：Independent investigation of agents' behavior in OpenAI/Hugging Face incident
+> **原文链接**：🔗 [打开原文](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: agent, agents, openai, hugging face; high-value terms: agent, agents
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：7 points | 2 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 79** | anulum/synapse-channel
+> **标题**：anulum/synapse-channel
+> **原文链接**：🔗 [打开原文](https://github.com/anulum/synapse-channel)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Neutral control plane for coding-agent fleets: claims, roles, mailbox reliability, receipts, audit, federation, dead-letter visibility, sandbox receipts, and cross-agent coordination. This is still pre-1.0.0 - Software works however you might need help from your local agents to...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库

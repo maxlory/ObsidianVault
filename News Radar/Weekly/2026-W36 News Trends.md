@@ -1,6 +1,6 @@
 ---
 title: News Radar Week 2026-W36
-date: 2026-08-31
+date: 2026-09-01
 tags:
   - news-radar
   - weekly-review
@@ -824,23 +824,6 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 89** | Flock cameras join data centers as a top AI boogeyman in 2026 midterms - Axios
-> **标题**：Flock cameras join data centers as a top AI boogeyman in 2026 midterms - Axios
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdFlaanA3bFBuX0hvcEphTnVnMi1oNmdRZjJoTG9HdDQ3dVpWeUVMT1FSM21CM2R0SWVlYzNrWFhqVVN6ck9tbzk2Zm5keTIzYmpUYllfa042OF9rZFJfd0FreVFBN3NEM05NM3Z3ellQMlNPQXAzUlhEaWdxUWRETkhSMlpISXdZ?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Flock cameras join data centers as a top AI boogeyman in 2026 midterms Axios
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
 > [!info]+ **今日必须看 / 89** | The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com
 > **标题**：The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5)
@@ -869,6 +852,23 @@ tags:
 > **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：Druckenmiller’s Surprising Critique of Bessent Was Delivered With the Help of AI WSJ
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 87** | Jalapeño’s first results show industry-leading speed and efficiency in AI inference - OpenAI
+> **标题**：Jalapeño’s first results show industry-leading speed and efficiency in AI inference - OpenAI
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwMGNpOVlmLU9XdHlqemwwb2ZIRmRab3cyUTJnZ0x4UGVtWWZkMzYwb0thVlY5QVhSYXVaQ0xCRllRQUFuVE9FVUtac3FxUFM3T0Nfc0ItUTAzOVRP?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#4
+> **reason**：rank #4; source weight: Google News; hot terms: ai, us, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Jalapeño’s first results show industry-leading speed and efficiency in AI inference OpenAI
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
