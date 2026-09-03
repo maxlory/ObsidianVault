@@ -1,6 +1,6 @@
 ---
 title: News Radar Week 2026-W36
-date: 2026-09-01
+date: 2026-09-02
 tags:
   - news-radar
   - weekly-review
@@ -100,23 +100,6 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 100** | The Risks of Downplaying China’s Military - War on the Rocks
-> **标题**：The Risks of Downplaying China’s Military - War on the Rocks
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMidkFVX3lxTE5zakZkV1FYT1lIX3BuQTFSNjI4TTNqdjRkZUctSDNIVjVUNXRiSmVybTVfVU1aX0w1R1N2THBWeEJHdzJUaUd4ZFRzUkFBcHAxLU9YR2F2cUZDU2Z0U2FiemxCYUh3UlIwWGNIemwxTFk2Y1VKVUE?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#1
-> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：The Risks of Downplaying China’s Military War on the Rocks
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
 > [!info]+ **今日必须看 / 98** | Тайван налага по - строг контрол над AI чиповете за Китай - ще има ли отговор ?
 > **标题**：Тайван налага по - строг контрол над AI чиповете за Китай - ще има ли отговор ?
 > **原文链接**：🔗 [打开原文](https://money.bg/economics/tayvan-nalaga-po-strog-kontrol-nad-ai-chipovete-za-kitay-shte-ima-li-otgovor.html)
@@ -185,23 +168,6 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 94** | CFR Report Takeaways: How to Reshape U.S. Defense Production to Counter China - Council on Foreign Relations
-> **标题**：CFR Report Takeaways: How to Reshape U.S. Defense Production to Counter China - Council on Foreign Relations
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXhaQndoRnpuTGI4S2xKZG5MUV9kYVZVZGFVT0NsZ3VqYTNabFlIVFhVOVRpblMwMlZsMXlzQVZsUDl5WS11dEtaU3VyOGwwQWxNWUZmQmE4dHFKMzM1eWlmV1loYUZsSTRkNmdHU3lUSG1MWV9ZQWxQXzJNVTVvZUVveTNrYVVsU1lfT3d2QzIwcjJHbWFGOS13M3h3bEE2MExUSHUzaw?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#2
-> **reason**：rank #2; cross-source x2; source weight: Google News; hot terms: 美国, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：CFR Report Takeaways: How to Reshape U.S. Defense Production to Counter China Council on Foreign Relations
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
 > [!info]+ **今日必须看 / 92** | 川普 「 經濟決戰 」 對伊朗造成多大打擊 ？ 關鍵恐不在德黑蘭 - 政治圈
 > **标题**：川普 「 經濟決戰 」 對伊朗造成多大打擊 ？ 關鍵恐不在德黑蘭 - 政治圈
 > **原文链接**：🔗 [打开原文](https://www.chinatimes.com/realtimenews/20260821001870-260408)
@@ -264,6 +230,40 @@ tags:
 > **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：'We have a limited window': 116 companies, entities sign on to major AI cyber defense push CNBC
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 90** | 中方接连驳斥美方单边制裁打压 制度化反击展现坚定立场 _ 军事频道 _ 中华网
+> **标题**：中方接连驳斥美方单边制裁打压 制度化反击展现坚定立场 _ 军事频道 _ 中华网
+> **原文链接**：🔗 [打开原文](https://military.china.com/news/13004177/20260803/49651156.html)
+> **source**：GDELT / military.china.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：政治/军事
+> **rank**：#10
+> **reason**：rank #10; cross-source x4; source weight: GDELT; hot terms: 美国, 军事, 制裁
+> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
+> **summary**：20260803T063000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 89** | The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com
+> **标题**：The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：The turbulent AI era is here. The choices we make now are critical. gatesnotes.com
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -357,23 +357,6 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 100** | The Risks of Downplaying China’s Military - War on the Rocks
-> **标题**：The Risks of Downplaying China’s Military - War on the Rocks
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMidkFVX3lxTE5zakZkV1FYT1lIX3BuQTFSNjI4TTNqdjRkZUctSDNIVjVUNXRiSmVybTVfVU1aX0w1R1N2THBWeEJHdzJUaUd4ZFRzUkFBcHAxLU9YR2F2cUZDU2Z0U2FiemxCYUh3UlIwWGNIemwxTFk2Y1VKVUE?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#1
-> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：The Risks of Downplaying China’s Military War on the Rocks
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
 > [!info]+ **今日必须看 / 98** | Тайван налага по - строг контрол над AI чиповете за Китай - ще има ли отговор ?
 > **标题**：Тайван налага по - строг контрол над AI чиповете за Китай - ще има ли отговор ?
 > **原文链接**：🔗 [打开原文](https://money.bg/economics/tayvan-nalaga-po-strog-kontrol-nad-ai-chipovete-za-kitay-shte-ima-li-otgovor.html)
@@ -442,23 +425,6 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 94** | CFR Report Takeaways: How to Reshape U.S. Defense Production to Counter China - Council on Foreign Relations
-> **标题**：CFR Report Takeaways: How to Reshape U.S. Defense Production to Counter China - Council on Foreign Relations
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMipwFBVV95cUxNUXhaQndoRnpuTGI4S2xKZG5MUV9kYVZVZGFVT0NsZ3VqYTNabFlIVFhVOVRpblMwMlZsMXlzQVZsUDl5WS11dEtaU3VyOGwwQWxNWUZmQmE4dHFKMzM1eWlmV1loYUZsSTRkNmdHU3lUSG1MWV9ZQWxQXzJNVTVvZUVveTNrYVVsU1lfT3d2QzIwcjJHbWFGOS13M3h3bEE2MExUSHUzaw?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#2
-> **reason**：rank #2; cross-source x2; source weight: Google News; hot terms: 美国, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：CFR Report Takeaways: How to Reshape U.S. Defense Production to Counter China Council on Foreign Relations
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
 > [!info]+ **今日必须看 / 92** | 川普 「 經濟決戰 」 對伊朗造成多大打擊 ？ 關鍵恐不在德黑蘭 - 政治圈
 > **标题**：川普 「 經濟決戰 」 對伊朗造成多大打擊 ？ 關鍵恐不在德黑蘭 - 政治圈
 > **原文链接**：🔗 [打开原文](https://www.chinatimes.com/realtimenews/20260821001870-260408)
@@ -521,6 +487,40 @@ tags:
 > **reason**：rank #10; cross-source x4; source weight: GDELT; hot terms: 美国, 军事, 制裁
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260803T063000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 79** | La Chine tente - t - elle de voler les talents de la tech taïwanais ? Une enquête est en cours portant sur 17 entreprises financées par Pékin
+> **标题**：La Chine tente - t - elle de voler les talents de la tech taïwanais ? Une enquête est en cours portant sur 17 entreprises financées par Pékin
+> **原文链接**：🔗 [打开原文](https://www.bfmtv.com/economie/international/la-chine-tente-t-elle-de-voler-les-talents-de-la-tech-taiwanais-une-enquete-est-en-cours-portant-sur-17-entreprises-financees-par-pekin_AD-202608050166.html)
+> **source**：GDELT / bfmtv.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#10
+> **reason**：rank #10; cross-source x2; source weight: GDELT; hot terms: 美国, ai, ai
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260805T080000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 79** | Taïwan ou la fascinante histoire dune île propulsée au cœur de l économie mondiale grâce à lindustrie des semi - conducteurs
+> **标题**：Taïwan ou la fascinante histoire dune île propulsée au cœur de l économie mondiale grâce à lindustrie des semi - conducteurs
+> **原文链接**：🔗 [打开原文](https://www.ledevoir.com/monde/asie/986273/fascinante-histoire-ile-propulsee-coeur-economie-mondiale)
+> **source**：GDELT / ledevoir.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#8
+> **reason**：rank #8; cross-source x2; source weight: GDELT; hot terms: 美国, us
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260609T050000Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -618,23 +618,6 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 100** | The Risks of Downplaying China’s Military - War on the Rocks
-> **标题**：The Risks of Downplaying China’s Military - War on the Rocks
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMidkFVX3lxTE5zakZkV1FYT1lIX3BuQTFSNjI4TTNqdjRkZUctSDNIVjVUNXRiSmVybTVfVU1aX0w1R1N2THBWeEJHdzJUaUd4ZFRzUkFBcHAxLU9YR2F2cUZDU2Z0U2FiemxCYUh3UlIwWGNIemwxTFk2Y1VKVUE?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#1
-> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：The Risks of Downplaying China’s Military War on the Rocks
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
 > [!info]+ **今日必须看 / 98** | Тайван налага по - строг контрол над AI чиповете за Китай - ще има ли отговор ?
 > **标题**：Тайван налага по - строг контрол над AI чиповете за Китай - ще има ли отговор ?
 > **原文链接**：🔗 [打开原文](https://money.bg/economics/tayvan-nalaga-po-strog-kontrol-nad-ai-chipovete-za-kitay-shte-ima-li-otgovor.html)
@@ -697,6 +680,23 @@ tags:
 > **reason**：rank #4; cross-source x4; source weight: GDELT; hot terms: 美国
 > **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
 > **summary**：20260716T221500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 92** | 川普 「 經濟決戰 」 對伊朗造成多大打擊 ？ 關鍵恐不在德黑蘭 - 政治圈
+> **标题**：川普 「 經濟決戰 」 對伊朗造成多大打擊 ？ 關鍵恐不在德黑蘭 - 政治圈
+> **原文链接**：🔗 [打开原文](https://www.chinatimes.com/realtimenews/20260821001870-260408)
+> **source**：GDELT / chinatimes.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：政治/军事
+> **rank**：#7
+> **reason**：rank #7; cross-source x4; source weight: GDELT; hot terms: 美国, 军事
+> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
+> **summary**：20260821T030000Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -807,23 +807,6 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 89** | Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails - The New York Times
-> **标题**：Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails - The New York Times
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMif0FVX3lxTE9MTUZyVjgxa2cwaWl3cWEweEFyUUFHTGFzb0lMaERtdl9jVG1kTGNBdW50Y0wzT0NFNU5EaHJ6QUlJVjFON2JPdE01eHZlNm9TOF9iVjRoeWs1X0dzVzBUbmFLMWpYVG54VFpRbFZmU3dyVl9YcWZGYnNOMlR6WlU?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails The New York Times
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
 > [!info]+ **今日必须看 / 89** | The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com
 > **标题**：The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5)
@@ -841,34 +824,51 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 87** | Druckenmiller’s Surprising Critique of Bessent Was Delivered With the Help of AI - WSJ
-> **标题**：Druckenmiller’s Surprising Critique of Bessent Was Delivered With the Help of AI - WSJ
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMitwFBVV95cUxOa0NFTHBxeFZocUhTd2FFUFhsU2pUdDM2d253SHVEVDVobUkyUDdsMjlxRjhoelpieU9pWlk3ZTdfWTVHZTVHa2dCU3hDdGJta3ZtbnJoMnZ0dng4UG5oUVZGeW1DSkhiQ0pCcXdPX1JwSkQ2VHZDSW4taVZyUkp0Z25EWWw4dV9vNmJwc1RFTlZtS0xUTUJQYzRDUzZQNXZ3a240eC0yam9OUy1SbFdZdVJIZ0dKWmM?oc=5)
+> [!info]+ **今日必须看 / 85** | OpenAI and Other Tech Giants Call for Greater Defense Against A.I. Attacks - The New York Times
+> **标题**：OpenAI and Other Tech Giants Call for Greater Defense Against A.I. Attacks - The New York Times
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMigAFBVV95cUxOMWdJNEdsTXRNZHVjeW1zc2hDYzdodk95bHh4Y1BrOWd6Z3VvV1c3RVNMbTgzMV9CVEJOY0FkNlRBSjlQT0c0UzlpRDFUcnhsd2xjYzNtREJIanR0SGU5Qlg1UXotV3JWMTR6UDZKZHJKSk9qSVMxT3VPcm5TM253LQ?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: ai, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Druckenmiller’s Surprising Critique of Bessent Was Delivered With the Help of AI WSJ
+> **summary**：OpenAI and Other Tech Giants Call for Greater Defense Against A.I. Attacks The New York Times
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 87** | Jalapeño’s first results show industry-leading speed and efficiency in AI inference - OpenAI
-> **标题**：Jalapeño’s first results show industry-leading speed and efficiency in AI inference - OpenAI
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwMGNpOVlmLU9XdHlqemwwb2ZIRmRab3cyUTJnZ0x4UGVtWWZkMzYwb0thVlY5QVhSYXVaQ0xCRllRQUFuVE9FVUtac3FxUFM3T0Nfc0ItUTAzOVRP?oc=5)
-> **source**：Google News / Global Markets Tech
+> [!info]+ **今日必须看 / 79** | La Chine tente - t - elle de voler les talents de la tech taïwanais ? Une enquête est en cours portant sur 17 entreprises financées par Pékin
+> **标题**：La Chine tente - t - elle de voler les talents de la tech taïwanais ? Une enquête est en cours portant sur 17 entreprises financées par Pékin
+> **原文链接**：🔗 [打开原文](https://www.bfmtv.com/economie/international/la-chine-tente-t-elle-de-voler-les-talents-de-la-tech-taiwanais-une-enquete-est-en-cours-portant-sur-17-entreprises-financees-par-pekin_AD-202608050166.html)
+> **source**：GDELT / bfmtv.com
 > **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: ai, us, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Jalapeño’s first results show industry-leading speed and efficiency in AI inference OpenAI
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#10
+> **reason**：rank #10; cross-source x2; source weight: GDELT; hot terms: 美国, ai, ai
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260805T080000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 79** | Taïwan ou la fascinante histoire dune île propulsée au cœur de l économie mondiale grâce à lindustrie des semi - conducteurs
+> **标题**：Taïwan ou la fascinante histoire dune île propulsée au cœur de l économie mondiale grâce à lindustrie des semi - conducteurs
+> **原文链接**：🔗 [打开原文](https://www.ledevoir.com/monde/asie/986273/fascinante-histoire-ile-propulsee-coeur-economie-mondiale)
+> **source**：GDELT / ledevoir.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#8
+> **reason**：rank #8; cross-source x2; source weight: GDELT; hot terms: 美国, us
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260609T050000Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
