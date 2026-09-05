@@ -1,6 +1,6 @@
 ---
 title: News Radar Week 2026-W36
-date: 2026-09-02
+date: 2026-09-05
 tags:
   - news-radar
   - weekly-review
@@ -15,245 +15,7 @@ tags:
 
 ## 过去阶段最高热度
 
-> [!info]+ **今日必须看 / 100** | US Space Chipmaking Bill vs China
-> **标题**：US Space Chipmaking Bill vs China
-> **原文链接**：🔗 [打开原文](https://www.newkerala.com/news/a/us-pushes-space-chipmaking-initiative-counter-chinas-technological-228.htm)
-> **source**：GDELT / newkerala.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#3
-> **reason**：rank #3; cross-source x7; source weight: GDELT; hot terms: 美国, china, us
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260612T031500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 100** | 制裁成 瘾 ， 让美国外交丧失理性思考｜真相|联合国
-> **标题**：制裁成 瘾 ， 让美国外交丧失理性思考｜真相|联合国
-> **原文链接**：🔗 [打开原文](https://www.163.com/news/article/L44ERMHU000189FH.html)
-> **source**：GDELT / 163.com, GDELT / baijiahao.baidu.com, GDELT / hinews.cn
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#3
-> **reason**：rank #3; cross-source x6; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260812T021500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 100** | 伊朗回应美国经济战威胁 ： 美方 注定失败 ， 中国表态 ： 反对非法单边制裁
-> **标题**：伊朗回应美国经济战威胁 ： 美方 注定失败 ， 中国表态 ： 反对非法单边制裁
-> **原文链接**：🔗 [打开原文](https://wallstreetcn.com/articles/3780032)
-> **source**：GDELT / wallstreetcn.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#1
-> **reason**：rank #1; cross-source x4; source weight: GDELT; hot terms: 中国, 美国, 军事, 制裁
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260821T224500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 100** | 制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 千龙网 · 中国首都网
-> **标题**：制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 千龙网 · 中国首都网
-> **原文链接**：🔗 [打开原文](https://world.qianlong.com/2026/0812/8711047.shtml)
-> **source**：GDELT / world.qianlong.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#4
-> **reason**：rank #4; cross-source x4; source weight: GDELT; hot terms: 中国, 美国, 军事, 外交
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260812T064500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 100** | 美点名要求加入针对伊朗经济制裁 中方作出回应
-> **标题**：美点名要求加入针对伊朗经济制裁 中方作出回应
-> **原文链接**：🔗 [打开原文](https://www.wenxuecity.com/news/2026/08/21/126749340.html)
-> **source**：GDELT / wenxuecity.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#2
-> **reason**：rank #2; cross-source x4; source weight: GDELT; hot terms: 美国, 军事, 制裁
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260821T173000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 98** | Тайван налага по - строг контрол над AI чиповете за Китай - ще има ли отговор ?
-> **标题**：Тайван налага по - строг контрол над AI чиповете за Китай - ще има ли отговор ?
-> **原文链接**：🔗 [打开原文](https://money.bg/economics/tayvan-nalaga-po-strog-kontrol-nad-ai-chipovete-za-kitay-shte-ima-li-otgovor.html)
-> **source**：GDELT / money.bg
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#6
-> **reason**：rank #6; cross-source x6; source weight: GDELT; hot terms: 美国, ai, ai
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260610T154500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 98** | 制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 西部网 （ 陕西新闻网 ）
-> **标题**：制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 西部网 （ 陕西新闻网 ）
-> **原文链接**：🔗 [打开原文](http://news.cnwest.com/szyw/a/2026/08/12/23411732.html)
-> **source**：GDELT / news.cnwest.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#8
-> **reason**：rank #8; cross-source x4; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260812T041500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 96** | Taïwan : enquête sur 17 entreprises financées par la Chine pour débaucher des talents technologiques
-> **标题**：Taïwan : enquête sur 17 entreprises financées par la Chine pour débaucher des talents technologiques
-> **原文链接**：🔗 [打开原文](https://www.sudouest.fr:443/international/asie/taiwan/taiwan-enquete-sur-17-entreprises-financees-par-la-chine-pour-debaucher-des-talents-technologiques-30168162.php)
-> **source**：GDELT / sudouest.fr
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#1
-> **reason**：rank #1; cross-source x3; source weight: GDELT; hot terms: 美国
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260805T080000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 94** | Tech Self - Reliance Eludes Beijing
-> **标题**：Tech Self - Reliance Eludes Beijing
-> **原文链接**：🔗 [打开原文](https://www.theepochtimes.com/opinion/tech-self-reliance-eludes-beijing-6060662)
-> **source**：GDELT / theepochtimes.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#4
-> **reason**：rank #4; cross-source x4; source weight: GDELT; hot terms: 美国
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260716T221500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 92** | 川普 「 經濟決戰 」 對伊朗造成多大打擊 ？ 關鍵恐不在德黑蘭 - 政治圈
-> **标题**：川普 「 經濟決戰 」 對伊朗造成多大打擊 ？ 關鍵恐不在德黑蘭 - 政治圈
-> **原文链接**：🔗 [打开原文](https://www.chinatimes.com/realtimenews/20260821001870-260408)
-> **source**：GDELT / chinatimes.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#7
-> **reason**：rank #7; cross-source x4; source weight: GDELT; hot terms: 美国, 军事
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260821T030000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 92** | 回应美国 中国 ： 对伊朗制裁施压无助解决问题 | 国际
-> **标题**：回应美国 中国 ： 对伊朗制裁施压无助解决问题 | 国际
-> **原文链接**：🔗 [打开原文](https://www.orientaldaily.com.my/news/international/2026/08/21/842263)
-> **source**：GDELT / orientaldaily.com.my
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#11
-> **reason**：rank #11; cross-source x4; source weight: GDELT; hot terms: 中国, 美国, 军事, 制裁
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260821T103000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 92** | Exclusive | Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies - WSJ
-> **标题**：Exclusive | Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies - WSJ
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMimAFBVV95cUxNYlMycHNtbklRdFFPaXNoeHlmVzF1dHJYU042Z0xMRFdXdE45V1ZFek1wOGdVUjg2WHVxc3NBdjdXQnJibnlLUTVLb0Zya1A4czhaQkMxNTlFbVBBZ0RtTTduY0VydW51RF94dTRyaXExZ25ReUU0OG9BX3lUWUZqVHlLQjNjUm1RdWlKclJScXlHWlUxRlBtNw?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#5
-> **reason**：rank #5; cross-source x2; source weight: Google News; hot terms: ai, us, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Exclusive | Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies WSJ
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 91** | 'We have a limited window': 116 companies, entities sign on to major AI cyber defense push - CNBC
-> **标题**：'We have a limited window': 116 companies, entities sign on to major AI cyber defense push - CNBC
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ga0RXWlJZWVNWbFZBUno5T2hpVW9reTAwT2ZEYktDRmItRnJNMVRKelBjQlpUNWpsbEgwQ0xmd2RzNVdfOG5iWDE1U2F6Z1p3TzFXY2RFYmtPTktUSmhIdl82aXZaNXRCODNxeNIBckFVX3lxTE53NVBDNDRNczJJRk9SZmpDQW5hVEpKdjBRZjFSUGhKSVV3WU90TjdyeUduVzE0ZjVwLTVYM1EtYUg1cjJPdFRYWGlaVXh1cklXc1AzNDM0bWg1UjB5NW5GTDZQc2pIejRuVkx6SEdoTkpMZw?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：'We have a limited window': 116 companies, entities sign on to major AI cyber defense push CNBC
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 90** | 中方接连驳斥美方单边制裁打压 制度化反击展现坚定立场 _ 军事频道 _ 中华网
-> **标题**：中方接连驳斥美方单边制裁打压 制度化反击展现坚定立场 _ 军事频道 _ 中华网
-> **原文链接**：🔗 [打开原文](https://military.china.com/news/13004177/20260803/49651156.html)
-> **source**：GDELT / military.china.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#10
-> **reason**：rank #10; cross-source x4; source weight: GDELT; hot terms: 美国, 军事, 制裁
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260803T063000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 89** | The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com
+> [!info]+ **今日必须看 / 96** | The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com
 > **标题**：The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5)
 > **source**：Google News / Global Markets Tech
@@ -261,7 +23,7 @@ tags:
 > **region**：国际
 > **category**：财经/科技
 > **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets
+> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: ai, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：The turbulent AI era is here. The choices we make now are critical. gatesnotes.com
 >
@@ -270,257 +32,274 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-## 反复出现的议题
-
-> [!info]+ **今日必须看 / 100** | US Space Chipmaking Bill vs China
-> **标题**：US Space Chipmaking Bill vs China
-> **原文链接**：🔗 [打开原文](https://www.newkerala.com/news/a/us-pushes-space-chipmaking-initiative-counter-chinas-technological-228.htm)
-> **source**：GDELT / newkerala.com
+> [!info]+ **今日必须看 / 95** | Bessent says 19 finance ministers agreed 'cheap exports' are unsustainable, but China dissented - SFGATE
+> **标题**：Bessent says 19 finance ministers agreed 'cheap exports' are unsustainable, but China dissented - SFGATE
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMimwFBVV95cUxPS2YxOVpMTmcwYWRBZTd6aEZUM3BkUk9aUC1RdUNPaE9lT1NaVE5iUGthYTJKNVNhVUVaQldCaER4MkxyU3YzeVFBTEdFRm01ZmR3cVBERmxmZ0tCcFplcEdjbmM5OXF1WFlnOTJpb1ozX1YyZ1RybnJrTExMX3h1di1mazNxSVE3WGJGZ1FsSkx5aDFRYVJiWUhMWQ?oc=5)
+> **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
-> **category**：科技
-> **rank**：#3
-> **reason**：rank #3; cross-source x7; source weight: GDELT; hot terms: 美国, china, us
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260612T031500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 100** | 制裁成 瘾 ， 让美国外交丧失理性思考｜真相|联合国
-> **标题**：制裁成 瘾 ， 让美国外交丧失理性思考｜真相|联合国
-> **原文链接**：🔗 [打开原文](https://www.163.com/news/article/L44ERMHU000189FH.html)
-> **source**：GDELT / 163.com, GDELT / baijiahao.baidu.com, GDELT / hinews.cn
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#3
-> **reason**：rank #3; cross-source x6; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260812T021500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 100** | 伊朗回应美国经济战威胁 ： 美方 注定失败 ， 中国表态 ： 反对非法单边制裁
-> **标题**：伊朗回应美国经济战威胁 ： 美方 注定失败 ， 中国表态 ： 反对非法单边制裁
-> **原文链接**：🔗 [打开原文](https://wallstreetcn.com/articles/3780032)
-> **source**：GDELT / wallstreetcn.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#1
-> **reason**：rank #1; cross-source x4; source weight: GDELT; hot terms: 中国, 美国, 军事, 制裁
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260821T224500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 100** | 制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 千龙网 · 中国首都网
-> **标题**：制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 千龙网 · 中国首都网
-> **原文链接**：🔗 [打开原文](https://world.qianlong.com/2026/0812/8711047.shtml)
-> **source**：GDELT / world.qianlong.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#4
-> **reason**：rank #4; cross-source x4; source weight: GDELT; hot terms: 中国, 美国, 军事, 外交
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260812T064500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 100** | 美点名要求加入针对伊朗经济制裁 中方作出回应
-> **标题**：美点名要求加入针对伊朗经济制裁 中方作出回应
-> **原文链接**：🔗 [打开原文](https://www.wenxuecity.com/news/2026/08/21/126749340.html)
-> **source**：GDELT / wenxuecity.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#2
-> **reason**：rank #2; cross-source x4; source weight: GDELT; hot terms: 美国, 军事, 制裁
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260821T173000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 98** | Тайван налага по - строг контрол над AI чиповете за Китай - ще има ли отговор ?
-> **标题**：Тайван налага по - строг контрол над AI чиповете за Китай - ще има ли отговор ?
-> **原文链接**：🔗 [打开原文](https://money.bg/economics/tayvan-nalaga-po-strog-kontrol-nad-ai-chipovete-za-kitay-shte-ima-li-otgovor.html)
-> **source**：GDELT / money.bg
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#6
-> **reason**：rank #6; cross-source x6; source weight: GDELT; hot terms: 美国, ai, ai
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260610T154500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 98** | 制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 西部网 （ 陕西新闻网 ）
-> **标题**：制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 西部网 （ 陕西新闻网 ）
-> **原文链接**：🔗 [打开原文](http://news.cnwest.com/szyw/a/2026/08/12/23411732.html)
-> **source**：GDELT / news.cnwest.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#8
-> **reason**：rank #8; cross-source x4; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260812T041500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 96** | Taïwan : enquête sur 17 entreprises financées par la Chine pour débaucher des talents technologiques
-> **标题**：Taïwan : enquête sur 17 entreprises financées par la Chine pour débaucher des talents technologiques
-> **原文链接**：🔗 [打开原文](https://www.sudouest.fr:443/international/asie/taiwan/taiwan-enquete-sur-17-entreprises-financees-par-la-chine-pour-debaucher-des-talents-technologiques-30168162.php)
-> **source**：GDELT / sudouest.fr
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#1
-> **reason**：rank #1; cross-source x3; source weight: GDELT; hot terms: 美国
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260805T080000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 94** | Tech Self - Reliance Eludes Beijing
-> **标题**：Tech Self - Reliance Eludes Beijing
-> **原文链接**：🔗 [打开原文](https://www.theepochtimes.com/opinion/tech-self-reliance-eludes-beijing-6060662)
-> **source**：GDELT / theepochtimes.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#4
-> **reason**：rank #4; cross-source x4; source weight: GDELT; hot terms: 美国
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260716T221500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 92** | 川普 「 經濟決戰 」 對伊朗造成多大打擊 ？ 關鍵恐不在德黑蘭 - 政治圈
-> **标题**：川普 「 經濟決戰 」 對伊朗造成多大打擊 ？ 關鍵恐不在德黑蘭 - 政治圈
-> **原文链接**：🔗 [打开原文](https://www.chinatimes.com/realtimenews/20260821001870-260408)
-> **source**：GDELT / chinatimes.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
+> **category**：综合
 > **rank**：#7
-> **reason**：rank #7; cross-source x4; source weight: GDELT; hot terms: 美国, 军事
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260821T030000Z
+> **reason**：rank #7; cross-source x3; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Bessent says 19 finance ministers agreed 'cheap exports' are unsustainable, but China dissented SFGATE
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 92** | 回应美国 中国 ： 对伊朗制裁施压无助解决问题 | 国际
-> **标题**：回应美国 中国 ： 对伊朗制裁施压无助解决问题 | 国际
-> **原文链接**：🔗 [打开原文](https://www.orientaldaily.com.my/news/international/2026/08/21/842263)
-> **source**：GDELT / orientaldaily.com.my
+> [!info]+ **今日必须看 / 91** | China’s Expanding Military Reach in Africa: From Exercises to Expeditionary Power - Africa Center for Strategic Studies
+> **标题**：China’s Expanding Military Reach in Africa: From Exercises to Expeditionary Power - Africa Center for Strategic Studies
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMicEFVX3lxTFBKVTZxbnpjTW84UEJia3FFNEJMbXdIUVZYTzlyMDZPSkluazFlbVVEc2FQblo5SHVSUm1CdmlsZGpxMkxKVTB0VTF5a2VUX1FUaEJWWjdiRTNkRlZNS1JUMHV3bTdRdExEbGtnZm91VHk?oc=5)
+> **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#11
-> **reason**：rank #11; cross-source x4; source weight: GDELT; hot terms: 中国, 美国, 军事, 制裁
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260821T103000Z
+> **category**：综合
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: 美国, china, us, military
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：China’s Expanding Military Reach in Africa: From Exercises to Expeditionary Power Africa Center for Strategic Studies
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 92** | Exclusive | Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies - WSJ
-> **标题**：Exclusive | Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies - WSJ
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMimAFBVV95cUxNYlMycHNtbklRdFFPaXNoeHlmVzF1dHJYU042Z0xMRFdXdE45V1ZFek1wOGdVUjg2WHVxc3NBdjdXQnJibnlLUTVLb0Zya1A4czhaQkMxNTlFbVBBZ0RtTTduY0VydW51RF94dTRyaXExZ25ReUU0OG9BX3lUWUZqVHlLQjNjUm1RdWlKclJScXlHWlUxRlBtNw?oc=5)
+> [!info]+ **今日必须看 / 89** | China derails consensus on communiqué after US-hosted G20 - Financial Times
+> **标题**：China derails consensus on communiqué after US-hosted G20 - Financial Times
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihAFBVV95cUxPc0hRTUtBWjVacXN5NWo0ODNBY3QxUlZUX3lkZnYzbVFvblp6WFFORzIwR3Y2eXBnNk9uZS1QZEtobFJjR2U4WDduZk8yNDZFVlRBSEthaXUxMWF6bTlteEdTeWxFZGxYM01LSld3WmVtc1g0bmhDYUN3eV8yNl95MjFCemQ?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：China derails consensus on communiqué after US-hosted G20 Financial Times
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 89** | China dissents as Bessent says 19 finance ministers agree to address 'cheap exports' - PBS
+> **标题**：China dissents as Bessent says 19 finance ministers agree to address 'cheap exports' - PBS
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcC1jbjZTNGM4eTM3RTJDSmptWnh6cE5nVEJfUnZ4ZWpnYzJ1YnE3NDBIT09CWU01d1VyaTNjZUpqYW5TMVpmbG5GcllUZnJhSEJtbjJ3NTUzNlhjWEViLWxfdnpQYUQ4R3BhdURhTGx2YTZIUFRZcnU1d010N3huR2kxSGNIRDV3dmVCNGVKbWVQbWszMUZSMmNQME5zb19KREtxZHhZcHBmUm9LSTZodl84WU5mRkZsMzVv0gHAAUFVX3lxTE9ZWDhQUWJCM2ZaVklXV19kQURvOE45dG5OZTQ4RWEyeHdXUjBDd3NrZDNRaVl3Y09yMDh1ZWt2U1c3dUs1M21iX0QwSFBQTjhtUHBDalNVV1pkazRvVG5Xdm5lRkY5MVp1VnF3dkZDOEVYbFNLSU1IeVZWSTJnWlN1WlhsUzBWbzJCNnJ2SGk5bGppN0lPeG5IeHE4WmNFc1hINDYyVXM4NWdBcFhWREFBaEtQSTNBQ1J4YXhlVFhGRA?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：China dissents as Bessent says 19 finance ministers agree to address 'cheap exports' PBS
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 89** | Judge rebukes HHS over AI use in cutting teen pregnancy prevention grants - The Washington Post
+> **标题**：Judge rebukes HHS over AI use in cutting teen pregnancy prevention grants - The Washington Post
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxQZFlBR2lIQkRoR2FlVjNvYTFCbW1IS0xsbUQ3SU9FSTh4aXMtSVlXanUydkNGZHBBenl0YTVQWXIzSm1OeVdsb3NWdGV0SlhfcTVfQ0taN2EzN015dnQxR0RrT3poUllHT2MxYjJpcUppemJndFdBbml6YmtwRHh6bTZPQTlYYkNTUFhzTHh6Q3ZCa1BVM2t6cXBuQ2ZxcVBVcnI2MjlldXhCNU90NUwzRjJMOUhWelhUbkJLVw?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
-> **rank**：#5
-> **reason**：rank #5; cross-source x2; source weight: Google News; hot terms: ai, us, ai, markets
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: ai, us, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Exclusive | Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies WSJ
+> **summary**：Judge rebukes HHS over AI use in cutting teen pregnancy prevention grants The Washington Post
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 90** | 中方接连驳斥美方单边制裁打压 制度化反击展现坚定立场 _ 军事频道 _ 中华网
-> **标题**：中方接连驳斥美方单边制裁打压 制度化反击展现坚定立场 _ 军事频道 _ 中华网
-> **原文链接**：🔗 [打开原文](https://military.china.com/news/13004177/20260803/49651156.html)
-> **source**：GDELT / military.china.com
+> [!info]+ **今日必须看 / 87** | OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability - CNBC
+> **标题**：OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability - CNBC
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMib0FVX3lxTE9tRnVRNXpxZ0NmUjZibXQ2Y183dWI5dHlJcWhETElkdDB4cjhIUFNUaVlHYzlBZFRtMkhXcEM1aXdWeTZ5Z2xRbDh6YmlNN3h0N2VjenJILW5Ydm95aUliY0NEVkxSUldQWHBLVGUzVdIBdEFVX3lxTE92bmN2a3h0MGVUWGQ2SFZ3clE5emhJTGMxT3NpU0NFMWZGSVJaTXVidHI4YnIwZUNnQ2J1aDNNcFpUSkZybjczQ3VwN09zTGJYdU5LLWFBcGU3UEVrVjZGNzFTQm94S2liRUN1Q081SG1peVRo?oc=5)
+> **source**：Google News / Global Markets Tech
 > **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#10
-> **reason**：rank #10; cross-source x4; source weight: GDELT; hot terms: 美国, 军事, 制裁
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260803T063000Z
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability CNBC
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 79** | La Chine tente - t - elle de voler les talents de la tech taïwanais ? Une enquête est en cours portant sur 17 entreprises financées par Pékin
-> **标题**：La Chine tente - t - elle de voler les talents de la tech taïwanais ? Une enquête est en cours portant sur 17 entreprises financées par Pékin
-> **原文链接**：🔗 [打开原文](https://www.bfmtv.com/economie/international/la-chine-tente-t-elle-de-voler-les-talents-de-la-tech-taiwanais-une-enquete-est-en-cours-portant-sur-17-entreprises-financees-par-pekin_AD-202608050166.html)
-> **source**：GDELT / bfmtv.com
+> [!info]+ **今日必须看 / 87** | Pentagon official overseeing military AI sold millions worth of stock in AI firm - The Guardian
+> **标题**：Pentagon official overseeing military AI sold millions worth of stock in AI firm - The Guardian
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMikAFBVV95cUxPb1FuRGFTMWxic0tscVRrOEc3NmdsX19JTDdLVHFwcHR3WnhYTnRaTUFkY005b0xEUVFQQW5RcnNGT2ZXamdKUVBDU1BQcm0yOGFWS2ZoTi1tQU8wRGVhV3lmd21KUWtIcy1nUlFuSDI2MXdJaWxvd2RsRFhUZTJPZTRHREliZnJlaDVBZk9MSmw?oc=5)
+> **source**：Google News / Global Markets Tech
 > **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#10
-> **reason**：rank #10; cross-source x2; source weight: GDELT; hot terms: 美国, ai, ai
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260805T080000Z
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#4
+> **reason**：rank #4; source weight: Google News; hot terms: ai, military, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Pentagon official overseeing military AI sold millions worth of stock in AI firm The Guardian
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 79** | Taïwan ou la fascinante histoire dune île propulsée au cœur de l économie mondiale grâce à lindustrie des semi - conducteurs
-> **标题**：Taïwan ou la fascinante histoire dune île propulsée au cœur de l économie mondiale grâce à lindustrie des semi - conducteurs
-> **原文链接**：🔗 [打开原文](https://www.ledevoir.com/monde/asie/986273/fascinante-histoire-ile-propulsee-coeur-economie-mondiale)
-> **source**：GDELT / ledevoir.com
+> [!info]+ **今日必须看 / 83** | G20 finance chiefs except China back action on distorted trade - finance.yahoo.com
+> **标题**：G20 finance chiefs except China back action on distorted trade - finance.yahoo.com
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMikgFBVV95cUxNS3BQaGNtVnc5OEpSU2R4elczbUc5aGl3S2ZLUlFZdFBmc2ZET0JrUkVKQmtOM2M5VHBHbEx5ak5XcXRNM0M1ZEptZWl0NlItNlJDN2hPWWpLTWx5SERNVDNMd04yeWowV0NCZi00LVNhNE9zVzhYTHUzVkJhVlBNelJac1VjYTZhb3V3Mm0tMF9Odw?oc=5)
+> **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
-> **category**：科技
-> **rank**：#8
-> **reason**：rank #8; cross-source x2; source weight: GDELT; hot terms: 美国, us
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260609T050000Z
+> **category**：综合
+> **rank**：#4
+> **reason**：rank #4; source weight: Google News; hot terms: 美国, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：G20 finance chiefs except China back action on distorted trade finance.yahoo.com
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 81** | EXCLUSIVE: Chinese shipper COSCO collects intel for Beijing with concealed equipment, US officials say - Reuters
+> **标题**：EXCLUSIVE: Chinese shipper COSCO collects intel for Beijing with concealed equipment, US officials say - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOUJJbXB2anZYelJzQWlUbjNpd0NHaGNxMlB5LWpPLUU3Y0VSU0hVNEM5Y29OZm9LMFFWTFNRSWFrdWs1VUFxZmowZkViUEVWemJ6cGg3ZDNLZ0ZMYWphbHcwQ1A1NEpOMDg5TXpLSG9HdmNoMkc4Y3JERUg4VHRmNWFfOElUeVlYeEVwNzlyUEZkdnNzUHJMc19zaGI5SDFDcjdNUkhxSXp6bUpqWUtidlJYWTdhcUFMZExJbw?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#5
+> **reason**：rank #5; source weight: Google News; hot terms: 美国, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：EXCLUSIVE: Chinese shipper COSCO collects intel for Beijing with concealed equipment, US officials say Reuters
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 79** | 'It can outthink me': How a major manufacturer came to embrace AI - NPR
+> **标题**：'It can outthink me': How a major manufacturer came to embrace AI - NPR
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQTBMV2RmYmE1dExFQmlOZ1VId1VGWWE1M0k1cnczdVpDa2Q5TmdfT2ZWajhCaEpGM29ZcFN2c1FkTDRRZ2ZQUTNKRVJiNkRKTzZxRlh6NllWOFF2RmxoQXhRcHNSYVZYaHpQUHZGTVQwc3BNMDlIWFE2OV8tM3N0bEIxUVM0Zw?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#6
+> **reason**：rank #6; source weight: Google News; hot terms: ai, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：'It can outthink me': How a major manufacturer came to embrace AI NPR
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 79** | G20 backs final statement despite Russia tensions, China dissent - France 24
+> **标题**：G20 backs final statement despite Russia tensions, China dissent - France 24
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirgFBVV95cUxPLWNiaVhpekFndE43eHVYSlNLeElEZll1cnBzNlViVEhfYndma2hrN3dBUVh1MV9sZU1zZ1AtYkRQNmFOTUlrR09LU2hUdG9oQTFaSGNjZnJibUFoS1RVNTNSa0VuazBrN1ZyQzk3U0FOQ1k3ejNSN2JDWUh1S3hVY05BOE5UNnk3M3Nld2dnMEdCVjBTWFVhYWlRRnVGb3hWaXNMWU4xTVg5UlUwNVE?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#6
+> **reason**：rank #6; source weight: Google News; hot terms: 美国, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：G20 backs final statement despite Russia tensions, China dissent France 24
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 77** | GoPro Is Now An AI Company—Sending Stock 40% Higher - Forbes
+> **标题**：GoPro Is Now An AI Company—Sending Stock 40% Higher - Forbes
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMizAFBVV95cUxOaUdhY21QdWVjcEtnXzJkSmZQSWMxWVBwdldZa09hWlphMTZtdW04VXNkUUNYUmhUVENHQ19tSUVPRDF5SzNSRFZGNk9JMld3Q01RNVRQM0stNlpqeFRra3dRYUtzOXh0Y19DMVlaS2xpRUhYU2ZqMnZqQlFrRVBkNDhLQW9XQTd2TUJWSGVRTkxaMHhjYkJRTl9TRUxBWld0Q2t4cjlwSE1YMjdWdHJXbVF1d1hYQzN4TTdhMkx0bXE1czUzZ0prSG5BQWE?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#7
+> **reason**：rank #7; source weight: Google News; hot terms: ai, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：GoPro Is Now An AI Company—Sending Stock 40% Higher Forbes
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 77** | China ‘spy ships’ intercepting U.S. military communications off American coasts, officials say - The Independent
+> **标题**：China ‘spy ships’ intercepting U.S. military communications off American coasts, officials say - The Independent
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMipAFBVV95cUxNa0NKNTdyNFdsSk04M252c3hZV2xoaExWZVNQSlJmS013Yk5yZXFnSVBUeFVZNGVNa2l4anNYc3cxWVpjY1FVU2dtbUluM2QxZTdTSW1UY0pYNWJKbW9fSkdRNGRYY0p3UGpnWnRhemt1cE1TVjZBSW1CZmpZWmZkdS1zVC00RmhRMjlYVmdzN2otaXcyam8zVTEwR0FES1BfendfSQ?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#9
+> **reason**：rank #9; source weight: Google News; hot terms: 美国, china, us, military
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：China ‘spy ships’ intercepting U.S. military communications off American coasts, officials say The Independent
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 77** | SoftBank-backed SB Energy files for US IPO as AI turbocharges infrastructure demand - Reuters
+> **标题**：SoftBank-backed SB Energy files for US IPO as AI turbocharges infrastructure demand - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOWs5azJGWFlYTnJCV1FTak9LYXZtUkNYOGFaZzhNWkhHSEhLMkJMVVdYX2U1ek9mTmJoRFl0YUxoX2Njc0htbVhjcDU5bklsd0c4c29FeUxIdVFrd2pvak9ENTBHZV9CcXB5YVdudDdJV0IzWlU1c082SEJ4RF9yZFd0MVZHcUFIWGdQbXVSZ1FfSmxKQ1B2NFkxQktIR0kyRnlKNzVzdlNxcXZQOHZHRGhfRFhKLUVvbU9LRWctUWpmUQ?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#9
+> **reason**：rank #9; source weight: Google News; hot terms: ai, us, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：SoftBank-backed SB Energy files for US IPO as AI turbocharges infrastructure demand Reuters
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+## 反复出现的议题
+
+> [!info]+ **今日必须看 / 96** | The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com
+> **标题**：The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: ai, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：The turbulent AI era is here. The choices we make now are critical. gatesnotes.com
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 95** | Bessent says 19 finance ministers agreed 'cheap exports' are unsustainable, but China dissented - SFGATE
+> **标题**：Bessent says 19 finance ministers agreed 'cheap exports' are unsustainable, but China dissented - SFGATE
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMimwFBVV95cUxPS2YxOVpMTmcwYWRBZTd6aEZUM3BkUk9aUC1RdUNPaE9lT1NaVE5iUGthYTJKNVNhVUVaQldCaER4MkxyU3YzeVFBTEdFRm01ZmR3cVBERmxmZ0tCcFplcEdjbmM5OXF1WFlnOTJpb1ozX1YyZ1RybnJrTExMX3h1di1mazNxSVE3WGJGZ1FsSkx5aDFRYVJiWUhMWQ?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#7
+> **reason**：rank #7; cross-source x3; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Bessent says 19 finance ministers agreed 'cheap exports' are unsustainable, but China dissented SFGATE
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -533,281 +312,7 @@ tags:
 
 ## 美国/国际热点迁移
 
-> [!info]+ **今日必须看 / 100** | US Space Chipmaking Bill vs China
-> **标题**：US Space Chipmaking Bill vs China
-> **原文链接**：🔗 [打开原文](https://www.newkerala.com/news/a/us-pushes-space-chipmaking-initiative-counter-chinas-technological-228.htm)
-> **source**：GDELT / newkerala.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#3
-> **reason**：rank #3; cross-source x7; source weight: GDELT; hot terms: 美国, china, us
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260612T031500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 100** | 制裁成 瘾 ， 让美国外交丧失理性思考｜真相|联合国
-> **标题**：制裁成 瘾 ， 让美国外交丧失理性思考｜真相|联合国
-> **原文链接**：🔗 [打开原文](https://www.163.com/news/article/L44ERMHU000189FH.html)
-> **source**：GDELT / 163.com, GDELT / baijiahao.baidu.com, GDELT / hinews.cn
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#3
-> **reason**：rank #3; cross-source x6; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260812T021500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 100** | 伊朗回应美国经济战威胁 ： 美方 注定失败 ， 中国表态 ： 反对非法单边制裁
-> **标题**：伊朗回应美国经济战威胁 ： 美方 注定失败 ， 中国表态 ： 反对非法单边制裁
-> **原文链接**：🔗 [打开原文](https://wallstreetcn.com/articles/3780032)
-> **source**：GDELT / wallstreetcn.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#1
-> **reason**：rank #1; cross-source x4; source weight: GDELT; hot terms: 中国, 美国, 军事, 制裁
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260821T224500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 100** | 制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 千龙网 · 中国首都网
-> **标题**：制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 千龙网 · 中国首都网
-> **原文链接**：🔗 [打开原文](https://world.qianlong.com/2026/0812/8711047.shtml)
-> **source**：GDELT / world.qianlong.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#4
-> **reason**：rank #4; cross-source x4; source weight: GDELT; hot terms: 中国, 美国, 军事, 外交
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260812T064500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 100** | 美点名要求加入针对伊朗经济制裁 中方作出回应
-> **标题**：美点名要求加入针对伊朗经济制裁 中方作出回应
-> **原文链接**：🔗 [打开原文](https://www.wenxuecity.com/news/2026/08/21/126749340.html)
-> **source**：GDELT / wenxuecity.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#2
-> **reason**：rank #2; cross-source x4; source weight: GDELT; hot terms: 美国, 军事, 制裁
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260821T173000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 98** | Тайван налага по - строг контрол над AI чиповете за Китай - ще има ли отговор ?
-> **标题**：Тайван налага по - строг контрол над AI чиповете за Китай - ще има ли отговор ?
-> **原文链接**：🔗 [打开原文](https://money.bg/economics/tayvan-nalaga-po-strog-kontrol-nad-ai-chipovete-za-kitay-shte-ima-li-otgovor.html)
-> **source**：GDELT / money.bg
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#6
-> **reason**：rank #6; cross-source x6; source weight: GDELT; hot terms: 美国, ai, ai
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260610T154500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 98** | 制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 西部网 （ 陕西新闻网 ）
-> **标题**：制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 西部网 （ 陕西新闻网 ）
-> **原文链接**：🔗 [打开原文](http://news.cnwest.com/szyw/a/2026/08/12/23411732.html)
-> **source**：GDELT / news.cnwest.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#8
-> **reason**：rank #8; cross-source x4; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260812T041500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 96** | Taïwan : enquête sur 17 entreprises financées par la Chine pour débaucher des talents technologiques
-> **标题**：Taïwan : enquête sur 17 entreprises financées par la Chine pour débaucher des talents technologiques
-> **原文链接**：🔗 [打开原文](https://www.sudouest.fr:443/international/asie/taiwan/taiwan-enquete-sur-17-entreprises-financees-par-la-chine-pour-debaucher-des-talents-technologiques-30168162.php)
-> **source**：GDELT / sudouest.fr
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#1
-> **reason**：rank #1; cross-source x3; source weight: GDELT; hot terms: 美国
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260805T080000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 94** | Tech Self - Reliance Eludes Beijing
-> **标题**：Tech Self - Reliance Eludes Beijing
-> **原文链接**：🔗 [打开原文](https://www.theepochtimes.com/opinion/tech-self-reliance-eludes-beijing-6060662)
-> **source**：GDELT / theepochtimes.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#4
-> **reason**：rank #4; cross-source x4; source weight: GDELT; hot terms: 美国
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260716T221500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 92** | 川普 「 經濟決戰 」 對伊朗造成多大打擊 ？ 關鍵恐不在德黑蘭 - 政治圈
-> **标题**：川普 「 經濟決戰 」 對伊朗造成多大打擊 ？ 關鍵恐不在德黑蘭 - 政治圈
-> **原文链接**：🔗 [打开原文](https://www.chinatimes.com/realtimenews/20260821001870-260408)
-> **source**：GDELT / chinatimes.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#7
-> **reason**：rank #7; cross-source x4; source weight: GDELT; hot terms: 美国, 军事
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260821T030000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-## 财经科技观察
-
-> [!info]+ **今日必须看 / 100** | US Space Chipmaking Bill vs China
-> **标题**：US Space Chipmaking Bill vs China
-> **原文链接**：🔗 [打开原文](https://www.newkerala.com/news/a/us-pushes-space-chipmaking-initiative-counter-chinas-technological-228.htm)
-> **source**：GDELT / newkerala.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#3
-> **reason**：rank #3; cross-source x7; source weight: GDELT; hot terms: 美国, china, us
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260612T031500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 98** | Тайван налага по - строг контрол над AI чиповете за Китай - ще има ли отговор ?
-> **标题**：Тайван налага по - строг контрол над AI чиповете за Китай - ще има ли отговор ?
-> **原文链接**：🔗 [打开原文](https://money.bg/economics/tayvan-nalaga-po-strog-kontrol-nad-ai-chipovete-za-kitay-shte-ima-li-otgovor.html)
-> **source**：GDELT / money.bg
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#6
-> **reason**：rank #6; cross-source x6; source weight: GDELT; hot terms: 美国, ai, ai
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260610T154500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 96** | Taïwan : enquête sur 17 entreprises financées par la Chine pour débaucher des talents technologiques
-> **标题**：Taïwan : enquête sur 17 entreprises financées par la Chine pour débaucher des talents technologiques
-> **原文链接**：🔗 [打开原文](https://www.sudouest.fr:443/international/asie/taiwan/taiwan-enquete-sur-17-entreprises-financees-par-la-chine-pour-debaucher-des-talents-technologiques-30168162.php)
-> **source**：GDELT / sudouest.fr
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#1
-> **reason**：rank #1; cross-source x3; source weight: GDELT; hot terms: 美国
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260805T080000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 94** | Tech Self - Reliance Eludes Beijing
-> **标题**：Tech Self - Reliance Eludes Beijing
-> **原文链接**：🔗 [打开原文](https://www.theepochtimes.com/opinion/tech-self-reliance-eludes-beijing-6060662)
-> **source**：GDELT / theepochtimes.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#4
-> **reason**：rank #4; cross-source x4; source weight: GDELT; hot terms: 美国
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260716T221500Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 92** | Exclusive | Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies - WSJ
-> **标题**：Exclusive | Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies - WSJ
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMimAFBVV95cUxNYlMycHNtbklRdFFPaXNoeHlmVzF1dHJYU042Z0xMRFdXdE45V1ZFek1wOGdVUjg2WHVxc3NBdjdXQnJibnlLUTVLb0Zya1A4czhaQkMxNTlFbVBBZ0RtTTduY0VydW51RF94dTRyaXExZ25ReUU0OG9BX3lUWUZqVHlLQjNjUm1RdWlKclJScXlHWlUxRlBtNw?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#5
-> **reason**：rank #5; cross-source x2; source weight: Google News; hot terms: ai, us, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Exclusive | Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies WSJ
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 91** | 'We have a limited window': 116 companies, entities sign on to major AI cyber defense push - CNBC
-> **标题**：'We have a limited window': 116 companies, entities sign on to major AI cyber defense push - CNBC
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ga0RXWlJZWVNWbFZBUno5T2hpVW9reTAwT2ZEYktDRmItRnJNMVRKelBjQlpUNWpsbEgwQ0xmd2RzNVdfOG5iWDE1U2F6Z1p3TzFXY2RFYmtPTktUSmhIdl82aXZaNXRCODNxeNIBckFVX3lxTE53NVBDNDRNczJJRk9SZmpDQW5hVEpKdjBRZjFSUGhKSVV3WU90TjdyeUduVzE0ZjVwLTVYM1EtYUg1cjJPdFRYWGlaVXh1cklXc1AzNDM0bWg1UjB5NW5GTDZQc2pIejRuVkx6SEdoTkpMZw?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：'We have a limited window': 116 companies, entities sign on to major AI cyber defense push CNBC
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 89** | The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com
+> [!info]+ **今日必须看 / 96** | The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com
 > **标题**：The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5)
 > **source**：Google News / Global Markets Tech
@@ -815,7 +320,7 @@ tags:
 > **region**：国际
 > **category**：财经/科技
 > **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets
+> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: ai, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：The turbulent AI era is here. The choices we make now are critical. gatesnotes.com
 >
@@ -824,51 +329,325 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 85** | OpenAI and Other Tech Giants Call for Greater Defense Against A.I. Attacks - The New York Times
-> **标题**：OpenAI and Other Tech Giants Call for Greater Defense Against A.I. Attacks - The New York Times
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMigAFBVV95cUxOMWdJNEdsTXRNZHVjeW1zc2hDYzdodk95bHh4Y1BrOWd6Z3VvV1c3RVNMbTgzMV9CVEJOY0FkNlRBSjlQT0c0UzlpRDFUcnhsd2xjYzNtREJIanR0SGU5Qlg1UXotV3JWMTR6UDZKZHJKSk9qSVMxT3VPcm5TM253LQ?oc=5)
+> [!info]+ **今日必须看 / 95** | Bessent says 19 finance ministers agreed 'cheap exports' are unsustainable, but China dissented - SFGATE
+> **标题**：Bessent says 19 finance ministers agreed 'cheap exports' are unsustainable, but China dissented - SFGATE
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMimwFBVV95cUxPS2YxOVpMTmcwYWRBZTd6aEZUM3BkUk9aUC1RdUNPaE9lT1NaVE5iUGthYTJKNVNhVUVaQldCaER4MkxyU3YzeVFBTEdFRm01ZmR3cVBERmxmZ0tCcFplcEdjbmM5OXF1WFlnOTJpb1ozX1YyZ1RybnJrTExMX3h1di1mazNxSVE3WGJGZ1FsSkx5aDFRYVJiWUhMWQ?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#7
+> **reason**：rank #7; cross-source x3; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Bessent says 19 finance ministers agreed 'cheap exports' are unsustainable, but China dissented SFGATE
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 91** | China’s Expanding Military Reach in Africa: From Exercises to Expeditionary Power - Africa Center for Strategic Studies
+> **标题**：China’s Expanding Military Reach in Africa: From Exercises to Expeditionary Power - Africa Center for Strategic Studies
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMicEFVX3lxTFBKVTZxbnpjTW84UEJia3FFNEJMbXdIUVZYTzlyMDZPSkluazFlbVVEc2FQblo5SHVSUm1CdmlsZGpxMkxKVTB0VTF5a2VUX1FUaEJWWjdiRTNkRlZNS1JUMHV3bTdRdExEbGtnZm91VHk?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: 美国, china, us, military
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：China’s Expanding Military Reach in Africa: From Exercises to Expeditionary Power Africa Center for Strategic Studies
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 89** | China derails consensus on communiqué after US-hosted G20 - Financial Times
+> **标题**：China derails consensus on communiqué after US-hosted G20 - Financial Times
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihAFBVV95cUxPc0hRTUtBWjVacXN5NWo0ODNBY3QxUlZUX3lkZnYzbVFvblp6WFFORzIwR3Y2eXBnNk9uZS1QZEtobFJjR2U4WDduZk8yNDZFVlRBSEthaXUxMWF6bTlteEdTeWxFZGxYM01LSld3WmVtc1g0bmhDYUN3eV8yNl95MjFCemQ?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：China derails consensus on communiqué after US-hosted G20 Financial Times
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 89** | China dissents as Bessent says 19 finance ministers agree to address 'cheap exports' - PBS
+> **标题**：China dissents as Bessent says 19 finance ministers agree to address 'cheap exports' - PBS
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcC1jbjZTNGM4eTM3RTJDSmptWnh6cE5nVEJfUnZ4ZWpnYzJ1YnE3NDBIT09CWU01d1VyaTNjZUpqYW5TMVpmbG5GcllUZnJhSEJtbjJ3NTUzNlhjWEViLWxfdnpQYUQ4R3BhdURhTGx2YTZIUFRZcnU1d010N3huR2kxSGNIRDV3dmVCNGVKbWVQbWszMUZSMmNQME5zb19KREtxZHhZcHBmUm9LSTZodl84WU5mRkZsMzVv0gHAAUFVX3lxTE9ZWDhQUWJCM2ZaVklXV19kQURvOE45dG5OZTQ4RWEyeHdXUjBDd3NrZDNRaVl3Y09yMDh1ZWt2U1c3dUs1M21iX0QwSFBQTjhtUHBDalNVV1pkazRvVG5Xdm5lRkY5MVp1VnF3dkZDOEVYbFNLSU1IeVZWSTJnWlN1WlhsUzBWbzJCNnJ2SGk5bGppN0lPeG5IeHE4WmNFc1hINDYyVXM4NWdBcFhWREFBaEtQSTNBQ1J4YXhlVFhGRA?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：China dissents as Bessent says 19 finance ministers agree to address 'cheap exports' PBS
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 89** | Judge rebukes HHS over AI use in cutting teen pregnancy prevention grants - The Washington Post
+> **标题**：Judge rebukes HHS over AI use in cutting teen pregnancy prevention grants - The Washington Post
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxQZFlBR2lIQkRoR2FlVjNvYTFCbW1IS0xsbUQ3SU9FSTh4aXMtSVlXanUydkNGZHBBenl0YTVQWXIzSm1OeVdsb3NWdGV0SlhfcTVfQ0taN2EzN015dnQxR0RrT3poUllHT2MxYjJpcUppemJndFdBbml6YmtwRHh6bTZPQTlYYkNTUFhzTHh6Q3ZCa1BVM2t6cXBuQ2ZxcVBVcnI2MjlldXhCNU90NUwzRjJMOUhWelhUbkJLVw?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
 > **rank**：#3
-> **reason**：rank #3; source weight: Google News; hot terms: ai, ai, markets
+> **reason**：rank #3; source weight: Google News; hot terms: ai, us, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：OpenAI and Other Tech Giants Call for Greater Defense Against A.I. Attacks The New York Times
+> **summary**：Judge rebukes HHS over AI use in cutting teen pregnancy prevention grants The Washington Post
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 79** | La Chine tente - t - elle de voler les talents de la tech taïwanais ? Une enquête est en cours portant sur 17 entreprises financées par Pékin
-> **标题**：La Chine tente - t - elle de voler les talents de la tech taïwanais ? Une enquête est en cours portant sur 17 entreprises financées par Pékin
-> **原文链接**：🔗 [打开原文](https://www.bfmtv.com/economie/international/la-chine-tente-t-elle-de-voler-les-talents-de-la-tech-taiwanais-une-enquete-est-en-cours-portant-sur-17-entreprises-financees-par-pekin_AD-202608050166.html)
-> **source**：GDELT / bfmtv.com
+> [!info]+ **今日必须看 / 87** | OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability - CNBC
+> **标题**：OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability - CNBC
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMib0FVX3lxTE9tRnVRNXpxZ0NmUjZibXQ2Y183dWI5dHlJcWhETElkdDB4cjhIUFNUaVlHYzlBZFRtMkhXcEM1aXdWeTZ5Z2xRbDh6YmlNN3h0N2VjenJILW5Ydm95aUliY0NEVkxSUldQWHBLVGUzVdIBdEFVX3lxTE92bmN2a3h0MGVUWGQ2SFZ3clE5emhJTGMxT3NpU0NFMWZGSVJaTXVidHI4YnIwZUNnQ2J1aDNNcFpUSkZybjczQ3VwN09zTGJYdU5LLWFBcGU3UEVrVjZGNzFTQm94S2liRUN1Q081SG1peVRo?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability CNBC
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 87** | Pentagon official overseeing military AI sold millions worth of stock in AI firm - The Guardian
+> **标题**：Pentagon official overseeing military AI sold millions worth of stock in AI firm - The Guardian
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMikAFBVV95cUxPb1FuRGFTMWxic0tscVRrOEc3NmdsX19JTDdLVHFwcHR3WnhYTnRaTUFkY005b0xEUVFQQW5RcnNGT2ZXamdKUVBDU1BQcm0yOGFWS2ZoTi1tQU8wRGVhV3lmd21KUWtIcy1nUlFuSDI2MXdJaWxvd2RsRFhUZTJPZTRHREliZnJlaDVBZk9MSmw?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#4
+> **reason**：rank #4; source weight: Google News; hot terms: ai, military, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Pentagon official overseeing military AI sold millions worth of stock in AI firm The Guardian
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 83** | G20 finance chiefs except China back action on distorted trade - finance.yahoo.com
+> **标题**：G20 finance chiefs except China back action on distorted trade - finance.yahoo.com
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMikgFBVV95cUxNS3BQaGNtVnc5OEpSU2R4elczbUc5aGl3S2ZLUlFZdFBmc2ZET0JrUkVKQmtOM2M5VHBHbEx5ak5XcXRNM0M1ZEptZWl0NlItNlJDN2hPWWpLTWx5SERNVDNMd04yeWowV0NCZi00LVNhNE9zVzhYTHUzVkJhVlBNelJac1VjYTZhb3V3Mm0tMF9Odw?oc=5)
+> **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
-> **category**：科技
+> **category**：综合
+> **rank**：#4
+> **reason**：rank #4; source weight: Google News; hot terms: 美国, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：G20 finance chiefs except China back action on distorted trade finance.yahoo.com
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 81** | EXCLUSIVE: Chinese shipper COSCO collects intel for Beijing with concealed equipment, US officials say - Reuters
+> **标题**：EXCLUSIVE: Chinese shipper COSCO collects intel for Beijing with concealed equipment, US officials say - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxQOUJJbXB2anZYelJzQWlUbjNpd0NHaGNxMlB5LWpPLUU3Y0VSU0hVNEM5Y29OZm9LMFFWTFNRSWFrdWs1VUFxZmowZkViUEVWemJ6cGg3ZDNLZ0ZMYWphbHcwQ1A1NEpOMDg5TXpLSG9HdmNoMkc4Y3JERUg4VHRmNWFfOElUeVlYeEVwNzlyUEZkdnNzUHJMc19zaGI5SDFDcjdNUkhxSXp6bUpqWUtidlJYWTdhcUFMZExJbw?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#5
+> **reason**：rank #5; source weight: Google News; hot terms: 美国, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：EXCLUSIVE: Chinese shipper COSCO collects intel for Beijing with concealed equipment, US officials say Reuters
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+## 财经科技观察
+
+> [!info]+ **今日必须看 / 96** | The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com
+> **标题**：The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: ai, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：The turbulent AI era is here. The choices we make now are critical. gatesnotes.com
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 89** | Judge rebukes HHS over AI use in cutting teen pregnancy prevention grants - The Washington Post
+> **标题**：Judge rebukes HHS over AI use in cutting teen pregnancy prevention grants - The Washington Post
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxQZFlBR2lIQkRoR2FlVjNvYTFCbW1IS0xsbUQ3SU9FSTh4aXMtSVlXanUydkNGZHBBenl0YTVQWXIzSm1OeVdsb3NWdGV0SlhfcTVfQ0taN2EzN015dnQxR0RrT3poUllHT2MxYjJpcUppemJndFdBbml6YmtwRHh6bTZPQTlYYkNTUFhzTHh6Q3ZCa1BVM2t6cXBuQ2ZxcVBVcnI2MjlldXhCNU90NUwzRjJMOUhWelhUbkJLVw?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: ai, us, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Judge rebukes HHS over AI use in cutting teen pregnancy prevention grants The Washington Post
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 87** | OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability - CNBC
+> **标题**：OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability - CNBC
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMib0FVX3lxTE9tRnVRNXpxZ0NmUjZibXQ2Y183dWI5dHlJcWhETElkdDB4cjhIUFNUaVlHYzlBZFRtMkhXcEM1aXdWeTZ5Z2xRbDh6YmlNN3h0N2VjenJILW5Ydm95aUliY0NEVkxSUldQWHBLVGUzVdIBdEFVX3lxTE92bmN2a3h0MGVUWGQ2SFZ3clE5emhJTGMxT3NpU0NFMWZGSVJaTXVidHI4YnIwZUNnQ2J1aDNNcFpUSkZybjczQ3VwN09zTGJYdU5LLWFBcGU3UEVrVjZGNzFTQm94S2liRUN1Q081SG1peVRo?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability CNBC
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 87** | Pentagon official overseeing military AI sold millions worth of stock in AI firm - The Guardian
+> **标题**：Pentagon official overseeing military AI sold millions worth of stock in AI firm - The Guardian
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMikAFBVV95cUxPb1FuRGFTMWxic0tscVRrOEc3NmdsX19JTDdLVHFwcHR3WnhYTnRaTUFkY005b0xEUVFQQW5RcnNGT2ZXamdKUVBDU1BQcm0yOGFWS2ZoTi1tQU8wRGVhV3lmd21KUWtIcy1nUlFuSDI2MXdJaWxvd2RsRFhUZTJPZTRHREliZnJlaDVBZk9MSmw?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#4
+> **reason**：rank #4; source weight: Google News; hot terms: ai, military, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Pentagon official overseeing military AI sold millions worth of stock in AI firm The Guardian
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 79** | 'It can outthink me': How a major manufacturer came to embrace AI - NPR
+> **标题**：'It can outthink me': How a major manufacturer came to embrace AI - NPR
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQTBMV2RmYmE1dExFQmlOZ1VId1VGWWE1M0k1cnczdVpDa2Q5TmdfT2ZWajhCaEpGM29ZcFN2c1FkTDRRZ2ZQUTNKRVJiNkRKTzZxRlh6NllWOFF2RmxoQXhRcHNSYVZYaHpQUHZGTVQwc3BNMDlIWFE2OV8tM3N0bEIxUVM0Zw?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#6
+> **reason**：rank #6; source weight: Google News; hot terms: ai, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：'It can outthink me': How a major manufacturer came to embrace AI NPR
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 77** | GoPro Is Now An AI Company—Sending Stock 40% Higher - Forbes
+> **标题**：GoPro Is Now An AI Company—Sending Stock 40% Higher - Forbes
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMizAFBVV95cUxOaUdhY21QdWVjcEtnXzJkSmZQSWMxWVBwdldZa09hWlphMTZtdW04VXNkUUNYUmhUVENHQ19tSUVPRDF5SzNSRFZGNk9JMld3Q01RNVRQM0stNlpqeFRra3dRYUtzOXh0Y19DMVlaS2xpRUhYU2ZqMnZqQlFrRVBkNDhLQW9XQTd2TUJWSGVRTkxaMHhjYkJRTl9TRUxBWld0Q2t4cjlwSE1YMjdWdHJXbVF1d1hYQzN4TTdhMkx0bXE1czUzZ0prSG5BQWE?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#7
+> **reason**：rank #7; source weight: Google News; hot terms: ai, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：GoPro Is Now An AI Company—Sending Stock 40% Higher Forbes
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 77** | SoftBank-backed SB Energy files for US IPO as AI turbocharges infrastructure demand - Reuters
+> **标题**：SoftBank-backed SB Energy files for US IPO as AI turbocharges infrastructure demand - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOWs5azJGWFlYTnJCV1FTak9LYXZtUkNYOGFaZzhNWkhHSEhLMkJMVVdYX2U1ek9mTmJoRFl0YUxoX2Njc0htbVhjcDU5bklsd0c4c29FeUxIdVFrd2pvak9ENTBHZV9CcXB5YVdudDdJV0IzWlU1c082SEJ4RF9yZFd0MVZHcUFIWGdQbXVSZ1FfSmxKQ1B2NFkxQktIR0kyRnlKNzVzdlNxcXZQOHZHRGhfRFhKLUVvbU9LRWctUWpmUQ?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#9
+> **reason**：rank #9; source weight: Google News; hot terms: ai, us, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：SoftBank-backed SB Energy files for US IPO as AI turbocharges infrastructure demand Reuters
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 73** | Bill Simmons’s Podcast Co-Hosts Are Tired of His A.I. Antics - nytimes.com
+> **标题**：Bill Simmons’s Podcast Co-Hosts Are Tired of His A.I. Antics - nytimes.com
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMinAFBVV95cUxQb3VUbG5PWno3YlFlY2x3MlprR2tOMlpfR2JWekxGSlhFVDdobno5YWxmakN0QU5USzJRS0FxelFEMWQ0RWpld0FmUmk2M204UHpYeEZCZkNYY2RMNHhuZ1piMko2Q3Ywc2F4dWpKZDBZVWltX1AwQWdmT0tXbkR5MFZtLUJwZlBHMnRETXEtaERFMEdneEdsdGttb1g?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#5
+> **reason**：rank #5; source weight: Google News; hot terms: markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Bill Simmons’s Podcast Co-Hosts Are Tired of His A.I. Antics nytimes.com
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 71** | AI Mediator bridges NU Boston and Oakland classrooms in real time - news.northeastern.edu
+> **标题**：AI Mediator bridges NU Boston and Oakland classrooms in real time - news.northeastern.edu
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxON2tzT0pJaXNFZW91LWdPdTJBRk9EZGhndjUtU0tfbUZTSnBXTXl2SEJkdUtUeFZkLS1YOVNSMWRGRTA1cDBaWE1Ga2hlUVdoalRVRDdoQjJwWUxnSXUtcTRZQnY5cVEtY1k4dTlxekx2eTRvaWZoTXRCcTVFZWhqVFdidTZUcU1U?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
 > **rank**：#10
-> **reason**：rank #10; cross-source x2; source weight: GDELT; hot terms: 美国, ai, ai
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260805T080000Z
+> **reason**：rank #10; source weight: Google News; hot terms: ai, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：AI Mediator bridges NU Boston and Oakland classrooms in real time news.northeastern.edu
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 79** | Taïwan ou la fascinante histoire dune île propulsée au cœur de l économie mondiale grâce à lindustrie des semi - conducteurs
-> **标题**：Taïwan ou la fascinante histoire dune île propulsée au cœur de l économie mondiale grâce à lindustrie des semi - conducteurs
-> **原文链接**：🔗 [打开原文](https://www.ledevoir.com/monde/asie/986273/fascinante-histoire-ile-propulsee-coeur-economie-mondiale)
-> **source**：GDELT / ledevoir.com
+> [!info]+ **可延后 / 69** | How AI has entered one CFO’s budget season - CFO Dive
+> **标题**：How AI has entered one CFO’s budget season - CFO Dive
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMikAFBVV95cUxPaGluWmpheHpWRjd2NUluQ1RkSWt0UXpTX09tbWpEVDBJQ3BBTlBEQkpOekdrN2dnNGxlTG5USXJQZnEyNWxuYkw5T2dSQmVqdUpYU2c3by1TZmo4RFJCN2FmcVItclFzb3JBNGVoUTg2NzlYWC12d29TTmU1ZXJNNHdxYVE1VXVLZ3pZU3l1cl8?oc=5)
+> **source**：Google News / Global Markets Tech
 > **kind**：`news`
-> **region**：美国/国际
-> **category**：科技
-> **rank**：#8
-> **reason**：rank #8; cross-source x2; source weight: GDELT; hot terms: 美国, us
-> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
-> **summary**：20260609T050000Z
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#11
+> **reason**：rank #11; source weight: Google News; hot terms: ai, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：How AI has entered one CFO’s budget season CFO Dive
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
