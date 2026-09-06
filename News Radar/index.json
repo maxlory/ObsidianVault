@@ -1,5 +1,35 @@
 {
   "signals": {
+    "002fdbc5c8bf0e20": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
+      "first_seen": "2026-09-06T08:32:05.543553+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "002fdbc5c8bf0e20",
+      "kind": "news",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-05T21:23:43+00:00",
+      "rank": 5,
+      "reason": "rank #5; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h",
+      "region": "国际",
+      "score": 89,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior Reuters",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5"
+    },
     "004d6e12f3118a7c": {
       "category": "今日必须看",
       "discovered_at": "2026-08-02T08:08:01.990409+08:00",
@@ -119,6 +149,36 @@
       ],
       "title": "‘Equal rival’: Trump-Xi summit signals new balance in US-China ties - TVP World",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1SUJJYU9rNk10MkFiRnNsWkJLeVB2d01odk5uMmp0ZWlCMnFSU2xTLVo5UzFTVHA0Zm9uaElPaHBiQWMwTEhfN3ZraERTMUQxaUtVX1N6ZHhvUWRKY0NuTFlXczg0UWdnT0lScHV6YlBhRktreDA2eVVJOUNreFk?oc=5"
+    },
+    "00e21c5a14fc88b3": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
+      "first_seen": "2026-09-06T08:32:05.543553+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "00e21c5a14fc88b3",
+      "kind": "news",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
+      "news_category": "综合",
+      "published": "2026-09-05T12:41:45+00:00",
+      "rank": 7,
+      "reason": "rank #7; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h",
+      "region": "美国/国际",
+      "score": 89,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "USA and China Resumed Command-Level Military Contacts After Two-Year Hiatus Militarnyi",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "USA and China Resumed Command-Level Military Contacts After Two-Year Hiatus - Militarnyi",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sdWdQMExGTTA5WnNXWU5kaXE0Y0xqcjA5UjNEU1E2WThZc1pDSFpCZGRfWllaRllYTUF2cDA0UzVpNk1qcWtOZ09hZzlwTV84V0JaeW4yR2hIbmdkX1RoMC1TTGRkXy1kYm5TelVKSjZrel9TWFlqc2ZnV2cxQzQ?oc=5"
     },
     "00fa9cbfbdb99525": {
       "category": "今日必须看",
@@ -1172,6 +1232,36 @@
       "title": "The Job That AI Was Supposed to Kill Needs More Humans Than Ever - WSJ",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ3JwdC1kbEQyYno1R1ZFV3lRWldZUnVSdDlrS3lMQzAyczNtbnVVZlhYNDlkTnluSkJmYy1SekZJRTRLOTlhdHNYWDNuNE5RRDFnVHQ4bHhrUjhiOXNMMEtNaDczcUlMLWVrZEdXQ3c5YTIzNUlCdVFnMUlqWjZrZmRYdDcwcC0tczN4X1B0YlBxX2tWcDhFWEgxWUZKUUN1VVpZ?oc=5"
     },
+    "061c1f26c53071c1": {
+      "category": "可延后",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
+      "first_seen": "2026-09-06T08:32:05.543553+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "061c1f26c53071c1",
+      "kind": "news",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-05T23:45:00+00:00",
+      "rank": 12,
+      "reason": "rank #12; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h",
+      "region": "国际",
+      "score": 75,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "UH receives $2M to develop AI tools for food safety hawaiinewsnow.com",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "UH receives $2M to develop AI tools for food safety - hawaiinewsnow.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV3UxMFZlWkRuQXlrUEJ2Mk5mX0JNYXYyd1l3ZUFCeXZubkQ2dEttQUFjT2lGWC1MOVhqb2I4UjhGXzFRMldUUVU5aHJtU0h5b2lpZ2wxVU5ob1AtZ2dSenl2UTVoY2oxaTdFRHdDT2w3aE9vQkhhS0pvNTc4Z3EtZjVBVWpfUWhkUDhSZnB30gGiAUFVX3lxTE1oX2ZucHNnaXlVVkUydk9XdzlHRkt1SERCNEZfbk1ZMzR3OHp0cVRrSVB4amxyTkE4MzRaQlZCWFJwY29hQVFSY0tSWmdpWnJ1WU4tRjMySHVhMXc1b1V3TUo4UzgwSHlOWC1teDYySzY0R3c5eV9YdDM2d2NBX0hsbXJOMFc3Vi1BT3BfUE9mNWVJMjJkWXlHVlBPc3pSZmlXQQ?oc=5"
+    },
     "064127cea1232d77": {
       "category": "可延后",
       "discovered_at": "2026-05-31T08:20:48.106053+08:00",
@@ -2191,6 +2281,36 @@
       "title": "China’s Military Vows to Raise Trust With US After Xi-Trump Meet - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZmd3bHJhbng1SUgxeGcxVnlPX0JKcE1EdFRGYTZOS2ZacG9waHNWTEllUzRuSHd6R2lpeHdsZ2Z5eGRQMzZKdWtkQ0U2VEY1WF84T19yNWdYY2JmQVJzMTJ0YW5iMVRGeWZ1anhWaVpZWjJ6c3B4SkY4bGJGNHgzSTZlVXZWN2NXWVFVbzJhenYycElwQ1BNXy1xeFNUM0RHaDJ0b1pTUldMRVczdEdxaUNXNmk2dw?oc=5"
     },
+    "0f03966bf98fc104": {
+      "category": "可延后",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
+      "first_seen": "2026-09-06T08:32:05.543553+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "0f03966bf98fc104",
+      "kind": "news",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
+      "news_category": "综合",
+      "published": "2026-09-04T10:34:00+00:00",
+      "rank": 11,
+      "reason": "rank #11; source weight: Google News; hot terms: 美国, china, us",
+      "region": "美国/国际",
+      "score": 69,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "China under pressure over trade at G20 finance meetings Semafor",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "China under pressure over trade at G20 finance meetings - Semafor",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQXBDMFJLdlZtSHF4TlBQNjdHOVBFS3FuaTRLQjM2NWtSdnF3NnlJbmlMemFBTHB5NjJtaV9UNEpGaENlYlJSb0dkZjRlRTlJeV9ZRkotRTVKMDNRbTZQZk1UMlB0Wi00bGdOUGZKc2JTeEdLcHFRVkRCc1ZtUjRCTjBRbUxWRG45N3JMVEZlY0E4cWhmc0lxVDFmQkl6NDA?oc=5"
+    },
     "0f5dae1510c5a59b": {
       "category": "可延后",
       "discovered_at": "2026-08-18T08:09:17.053715+08:00",
@@ -2671,6 +2791,36 @@
       "title": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MTUZyVjgxa2cwaWl3cWEweEFyUUFHTGFzb0lMaERtdl9jVG1kTGNBdW50Y0wzT0NFNU5EaHJ6QUlJVjFON2JPdE01eHZlNm9TOF9iVjRoeWs1X0dzVzBUbmFLMWpYVG54VFpRbFZmU3dyVl9YcWZGYnNOMlR6WlU?oc=5"
     },
+    "114689c5cfd7529e": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
+      "first_seen": "2026-09-06T08:32:05.543553+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "114689c5cfd7529e",
+      "kind": "news",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
+      "news_category": "综合",
+      "published": "2026-09-05T11:10:35+00:00",
+      "rank": 3,
+      "reason": "rank #3; source weight: Google News; hot terms: 美国, china, us, military",
+      "region": "美国/国际",
+      "score": 89,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "China’s Civil-Military Drone Fusion realcleardefense.com",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "China’s Civil-Military Drone Fusion - realcleardefense.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb1haUFlLWlZpenlaRXljVS1hLWRUV2hKZVFqcWJsSGR2WEU2WEFxblNkRDZDOG5jWkJkZHIyRTBRU2ZpckczUHJuLVJpRGFIMUVIXzZVRkFHS0JkNGwzVnRxOVJQOHlybGZxd1l6MUdwdXN4NTkzZk9jT3VZMEUzUjJWYURCTHAya2pLbHo1c09KQnBUdUEzR0JUTGVvQ0pKdHc?oc=5"
+    },
     "115407b80b626ff0": {
       "category": "今日必须看",
       "discovered_at": "2026-06-05T08:11:59.580770+08:00",
@@ -3059,6 +3209,36 @@
       ],
       "title": "Cambodia Says to Resume Military Drills With U.S. Next Year - The China-Global South Project",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZk1wM3hWUXZZbFNnS1VJTGVNNmpuQXFtaXNLZVhZbl9vNHBjZnFxMzNhc3dKTzZqeWZCd2hvTHVUZ2puaXJwWExlWkJadlJtdzFDemNOQlRWRFhDMVBNVlV5Rm1SSF90NFdsbWN3bHFUeTV1a2twV3Fxbng4bjNabTRtVHM0Q2p0bDk0YTZFeFNybUtlQzdz?oc=5"
+    },
+    "13765f876d6277b2": {
+      "category": "可延后",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
+      "first_seen": "2026-09-06T08:32:05.543553+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "13765f876d6277b2",
+      "kind": "news",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-05T21:11:57+00:00",
+      "rank": 14,
+      "reason": "rank #14; source weight: Google News; hot terms: markets; fresh within 12h",
+      "region": "国际",
+      "score": 63,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived. The New York Times",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFdVJaOGJXMWcwelNsdUpReENFVWFBN2JONjBwdzdKN3lmbXhCQnVlaXAzcE8wOHdwLTZsdnFMQlUwOG1YdVVtSGpuV2N5MDdZc21BSWMwc1RMczJ6NlBnbVhxUmgyeVVfSHpHaldDS09UbzFFUVFucHlvb05QSFU?oc=5"
     },
     "1378efc60191cfb9": {
       "category": "今日必须看",
@@ -5332,6 +5512,36 @@
       "title": "Datavault AI Provides Q1 2026 Business Update Highlighting Tokenization Adoption and Infrastructure Progress - Datavault AI",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2c1Tnd0SjNPS2QzeHdJeXRZV080WnZra2J6bTF6T0F6dVM1QTV5QktKUV9jRWpldGtQbEpjazBYRW9QUWN6VWhwVzA2Z3pPSlEyVGdOc3hJeUY5YmJObXZZbHA0ZEhUYzZBZ0VWWUhYMEtDV1VRbXdKSEJMblBXTDl1dlE3ZE1sU0luUmZDTXZocTM5dW5WMVdkdi1DOVdpZFkwMWt3dDc0UlFBX29TOEFsczdOSS1RY05Xa2dEeXdocFU?oc=5"
     },
+    "1edd1f8cb76b76dd": {
+      "category": "可延后",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
+      "first_seen": "2026-09-06T08:32:05.543553+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "1edd1f8cb76b76dd",
+      "kind": "news",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-05T11:00:05+00:00",
+      "rank": 6,
+      "reason": "rank #6; source weight: Google News; hot terms: markets",
+      "region": "国际",
+      "score": 71,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "Opinion | How Scared Should We Be of A.I. Right Now? The New York Times",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "Opinion | How Scared Should We Be of A.I. Right Now? - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oNE14LXlhaVhMZEtER3ExUkpRZktGWVE1LS1WWEVhajJQcTNLb0hpWlBKVmhPQ3lKcGxsOXlzTFE4RXBVWWJTdXZMS0FidTNWZHY2Z0lLTWpQMnBhYnl6U0RfXzlZUHVmVmZtVEtPOHZ0YW8?oc=5"
+    },
     "1ee2f1f4590b26f9": {
       "category": "今日必须看",
       "discovered_at": "2026-08-05T08:07:43.792614+08:00",
@@ -5631,6 +5841,36 @@
       ],
       "title": "Defense spending, China in Asia and lessons from Ukraine: Takeways from the 2026 IISS Shangri-La Dialogue - CNBC",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPalJ1MFVuUmFXZ3FDNXRSVWdXb054YkgyMnlLTHdiNW5kQlhjRndaWVBvWGZjc1JtaHJtcHAzbDJKYzBlRVNOcTdOcG5STXVyNkk0MDBqNEd4eXpORHJWeWdYZThTeG1nRFhnNzY4VTgwSTN3TDVqcG5CZWJXcW5mU1VLYzc0QVXSAYwBQVVfeXFMTjNXMUZ3Z1N4NHNEWWY2bVlhZExIQWszYTd5T2YyVkFfc21MOUtCU1RiNTZmU2dVa0E4TjM3ZW8xVjRIa3pNbVBfaFN2cnp1OTdXZmdNeVA0N2hhU1RHcDZxOVQyN3Y0d2dxLWhjb0RCektiN3l4dlJfTFhMR2had0JkQjYxc1lSN01JaEQ?oc=5"
+    },
+    "225f6e109d2b8622": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
+      "first_seen": "2026-09-06T08:32:05.543553+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "225f6e109d2b8622",
+      "kind": "news",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
+      "news_category": "综合",
+      "published": "2026-09-05T21:02:23+00:00",
+      "rank": 6,
+      "reason": "rank #6; source weight: Google News; hot terms: 美国, china, united states, us; fresh within 12h",
+      "region": "美国/国际",
+      "score": 91,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "Amwell Receives Frost & Sullivan's 2026 United States Technology Innovation Leadership Recognition for Technology-Enabled Care Platforms macaubusiness.com",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "Amwell Receives Frost & Sullivan's 2026 United States Technology Innovation Leadership Recognition for Technology-Enabled Care Platforms - macaubusiness.com",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcFRFSXV0WkwxbjFoMnhRQmdycUU1UFpKU25iME5seWZ0WVdxUGhRMGh5Z3pJYTZ5UXNJbzFSM0lmNWRJVlQ4SjZkUnc4VmJGMHR2OUxLTEtxWGo5VUZPLWFrSTJhelJ3emVxd21DYVZNeGJJcGQwaVRwQ1dLd3F6NEtnZENZQVJMOUF4WFYyZzctaUZnbDRGQTI5MzMtNk41Z0lCd2RsVm1Vb2pGVi1DWXJsbmpJMXpkZk16LUlRcWRLanNGd3ZwX04yX2xPRGNjREZCUENNTlJ5enF3TFdjaWk3dTNiNjNES3pSMUlualFBZw?oc=5"
     },
     "226b81bb13e33d7a": {
       "category": "可延后",
@@ -6409,6 +6649,36 @@
       ],
       "title": "Myanmar's former junta chief kicks off visit to China as civilian president - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaGRTdmhCT25VaWdOZkM1bjdCdk14THlWTm9QamJjTEhFWkR2ZWczZ1Z5aXdGbnlHVkQzOTB3bXpmWjZjMFdPeERkcktrN1ItUXVLUU93SlpJMmlIOHM0eUNQRnhVcC0zNjR6SWdPUjBOOExaVzREZWRjdmxSQ1FpN3NwbTJsa1RuREp6QzhGREY2ZjZYVHk0b211NW52cUxTMmlVTmlORDFHOXA3a3ljc01sSkFhdm8?oc=5"
+    },
+    "265d12d68485b7bc": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
+      "first_seen": "2026-09-06T08:32:05.543553+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "265d12d68485b7bc",
+      "kind": "news",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
+      "news_category": "综合",
+      "published": "2026-09-05T15:07:01+00:00",
+      "rank": 5,
+      "reason": "rank #5; source weight: Google News; hot terms: 美国, china, us; fresh within 12h",
+      "region": "美国/国际",
+      "score": 89,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "Hangzhou: blending ancient China with cutting-edge technology The Jerusalem Post",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "Hangzhou: blending ancient China with cutting-edge technology - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lRVpYelVGRHVZX0FPNVg5TTFzdzl3QUhYUS1FY0cwaTh5aW1hY29SVzUyNGJDQS0ya25LUVhtTjZsUXBwQXlIYXFYU1U2a1QzQUJfV0tR?oc=5"
     },
     "26d1ba71eb0ab80d": {
       "category": "今日必须看",
@@ -12635,6 +12905,36 @@
       "title": "Anthropic suspends top AI models after U.S. export control order - Nextgov/FCW",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNnBXbGltQzV1SEhmVFBUMFdHUGVhSnFfWTZHX282YVREN1Exb29JNjlaZ2VTRGE2MUN3RUdTZkFaOFpBR2ZfcTBobWJTLXNPQVBNalhqVEZDTTNIVmxka2ZVU3kyQko0WURNMXJiSHdYU09yT29TTmNPQklxQ1dyZG9LTEZrUmFVWHVzZFF0dDZjak4xU3Ezc2FZNWxoMmUtdVFwbkZuYk1MbnlPUnFIOXdNSVJ6TFBaN3g1SExTUGJTZHVI?oc=5"
     },
+    "4a4c24a9fdb3c4ec": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
+      "first_seen": "2026-09-06T08:32:05.543553+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "4a4c24a9fdb3c4ec",
+      "kind": "news",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
+      "news_category": "综合",
+      "published": "2026-09-04T11:30:06+00:00",
+      "rank": 2,
+      "reason": "rank #2; source weight: Google News; hot terms: 美国, china, us, military",
+      "region": "美国/国际",
+      "score": 91,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "China, US military commanders snap 2-year break with talks in Canada South China Morning Post",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "China, US military commanders snap 2-year break with talks in Canada - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbDRnd2YzaXhZb2w3a0tqRkJabGE1ZVA4SEthREZRYUZfOTRRRXdHV2JFcHhmMHVEZGZ4VkZteTd1d3ZuNk1fNGR0akhQcnh2YlVZZ0pMTnkzXzFCbXhsWVppV19NdEgtNkE4ajN0OXJRQnhKR2ZHaGVEbUtUc3BJWDJqaWc0OHE2eFljcnNZSkhqTG5taXB4a1VEem1QWWVoN0NxS2RVdTIxaWUzVUU3a1FINkhtd3fSAbcBQVVfeXFMTTAyR3NaRTk2U09kWE5ldE51TUd5QjRZYTF3Ym9JcFlmN1h3T2FxUGpPcHlBOHJIZ1J0amZ6VzJLZEtnaE1EdGpBNFFLb3E3RUFVbk9vSWFTVlM0d1ZsZjJ6b09LUzYyaEZkR3daUXVmSnU5NVZDVWxNemZpSHBkOHVjbDE3YmRBMFFvZGtmU1E0Mmt0Y09WbzJST25fOW1MWGw4RzlzS0Jnb3pDcGQ5cGVfMlVuWEdB?oc=5"
+    },
     "4a73abfbe7d8e6b3": {
       "category": "可延后",
       "discovered_at": "2026-05-31T08:20:48.106053+08:00",
@@ -15482,6 +15782,36 @@
       "title": "Out of Ammo: A Two-Year Sprint to Rebuild the American Arsenal and Deter China - Council on Foreign Relations",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2tuVTFlM2pEZjBrN2hWcjY0NE1jQnhobHdYQVVTVVZOSFh4Y19ybW4xdjdSSGpJcUtWS2xrSmhDREQ1X19zNEdYbVg2RmRwN2dwVU16RzMzTmJoRVdtWkRqWGQxd002SWIzYWQxamZiOVJCU0VPWVFnYTNjVzFvZUdzb0NZNlBnOG5oVDZrd3FaV3JvRi1zZ0FYR24wd1pERjBueUVLTjE?oc=5"
     },
+    "5b2abd65ac68e76b": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
+      "first_seen": "2026-09-06T08:32:05.543553+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "5b2abd65ac68e76b",
+      "kind": "news",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-05T16:27:18+00:00",
+      "rank": 7,
+      "reason": "rank #7; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h",
+      "region": "国际",
+      "score": 85,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "Dolly Parton’s sister slams ‘fake AI garbage’ flooding the internet since icon’s death NBC News",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "Dolly Parton’s sister slams ‘fake AI garbage’ flooding the internet since icon’s death - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1VWdFM2RXpITnpxMEVEd2VPZTRzcG9wRUtmekRUZjZGYlBocC1wQV9xRmpvN0lTRi1SWXlVeFVucnIydEdXVmdHTUdZS3BTd1JodW9feWFBN2NadWFCS2lGeFN3OHNjbXlla2Z5RklfRm5wQnVLMmVsNENjZ2dubGtNeXdOSjN1M05oNmR0THZRQVBZWUZQVzhqSGE5UDBQQUcxblBrSUEwUQ?oc=5"
+    },
     "5b4bcdc0de5072ed": {
       "category": "只归档",
       "discovered_at": "2026-08-21T08:08:31.136593+08:00",
@@ -16022,19 +16352,19 @@
     },
     "5d4611d5cd2ebea3": {
       "category": "只归档",
-      "discovered_at": "2026-09-02T10:09:24.772530+08:00",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
       "first_seen": "2026-05-15T15:27:55.874811+08:00",
       "follow_up": "检查 NewsNow 本地服务或新闻兜底源是否可访问。",
       "id": "5d4611d5cd2ebea3",
       "kind": "failure",
-      "last_seen": "2026-09-02T10:09:24.772530+08:00",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 74,
+      "seen_count": 75,
       "source": "System",
       "sources": [
         "System"
@@ -18294,24 +18624,24 @@
     },
     "6b557c06b8e0e597": {
       "category": "只归档",
-      "discovered_at": "2026-09-02T10:09:24.772530+08:00",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
       "first_seen": "2026-05-18T09:03:50.508358+08:00",
       "follow_up": "检查 NewsNow 本地服务或新闻兜底源是否可访问。",
       "id": "6b557c06b8e0e597",
       "kind": "failure",
-      "last_seen": "2026-09-02T10:09:24.772530+08:00",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 55,
+      "seen_count": 56,
       "source": "System",
       "sources": [
         "System"
       ],
-      "summary": "",
+      "summary": "HTTP Error 429: Too Many Requests",
       "tags": [
         "failure"
       ],
@@ -20174,6 +20504,36 @@
       "title": "China’s military band plays The Village People’s ‘Y.M.C.A’ for Trump during state banquet - WCTV",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTE0xZkJKQlgtUDgyU0IxWnlfUndiR0s0LUNFbWZaVVRYTjQ3cEpXcGJZQU9XVU80RDZpTUxqSk1uclBKMmxsOXVLTXlnWXV0VXZDeGFKQ0tTMTZid0xRNHJhUFBtZG50bTFuYzJlSUxINzVqbWxzMnI0RVIxV0Q1UVpkOVpaVzJqeE53SzIzQWltd1JPaFVhTFcxRG9YdmNRR3F2c0Fwajc3Z9IBvgFBVV95cUxPNHczeHF1UkRFMVI1bmFRdGxySVJRZ2wyN3B0MTJkSVFDcFkzVkY1MnVRa0w2V3loNEZBLVZ3UGp2UWJkcEIyQzRFcEppclJWOHRYbm8yOG1ocFltLUFNSGJKMGoxaWJxRGFXVEVWNWVoemJFOTlyOVFMemRGRVZFXzM2elU0UTA4UG9UdnU2aEI3ZWZkMXdEdTJMcXVCRTRvdFZ6UTVIQUxwOThHVHowM29vX2ZBYUhrLUtMWEdR?oc=5"
     },
+    "7500f372a05aa7a9": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
+      "first_seen": "2026-09-06T08:32:05.543553+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "7500f372a05aa7a9",
+      "kind": "news",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
+      "news_category": "综合",
+      "published": "2026-09-03T19:50:00+00:00",
+      "rank": 1,
+      "reason": "rank #1; source weight: Google News; hot terms: 美国, china, us",
+      "region": "美国/国际",
+      "score": 89,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "Chinese Destroyer Involved in Fatal Collision Returns to South China Sea USNI News",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "Chinese Destroyer Involved in Fatal Collision Returns to South China Sea - USNI News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ2RkTlhQLUxDYUpHaG9xS2h2NkdTblB5ai1pLWhpSTI2anBPWjZGeU5OcnJReWJ1RUIwdEx1dmoydnVhVlVLcDBLU0JZb29sRkZOQVJ2bjNpdjh3clVGTWRuNGp2bE5jNEM2TTkzRlNWWWdSeXc1aGhGaDl0TzYzaGxmdDJmSUY5cHhLeU5KV25YODI1Zml0ZlluTTFkeUZPNlNWaElJcVY?oc=5"
+    },
     "753435e7f6733650": {
       "category": "可延后",
       "discovered_at": "2026-07-26T08:39:44.123235+08:00",
@@ -21252,6 +21612,36 @@
       "title": "What does it mean to put a ‘watermark’ on AI text? - CNN",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53TV95TWZqQ3F1NjRtUlpjWVNhYkNaWG5fMnpjU1F4RmVYblI1c2hlT1BOaGNxY1YxVlN4QkNKbHZHQ0ZoZk1fa19zSXFqei1pbG9vdHlnTjZMRmxrZmplbmxtU25DcjVlRmJCZk9QdHc0N3hBUGc?oc=5"
     },
+    "7a6e392d8467274d": {
+      "category": "可延后",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
+      "first_seen": "2026-09-06T08:32:05.543553+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "7a6e392d8467274d",
+      "kind": "news",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
+      "news_category": "综合",
+      "published": "2026-09-03T22:13:33+00:00",
+      "rank": 13,
+      "reason": "rank #13; source weight: Google News; hot terms: 美国, china, us, military",
+      "region": "美国/国际",
+      "score": 69,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "US urged to consider military strikes to stop China achieving AGI first South China Morning Post",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "US urged to consider military strikes to stop China achieving AGI first - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMjJHZUFIUWRwN2JDTUxTZkNETk9FTWk4ZTRNNEpPd1l6SWxLZW5GT3UwVVpJcFNGaXNlVURJeGxpZWVjVFp0dFhHSXlNbXhiQWd5WlM4MV9Sc3M2OTZXX3VvOXNhUVJiNmpmZTZiVTFfa3hZT1JEYnNYM0UzVGllaXAyTUJIcDRHQk9JQVN1N1hiZmIyWC00dnlseW0yQmlxYVlkTlFVVWtPZG5WejVF0gGvAUFVX3lxTE5xSmw3anRkQnlvOGZ6eEJtaTlxUnhqRmg2YVE3clFsaWVBQUJqMXk1MlE3OEVvZGpOektYTUlsakhtT3lhNHg3dThzVkNVam9qR0RRbS1WVXN4Z1gxSDdfcU1tR0FCaVlWUXJodUFZREprOFhTbGVYVjFRUUhYZmQ3U3Y2dXFhY01JWUxiTElTbE1ZNzZ3LXNYX1ZPSFp5X19JMWhBRmFNVUhzS25CTnc?oc=5"
+    },
     "7a927deccf116852": {
       "category": "今日必须看",
       "discovered_at": "2026-08-13T09:18:44.194185+08:00",
@@ -22209,6 +22599,36 @@
       ],
       "title": "Trump has handed a gift to Kim Jong Un and deepened concerns over US reliability - CNN",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRDV1RkpsVFNFdDBlRjhSbTJsaFY0SkpxMG1paEw0UHVvYWZMR0V0bm5YN1RLTERNbFBSUUJVNjJnZTVweEprSDlDOE5LOFJoS0tnOU9VYkNtZXlBWF9fRmJlZFQxbDJydmZZOVFxVm1ueF9pX29BZ0czV29PMHRxR1pYZ2RRcXZabkVIZFVnbGhaY0lndzZNMFhfWkg?oc=5"
+    },
+    "7e4183c299b3c399": {
+      "category": "可延后",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
+      "first_seen": "2026-09-06T08:32:05.543553+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "7e4183c299b3c399",
+      "kind": "news",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-05T19:03:45+00:00",
+      "rank": 15,
+      "reason": "rank #15; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h",
+      "region": "国际",
+      "score": 69,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "The S&P 500 Fell, but These 2 AI Memory Stocks Exploded Higher finance.yahoo.com",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "The S&P 500 Fell, but These 2 AI Memory Stocks Exploded Higher - finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNkFacV9oM2I1YTFzMldjZHFrQmJBLTJ2NXUxV05OQkIyVmVwQm1qb3hzczhNTXREclZDTy1MVjJlcFoyYnBxUHo0ZzlVTmVkT3ZiUi1hZ1YyMGNwaWZMc3VlbngxbXdlQWhra1QxYkl5V2kzY2l5ZnB6enloNkdpS25WT1VBdjA?oc=5"
     },
     "7e4b77f09e268821": {
       "category": "可延后",
@@ -27425,6 +27845,36 @@
       "title": "How ‘lying flat’ went from a niche subculture to mainstream phenomenon - South China Morning Post",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc244M001QlE1THNJRDR5SjlRMjRHRnlvT0RmNC05SmI1V1VrUUctX1FmMWF5UUdTZm9EaGlma2xVMFl0cUYyR3dzWnlxb3NUNkFvN3ctLU1pUVVRb2FxOWozdEhkRlZyYU9SWFBMWUZNSmhiUDdRY2JiZFNwV0xMQkFmZExtXzBhTUVRS2FoZTNZaTdCYkplMjZLZUprN1NOU2FFc1otTFJwUjVURDlPQ3dJOG9lQdIBtgFBVV95cUxNSC1CQTVkRlZjNGlGQmNxeVV5UUZUU19zZm5yUDl3bnhQOGZvQlZ1QnhReU5Lc0xlVnZ0S1R1cWhOM2ljUGRLMnBYR0w1cnV2emRYR2piTU1FbEktZ1BLcnRWczlIRHZrUml5bXJrZGhCNWhIRU85T2ZBTFRPZHVRRnI3ZU9wVVJWSjNtV2w3TzFTeVAyVkR4WU1VaGlhRzVCTlgxSGZGZTY1MU00XzVBWER2MWc3QQ?oc=5"
     },
+    "9af313ec314d22d3": {
+      "category": "可延后",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
+      "first_seen": "2026-09-06T08:32:05.543553+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "9af313ec314d22d3",
+      "kind": "news",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
+      "news_category": "综合",
+      "published": "2026-09-03T20:41:02+00:00",
+      "rank": 12,
+      "reason": "rank #12; source weight: Google News; hot terms: 美国, china, us",
+      "region": "美国/国际",
+      "score": 67,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "The Two Key Takeaways From Xi’s Egypt Visit Carnegie Endowment for International Peace",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "The Two Key Takeaways From Xi’s Egypt Visit - Carnegie Endowment for International Peace",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORGZpakFDMXpGdHhlSloxTFk1V2xHZlJOaGkzeUo5Y1I4QzdKOUd6anY1czE1aTAzdjdscXVJTU5WNDUta2lDX2lUTEZGLUpJUEx1NFg0dkdoZTNMTDVNWDFob3h1Sl9Id1I4Rkh3TnBCOVB1RzVQQnItY19oRzdvUHBISDlLY0ln?oc=5"
+    },
     "9b04f287984450ec": {
       "category": "今日必须看",
       "discovered_at": "2026-08-17T08:58:25.167399+08:00",
@@ -27454,6 +27904,36 @@
       ],
       "title": "Broadcom vs. AMD: Which AI Chip Stock Is the Better Buy? - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYzNObFhMMlM5V213bmNfN19FYU01S1h1YU9GblowT1NlNTJHbVRvX2hwQTVORkhzYThYOW5CamNYUDF0eFkzN3NuZDd5U3JRTWdYR3F5YXJSY3NhdnU5djZYSkM4ZHVTR3QtcUhLS3lmUnluc1B0SE41Q0lYa2JjVUhfd2d3cFRzLTFlWHk4S3E?oc=5"
+    },
+    "9b242eb17d6146e1": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
+      "first_seen": "2026-09-06T08:32:05.543553+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "9b242eb17d6146e1",
+      "kind": "news",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-05T13:31:43+00:00",
+      "rank": 10,
+      "reason": "rank #10; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h",
+      "region": "国际",
+      "score": 79,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "America’s Two Largest School Districts Impose AI Moratoriums Tech Policy Press",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "America’s Two Largest School Districts Impose AI Moratoriums - Tech Policy Press",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdV9ibVZxdTNMSVQ1bHBCWkJjYWtfaE9DWEJvMUg0VS0tLVBVYS1heGFLZC14ZFlQMzJJbEV5b1J4U1JZNnVYRC1DamdTUUFkM1k4dTF3RlFXOGlrMzR1MEUwaWY3MUFRNzBxNGozZmNCRUhsNXp6NzI2cDI4aDlrdWNwZjlteF93UUtwLQ?oc=5"
     },
     "9b6248ba4bf69034": {
       "category": "今日必须看",
@@ -28473,6 +28953,36 @@
       ],
       "title": "AI models' breakout from human control brings a told-you-so moment for technology researchers - AP News",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOFd2MTdsODdaamt3MHZQVXJaN1R3czJxQmxuNXBWTUwyN3FaMkxUMEhZVVZJTkhSeFM4SGcybnB5c2tEeHloM1hBbk9wMFRhRWcyNEZab045QTNUbkxraG1xSFJFTTY3a1gwYTJ6aVpQMXZXeE9kY0xZc0pmTm1wcXp2ZzRnTEJqZHNQNjllTjd5TWJqYXk2R1dqdTk?oc=5"
+    },
+    "a11a1cffd6d2b932": {
+      "category": "可延后",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
+      "first_seen": "2026-09-06T08:32:05.543553+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "a11a1cffd6d2b932",
+      "kind": "news",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
+      "news_category": "综合",
+      "published": "2026-09-04T04:00:00+00:00",
+      "rank": 10,
+      "reason": "rank #10; source weight: Google News; hot terms: 美国, ai, china, us",
+      "region": "美国/国际",
+      "score": 75,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "How Taiwan Can Win the Strait Foreign Affairs",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "How Taiwan Can Win the Strait - Foreign Affairs",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mTDJiR1lXYVFmLWZXMVpMUksxUHRjVXROUFJ5UzJxekI0S3gyWlZ5TVBYTDZZNjFzeHNBOS1fVW9sUjVzZmMxbHczLXVybmhycTRyMm94NHl0Nmd4YXkzRnhqRjMxWEFSeEpNRUQ0cTM?oc=5"
     },
     "a12206b8c7b89c3b": {
       "category": "今日必须看",
@@ -30456,6 +30966,36 @@
       "title": "How do young people feel about AI? 7 teens weigh in - NPR",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV0pac2M2dmprc29WbVA0V3pNV2xEU0RxOEdSX1FrZTM3QUJZOVpFMkgtR1VmWWxpUVdYbFZwN2dFZnVEU1M5QXhucDhCS1IzQ0lmcXAydkZ1X1NWTV9yMW8yc09nS0xrcFI3cEhKUW9XaENXdUVZLVZyLVlIZ1lVMVN4TTdDcXUtX2pkeg?oc=5"
     },
+    "aa6c0a02730c2048": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
+      "first_seen": "2026-09-06T08:32:05.543553+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "aa6c0a02730c2048",
+      "kind": "news",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-05T12:44:49+00:00",
+      "rank": 3,
+      "reason": "rank #3; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h",
+      "region": "国际",
+      "score": 93,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "Abel: Two ways Berkshire hopes to cash in on AI CNBC",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "Abel: Two ways Berkshire hopes to cash in on AI - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc1lLWVpXWnFzQVRBYVUzczVRT0JaSldOeXdWY3E0NkdkMXlHUXl0UllCaE81aFV2Zm12NmZ0b3ViU0xOU0xEbzk5WUw2ejlCaVZQWGN5RnJpbVltRzcwV3A4MjZPOFhaR2g1bGZ6RG11NEFSQTJ1OHd6Z19DTXBieDljSXg5QXI0WjZv0gGQAUFVX3lxTE1VNGJ5VTFJTVdPdTVlSHV5Z2JSS2JFOXRUUGFwd1FlT2JLZDM3X1ZweG55MHNHOVhpUHM0WU9SYXNDRUNEOWxJQld3WkxfRks0YnRzZjFCTUhCSFZPUkFRVHVnclo2Q3F1UWJ1UjlUUEh2T0JMaUtvX3NxNU8td0QxVzhydkttOXAzZmRIUDN3TA?oc=5"
+    },
     "aa7e91a57d244d24": {
       "category": "今日必须看",
       "discovered_at": "2026-07-15T00:04:24.890296+08:00",
@@ -31738,6 +32278,36 @@
       "title": "Japan’s defence outreach to counter China in the region hits hidden roadblocks - South China Morning Post",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWC1fUF9pcHVRelhrZEhsVHFQT21wXzJXbXF3aDZpX18xT3duUWJhZUFqVlZHTjZOVm0xdjROQzVMUktJM05ud3V0cWg5WGtkbWtuM2g5YVJDX1ZWX21qN0l6R3UxSFloTk1IQlQyVGNTR2hxamMzRXVxaVhqdEtKZmJHTkNWX3FpVnpJMEJmWHNBczgzMXhyNktXM3o2ZVpOM09fRzBlaW5NMm84N1N5a2lwSWQwMUx6VUtIOGd1cGlVN19TeE5pbEZkcEtQQdIBzgFBVV95cUxQUU8wMTBDMGQtMEJabWZ3NTZlZnJyYUR4blZRT1RNQ3BCTE9JTDl4WDNxQTBXbUdDM1NXTHZUV0h5NTlCdzhSbGd3SjJfckJkZ2tZcUxBSWl0dm1ZTHRFdm84dkVBREF2M1F3Vzc1OWpMbllHVVFmY3BjblZmaG52RnQ4dVhnLTY0QmlOLVQySFlSMEtvZGNmdEluUkIyejAtNm8tU2hBMXpPM3UwTDF6cVRpTEJpMG83WWI4cjZVal8xNlNfYVptNzZPZFZ0UQ?oc=5"
     },
+    "b32abcbed4163d2f": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
+      "first_seen": "2026-09-06T08:32:05.543553+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "b32abcbed4163d2f",
+      "kind": "news",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-05T11:00:00+00:00",
+      "rank": 4,
+      "reason": "rank #4; source weight: Google News; hot terms: ai, ai, markets",
+      "region": "国际",
+      "score": 83,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "Why I Want More AI at Dartmouth The Atlantic",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "Why I Want More AI at Dartmouth - The Atlantic",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON2E3S0ZlS25qUHdTQjJ0dU1pUXNJamNKZHFwUnNUM01OYndQekZ2OXZ1X1A5RXVKYUNCZHBxU0JNOUR3V3ZMRFpPbG1UZ1NuTG12NnJ4ZWdYWWlrc3dCVHE0Z3BhTk1BRVl3MUpwU1ltNzFsUWtSNUw5TWdMWktwQ040QjdPMDAzUW9TUjZJYlc?oc=5"
+    },
     "b355d100d40c50de": {
       "category": "今日必须看",
       "discovered_at": "2026-06-05T08:11:59.580770+08:00",
@@ -32934,6 +33504,36 @@
       "title": "كيفن وارش .. مروض للأسواق المالية يعول ترمب على خدماته",
       "url": "https://www.aljazeera.net/ebusiness/2026/5/18/%D9%83%D9%8A%D9%81%D9%86-%D9%88%D8%A7%D8%B1%D8%B4-%D9%85%D8%B1%D9%88%D8%B6-%D9%84%D9%84%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%8A%D8%B9%D9%88%D9%84"
     },
+    "b9e082a6ea860a2e": {
+      "category": "可延后",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
+      "first_seen": "2026-09-06T08:32:05.543553+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "b9e082a6ea860a2e",
+      "kind": "news",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
+      "news_category": "综合",
+      "published": "2026-09-04T16:02:19+00:00",
+      "rank": 9,
+      "reason": "rank #9; source weight: Google News; hot terms: 美国, china, us",
+      "region": "美国/国际",
+      "score": 73,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "One word ignites China-U.S. clash at tense G-20 finance meeting Los Angeles Times",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "One word ignites China-U.S. clash at tense G-20 finance meeting - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVVpIRVFlWVY1V1B4NjZzUTV1X21BVmlWV1lGeUlJWWN2bjlDNTBvVUZ1YVhLWm5VdnAtOGtRVUl2NE9KcF93czFudGZzb1lUeTZpX1hRckF4R3pjejR4cUoyLXdEV2FuVmIxanZLTUF3eXh0a1BodmZkNDR5R1lHS2tLWmFHaWNqdVFjaVgwREEwN2JWczQ5TExoWm11aGFkXzVPZmU4ZGw0RkVLa1M4MQ?oc=5"
+    },
     "ba1d8411a6a655a4": {
       "category": "今日必须看",
       "discovered_at": "2026-08-16T11:38:05.294267+08:00",
@@ -33473,6 +34073,36 @@
       ],
       "title": "Pope Leo Uses First Major Papal Text to Warn About Dangers of AI - Time Magazine",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWldUeU15OXhFWjlfTy12RWxqaUFYUXdEMXpFOV85RnAxeG8wZHVERC1pNENVN0hfYm5nRVl4R3JTd1l1NUo4MUdhY0lNMFZMOHhwNHlVcTJjVlVCOHRvYkNJYnZYNkNCR2RfVHQ5QVhxM2VEclNMb1d1S1FiVzV0VUJMM0FWUQ?oc=5"
+    },
+    "bc4602a66d65e221": {
+      "category": "可延后",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
+      "first_seen": "2026-09-06T08:32:05.543553+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "bc4602a66d65e221",
+      "kind": "news",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-05T09:00:00+00:00",
+      "rank": 11,
+      "reason": "rank #11; source weight: Google News; hot terms: markets, fed",
+      "region": "国际",
+      "score": 65,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "Voters are fed up with data centers. Both parties are trying to cash in for midterms NPR",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms - NPR",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQTM5UUlUd1VDdHlBZ0s1YjMtRnRUUmM0bWJGeUQ3RkZadGl5TUtsNTM5QU9BSjJISi1mcFBNNGlQNlFYeXgxRmVGYnVaZHRqamtNRm5WdXBiZ0h5NTlzZVE2VmxTTHl2cE5MVDJSc1ctb1haZ1J5cU9CRUM4bUgtSGVIMA?oc=5"
     },
     "bc58a78cfe0f0196": {
       "category": "今日必须看",
@@ -34163,6 +34793,36 @@
       "title": "How AI is becoming part of the American family - Axios",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xdnVsQV9wc1JfYS0zMDdGdUFtYkNUa3g2UkFTVjNQSlVjRTlibXExWHlFejVHSWw1LWhxNll6Q2pWSXRxZVhPZmF0YVc5ejlsOC1zbkJnemZLR0c2clZyMUV5eU9RS1dqZEQ3RFhhS0htOEE?oc=5"
     },
+    "c107f89926e9cbe1": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
+      "first_seen": "2026-09-06T08:32:05.543553+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "c107f89926e9cbe1",
+      "kind": "news",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-05T21:41:00+00:00",
+      "rank": 2,
+      "reason": "rank #2; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h",
+      "region": "国际",
+      "score": 99,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "Danny Boyle Confirms Use Of AI In New Movie ‘Ink’ Deadline",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "Danny Boyle Confirms Use Of AI In New Movie ‘Ink’ - Deadline",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMjlpU2hTX2R2elNWZmIyYUlIam5ScXlDejk4YUlqV1NVbnJhTkF4b2h0RUFwcnVoLW00bHMzMHNNa1RqOEIwV0daMkxITnQ4VkZQbzNtRFJzSElrRGlybHZPVGZocEdUYlNGRDAxbmQ2NW9xb1lza2Q3cXcyYmxtZkh4a1FpZFVFa0o3LUpOeHlqUQ?oc=5"
+    },
     "c1483853574c65df": {
       "category": "今日必须看",
       "discovered_at": "2026-05-31T08:20:48.106053+08:00",
@@ -34824,24 +35484,24 @@
     },
     "c516348ffaebc4d7": {
       "category": "今日必须看",
-      "discovered_at": "2026-09-02T10:09:24.772530+08:00",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
       "first_seen": "2026-08-28T08:09:17.077212+08:00",
       "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
       "id": "c516348ffaebc4d7",
       "kind": "news",
-      "last_seen": "2026-09-02T10:09:24.772530+08:00",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
       "news_category": "财经/科技",
-      "published": "2026-09-01T23:17:19+00:00",
+      "published": "2026-09-05T20:53:33+00:00",
       "rank": 1,
       "reason": "rank #1; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h",
       "region": "国际",
       "score": 97,
-      "seen_count": 2,
+      "seen_count": 3,
       "source": "Google News / Global Markets Tech",
       "sources": [
         "Google News / Global Markets Tech"
       ],
-      "summary": "The turbulent AI era is here. The choices we make now are critical. gatesnotes.com",
+      "summary": "The turbulent AI era is here. The choices we make now are critical. Gates Notes",
       "tags": [
         "global-markets-tech",
         "google-news",
@@ -34849,7 +35509,7 @@
         "国际",
         "财经/科技"
       ],
-      "title": "The turbulent AI era is here. The choices we make now are critical. - gatesnotes.com",
+      "title": "The turbulent AI era is here. The choices we make now are critical. - Gates Notes",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5"
     },
     "c549855e03ee676d": {
@@ -35004,24 +35664,24 @@
     },
     "c5ab94a8980b47c6": {
       "category": "只归档",
-      "discovered_at": "2026-09-02T10:09:24.772530+08:00",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
       "first_seen": "2026-05-17T08:17:40.313400+08:00",
       "follow_up": "检查 NewsNow 本地服务或新闻兜底源是否可访问。",
       "id": "c5ab94a8980b47c6",
       "kind": "failure",
-      "last_seen": "2026-09-02T10:09:24.772530+08:00",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 58,
+      "seen_count": 59,
       "source": "System",
       "sources": [
         "System"
       ],
-      "summary": "",
+      "summary": "HTTP Error 429: Too Many Requests",
       "tags": [
         "failure"
       ],
@@ -35686,6 +36346,36 @@
       ],
       "title": "Introducing a New Label for AI-Generated Artist Identities on Spotify - Spotify",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54SHRiUkpBcXlNYVRiYjJfUi1lMnFhMFowRkpwVTdUdWx0SDV5YXphU1A3N1UxQVNTX1lheHR6MGdqX2hDejkwQlNYTUNOTjg2dklSUjJEN3liNXZtcVV0OFlXbHBnaHMxbkw0S0RqVmNXSTE3WWd5UFlOYw?oc=5"
+    },
+    "c98521f794951f50": {
+      "category": "可延后",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
+      "first_seen": "2026-09-06T08:32:05.543553+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "c98521f794951f50",
+      "kind": "news",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-05T16:43:59+00:00",
+      "rank": 16,
+      "reason": "rank #16; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h",
+      "region": "国际",
+      "score": 67,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "We got more defensive last week as Wall Street raised the bar for AI stocks CNBC",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "We got more defensive last week as Wall Street raised the bar for AI stocks - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU0FyUDhsZHAyZnhhTUFSdEFCaGpTUDYzVGpfeEk5WEt1cFh6Zl82MFNQRXN1THZSWldIcV8ySDVRbjl3MS1uLVNscVN5T0NIMEdSR0dzSzRhQV9pWFpsLWYxdEU0dmE3RzRrV0NaeW9tOU85ZExrTXRKUEV6NlN0dUhsTURTQmMyeldoZGNvTWcwQXBobmZsOGxSZzkzMWlMT2UzUEM0UEpvVVcxWml1ZE9n?oc=5"
     },
     "c9ac2470815e9d3f": {
       "category": "可延后",
@@ -36496,6 +37186,36 @@
       ],
       "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute - Apple",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaFNZWnlDMmx2VlBtaFlBWTAyS1g1cWk2SF8wM2phRU95eWpJT2hoM1RtMGVDOUJmNmI0N1RNQzBnblhQVjdFcHl4RVZNVzg1YVZEbTMycVpxdkpTcmNGODIzcmxxRzRnOEJ5Qkg0OG1QVDZaYy1sdUoxLTJJbWUzbEZFcmhzMVlQUXB4OEJBWGhrY2d5aWhXYzNaOElRdlZzdktUdGc1ZTJvcGRUWVc0X2RJTk5GUi1x?oc=5"
+    },
+    "ce03d2f43d2064e8": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
+      "first_seen": "2026-09-06T08:32:05.543553+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "ce03d2f43d2064e8",
+      "kind": "news",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
+      "news_category": "综合",
+      "published": "2026-09-05T13:41:15+00:00",
+      "rank": 8,
+      "reason": "rank #8; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h",
+      "region": "美国/国际",
+      "score": 87,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "Why Israel Is Alarmed by China’s Growing Military Ties With Egypt Modern Diplomacy",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "Why Israel Is Alarmed by China’s Growing Military Ties With Egypt - Modern Diplomacy",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR01DSUdxbWhGZ0NaTHlMWGtOZkhpMTVQMmJpZS05MXhpODdaVDVRTkNlcHYtUWx5Ny1UejdPcDliWFRsTjRyQnF6T1ZYSmtkT29QSVAwMG1ZUjZhM095Rm9xUW90MnF5aHhkY05KbTAyTTZCekZKeG9NV0huWHROaERBYWVFeE5FNnpKT3E2bERqWG5KYmdFdnVldGZRU0JtWjdvWUZR?oc=5"
     },
     "ce2da04f152884bc": {
       "category": "今日必须看",
@@ -38263,6 +38983,36 @@
       ],
       "title": "Brands using AI-generated influencers to promote products on social media - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUkVNRzhNUHEwbTVyRUYwTHZveVJ4Qy0wanVnYmFRQTNIZ0x3Nmk2dDcyWVJKMXk2dXJuMjNoY0JrTjlyM2Iwc2piYUdCMkZ0dVhVOWZVMkVZMFVzZWVrQXNlbVBrNjYwaTJJZ0RGMG5pMlAwWXJfZzFJdlJMQ2N3cTJHdGQzbTBRS0UtRDNqZnQxeUZPNzdkX09wMU0tS2s4Z2xDMl9LNGRTbF84UXgzbFlWQnV2bDVDUFg0dGg5RXh3UQ?oc=5"
+    },
+    "d8135d5f75259c4c": {
+      "category": "可延后",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
+      "first_seen": "2026-09-06T08:32:05.543553+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "d8135d5f75259c4c",
+      "kind": "news",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-05T10:00:00+00:00",
+      "rank": 8,
+      "reason": "rank #8; source weight: Google News; hot terms: ai, ai, markets",
+      "region": "国际",
+      "score": 75,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "The Anti-A.I.-Ad Ad Campaign The New Yorker",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "The Anti-A.I.-Ad Ad Campaign - The New Yorker",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JcHgyOExwOEgycnBQR2hXZEdQTHMtcy0yRzNsRnV4VU43enJyX1FGeWxwaThPbk5KOWg5Z0luVWdFbDFlYlI1dEVuYXd5NllucVVIUDdrSm12OEhZSnN6R1k4QTlTWms2M3lOOGxZNmtmdW1NZFdVMW1NcnY?oc=5"
     },
     "d8430825e6893ed5": {
       "category": "今日必须看",
@@ -40991,6 +41741,36 @@
       "title": "Opinion | The Hallucinatory AI Math - WSJ",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93WjBhQTZNNzNEMklYZUZ3TTJKYjFxN3M0N1psaF90MU1OSmJYMGJlUFRNZ3pKdkFiSHMtOER1dUZVRDc4djlSdmVZOWZxVWdzMXBtTHdUVGxucF9uMGVSZnVJakg3b3dJNHR6UVJ3dw?oc=5"
     },
+    "e7011cac3ff78a77": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
+      "first_seen": "2026-09-06T08:32:05.543553+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "e7011cac3ff78a77",
+      "kind": "news",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-05T22:07:25+00:00",
+      "rank": 9,
+      "reason": "rank #9; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h",
+      "region": "国际",
+      "score": 81,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "AI Hardware Rallied While Adobe and Palantir Sank. Which Side Is Right? finance.yahoo.com",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "AI Hardware Rallied While Adobe and Palantir Sank. Which Side Is Right? - finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSmVSMTUzMGtOcDVCX1FweTVWRGctQUNXUXkwdHVMbV9TZ1NfbGl3TktWZ0ZJX1VKQnVTeG9vdHlBOWo0anFpU2d4bV94anF1OUNVTVRrWklMQXdPSmhNazZkQXhHRzdkQ2hrTTM1M0pMcV9UMzJteXRnNXg2aWtMMWNyTThFNmI0ZFV5SHpGZmo2bGpKdlYwUDhUYl8?oc=5"
+    },
     "e733416b7a873fd7": {
       "category": "今日必须看",
       "discovered_at": "2026-08-25T08:07:43.290073+08:00",
@@ -42761,6 +43541,36 @@
       "title": "OpenAI calls for stronger AI laws in California - Politico",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT2JQdDFETkdMaENPNG1fVmE3WnpKbnlLLXVSZmo4dXBEZWVsM1pZNXpBWWJmVmNISzlrS01PREF1dDBXYUEtNkZ5MExXX3hHbzBYTzJYVFlxNGtuV2pIMnJ2V1hMdnp5YTd0amt5aktKNFNZNmp6c3VVUEs5V3dwNWlOMldQNGVJbGFJZEFlMlE0SDlZSHpVM2F6VEwzdw?oc=5"
     },
+    "f0b9f1727a3baee9": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
+      "first_seen": "2026-09-06T08:32:05.543553+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "f0b9f1727a3baee9",
+      "kind": "news",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
+      "news_category": "综合",
+      "published": "2026-09-04T14:12:33+00:00",
+      "rank": 4,
+      "reason": "rank #4; source weight: Google News; hot terms: 美国, china, united states, us",
+      "region": "美国/国际",
+      "score": 87,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "Military Commissions Media Invitation Announced for United States v. Abd al-Rahim al-Nashiri Trial U.S. Department of War (.gov)",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "Military Commissions Media Invitation Announced for United States v. Abd al-Rahim al-Nashiri Trial - U.S. Department of War (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZTZXaWFsbmpSRDdCenVsM2xJa1dPYXNhbkxGV05haEs4a0YwVHkwdEwtV1BQeDlSTV91VDdCbXFTQ2daTjR4SWFWZTVjMVhyX3lIOEg4MlQxTFFRQ25IOVp3MlVCWlR3TWdVMFcwRHlqN2h4Z09Xd3RXTmswMVF1WXltb0tEMnZmMEY1YkFINUpwbVBkaUR6QUtxbU03OVV0WGdOMUpLd0E5MTYwVndLX0lmR2VYTmhwYVZYdnZxMDNReFJpS0xpRDhkc2xxSmNwLWZGRzA3TV8?oc=5"
+    },
     "f0dcd95576bedb6f": {
       "category": "可延后",
       "discovered_at": "2026-06-02T08:22:11.511442+08:00",
@@ -44528,6 +45338,36 @@
       "title": "Japan sounds alarm over China’s expanding Pacific footprint, vows defence boost - South China Morning Post",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcmhZM0RDenFvSXVwZDlUVFZZMHBWcS15U0xfRFVJNVcwSmMyS1lZUjlvdmpWQWY4ZWl0cGFJNlkyR2t1SERZODFfNVp2cXJiXzZqWFljSjVCeXVrenRmdjJlbTBic2Z2dUNtN2NiaXpsdzdzRlVQeXJFeFQtdE95WUJMOVk0UDdUWC1zMl9CX3pnMWxHa0FPVV8xZVNEcmU3SlpsT2p5bVlQS1J0MjFtREx6MU5rdy0tSDRNSDRVNXU3MS1uMjFHcUo2U19MZ3PSAc8BQVVfeXFMTldoWTN5R0otdlBqTVB0MzVMUTlWYk5YaW85bmNMSFR4TW5HY1JqVUlaa2p1dHExc0dzdUNEYThiVFI3eHE1cGpoR0czNWlaQmFYNkVTUHFMRVVGWmxxbFZQN01SV2g4XzRMSXNuY0REajFfcHNRUUVmby1TZ2x6UVNYRjU0Q1I2aUY4TmZvY29YQ3Z4eXRJdEg1VjFwWlhjdlFZRzhQRjdic0RUYmI4U3oxT1ZzVVd6aWNXYjRfcW9iVU12WVlvOHRJU1VGdm9F?oc=5"
     },
+    "fa063f79cfcc57d3": {
+      "category": "可延后",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
+      "first_seen": "2026-09-06T08:32:05.543553+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "fa063f79cfcc57d3",
+      "kind": "news",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-05T12:27:43+00:00",
+      "rank": 13,
+      "reason": "rank #13; source weight: Google News; hot terms: ai, us, ai, markets",
+      "region": "国际",
+      "score": 69,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "India's TCS unit to invest up to $7.4 billion in AI data center campus Reuters",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "India's TCS unit to invest up to $7.4 billion in AI data center campus - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMUtHcGEzeDRCRGZiVEZVT0M4cUM4SktyLWxnY3ZsY3ZHVEFoelhtU1IzUlo5Qm9DRzAweWQxQmZCU01kQXVBMkFsb0JqWkNKS2w2ZFpRSnAxMnFKU2NNeFpfMmpOYVd3ejJZeWZNbW8tWC11RlRGSXEyY29KTUpnbkc4UTV1emlla0VLWm5vRGRLY0Vka3I0QlpJZkZjLVI0YXZBdnp4ZVRHQQ?oc=5"
+    },
     "fa0a988cb2026ee8": {
       "category": "今日必须看",
       "discovered_at": "2026-07-14T08:17:00+08:00",
@@ -44920,24 +45760,24 @@
     },
     "fb9a73e9cef9414f": {
       "category": "只归档",
-      "discovered_at": "2026-09-02T10:09:24.772530+08:00",
+      "discovered_at": "2026-09-06T08:32:05.543553+08:00",
       "first_seen": "2026-05-15T15:27:55.874811+08:00",
       "follow_up": "检查 NewsNow 本地服务或新闻兜底源是否可访问。",
       "id": "fb9a73e9cef9414f",
       "kind": "failure",
-      "last_seen": "2026-09-02T10:09:24.772530+08:00",
+      "last_seen": "2026-09-06T08:32:05.543553+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 61,
+      "seen_count": 62,
       "source": "System",
       "sources": [
         "System"
       ],
-      "summary": "",
+      "summary": "HTTP Error 429: Too Many Requests",
       "tags": [
         "failure"
       ],

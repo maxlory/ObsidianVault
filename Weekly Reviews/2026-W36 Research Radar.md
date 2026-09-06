@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W36
-date: 2026-09-05
+date: 2026-09-06
 tags:
   - weekly-review
   - research-radar
@@ -18,6 +18,19 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, mcp, codex
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Persistent memory for Claude Code, Cursor and Codex. Facts are typed, sourced, and retired when they change. Local SQLite, no API keys.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | tylerjrbuell/reactive-agents-ts
+> **标题**：tylerjrbuell/reactive-agents-ts
+> **原文链接**：🔗 [打开原文](https://github.com/tylerjrbuell/reactive-agents-ts)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp, api
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：The transparent, composable harness for TypeScript agents. The same code runs the full agent loop on a local 4B model or a frontier API, with tool-call healing, verification, and a signed evidence receipt for every run.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -62,6 +75,32 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | aks129/HealthClawGuardrails
+> **标题**：aks129/HealthClawGuardrails
+> **原文链接**：🔗 [打开原文](https://github.com/aks129/HealthClawGuardrails)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, openai, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Open-source guardrails between AI agents and FHIR clinical data — PHI redaction, immutable audit, step-up auth, tenant isolation. MCP server + OpenAI/Gemini adapters. A healthclaw.io project.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 84** | OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单
+> **标题**：OpenAI 发布 GPT-6 Astra 提示词指南，含 slop 词屏蔽清单
+> **原文链接**：🔗 [打开原文](https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words)
+> **source**：AI HOT / The Decoder：AI News（RSS）
+> **kind**：`article`
+> **reason**：matches topics: agent, agents, openai; high-value terms: agent, agents
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：OpenAI 在模型文档中说明 GPT-6 Astra 相比 GPT-5.6 Sol 更常提出澄清问题、对上下文更敏感，并给出让模型更主动、审计 AGENTS.md 等技能文件、控制写作风格、约束子智能体委派和测试规模的提示词建议。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 83** | justsearch-app/justsearch
 > **标题**：justsearch-app/justsearch
 > **原文链接**：🔗 [打开原文](https://github.com/justsearch-app/justsearch)
@@ -75,6 +114,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 83** | OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半
+> **标题**：OpenAI 向 Pro、Enterprise 和 Business Premium 用户推出 GPT-6 Astra，消息额度约为 GPT-5.6 Sol 的一半
+> **原文链接**：🔗 [打开原文](https://the-decoder.com/openai-rolls-out-gpt-6-astra-to-top-tier-chatgpt-plans-at-half-the-rate-of-gpt-5-6-sol)
+> **source**：AI HOT / The Decoder：AI News（RSS）
+> **kind**：`model`
+> **reason**：matches topics: codex, openai; high-value terms: codex, api
+> **follow_up**：检查模型卡、license、benchmark 和可部署性。
+> **summary**：OpenAI 通过 ChatGPT Work 和 Codex 向 Pro、Enterprise、Business Premium 计划用户开放 GPT-6 Astra，并通过 API、Microsoft Azure 和 AWS Bedrock 提供。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 81** | Terminal-Bench-LILT: Multilingual Agentic Coding Benchmark Grounded in Language, Region, and Culture
 > **标题**：Terminal-Bench-LILT: Multilingual Agentic Coding Benchmark Grounded in Language, Region, and Culture
 > **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2608.28641)
@@ -83,58 +135,6 @@ tags:
 > **reason**：matches topics: agent, agents, benchmark; high-value terms: benchmark, agent, agents, eval
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
 > **summary**：arXiv:2608.28641v1 Announce Type: new Abstract: Most evaluations for coding agents are conducted exclusively in English, which does not reflect real-world multilingual deployment. We present Terminal-Bench-LILT, a suite of 300 authentic coding tasks in ten languages: Arabic, Czech, German, Spanish,...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | fxylabs/spfn
-> **标题**：fxylabs/spfn
-> **原文链接**：🔗 [打开原文](https://github.com/fxylabs/spfn)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Take your AI-built app from prototype to production. A TypeScript full-stack framework for Next.js apps built with AI coding agents: every feature is one fixed vertical slice — entity, repository, route, router — so an agent cannot invent a different shape each time. Auth, stora...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | AvesAlight/roost
-> **标题**：AvesAlight/roost
-> **原文链接**：🔗 [打开原文](https://github.com/AvesAlight/roost)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code; high-value terms: agent, agents, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Your own team of Claude Code agents you can join.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | MrAliev/local-ai-developer-toolkit
-> **标题**：MrAliev/local-ai-developer-toolkit
-> **原文链接**：🔗 [打开原文](https://github.com/MrAliev/local-ai-developer-toolkit)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: claude code, codex, mcp; high-value terms: mcp, codex, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Local-model developer tooling for Windows: repository-aware semantic code search, MCP servers for Claude Code and Codex, and a durable machine-wide broker in front of Ollama.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 78** | heypandax/cc-pocket
-> **标题**：heypandax/cc-pocket
-> **原文链接**：🔗 [打开原文](https://github.com/heypandax/cc-pocket)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: claude code, codex, openai, llm; high-value terms: codex, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Drive Claude Code or OpenAI Codex from your phone — resume sessions, stream output, approve tool permissions remotely. End-to-end encrypted, zero-knowledge relay, open source.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -156,6 +156,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | tylerjrbuell/reactive-agents-ts
+> **标题**：tylerjrbuell/reactive-agents-ts
+> **原文链接**：🔗 [打开原文](https://github.com/tylerjrbuell/reactive-agents-ts)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp, api
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：The transparent, composable harness for TypeScript agents. The same code runs the full agent loop on a local 4B model or a frontier API, with tool-call healing, verification, and a signed evidence receipt for every run.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | bearyjd/meute
 > **标题**：bearyjd/meute
 > **原文链接**：🔗 [打开原文](https://github.com/bearyjd/meute)
@@ -164,19 +177,6 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Spend leftover Claude Code / Codex subscription quota on scheduled, unattended work across your local repos — plus a capped open-source contribution track. No daemon, no database.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | aureliocpr-ctrl/verimem
-> **标题**：aureliocpr-ctrl/verimem
-> **原文链接**：🔗 [打开原文](https://github.com/aureliocpr-ctrl/verimem)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Verified memory for AI agents: gated writes, provenance on every read, bi-temporal history, abstention instead of hallucination. AGPL/commercial.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -305,6 +305,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | tylerjrbuell/reactive-agents-ts
+> **标题**：tylerjrbuell/reactive-agents-ts
+> **原文链接**：🔗 [打开原文](https://github.com/tylerjrbuell/reactive-agents-ts)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp, api
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：The transparent, composable harness for TypeScript agents. The same code runs the full agent loop on a local 4B model or a frontier API, with tool-call healing, verification, and a signed evidence receipt for every run.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 85** | aureliocpr-ctrl/verimem
 > **标题**：aureliocpr-ctrl/verimem
 > **原文链接**：🔗 [打开原文](https://github.com/aureliocpr-ctrl/verimem)
@@ -313,6 +326,32 @@ tags:
 > **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Verified memory for AI agents: gated writes, provenance on every read, bi-temporal history, abstention instead of hallucination. AGPL/commercial.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 80** | OpenAI agents hijacked German website before Hugging Face hack, report claims
+> **标题**：OpenAI agents hijacked German website before Hugging Face hack, report claims
+> **原文链接**：🔗 [打开原文](https://www.bbc.co.uk/news/articles/ckg725z5kgzo)
+> **source**：Hacker News
+> **kind**：`community`
+> **reason**：matches topics: agent, agents, openai, hugging face; high-value terms: agent, agents
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：4 points | 0 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 79** | EstaxNet/Inferpal
+> **标题**：EstaxNet/Inferpal
+> **原文链接**：🔗 [打开原文](https://github.com/EstaxNet/Inferpal)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, llm, mcp; high-value terms: agent, mcp, api
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Your AI pair programmer for Visual Studio 2022/2026 & VS Code - 100% local, no API key, no telemetry. Agentic loop with 28 tools: reads, edits, builds, tests, reviews your diff, even drives a live debug session. Ghost-text completions, semantic search, MCP, plans & background ta...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -331,10 +370,36 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 76** | oblien/openship
-> **标题**：oblien/openship
-> **原文链接**：🔗 [打开原文](https://github.com/oblien/openship)
+> [!info]+ **今日必须看 / 78** | Bike4Mind/bike4mind
+> **标题**：Bike4Mind/bike4mind
+> **原文链接**：🔗 [打开原文](https://github.com/Bike4Mind/bike4mind)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, openai, anthropic; high-value terms: agent, agents
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：The open-core AI workbench — notebooks, agents, RAG, voice, and images across any model: OpenAI, Anthropic, Google, xAI, or local via Ollama/vLLM. BSL 1.1, auto-converting to Apache-2.0 on a two-year clock. Your AI keeps running when theirs doesn't.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 77** | NousResearch/hermes-agent
+> **标题**：NousResearch/hermes-agent
+> **原文链接**：🔗 [打开原文](https://github.com/NousResearch/hermes-agent)
 > **source**：GitHub Search, GitHub Trending
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, llm, research; high-value terms: agent
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：No summary.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 76** | mattpocock/skills
+> **标题**：mattpocock/skills
+> **原文链接**：🔗 [打开原文](https://github.com/mattpocock/skills)
+> **source**：GitHub Trending, Hacker News
 > **kind**：`github_repo`
 > **reason**：matches topics: agent, agents; high-value terms: agent, agents
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
@@ -344,77 +409,12 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **可延后 / 72** | backnotprop/plannotator
-> **标题**：backnotprop/plannotator
-> **原文链接**：🔗 [打开原文](https://github.com/backnotprop/plannotator)
+> [!info]+ **今日必须看 / 76** | oblien/openship
+> **标题**：oblien/openship
+> **原文链接**：🔗 [打开原文](https://github.com/oblien/openship)
 > **source**：GitHub Search, GitHub Trending
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, obsidian; high-value terms: agent, agents
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **可延后 / 72** | djlex83/zoetron
-> **标题**：djlex83/zoetron
-> **原文链接**：🔗 [打开原文](https://github.com/djlex83/zoetron)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, research; high-value terms: agent, agents
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：🫀 An autonomous agent organism: perceives, remembers, plans, acts and scores itself — every 40 minutes, on free models. 21 organs. A research organism for the missing organs, not an ASI blueprint. Public logbook; source stays private.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **可延后 / 67** | Ajeya Cotra – Inside the OpenAI agent swarm that hacked Hugging Face
-> **标题**：Ajeya Cotra – Inside the OpenAI agent swarm that hacked Hugging Face
-> **原文链接**：🔗 [打开原文](https://www.dwarkesh.com/p/ajeya-cotra)
-> **source**：Hacker News
-> **kind**：`community`
-> **reason**：matches topics: agent, openai, hugging face; high-value terms: agent
-> **follow_up**：阅读讨论区，提炼争议点和实践经验。
-> **summary**：3 points | 0 comments
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **可延后 / 66** | AI Coding Agent Skills for Real Engineers
-> **标题**：AI Coding Agent Skills for Real Engineers
-> **原文链接**：🔗 [打开原文](https://github.com/mattpocock/skills)
-> **source**：GitHub Trending, Hacker News
-> **kind**：`community`
 > **reason**：matches topics: agent, agents; high-value terms: agent, agents
-> **follow_up**：阅读讨论区，提炼争议点和实践经验。
-> **summary**：10 points | 3 comments
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **可延后 / 65** | PDFMathTranslate/PDFMathTranslate
-> **标题**：PDFMathTranslate/PDFMathTranslate
-> **原文链接**：🔗 [打开原文](https://github.com/PDFMathTranslate/PDFMathTranslate)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: openai, obsidian, mcp; high-value terms: mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **可延后 / 61** | K-Dense-AI/scientific-agent-skills
-> **标题**：K-Dense-AI/scientific-agent-skills
-> **原文链接**：🔗 [打开原文](https://github.com/K-Dense-AI/scientific-agent-skills)
-> **source**：GitHub Trending
-> **kind**：`github_repo`
-> **reason**：matches topics: agent; high-value terms: agent
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：No summary.
 >
