@@ -13,31 +13,33 @@ generated_by: WorkBuddy Daily Intelligence Automation
 
 ## 今日概览
 
-- GitHub 今日优先扫：ayghri/i-have-adhd, Tencent/teamai-cli, obra/superpowers
+- GitHub 今日优先扫：ayghri/i-have-adhd, bilawalsidhu/gods-eye-view, obra/superpowers
 - AI 动态优先读：暂无 AI 动态
-- 时政新闻优先核验：2026 Midterm Election News, Live Stream Video and Updates - abcnews.com, State of the Facts 2026 - AP-NORC, More election-related action on the interim docket - SCOTUSblog
+- 时政新闻优先核验：Special Election - City of Ankeny - September 8, 2026 - Polk County Iowa (.gov), D.O.J. Escalates Threats to States in Battle for Election Records - The New York Times, Foulkes defeats Rhode Island's McKee, 1st governor in 8 years to lose a primary - PBS
 
 ## GitHub Trending
 
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) (all)
-- [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) (all)
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) (all)
 - [obra/superpowers](https://github.com/obra/superpowers) (all)
-- [pascalorg/editor](https://github.com/pascalorg/editor) (all)
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) (all)
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) (all)
-- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) (all)
+- [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) (all)
+- [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) (all)
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) (all)
 - [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) (all)
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) (all)
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) (python)
-- [public-apis/public-apis](https://github.com/public-apis/public-apis) (python)
-- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) (python)
-- [experientiallabs/experiential](https://github.com/experientiallabs/experiential) (python)
-- [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) (python)
+- [jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader) (python)
+- [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) (python)
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) (python)
+- [openai/skills](https://github.com/openai/skills) (python)
+- [gpustack/gpustack](https://github.com/gpustack/gpustack) (python)
+- [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) (python)
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) (typescript)
+- [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) (typescript)
+- [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) (typescript)
+- [vercel-labs/skills](https://github.com/vercel-labs/skills) (typescript)
 - [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) (typescript)
-- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) (typescript)
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) (typescript)
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) (typescript)
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) (typescript)
-- [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) (typescript)
+- [microsoft/Ontology-Playground](https://github.com/microsoft/Ontology-Playground) (typescript)
 
 ## AI 动态
 
@@ -45,18 +47,18 @@ generated_by: WorkBuddy Daily Intelligence Automation
 
 ## 时政新闻
 
-- [2026 Midterm Election News, Live Stream Video and Updates - abcnews.com](https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB4SGk3aTQ3d2RWRG54RkI3dVdPLV80OEZHQi0xSjA1N2x1cGFkQkJOUVVWVnhVTXN2dkR5cFpZdHBHX3M?oc=5)：2026 Midterm Election News, Live Stream Video and Updates abcnews.com
-- [State of the Facts 2026 - AP-NORC](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Dc1lkMWttak5MU0ZmOGtZRGZqWXZxamp6S2tPUzViMGR4SVJQTnhPTFc3aUdWeU96NW5YYkhZcWUtRXZ0ZjZjRDB3S1I4cS1tV1k1eW5ZNmxKT3FsbDdHVWt3?oc=5)：State of the Facts 2026 AP-NORC
-- [More election-related action on the interim docket - SCOTUSblog](https://news.google.com/rss/articles/CBMijwFBVV95cUxPT1Q0OVBKbktfNy1HTVppMGFvNGFsNjBLd1BUUDB0bkJmVDNKRmY5eEZLWS02Ylpqd1QySWNwUVBjWm1RcmFsbUJoNnl1dV9iQ2xscndScU5JR2o2LV9POEJwczZxY0xUamkzSTRxZmZHdmF6RW1qUGlyRkFpRmp2WU1PRzY0Y2JBWHlPaWJyaw?oc=5)：More election-related action on the interim docket SCOTUSblog
-- [Five False Election Rumors to Watch For - Brennan Center for Justice](https://news.google.com/rss/articles/CBMikgFBVV95cUxNSGdhdVk2eFNpRkZ4STRYeEFGWVZFQlJTWFN5QTM3RHBILWtfRHpRcmZhOG5UUTdRT1o1VU5LM1NZV2tmdDMzVDFMX1RzRjY4NjlIVHozSXFPR0FBYVFZZWNOQTNpQlFrVnhIU3Bpc2xnNkNvZUNCZU1CRXF2dGdFM0tVdE5iNDlWcnlhOGgwY1ZmUQ?oc=5)：Five False Election Rumors to Watch For Brennan Center for Justice
-- [The Carter Center, Rice’s Baker Institute to host webinar on election reform - Rice University](https://news.google.com/rss/articles/CBMinAFBVV95cUxOTlc0eUd1aFM5dVM3YjJ5Z3h1MHItNzZ2WFR6YVJ1MTZDZ1A0dDZNaG14SXdabnVPcXl0NHpWNllGSzl4Y1VTVDIyazh3OXNKc3hTM0RXaFgtSmFFYV96M3V4aW12cE5NdnFndUZsU2R3bm9sdDFqVGQtMXJOSk1QdGlna0ZLNDBaX2RKc2pjc3RXY0U3NFFEak5TVkk?oc=5)：The Carter Center, Rice’s Baker Institute to host webinar on election reform Rice University
-- [Israel’s Election Campaign Is Heating Up. Here’s Who’s Running. - The New York Times](https://news.google.com/rss/articles/CBMitgFBVV95cUxNV0ZvaER6TmhwQzlCZ0JTRi0zdGNsc25kYWI5NEQ1YUdZUEt0UnJSYWJ6VE9oWElyaVhYTXlXY3B3ajJIeklIYUt2bVllOHpoZHNQS1NOWUNMVllSZm5hWktpMUVjaElmRU1KSU5RMlJXR3ZFempFdnVpcmdXWnVKNng0SXVJakl6MzlaT0d1bTZBRzBLbmtLLThnTlRRV1pVclZWNldFY01CdW5YTE1qVVA5TEVydw?oc=5)：Israel’s Election Campaign Is Heating Up.
-- [Warner Releases Report On 2026 Primary Election - West Virginia Public Broadcasting](https://news.google.com/rss/articles/CBMijwFBVV95cUxOaEVING5YRU45LTc5N19oNHFTTklFRU5xd1JXQjRteldsWHh5SzJ3UzBCazFqa2tJeXl5YS1hQmZOQXJBM3AzMTFFYmhDQmp1VFBDd2FWM29MYzE3YzdfVDhuOG5xaEVLU3lsZW5UQmwyaF9OSlBfWnhGclpTclNvelVfM2kxaEotWnRCZzhlTQ?oc=5)：Warner Releases Report On 2026 Primary Election West Virginia Public Broadcasting
-- [Ballot seizures seemed impossible. But judges and officials are prepping for them now - NPR](https://news.google.com/rss/articles/CBMipgFBVV95cUxQaDRMb1JkQVNuTHp6U1drNm5sXzQxdUdSQmpPUlRCSjBEMmhsWVFLNTBmMkZ6a1ZGSnVHdlNUNVp4M0k1ZFNEc0J0cm11RExtQWNfdGphWVlNYk4zZlpIX2toUHZNeDVLREFnNXd3U21qWm1MWVl1WDlEZHZ6eUVQc3Q1R0REUjRoa1B5cWVjOXQ1ZE1fcGVFVHlqdlhLazBrTXAxYkpB?oc=5)：Ballot seizures seemed impossible.
-- [Government, made easier. Governor Newsom introduces AskCA, a new AI-powered tool for Californians - California State Portal | CA.gov](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX2tuLTd0emY0Z0tKZzRpNWMxdnBBNktXVVdKSFRjLUVwQUVaQURvWUNmY0lPWm1JUERSbXFTUXBOaUdjSHR0YlVLQ3ZaSFBnRTV2VlhEM2VYTHpFYkVwTnd1bXl6aFhralJKN1RWamZWMnRMeWp5U3dDRERPVXBHN195MU5IaWk4d01JbzNhSkhrdnRYbC1lOHpPQnNJamdNam9MU2pFM01hVHRYUlRIZTdVMHFqb3BVRWxjSFBzZzZEcTJKaEpLZA?oc=5)：Government, made easier.
-- [With Sununu vs. Pappas, familiar names will compete in New Hampshire Senate race - PBS](https://news.google.com/rss/articles/CBMitwFBVV95cUxOcEh1RXkyMURoNkhXaVo5TmVpNHBlMGx4eXNreV95c1ZXdktXNHp1M1g3NnY1N3Y4cWpWbTFDNms1TFEzVHNQQzM5a3pJbUJkYmc4S2dPOTh6WmhPbFpvUXZXb1NMemxCUkZ6MWx4N0YwWlJleXB2aG9VNk1pcWtIS2piNjB4Zm9XNW5CZndoZ1AxTmx0Y1h1S1YwckVnOFN5em9fRm9JTXg5cURsQnNSRWpwZTIzd0E?oc=5)：With Sununu vs.
-- [Read requests $1.25M for Oregon election ballot boxes, tracking system - Statesman Journal](https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMUNlcmQ0cFh6RVQ2R3dRM3NFdmhIeEJ5ZWxMOEotdlI1Z0VsR28zUUNmSGNnaGdNRDVHdUx1Yzk3MHBzcmVKTDVTZlBJc3c2ajJ1ZW5QMG1aSkZib0ZKd2ZoeGhZZkczbVh3YUtheC01bG8wVzJzeFpIQWNjTWlObk5HeVI0Q2VUMHNsMWlIaDQ2TEphM0p3NVJlRWx4TzRBX2ZHc3FEOW1iVEVvUEpqMklXSFpXd2lzMnNTck1XaDBWbEtiTGdfeUxOYTNHZDNkOG8yeFFqaUFvd0ZzZkNJZTZFMGhqSDVUM1E?oc=5)：Read requests $1.25M for Oregon election ballot boxes, tracking system Statesman Journal
-- [GOP’s first midterm convention kicks off Wednesday, putting Dallas at center of national politics - Houston Public Media](https://news.google.com/rss/articles/CBMilAJBVV95cUxQSXJGMVV4THN3OGxTS21iZ0Zpa2ZlWVVIVUZoSHBQMEI2OW53UHZ4Tm91MThQQmxkbHdDNnROTDYwbU9JTWZYNXRoX3lZdDNYQ0d1RTJhZjBraHJma1JCZWdTRWRvRF9oOExmNWNicHlDTE82OXBsQU9ONU1VMDYtb3IzVktuODYyVjJVN1gxR0doazdNZFpzU2VDM3ZmTzR3dzNEV3VHZXNaT24xaWJnNzk2aXRsdnc5Mk1MVHgyd21jWE5SZXI3VmpPRFJwcnVoQTVtd3ZranFlcXcyc1pSb1ZqamhydXFHN2RWSm9NSE5pdzJaZHlxb2tNU3NtOVNJcmt6U1E5TTBBblR6SmxiMzZoUnLSAZwCQVVfeXFMTndtTTZkOWlwR2ZwbWQxU3F3RWpJUnhUVHZOdmlYSW56MWNoNWpNQTdFbHdmTk9IMXdkeWFQNmNQSDljMDlUT1NhRlVNdWk1VGVYRkxweW1hU1VrYnNPMFNDNTdfNmdxeW5LUGpxTG1QbXVxSEZkX3ZzMVdBOFZmenpHSFRfNTZBQ0JHdG5TMEZMcTlaaHhZRV9OYWJET2NiYjlUTVVzZTNuR24yN3Q5ZzVWUldVV3F1d21rMlFfR01GUm9DUWd4dGY5SkRSS3VVUFBHTmk2M2h2VVV1QzRpVnpETWlQVnVFRFh6dnRrX1ZPRlZtZF9VVFBTLVhYb0otVTFLakhCSUhINFc5TTByUi01Z0tMbWhGU196eVY?oc=5)：GOP’s first midterm convention kicks off Wednesday, putting Dallas at center of national politics Houston Public Media
+- [Special Election - City of Ankeny - September 8, 2026 - Polk County Iowa (.gov)](https://news.google.com/rss/articles/CBMixwFBVV95cUxPQjRXSFhlZWMxczFHSU5VNE8tSF9TX1FtVy03UnNTOHJ1NUU5aWd4T2RTR0I3azZuNDM5Sm5ueUVHTE8yd2w3US1hMjZsUjdkdFR3VWg3Q1d2U2dpRjhFckVsMW52R2tuM3EwdUNlUU5IVHRpV1VhNVp3LXB3VE5aVUoySmx1VUFJZnBDWC15QkxTQm1ZNXVfLTBtb01tVTdxRFhmb0Y1Vnd6clUtMTk0NVF3MTkwR3NSUGlpSXJoZTNXc0duYXBJ?oc=5)：Special Election - City of Ankeny - September 8, 2026 Polk County Iowa (.gov)
+- [D.O.J. Escalates Threats to States in Battle for Election Records - The New York Times](https://news.google.com/rss/articles/CBMimwFBVV95cUxPbWoweU5Yd3RzTFZRRFRWdDV1VkRoS0E4NUxOV2VIeDB4VDBGWkwySGlaYm9xTFhIU3RrRTI0eUlTWjhwYWlQSHZMS3J0QlF2YW1PYUpWVEJlM1dkQmcyYkRyWXBxejR5VVVGaXdXN0hOWDFfUEYwR0l3anUzM3k1T2lESlZJbnV6c2xwNXQ1bzE5b3BwOXhQbWVOOA?oc=5)：D.O.J.
+- [Foulkes defeats Rhode Island's McKee, 1st governor in 8 years to lose a primary - PBS](https://news.google.com/rss/articles/CBMitgFBVV95cUxQemZjcVVDQ1VUOHZPTlZ4b1o2QjlvR20zc2syUlM0dnV5dlRpaUU2WDU0RnZvM1Q3NWNqLXpfNW9fcmpNNzZTYWtiYll6eTNlaFAyNFlzNUlxMjB3OTYxM0FzOUtrVjB1WXM3UTJmZklUeE1DZ2lWbGtGdGt2YThJMTR6cHVVamxiQmhQTm5GaUpBY3pPNFJEWXN5VE1sVUctcGE5bWxPOUdMNk9qMkV6R081R2hSd9IBuwFBVV95cUxQR19RWEZUV0hOY1pKOFlyTmNWYlJuRkRPSGZ2OG4tWmViT0xKMkl5aFRPQXNzckpzeVBoTnNZTjR3cTZmOTVvZElCbnlCVTVJUUUyRnlxaWRQWUtlLVF1eHdfY2tqOGJyNE5XRlVLRmdaNFl1SUNaRzhONGk4eFJYc2xleUItSVNnUmtYY1pYdWFKdXpsNmloM0U4TDJNVWI1SW9Xa2llOEFzYWMzX05Gb0FPTmJKYXJxdHp3?oc=5)：Foulkes defeats Rhode Island's McKee, 1st governor in 8 years to lose a primary PBS
+- [What faculty members need to know this election season - University of Colorado Boulder](https://news.google.com/rss/articles/CBMikgFBVV95cUxNaWc1WEdLbHd3RmRDVG1IZ0p6NWVoVnJ6QzRGcW8tUjRoRWNQTnFfanJkLXdTZ1cyZ0txZ3J6TVBsQ01GblVBQ3RGemhwMlR1SkJPSHkyX3lfNWtJNW82N3ktQzZpZkp0OXpLQU1uWURyY1BJZC1tS2lTNlBHTFlDZjFiZDExa0VOSEpQVjBFcG9CUQ?oc=5)：What faculty members need to know this election season University of Colorado Boulder
+- [ICE at the Polls: Not the Hottest Election Threat - democracyproject.org](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcVU4QllucFRNelZ4UURYV0MwUmVHT3hxODI5ajJhZFJBQTVMSHI2UXl0OWJ5VlhGREd0RTJ4d2VaaVFtT0x3N2FkdDdVWkl4VmRWcDlfaDlBd2NTRklHbjNZbm1ncUpmSXpIaGlVU0Y3SjBGYjN0RlNuT2I1VExCLTBPNmtsb1VLaFdz?oc=5)：ICE at the Polls: Not the Hottest Election Threat democracyproject.org
+- [Sweden's election could bring far right a place at the heart of government - reuters.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxNZG5kaGY0aEhEcFVBNWZ0cFRrSFV0UXRBbGo1VWExaVdkMzZQeUpXM1BjMWxsRUZCNGotVGU4U1lxTmRiZ2w1RVNkN1J5TzctZlpQcUdvQ1o4c3NrRzR1VUdkRDZrQW5HdDJxaGdYaXd1WkhHRnVBYXFzVF8zWlAzdE9BYndyS2NKYzFVaWdZbDFzM0FkcklFZlh6cG9aR1lCRTBJU3VYWUF6YV9rMmJN?oc=5)：Sweden's election could bring far right a place at the heart of government reuters.com
+- [Governor Newsom signs first-in-the-nation AI safeguards to protect Californians, calls on the federal government to do its part - California State Portal | CA.gov](https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbUZRVHhudU1zcDhNQmhkRHpFNk9SOUJlN2EzZHlwZEZPdVFIcVJpU0pieUhsVGFNRUFNTWxidHRFeEJhR3ViMThRNWRHeFZncmp0dTZTazBYcXJLaXJTY0k4VmFCRW5KU0loMlJuWWhSdnhSdzFyTVNndlk2NFNRam9Pdk40U19KUnZaamZzcHYwamFLb2JkQ1hTNHJOc0Uxb1ZMbzJ1Xy1yM0p3NER2bFJuVlZESXZMNVBDRzhzVkRpREtfX1JzWGFMRkVIY2doVDY0dG50WERMdWZmcmtNbWFSYXE5ZmdZbU1sQ2RkWWNQSGc?oc=5)：Governor Newsom signs first-in-the-nation AI safeguards to protect Californians, calls on the federal government to do its part California State Portal | CA.gov
+- [The Election Deniers’ Long Game - The Atlantic](https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ0xIc1ZxUXhqOEFkU0k4SXVZVTNLT3VpaUNmZW1WUkZIRktHLWxUaU9MR0Q5VXBPQzlBUWxsczhBS05VYTY3aHJMUjRxMzV3WnlLSGdGZWViWjN6Z2NZSUtQLWZmNkNGeVlNOER6RGJyeEtIeGhVSGljQTluck9fNVExTFZOWnBXSVBkNklB?oc=5)：The Election Deniers’ Long Game The Atlantic
+- [Trump says every adult American will get $5,000 if Republicans win midterms - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE16LW5ZZHNBWW40b3BGeGRQLXdaX2xmeWhWdTE5VTFTZ1VLS2M1aDZMdTB4WlQ0NHAwMzhza29uVzV2RzJxb3czMjdMTXFVd0dLYldtRjBfTFVYdw?oc=5)：Trump says every adult American will get $5,000 if Republicans win midterms BBC
+- [Politics - The Economist](https://news.google.com/rss/articles/CBMic0FVX3lxTE00cS1rZkFvRksyeGpLTXMxU0ZiRXJDRGkxSTNQR0NSZklaZHRGWjB4UTdIc3c0eXpJOXlMRzdjS0RXTjBOVjNHYmd1aTVheEVickpMOXk5OGppRHlYYUNMVThxNDR1T21JNzlSZHU4VXhVOE0?oc=5)：Politics The Economist
+- [Citing election-fraud concerns, Trump administration brings dispute over voter database to the Supreme Court - SCOTUSblog](https://news.google.com/rss/articles/CBMizAFBVV95cUxPVUxGRW5XQjFXOVJoNUF2Z3pQOFhqUHI4NnhMTG1BZTl0QXhwemhmOU5MaG9QSDJUX2lKN3prODROS2VsZTh1NWVRb2RpN1RDdXZ0YW1FN1RNTzJrTVpEZ3F5WUt5NHVhMEdzSlpNNDlSMTh5SjRISUg5ZElEZnZ2S3d5bG9pSFVVblByZGd4aW5BMVNxbEdmQXFvNHFTei1yTXdQVy1vN3REVDFHR2FIVjJpOTdaYmo5bXBQYXRTY3NoVXJyWjdIdlFMcVc?oc=5)：Citing election-fraud concerns, Trump administration brings dispute over voter database to the Supreme Court SCOTUSblog
+- [US Supreme Court again blocks use of Missouri’s gerrymandered congressional map - missouriindependent.com](https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUFjblBrcWs3ejQ3VURLQlUydGNveG9BUkhRRzVsTWR6UURVX2RLb1hwZTZJVDRNWkwxTy1aVUhtUFVjLXlIVzBRWVZWWEtPTEp4UDBfaTdlY1RhbDNCWjg0LXBORVU2OXdnU09xZjVkNHozdUo3Sl9fdlFSZkFxenVBTHRWS1NkNGpiWWhFU2ZOQ2NQSWhTc21faFFITVhkbEJuRFpnWU9va25GY0d0NGlsdEFsajR4ZVFRblcwWQ?oc=5)：US Supreme Court again blocks use of Missouri’s gerrymandered congressional map missouriindependent.com
 
 ## 可行动事项
 
@@ -66,7 +68,7 @@ generated_by: WorkBuddy Daily Intelligence Automation
 
 ## 运行信息
 
-- 生成时间：2026-09-10T00:22:23.816325+08:00
-- GitHub 条目：19
+- 生成时间：2026-09-10T23:55:46.702369+08:00
+- GitHub 条目：21
 - AI 动态条目：0
 - 时政条目：12
