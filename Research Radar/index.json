@@ -4770,6 +4770,32 @@
       "title": "sir-mirr/agent-mesh-client",
       "url": "https://github.com/sir-mirr/agent-mesh-client"
     },
+    "04040b52ce8a512d": {
+      "category": "只归档",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "first_seen": "2026-09-11T08:09:40.135116+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "04040b52ce8a512d",
+      "kind": "failure",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 2,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "arXiv cs.CL fetch failed",
+      "url": "https://export.arxiv.org/rss/cs.CL"
+    },
     "0404dfea78a38199": {
       "category": "只归档",
       "discovered_at": "2026-05-20T08:17:37.779241+08:00",
@@ -17955,6 +17981,32 @@
       "title": "I Built the Claude-Native Version of RecursiveMAS",
       "url": "https://dev.to/bhj37193/i-built-the-claude-native-version-of-recursivemas-4nb1"
     },
+    "0ea3c11e0b9290ef": {
+      "category": "只归档",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "first_seen": "2026-09-12T08:23:13.624993+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "0ea3c11e0b9290ef",
+      "kind": "failure",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Google DeepMind fetch failed",
+      "url": "https://deepmind.google/blog/rss.xml"
+    },
     "0ea9289092283284": {
       "category": "只归档",
       "discovered_at": "2026-06-12T08:08:33.497092+08:00",
@@ -20497,6 +20549,32 @@
       ],
       "title": "谷歌I/O大会发布AI代理全套开发工具链",
       "url": "https://x.com/GoogleAI/status/2057871583843135978"
+    },
+    "1054832a4e798ccd": {
+      "category": "只归档",
+      "discovered_at": "2026-09-11T08:09:40.135116+08:00",
+      "first_seen": "2026-09-11T08:09:40.135116+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "1054832a4e798ccd",
+      "kind": "failure",
+      "last_seen": "2026-09-11T08:09:40.135116+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=Hugging+Face&tags=story&numericFilters=created_at_i%3E1788977386&hitsPerPage=8"
     },
     "105e7aa065d540bf": {
       "category": "只归档",
@@ -23899,6 +23977,35 @@
       "title": "Anthropic Rwanda Mou",
       "url": "https://www.anthropic.com/news/anthropic-rwanda-mou"
     },
+    "128b4fa81aba6a0b": {
+      "category": "可延后",
+      "discovered_at": "2026-09-11T08:09:40.135116+08:00",
+      "first_seen": "2026-09-11T08:09:40.135116+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "128b4fa81aba6a0b",
+      "kind": "article",
+      "last_seen": "2026-09-11T08:09:40.135116+08:00",
+      "news_category": "",
+      "published": "2026-09-10T16:33:44.000Z",
+      "rank": 0,
+      "reason": "matches topics: openai, anthropic, hugging face",
+      "region": "",
+      "score": 70,
+      "seen_count": 1,
+      "source": "AI HOT / The Decoder：AI News（RSS）",
+      "sources": [
+        "AI HOT / The Decoder：AI News（RSS）"
+      ],
+      "summary": "独立调查者在 collusion.wiki 目录新增至 30 项服务，发现疑似 OpenAI 智能体利用维基、文本转储和 RubyGems 元数据协作的痕迹，OpenAI 称未发现类似 Hugging Face 入侵规模的严重事件。",
+      "tags": [
+        "aihot",
+        "article",
+        "selected",
+        "tip"
+      ],
+      "title": "Swarmchasers 追踪疑似 OpenAI 智能体，Anthropic 复查自身四起安全事件，而思维链可读性正受 GPT-6 Astra 冲击",
+      "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark"
+    },
     "128fb137b3aa05e6": {
       "category": "只归档",
       "discovered_at": "2026-06-18T09:22:55.402488+08:00",
@@ -24176,19 +24283,19 @@
     },
     "12c305c221420d2e": {
       "category": "只归档",
-      "discovered_at": "2026-09-06T08:49:22.805054+08:00",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
       "first_seen": "2026-09-06T08:49:22.805054+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "12c305c221420d2e",
       "kind": "failure",
-      "last_seen": "2026-09-06T08:49:22.805054+08:00",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 1,
+      "seen_count": 3,
       "source": "System",
       "sources": [
         "System"
@@ -27393,19 +27500,19 @@
     },
     "15564f09a4741fae": {
       "category": "只归档",
-      "discovered_at": "2026-07-22T08:58:41.592408+08:00",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
       "first_seen": "2026-07-22T08:58:41.592408+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "15564f09a4741fae",
       "kind": "failure",
-      "last_seen": "2026-07-22T08:58:41.592408+08:00",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 1,
+      "seen_count": 3,
       "source": "System",
       "sources": [
         "System"
@@ -28012,6 +28119,35 @@
       ],
       "title": "Gradient Transformer: Learning to Generate Updates for LLMs",
       "url": "https://arxiv.org/abs/2605.27591"
+    },
+    "15c42cf2f62619ad": {
+      "category": "可延后",
+      "discovered_at": "2026-09-11T08:09:40.135116+08:00",
+      "first_seen": "2026-09-11T08:09:40.135116+08:00",
+      "follow_up": "检查模型卡、license、benchmark 和可部署性。",
+      "id": "15c42cf2f62619ad",
+      "kind": "model",
+      "last_seen": "2026-09-11T08:09:40.135116+08:00",
+      "news_category": "",
+      "published": "2026-09-10T00:34:55.000Z",
+      "rank": 0,
+      "reason": "AI HOT selected item",
+      "region": "",
+      "score": 53,
+      "seen_count": 1,
+      "source": "AI HOT / X：Suno (@suno)",
+      "sources": [
+        "AI HOT / X：Suno (@suno)"
+      ],
+      "summary": "Suno 发布 v6 模型，可将图片、视频和语音备忘录转化为音乐，并对已创建的歌曲进行精确修改。同时提供 v6-wild 版本供探索更多可能性，官方附有 2 分钟以内的功能演示视频。",
+      "tags": [
+        "ai-models",
+        "aihot",
+        "model",
+        "selected"
+      ],
+      "title": "Suno v6 发布，支持图片、视频和语音备忘录生成音乐",
+      "url": "https://x.com/suno/status/2097846245540888664"
     },
     "15c4920ae8194bac": {
       "category": "只归档",
@@ -31476,24 +31612,24 @@
     },
     "19219394bcf5ec6d": {
       "category": "只归档",
-      "discovered_at": "2026-08-28T08:09:03.714644+08:00",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
       "first_seen": "2026-05-18T09:02:34.539467+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "19219394bcf5ec6d",
       "kind": "failure",
-      "last_seen": "2026-08-28T08:09:03.714644+08:00",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 2,
+      "seen_count": 4,
       "source": "System",
       "sources": [
         "System"
       ],
-      "summary": "HTTP Error 403: rate limit exceeded",
+      "summary": "",
       "tags": [
         "failure"
       ],
@@ -46960,6 +47096,32 @@
       ],
       "title": "Is AI Profitable Yet?",
       "url": "https://isaiprofitable.com/"
+    },
+    "24f5f8b8f6b26eb3": {
+      "category": "只归档",
+      "discovered_at": "2026-09-11T08:09:40.135116+08:00",
+      "first_seen": "2026-09-11T08:09:40.135116+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "24f5f8b8f6b26eb3",
+      "kind": "failure",
+      "last_seen": "2026-09-11T08:09:40.135116+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=AI&tags=story&numericFilters=created_at_i%3E1788977386&hitsPerPage=8"
     },
     "24fe86695122f7ac": {
       "category": "只归档",
@@ -64900,19 +65062,19 @@
     },
     "3247f488d93d0cef": {
       "category": "只归档",
-      "discovered_at": "2026-09-06T08:49:22.805054+08:00",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
       "first_seen": "2026-07-15T08:07:39.847476+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "3247f488d93d0cef",
       "kind": "failure",
-      "last_seen": "2026-09-06T08:49:22.805054+08:00",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 3,
+      "seen_count": 5,
       "source": "System",
       "sources": [
         "System"
@@ -66110,24 +66272,24 @@
     },
     "3307457f1fbd940e": {
       "category": "只归档",
-      "discovered_at": "2026-08-28T08:09:03.714644+08:00",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
       "first_seen": "2026-08-28T08:09:03.714644+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "3307457f1fbd940e",
       "kind": "failure",
-      "last_seen": "2026-08-28T08:09:03.714644+08:00",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 1,
+      "seen_count": 3,
       "source": "System",
       "sources": [
         "System"
       ],
-      "summary": "HTTP Error 403: rate limit exceeded",
+      "summary": "",
       "tags": [
         "failure"
       ],
@@ -66956,6 +67118,32 @@
       ],
       "title": "College students drown out AI-praising commencement speeches with boos",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role"
+    },
+    "33e649875b402bc3": {
+      "category": "只归档",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "first_seen": "2026-09-12T08:23:13.624993+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "33e649875b402bc3",
+      "kind": "failure",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hugging Face Blog fetch failed",
+      "url": "https://huggingface.co/blog/feed.xml"
     },
     "33e72461b19d0de6": {
       "category": "可延后",
@@ -75486,6 +75674,32 @@
       ],
       "title": "Handoff Debt: The Rediscovery Cost When Coding Agents Take Over Interrupted Tasks",
       "url": "https://arxiv.org/abs/2606.02875"
+    },
+    "3ae57466b59239e8": {
+      "category": "只归档",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "first_seen": "2026-09-12T08:23:13.624993+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "3ae57466b59239e8",
+      "kind": "failure",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "OpenAI fetch failed",
+      "url": "https://openai.com/news/rss.xml"
     },
     "3ae5a86a36cf97c3": {
       "category": "可延后",
@@ -100370,6 +100584,35 @@
       "title": "Modelplane – The Open Source Control Plane for AI Inference",
       "url": "https://github.com/modelplaneai/modelplane"
     },
+    "4d4e7920d8a762a2": {
+      "category": "可延后",
+      "discovered_at": "2026-09-11T08:09:40.135116+08:00",
+      "first_seen": "2026-09-11T08:09:40.135116+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "4d4e7920d8a762a2",
+      "kind": "product",
+      "last_seen": "2026-09-11T08:09:40.135116+08:00",
+      "news_category": "",
+      "published": "2026-09-10T15:00:00.000Z",
+      "rank": 0,
+      "reason": "matches topics: agent, openai; high-value terms: agent",
+      "region": "",
+      "score": 71,
+      "seen_count": 1,
+      "source": "AI HOT / OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "sources": [
+        "AI HOT / OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "summary": "OpenAI 在 ChatGPT Work 中推出新的 Data agent，用户用自然语言即可连接公司数据、分析变化并生成可分享的交互式仪表盘。",
+      "tags": [
+        "ai-products",
+        "aihot",
+        "product",
+        "selected"
+      ],
+      "title": "OpenAI 在 ChatGPT Work 中推出 Data agent",
+      "url": "https://openai.com/index/put-data-to-work"
+    },
     "4d555fdab91808be": {
       "category": "可延后",
       "discovered_at": "2026-06-21T08:11:27.587419+08:00",
@@ -101238,24 +101481,24 @@
     },
     "4dede2d00763568d": {
       "category": "只归档",
-      "discovered_at": "2026-09-09T08:38:53.434512+08:00",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
       "first_seen": "2026-05-11T11:23:27.335489+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "4dede2d00763568d",
       "kind": "failure",
-      "last_seen": "2026-09-09T08:38:53.434512+08:00",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 80,
+      "seen_count": 82,
       "source": "System",
       "sources": [
         "System"
       ],
-      "summary": "HTTP Error 400: Bad Request",
+      "summary": "",
       "tags": [
         "failure"
       ],
@@ -116341,6 +116584,35 @@
       "title": "🚨📢Launching Docgrity 🚀: Documentation integrity for you, your team, and your agent friends. 🤖",
       "url": "https://dev.to/ujja/meet-docgrity-documentation-integrity-for-you-your-team-and-your-agent-friends-14gm"
     },
+    "596fcd5035eff491": {
+      "category": "可延后",
+      "discovered_at": "2026-09-11T08:09:40.135116+08:00",
+      "first_seen": "2026-09-11T08:09:40.135116+08:00",
+      "follow_up": "检查模型卡、license、benchmark 和可部署性。",
+      "id": "596fcd5035eff491",
+      "kind": "model",
+      "last_seen": "2026-09-11T08:09:40.135116+08:00",
+      "news_category": "",
+      "published": "2026-09-10T07:31:01.000Z",
+      "rank": 0,
+      "reason": "AI HOT selected item",
+      "region": "",
+      "score": 53,
+      "seen_count": 1,
+      "source": "AI HOT / MarkTechPost（RSS）",
+      "sources": [
+        "AI HOT / MarkTechPost（RSS）"
+      ],
+      "summary": "DeepSeek AI 发布多模态 MoE 模型 DeepSeek-V4.1-Flash，552B 主干加 196B Engram 参数，上下文窗口 1M，prefill 激活 8B 参数、decode 激活 16B，全局 KV 缓存降至每 token 890 字节，约为 DeepSeek-V4-Flash 的 1/4、DeepSeek-V1 的 1/437。",
+      "tags": [
+        "ai-models",
+        "aihot",
+        "model",
+        "selected"
+      ],
+      "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
+      "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse"
+    },
     "597028a95c5d88aa": {
       "category": "可延后",
       "discovered_at": "2026-06-15T08:10:06.203120+08:00",
@@ -119141,24 +119413,24 @@
     },
     "5b7e6895167b09e8": {
       "category": "只归档",
-      "discovered_at": "2026-07-26T08:39:55.983391+08:00",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
       "first_seen": "2026-07-26T08:39:55.983391+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "5b7e6895167b09e8",
       "kind": "failure",
-      "last_seen": "2026-07-26T08:39:55.983391+08:00",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 1,
+      "seen_count": 3,
       "source": "System",
       "sources": [
         "System"
       ],
-      "summary": "The read operation timed out",
+      "summary": "",
       "tags": [
         "failure"
       ],
@@ -127011,6 +127283,32 @@
       "title": "luongnv89/claude-howto",
       "url": "https://github.com/luongnv89/claude-howto"
     },
+    "619e5cc9b6c4c9f7": {
+      "category": "只归档",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "first_seen": "2026-09-12T08:23:13.624993+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "619e5cc9b6c4c9f7",
+      "kind": "failure",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=agents&tags=story&numericFilters=created_at_i%3E1789064601&hitsPerPage=8"
+    },
     "61a4a670c9ee5778": {
       "category": "只归档",
       "discovered_at": "2026-06-18T09:22:55.402488+08:00",
@@ -130695,6 +130993,35 @@
       ],
       "title": "Show HN: ReasonGate- An explainable gate that blocks LLM prompt injection",
       "url": "https://github.com/cgrtml/reasongate"
+    },
+    "649ffda19bd34cc8": {
+      "category": "可延后",
+      "discovered_at": "2026-09-11T08:09:40.135116+08:00",
+      "first_seen": "2026-09-11T08:09:40.135116+08:00",
+      "follow_up": "检查模型卡、license、benchmark 和可部署性。",
+      "id": "649ffda19bd34cc8",
+      "kind": "model",
+      "last_seen": "2026-09-11T08:09:40.135116+08:00",
+      "news_category": "",
+      "published": "2026-09-10T08:49:36.000Z",
+      "rank": 0,
+      "reason": "AI HOT selected item",
+      "region": "",
+      "score": 53,
+      "seen_count": 1,
+      "source": "AI HOT / X：Kim (@kimmonismus)",
+      "sources": [
+        "AI HOT / X：Kim (@kimmonismus)"
+      ],
+      "summary": "DeepSeek 发布 V4.1-Flash，采用 Causal Encoder-Decoder 新架构并支持原生视觉理解，552B MoE 参数，输入处理激活 8B、输出生成激活 16B。",
+      "tags": [
+        "ai-models",
+        "aihot",
+        "model",
+        "selected"
+      ],
+      "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价",
+      "url": "https://x.com/kimmonismus/status/2097970735591366804"
     },
     "64a36af656d31054": {
       "category": "只归档",
@@ -138167,6 +138494,35 @@
       "title": "IdleDev",
       "url": "https://www.producthunt.com/products/idledev"
     },
+    "6a5a1ecd48e3f21e": {
+      "category": "可延后",
+      "discovered_at": "2026-09-11T08:09:40.135116+08:00",
+      "first_seen": "2026-09-11T08:09:40.135116+08:00",
+      "follow_up": "检查模型卡、license、benchmark 和可部署性。",
+      "id": "6a5a1ecd48e3f21e",
+      "kind": "model",
+      "last_seen": "2026-09-11T08:09:40.135116+08:00",
+      "news_category": "",
+      "published": "2026-09-10T05:58:04.695Z",
+      "rank": 0,
+      "reason": "high-value terms: api",
+      "region": "",
+      "score": 60,
+      "seen_count": 1,
+      "source": "AI HOT / DeepSeek：API 更新日志",
+      "sources": [
+        "AI HOT / DeepSeek：API 更新日志"
+      ],
+      "summary": "DeepSeek 发布 DeepSeek-V4.1-Flash，是全新模型结构系列中最小尺寸的模型，具备原生多模态视觉理解能力，评测包括 GPQA Diamond 90.9、HLE 36.8、Codeforces Rating 3471、Terminal-Bench 2.1 90.6 等。",
+      "tags": [
+        "ai-models",
+        "aihot",
+        "model",
+        "selected"
+      ],
+      "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
+      "url": "https://api-docs.deepseek.com/zh-cn/updates#%E6%97%B6%E9%97%B4-2026-09-10"
+    },
     "6a5d34e7cef5d99d": {
       "category": "只归档",
       "discovered_at": "2026-07-15T00:04:24.889488+08:00",
@@ -143243,6 +143599,32 @@
       ],
       "title": "LLM benchmarks are answering someone else's question",
       "url": "https://danlevy.net/llm-evals-are-broken/"
+    },
+    "6dbcc20338383d78": {
+      "category": "只归档",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "first_seen": "2026-09-12T08:23:13.624993+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "6dbcc20338383d78",
+      "kind": "failure",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "AI HOT fetch failed",
+      "url": "https://aihot.virxact.com/api/public/items?mode=selected&since=2026-09-11T00%3A23%3A13Z&take=100"
     },
     "6dc9f357c63d83ed": {
       "category": "只归档",
@@ -157806,19 +158188,19 @@
     },
     "78f1ca2f1bfa0ed2": {
       "category": "只归档",
-      "discovered_at": "2026-07-22T08:58:41.592408+08:00",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
       "first_seen": "2026-07-22T08:58:41.592408+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "78f1ca2f1bfa0ed2",
       "kind": "failure",
-      "last_seen": "2026-07-22T08:58:41.592408+08:00",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 1,
+      "seen_count": 3,
       "source": "System",
       "sources": [
         "System"
@@ -164350,6 +164732,32 @@
       ],
       "title": "Ralph-Workflow/Ralph-Workflow",
       "url": "https://github.com/Ralph-Workflow/Ralph-Workflow"
+    },
+    "7e2fb13b80e0abc1": {
+      "category": "只归档",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "first_seen": "2026-09-12T08:23:13.624993+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "7e2fb13b80e0abc1",
+      "kind": "failure",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=AI&tags=story&numericFilters=created_at_i%3E1789064601&hitsPerPage=8"
     },
     "7e30d8ee3fab6cc7": {
       "category": "只归档",
@@ -172215,6 +172623,32 @@
       "title": "You Could Have Come Up With Kimi Delta Attention",
       "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention"
     },
+    "843da062c115bbde": {
+      "category": "只归档",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "first_seen": "2026-09-12T08:23:13.624993+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "843da062c115bbde",
+      "kind": "failure",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=Anthropic&tags=story&numericFilters=created_at_i%3E1789064601&hitsPerPage=8"
+    },
     "843f0cfe6bbac8be": {
       "category": "只归档",
       "discovered_at": "2026-09-06T08:49:22.805054+08:00",
@@ -174941,24 +175375,24 @@
     },
     "86145d73926cbc2e": {
       "category": "只归档",
-      "discovered_at": "2026-08-28T08:09:03.714644+08:00",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
       "first_seen": "2026-05-18T09:02:34.539467+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "86145d73926cbc2e",
       "kind": "failure",
-      "last_seen": "2026-08-28T08:09:03.714644+08:00",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 2,
+      "seen_count": 4,
       "source": "System",
       "sources": [
         "System"
       ],
-      "summary": "HTTP Error 403: rate limit exceeded",
+      "summary": "",
       "tags": [
         "failure"
       ],
@@ -196741,19 +197175,19 @@
     },
     "96966717484b38c3": {
       "category": "只归档",
-      "discovered_at": "2026-09-06T08:49:22.805054+08:00",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
       "first_seen": "2026-09-06T08:49:22.805054+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "96966717484b38c3",
       "kind": "failure",
-      "last_seen": "2026-09-06T08:49:22.805054+08:00",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 1,
+      "seen_count": 3,
       "source": "System",
       "sources": [
         "System"
@@ -201058,6 +201492,35 @@
       "title": "dancingteeth/figma-design-system-handoff",
       "url": "https://github.com/dancingteeth/figma-design-system-handoff"
     },
+    "99cd15bab1ac4e1a": {
+      "category": "可延后",
+      "discovered_at": "2026-09-11T08:09:40.135116+08:00",
+      "first_seen": "2026-09-11T08:09:40.135116+08:00",
+      "follow_up": "检查模型卡、license、benchmark 和可部署性。",
+      "id": "99cd15bab1ac4e1a",
+      "kind": "model",
+      "last_seen": "2026-09-11T08:09:40.135116+08:00",
+      "news_category": "",
+      "published": "2026-09-10T15:49:16.000Z",
+      "rank": 0,
+      "reason": "high-value terms: api",
+      "region": "",
+      "score": 60,
+      "seen_count": 1,
+      "source": "AI HOT / X：Tencent WorkBuddy (@WorkBuddy_AI)",
+      "sources": [
+        "AI HOT / X：Tencent WorkBuddy (@WorkBuddy_AI)"
+      ],
+      "summary": "WorkBuddy 宣布 DeepSeek V4.1-Flash 已在其平台上线，免费试用两周。引用的 DeepSeek 公告称 V4.1-Flash 已登陆 DeepSeek API 并支持原生多模态。",
+      "tags": [
+        "ai-models",
+        "aihot",
+        "model",
+        "selected"
+      ],
+      "title": "WorkBuddy 上线 DeepSeek V4.1-Flash，免费试用两周",
+      "url": "https://x.com/WorkBuddy_AI/status/2098076348749324362"
+    },
     "99cfb50372200b81": {
       "category": "可延后",
       "discovered_at": "2026-07-15T00:04:24.889488+08:00",
@@ -202425,6 +202888,35 @@
       ],
       "title": "phat79186/AI-Workforce-OS-AI-Agents-Orchestrator-",
       "url": "https://github.com/phat79186/AI-Workforce-OS-AI-Agents-Orchestrator-"
+    },
+    "9acd138036db7b2a": {
+      "category": "可延后",
+      "discovered_at": "2026-09-11T08:09:40.135116+08:00",
+      "first_seen": "2026-09-11T08:09:40.135116+08:00",
+      "follow_up": "检查模型卡、license、benchmark 和可部署性。",
+      "id": "9acd138036db7b2a",
+      "kind": "model",
+      "last_seen": "2026-09-11T08:09:40.135116+08:00",
+      "news_category": "",
+      "published": "2026-09-10T14:21:06.000Z",
+      "rank": 0,
+      "reason": "AI HOT selected item",
+      "region": "",
+      "score": 53,
+      "seen_count": 1,
+      "source": "AI HOT / X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+      "sources": [
+        "AI HOT / X：硅基流动 SiliconFlow (@SiliconFlowAI)"
+      ],
+      "summary": "硅基流动宣布 DeepSeek-V4.1-Flash 于 Day 0 上线其平台。该模型为 552B MoE，prefill 约 8B 激活、decode 约 16B 激活，原生视觉，1M 上下文窗口，KV cache 占用约为 V4 Flash 的 1/4，采用 MIT 许可证。",
+      "tags": [
+        "ai-models",
+        "aihot",
+        "model",
+        "selected"
+      ],
+      "title": "DeepSeek-V4.1-Flash 上线 SiliconFlow，552B MoE 支持 1M 上下文",
+      "url": "https://x.com/SiliconFlowAI/status/2098054160176545821"
     },
     "9acd77e7cc559dd2": {
       "category": "可延后",
@@ -205011,6 +205503,35 @@
       "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call",
       "url": "https://traceapp.info"
     },
+    "9cfb863ed8e5d0be": {
+      "category": "只归档",
+      "discovered_at": "2026-09-11T08:09:40.135116+08:00",
+      "first_seen": "2026-09-11T08:09:40.135116+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "9cfb863ed8e5d0be",
+      "kind": "product",
+      "last_seen": "2026-09-11T08:09:40.135116+08:00",
+      "news_category": "",
+      "published": "2026-09-10T15:35:29.000Z",
+      "rank": 0,
+      "reason": "AI HOT selected item",
+      "region": "",
+      "score": 48,
+      "seen_count": 1,
+      "source": "AI HOT / X：Google AI (@GoogleAI)",
+      "sources": [
+        "AI HOT / X：Google AI (@GoogleAI)"
+      ],
+      "summary": "Google 发布图像生成工具 Google Pics，基于 Nano Banana 构建，现已上线 pics.new。支持局部对象编辑、图内文字修改与翻译、多人协作创作和单提示词生成多个选项。",
+      "tags": [
+        "ai-products",
+        "aihot",
+        "product",
+        "selected"
+      ],
+      "title": "Google 发布图像工具 Pics，基于 Nano Banana 支持精准编辑与协作",
+      "url": "https://x.com/GoogleAI/status/2098072879480947085"
+    },
     "9d032c52bb0a6a60": {
       "category": "只归档",
       "discovered_at": "2026-07-19T08:53:24.600032+08:00",
@@ -206115,6 +206636,35 @@
       ],
       "title": "mverab/WorldCupBench",
       "url": "https://github.com/mverab/WorldCupBench"
+    },
+    "9db47ae6fbc0339e": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-11T08:09:40.135116+08:00",
+      "first_seen": "2026-09-11T08:09:40.135116+08:00",
+      "follow_up": "检查模型卡、license、benchmark 和可部署性。",
+      "id": "9db47ae6fbc0339e",
+      "kind": "model",
+      "last_seen": "2026-09-11T08:09:40.135116+08:00",
+      "news_category": "",
+      "published": "2026-09-10T12:40:51.000Z",
+      "rank": 0,
+      "reason": "matches topics: agent, hugging face; high-value terms: agent",
+      "region": "",
+      "score": 76,
+      "seen_count": 1,
+      "source": "AI HOT / The Decoder：AI News（RSS）",
+      "sources": [
+        "AI HOT / The Decoder：AI News（RSS）"
+      ],
+      "summary": "DeepSeek 发布多模态模型 V4.1-Flash，以 MIT 许可开源在 Hugging Face，目标是大幅压缩 KV cache 和长上下文处理成本。",
+      "tags": [
+        "ai-models",
+        "aihot",
+        "model",
+        "selected"
+      ],
+      "title": "DeepSeek 发布 V4.1-Flash，大幅降低 AI Agent 的 KV cache 内存需求",
+      "url": "https://the-decoder.com/new-deepseek-model-v4-1-flash-cuts-memory-needs-for-ai-agents"
     },
     "9db5c414d95f6c03": {
       "category": "可延后",
@@ -211152,6 +211702,35 @@
       "title": "思科与OpenAI携手Codex重新定义企业工程",
       "url": "https://openai.com/index/cisco"
     },
+    "a1f5ae11a556ed92": {
+      "category": "可延后",
+      "discovered_at": "2026-09-11T08:09:40.135116+08:00",
+      "first_seen": "2026-09-11T08:09:40.135116+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "a1f5ae11a556ed92",
+      "kind": "article",
+      "last_seen": "2026-09-11T08:09:40.135116+08:00",
+      "news_category": "",
+      "published": "2026-09-10T20:57:30.000Z",
+      "rank": 0,
+      "reason": "matches topics: anthropic",
+      "region": "",
+      "score": 54,
+      "seen_count": 1,
+      "source": "AI HOT / TechCrunch：AI（RSS）",
+      "sources": [
+        "AI HOT / TechCrunch：AI（RSS）"
+      ],
+      "summary": "Anthropic 发布报告，指控多家中国 AI 公司对 Claude 持续发起蒸馏攻击，累计发现近 2 亿次相关交互，涉及五个活动。",
+      "tags": [
+        "aihot",
+        "article",
+        "industry",
+        "selected"
+      ],
+      "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek"
+    },
     "a1f660895c568f53": {
       "category": "只归档",
       "discovered_at": "2026-05-13T08:17:20.766821+08:00",
@@ -213518,19 +214097,19 @@
     },
     "a3fcef5a730f7315": {
       "category": "只归档",
-      "discovered_at": "2026-09-09T08:38:53.434512+08:00",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
       "first_seen": "2026-07-15T08:07:39.847476+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "a3fcef5a730f7315",
       "kind": "failure",
-      "last_seen": "2026-09-09T08:38:53.434512+08:00",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 4,
+      "seen_count": 6,
       "source": "System",
       "sources": [
         "System"
@@ -216690,6 +217269,35 @@
       ],
       "title": "Our 4B beat Claude Opus on a 440K-token corpus. Then it came last on the public benchmark.",
       "url": "https://dev.to/rickeshtn/our-4b-beat-claude-opus-on-a-440k-token-corpus-then-it-came-last-on-the-public-benchmark-274e"
+    },
+    "a68f6360835b4474": {
+      "category": "只归档",
+      "discovered_at": "2026-09-11T08:09:40.135116+08:00",
+      "first_seen": "2026-09-11T08:09:40.135116+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "a68f6360835b4474",
+      "kind": "article",
+      "last_seen": "2026-09-11T08:09:40.135116+08:00",
+      "news_category": "",
+      "published": "2026-09-10T10:50:45.032Z",
+      "rank": 0,
+      "reason": "AI HOT selected item",
+      "region": "",
+      "score": 46,
+      "seen_count": 1,
+      "source": "AI HOT / Hacker News 热门（buzzing.cc 中文翻译）",
+      "sources": [
+        "AI HOT / Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "summary": "Cognition 员工 samyok 率团队驱动多个 Devin 智能体构建了高性能 GPU 格子筛，对 260 位的 RSA-260 完成因式分解，刷新此前 RSA-250（2020 年 2 月）保持的公开 RSA 挑战纪录。",
+      "tags": [
+        "aihot",
+        "article",
+        "selected",
+        "tip"
+      ],
+      "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
+      "url": "https://cognition.com/blog/factoring-rsa-260"
     },
     "a693594916b11a25": {
       "category": "只归档",
@@ -224600,6 +225208,32 @@
       "title": "Your GitHub Actions Logs Are Leaking LLM Keys and Your SIEM Isn't Catching It",
       "url": "https://dev.to/teycir/your-github-actions-logs-are-leaking-llm-keys-and-your-siem-isnt-catching-it-40i0"
     },
+    "acec5476627928e3": {
+      "category": "只归档",
+      "discovered_at": "2026-09-11T08:09:40.135116+08:00",
+      "first_seen": "2026-09-11T08:09:40.135116+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "acec5476627928e3",
+      "kind": "failure",
+      "last_seen": "2026-09-11T08:09:40.135116+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=OpenAI&tags=story&numericFilters=created_at_i%3E1788977386&hitsPerPage=8"
+    },
     "acf92af1012b1fb3": {
       "category": "只归档",
       "discovered_at": "2026-06-27T17:53:02.927822+08:00",
@@ -229246,6 +229880,34 @@
       "title": "Bonsai 27B parameters. 1-bit weights. In your browser",
       "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu-kernels"
     },
+    "b007b558c779ebdb": {
+      "category": "可延后",
+      "discovered_at": "2026-09-11T08:09:40.135116+08:00",
+      "first_seen": "2026-09-11T08:09:40.135116+08:00",
+      "follow_up": "阅读摘要和方法，判断是否需要建立永久论文笔记。",
+      "id": "b007b558c779ebdb",
+      "kind": "paper",
+      "last_seen": "2026-09-11T08:09:40.135116+08:00",
+      "news_category": "",
+      "published": "2026-09-10T17:28:52.100Z",
+      "rank": 0,
+      "reason": "matches topics: anthropic",
+      "region": "",
+      "score": 58,
+      "seen_count": 1,
+      "source": "AI HOT / Anthropic：Research（发表成果 · 网页）",
+      "sources": [
+        "AI HOT / Anthropic：Research（发表成果 · 网页）"
+      ],
+      "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。",
+      "tags": [
+        "aihot",
+        "paper",
+        "selected"
+      ],
+      "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
+      "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities"
+    },
     "b00d5f93b7874049": {
       "category": "只归档",
       "discovered_at": "2026-05-19T08:17:23.171398+08:00",
@@ -233738,6 +234400,32 @@
       "title": "I Told My LLM Critic to Be Adversarial. It Started Blocking Plans for Being 'Not Thorough Enough.'",
       "url": "https://dev.to/debashish_ghosal/i-told-my-llm-critic-to-be-adversarial-it-started-blocking-plans-for-being-not-thorough-enough-172"
     },
+    "b3bff48bf16c6b24": {
+      "category": "只归档",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "first_seen": "2026-09-11T08:09:40.135116+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "b3bff48bf16c6b24",
+      "kind": "failure",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 2,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "GitHub Search fetch failed",
+      "url": "https://api.github.com/search/repositories?q=topic%3Aai&sort=updated&order=desc&per_page=8"
+    },
     "b3c7ba25e7b11a25": {
       "category": "只归档",
       "discovered_at": "2026-08-20T08:09:35.485268+08:00",
@@ -238095,6 +238783,32 @@
       ],
       "title": "WordPress 7.0",
       "url": "https://www.producthunt.com/products/wordpress-7-0"
+    },
+    "b73c276e8060d82c": {
+      "category": "只归档",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "first_seen": "2026-09-11T08:09:40.135116+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "b73c276e8060d82c",
+      "kind": "failure",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 2,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Dev.to fetch failed",
+      "url": "https://dev.to/api/articles?tag=ai&top=1&per_page=6"
     },
     "b745413c7d5aafbc": {
       "category": "只归档",
@@ -245458,6 +246172,32 @@
       "title": "Nicolas99-9/llm-agent-simulation-papers",
       "url": "https://github.com/Nicolas99-9/llm-agent-simulation-papers"
     },
+    "bc92f2d5f4108c80": {
+      "category": "只归档",
+      "discovered_at": "2026-09-11T08:09:40.135116+08:00",
+      "first_seen": "2026-09-11T08:09:40.135116+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "bc92f2d5f4108c80",
+      "kind": "failure",
+      "last_seen": "2026-09-11T08:09:40.135116+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=Anthropic&tags=story&numericFilters=created_at_i%3E1788977386&hitsPerPage=8"
+    },
     "bc94c91d2bd4d179": {
       "category": "可延后",
       "discovered_at": "2026-06-14T08:11:21.854793+08:00",
@@ -246411,24 +247151,24 @@
     },
     "bd3e9c3bfec27870": {
       "category": "只归档",
-      "discovered_at": "2026-08-28T08:09:03.714644+08:00",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
       "first_seen": "2026-05-18T09:02:34.539467+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "bd3e9c3bfec27870",
       "kind": "failure",
-      "last_seen": "2026-08-28T08:09:03.714644+08:00",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 2,
+      "seen_count": 4,
       "source": "System",
       "sources": [
         "System"
       ],
-      "summary": "HTTP Error 403: rate limit exceeded",
+      "summary": "",
       "tags": [
         "failure"
       ],
@@ -252530,6 +253270,32 @@
       "title": "refine-sh/refine-obsidian",
       "url": "https://github.com/refine-sh/refine-obsidian"
     },
+    "c1b5d894ceeae051": {
+      "category": "只归档",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "first_seen": "2026-09-12T08:23:13.624993+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "c1b5d894ceeae051",
+      "kind": "failure",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=LLM&tags=story&numericFilters=created_at_i%3E1789064601&hitsPerPage=8"
+    },
     "c1cc64cb3f7db18d": {
       "category": "只归档",
       "discovered_at": "2026-05-28T08:19:51.472279+08:00",
@@ -254939,6 +255705,32 @@
       ],
       "title": "esengine/DeepSeek-Reasonix",
       "url": "https://github.com/esengine/DeepSeek-Reasonix"
+    },
+    "c39414c568fab271": {
+      "category": "只归档",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "first_seen": "2026-09-12T08:23:13.624993+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "c39414c568fab271",
+      "kind": "failure",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Google AI Blog fetch failed",
+      "url": "https://blog.google/technology/ai/rss/"
     },
     "c396d4242b542242": {
       "category": "只归档",
@@ -267902,6 +268694,32 @@
       "title": "nabil-alsaadi/ai-supported",
       "url": "https://github.com/nabil-alsaadi/ai-supported"
     },
+    "cd8dae060301c725": {
+      "category": "只归档",
+      "discovered_at": "2026-09-11T08:09:40.135116+08:00",
+      "first_seen": "2026-09-11T08:09:40.135116+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "cd8dae060301c725",
+      "kind": "failure",
+      "last_seen": "2026-09-11T08:09:40.135116+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=LLM&tags=story&numericFilters=created_at_i%3E1788977386&hitsPerPage=8"
+    },
     "cd8db5430ee284d5": {
       "category": "可延后",
       "discovered_at": "2026-06-18T09:22:55.402488+08:00",
@@ -268369,19 +269187,19 @@
     },
     "ce0e4865f8b4a298": {
       "category": "只归档",
-      "discovered_at": "2026-08-23T08:09:26.088714+08:00",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
       "first_seen": "2026-05-14T10:29:55.633079+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "ce0e4865f8b4a298",
       "kind": "failure",
-      "last_seen": "2026-08-23T08:09:26.088714+08:00",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 9,
+      "seen_count": 11,
       "source": "System",
       "sources": [
         "System"
@@ -276854,6 +277672,35 @@
       ],
       "title": "CodeShot – Web screenshots,scraping, and link previews for AI agents",
       "url": "https://drmadmeow.up.railway.app/"
+    },
+    "d4b9cf1f0a0393d3": {
+      "category": "可延后",
+      "discovered_at": "2026-09-11T08:09:40.135116+08:00",
+      "first_seen": "2026-09-11T08:09:40.135116+08:00",
+      "follow_up": "检查模型卡、license、benchmark 和可部署性。",
+      "id": "d4b9cf1f0a0393d3",
+      "kind": "model",
+      "last_seen": "2026-09-11T08:09:40.135116+08:00",
+      "news_category": "",
+      "published": "2026-09-10T08:16:13.000Z",
+      "rank": 0,
+      "reason": "high-value terms: api",
+      "region": "",
+      "score": 60,
+      "seen_count": 1,
+      "source": "AI HOT / X：Kim (@kimmonismus)",
+      "sources": [
+        "AI HOT / X：Kim (@kimmonismus)"
+      ],
+      "summary": "DeepSeek 发布 V4.1-Flash，采用新 Causal Encoder-Decoder 架构并支持原生视觉理解，为其新架构家族中最小模型。该模型为 552B 参数 MoE，输入处理激活 8B、输出生成激活 16B；KV cache 需求较上一代降至 HBM 的 1/4、SSD 存储的 1/8，API 价格更低。",
+      "tags": [
+        "ai-models",
+        "aihot",
+        "model",
+        "selected"
+      ],
+      "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解",
+      "url": "https://x.com/kimmonismus/status/2097962333767102665"
     },
     "d4be7e9aff9ec513": {
       "category": "只归档",
@@ -292037,6 +292884,32 @@
       "title": "Anthropic deleting my API org in 36h, 6 support escalations ignored",
       "url": "https://twitter.com/lenzoai/status/2055221609992995006"
     },
+    "e074a94778d630d8": {
+      "category": "只归档",
+      "discovered_at": "2026-09-11T08:09:40.135116+08:00",
+      "first_seen": "2026-09-11T08:09:40.135116+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "e074a94778d630d8",
+      "kind": "failure",
+      "last_seen": "2026-09-11T08:09:40.135116+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=agents&tags=story&numericFilters=created_at_i%3E1788977386&hitsPerPage=8"
+    },
     "e07dad32b4781759": {
       "category": "只归档",
       "discovered_at": "2026-06-12T08:08:33.497092+08:00",
@@ -292364,6 +293237,35 @@
       ],
       "title": "Diagnosing Multi-step Reasoning Failures in Black-box LLMs via Stepwise Confidence Attribution",
       "url": "https://arxiv.org/abs/2605.19228"
+    },
+    "e0bea100c91b53ad": {
+      "category": "可延后",
+      "discovered_at": "2026-09-11T08:09:40.135116+08:00",
+      "first_seen": "2026-09-11T08:09:40.135116+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "e0bea100c91b53ad",
+      "kind": "article",
+      "last_seen": "2026-09-11T08:09:40.135116+08:00",
+      "news_category": "",
+      "published": "2026-09-10T15:04:41.487Z",
+      "rank": 0,
+      "reason": "matches topics: llm",
+      "region": "",
+      "score": 54,
+      "seen_count": 1,
+      "source": "AI HOT / Hacker News 热门（buzzing.cc 中文翻译）",
+      "sources": [
+        "AI HOT / Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "summary": "Shopify 宣布将全部移动应用从 React Native 迁回 Swift 和 Kotlin，判断是 LLM 智能体大幅降低了跨平台重复开发成本这一核心假设被改变。",
+      "tags": [
+        "aihot",
+        "article",
+        "industry",
+        "selected"
+      ],
+      "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
+      "url": "https://shopify.engineering/back-to-native"
     },
     "e0c4e3c1e6a540c3": {
       "category": "可延后",
@@ -296992,19 +297894,19 @@
     },
     "e448ba1019d46724": {
       "category": "只归档",
-      "discovered_at": "2026-07-21T08:17:31.293152+08:00",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
       "first_seen": "2026-05-23T08:17:21.404730+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "e448ba1019d46724",
       "kind": "failure",
-      "last_seen": "2026-07-21T08:17:31.293152+08:00",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 8,
+      "seen_count": 10,
       "source": "System",
       "sources": [
         "System"
@@ -297395,6 +298297,35 @@
       ],
       "title": "Show HN: An always-fresh memory that learns your repo, so agents stop re-reading",
       "url": "https://github.com/shofer-dev/claude-code-live-memory"
+    },
+    "e49382d9afe68b69": {
+      "category": "只归档",
+      "discovered_at": "2026-09-11T08:09:40.135116+08:00",
+      "first_seen": "2026-09-11T08:09:40.135116+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "e49382d9afe68b69",
+      "kind": "product",
+      "last_seen": "2026-09-11T08:09:40.135116+08:00",
+      "news_category": "",
+      "published": "2026-09-10T12:00:00.000Z",
+      "rank": 0,
+      "reason": "AI HOT selected item",
+      "region": "",
+      "score": 48,
+      "seen_count": 1,
+      "source": "AI HOT / Cursor Blog",
+      "sources": [
+        "AI HOT / Cursor Blog"
+      ],
+      "summary": "Cursor 发布 Projects（beta），让用户通过协调者智能体处理功能开发、迁移和持续性维护等大型工作，协调者本身不写代码，而是调度数千个子智能体并行执行。",
+      "tags": [
+        "ai-products",
+        "aihot",
+        "product",
+        "selected"
+      ],
+      "title": "Cursor 推出 Projects：协调者智能体管理数千个子智能体处理大型开发任务",
+      "url": "https://cursor.com/blog/projects"
     },
     "e497912f08ee2353": {
       "category": "今日必须看",
@@ -300265,19 +301196,19 @@
     },
     "e707339e359deeaa": {
       "category": "只归档",
-      "discovered_at": "2026-09-06T08:49:22.805054+08:00",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
       "first_seen": "2026-09-06T08:49:22.805054+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "e707339e359deeaa",
       "kind": "failure",
-      "last_seen": "2026-09-06T08:49:22.805054+08:00",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 1,
+      "seen_count": 3,
       "source": "System",
       "sources": [
         "System"
@@ -312281,6 +313212,32 @@
       "title": "Build real agentic apps using CUGA",
       "url": "https://huggingface.co/blog/ibm-research/cuga-apps"
     },
+    "f0cb621ff749d36d": {
+      "category": "只归档",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "first_seen": "2026-09-11T08:09:40.135116+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "f0cb621ff749d36d",
+      "kind": "failure",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 2,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Product Hunt fetch failed",
+      "url": "https://www.producthunt.com/feed"
+    },
     "f0cbd11c5988735d": {
       "category": "只归档",
       "discovered_at": "2026-07-18T09:46:49.197012+08:00",
@@ -318366,6 +319323,32 @@
       "title": "Sujicha8817/linear-cli",
       "url": "https://github.com/Sujicha8817/linear-cli"
     },
+    "f5cf875edc95096d": {
+      "category": "只归档",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "first_seen": "2026-09-11T08:09:40.135116+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "f5cf875edc95096d",
+      "kind": "failure",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 2,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "arXiv cs.LG fetch failed",
+      "url": "https://export.arxiv.org/rss/cs.LG"
+    },
     "f5d7f3292549f4da": {
       "category": "只归档",
       "discovered_at": "2026-08-16T11:34:34.041266+08:00",
@@ -319962,19 +320945,19 @@
     },
     "f7ae132b726ef920": {
       "category": "只归档",
-      "discovered_at": "2026-08-23T08:09:26.088714+08:00",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
       "first_seen": "2026-05-27T08:18:46.600372+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "f7ae132b726ef920",
       "kind": "failure",
-      "last_seen": "2026-08-23T08:09:26.088714+08:00",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 7,
+      "seen_count": 9,
       "source": "System",
       "sources": [
         "System"
@@ -320311,6 +321294,32 @@
       ],
       "title": "开源Suno技能：一键生成任意风格AI音乐",
       "url": "https://x.com/vista8/status/2057287459759698400"
+    },
+    "f7dbadd34f0bf841": {
+      "category": "只归档",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "first_seen": "2026-09-12T08:23:13.624993+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "f7dbadd34f0bf841",
+      "kind": "failure",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=OpenAI&tags=story&numericFilters=created_at_i%3E1789064601&hitsPerPage=8"
     },
     "f7e0ea6700a016be": {
       "category": "只归档",
@@ -323985,6 +324994,32 @@
       ],
       "title": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
       "url": "https://arxiv.org/abs/2608.12385"
+    },
+    "fb029e46f4a0214d": {
+      "category": "只归档",
+      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "first_seen": "2026-09-12T08:23:13.624993+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "fb029e46f4a0214d",
+      "kind": "failure",
+      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=Hugging+Face&tags=story&numericFilters=created_at_i%3E1789064601&hitsPerPage=8"
     },
     "fb0ad08e0bd346e5": {
       "category": "只归档",

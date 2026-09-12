@@ -1,6 +1,6 @@
 ---
 title: News Radar Week 2026-W37
-date: 2026-09-09
+date: 2026-09-12
 tags:
   - news-radar
   - weekly-review
@@ -22,8 +22,8 @@ tags:
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
-> **rank**：#1
-> **reason**：rank #1; cross-source x3; source weight: Google News; hot terms: ai, ai, markets
+> **rank**：#3
+> **reason**：rank #3; cross-source x4; source weight: Google News; hot terms: ai, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：The turbulent AI era is here. The choices we make now are critical. Gates Notes
 >
@@ -32,17 +32,51 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 95** | Bessent says 19 finance ministers agreed 'cheap exports' are unsustainable, but China dissented - SFGATE
-> **标题**：Bessent says 19 finance ministers agreed 'cheap exports' are unsustainable, but China dissented - SFGATE
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMimwFBVV95cUxPS2YxOVpMTmcwYWRBZTd6aEZUM3BkUk9aUC1RdUNPaE9lT1NaVE5iUGthYTJKNVNhVUVaQldCaER4MkxyU3YzeVFBTEdFRm01ZmR3cVBERmxmZ0tCcFplcEdjbmM5OXF1WFlnOTJpb1ozX1YyZ1RybnJrTExMX3h1di1mazNxSVE3WGJGZ1FsSkx5aDFRYVJiWUhMWQ?oc=5)
+> [!info]+ **今日必须看 / 96** | پیش‌بینی بانک آمریکا از افزایش ۳ مرحله‌ای نرخ بهره فدرال رزرو
+> **标题**：پیش‌بینی بانک آمریکا از افزایش ۳ مرحله‌ای نرخ بهره فدرال رزرو
+> **原文链接**：🔗 [打开原文](https://banker.ir/%D9%BE%DB%8C%D8%B4%D8%A8%DB%8C%D9%86%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%B3-%D9%85%D8%B1%D8%AD%D9%84/)
+> **source**：GDELT / banker.ir
+> **kind**：`news`
+> **region**：国际
+> **category**：财经
+> **rank**：#1
+> **reason**：rank #1; cross-source x4; source weight: GDELT
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：20260623T080000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 93** | Detecting and countering misuse of AI: September 2026 - Anthropic
+> **标题**：Detecting and countering misuse of AI: September 2026 - Anthropic
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, us, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Detecting and countering misuse of AI: September 2026 Anthropic
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 93** | Albania Signs New Foreign Military Financing Direct Loan Agreement with the United States - dsca.mil
+> **标题**：Albania Signs New Foreign Military Financing Direct Loan Agreement with the United States - dsca.mil
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaUhHT0ViZHVydnJlNFdGbkI3UkFGaUZuR2dNbVpfZS1ZU29DeWZEY2tCbldfUk5USDE3elVfdW90clhJeVZWQlJSS1FMS3hiUl9od05xTXRmSmFyaF9oM0trODRnRjh1dEtUVWlNS1IzaTdZLWl1TzRiME5reXBVTS1XbEV2NEozS1djLUhaVmstYmxzdmFvWmgwLXR6SGVxSVJPVl9qak00cEh2cklTdW5teUxGcmFNaGt2cXZiQkNGMlFuZDZEeUhsVzY4WHVhMVdZZXIza1laS0ZE?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：综合
-> **rank**：#7
-> **reason**：rank #7; cross-source x3; source weight: Google News; hot terms: 美国, ai, china, us
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, united states, us
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Bessent says 19 finance ministers agreed 'cheap exports' are unsustainable, but China dissented SFGATE
+> **summary**：Albania Signs New Foreign Military Financing Direct Loan Agreement with the United States dsca.mil
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -66,23 +100,6 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 91** | China’s Expanding Military Reach in Africa: From Exercises to Expeditionary Power - Africa Center for Strategic Studies
-> **标题**：China’s Expanding Military Reach in Africa: From Exercises to Expeditionary Power - Africa Center for Strategic Studies
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMicEFVX3lxTFBKVTZxbnpjTW84UEJia3FFNEJMbXdIUVZYTzlyMDZPSkluazFlbVVEc2FQblo5SHVSUm1CdmlsZGpxMkxKVTB0VTF5a2VUX1FUaEJWWjdiRTNkRlZNS1JUMHV3bTdRdExEbGtnZm91VHk?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: 美国, china, us, military
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China’s Expanding Military Reach in Africa: From Exercises to Expeditionary Power Africa Center for Strategic Studies
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
 > [!info]+ **今日必须看 / 91** | Danny Boyle Confirms Use Of AI In New Movie ‘Ink’ - Deadline
 > **标题**：Danny Boyle Confirms Use Of AI In New Movie ‘Ink’ - Deadline
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMikgFBVV95cUxPMjlpU2hTX2R2elNWZmIyYUlIam5ScXlDejk4YUlqV1NVbnJhTkF4b2h0RUFwcnVoLW00bHMzMHNNa1RqOEIwV0daMkxITnQ4VkZQbzNtRFJzSElrRGlybHZPVGZocEdUYlNGRDAxbmQ2NW9xb1lza2Q3cXcyYmxtZkh4a1FpZFVFa0o3LUpOeHlqUQ?oc=5)
@@ -94,6 +111,23 @@ tags:
 > **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：Danny Boyle Confirms Use Of AI In New Movie ‘Ink’ Deadline
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 91** | Dangerous Partners: The Russia-China Military Embrace - Center for European Policy Analysis (CEPA)
+> **标题**：Dangerous Partners: The Russia-China Military Embrace - Center for European Policy Analysis (CEPA)
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihAFBVV95cUxQS29Xa3d2TkNfM3RHWTFtRkE0REwydG5FNHkwNFduTEg1VXZsdUdzQWNXbTdENDUtRERtekp3Xzk4THdJR3M1SXNKX3dpZmNpai1McmlKOGxqVkJKUlNUUWJQMVZ0T3JtM0RITE9NTlRxTkIwcFRXNlVRZUl6bVRGWnV5M1Q?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: 美国, china, us, military
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Dangerous Partners: The Russia-China Military Embrace Center for European Policy Analysis (CEPA)
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -117,9 +151,9 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 89** | China derails consensus on communiqué after US-hosted G20 - Financial Times
-> **标题**：China derails consensus on communiqué after US-hosted G20 - Financial Times
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihAFBVV95cUxPc0hRTUtBWjVacXN5NWo0ODNBY3QxUlZUX3lkZnYzbVFvblp6WFFORzIwR3Y2eXBnNk9uZS1QZEtobFJjR2U4WDduZk8yNDZFVlRBSEthaXUxMWF6bTlteEdTeWxFZGxYM01LSld3WmVtc1g0bmhDYUN3eV8yNl95MjFCemQ?oc=5)
+> [!info]+ **今日必须看 / 89** | Japan’s AI satellites and other space ambitions ‘a serious threat’, China warns - South China Morning Post
+> **标题**：Japan’s AI satellites and other space ambitions ‘a serious threat’, China warns - South China Morning Post
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiygFBVV95cUxOT0VJWkhHYUNGb253UGFtRHV4V2w3YXdGOWd4ZW4zZl9qM1UyRXI2bTloR0JNdEZVMl9idFdjM2c4bHhBTXRPdmNrY3BjRWl5SWRWa2o2TU9VNjcxVkVCN0gyNDBoenZxOU5tU0VJaDdydHQ1OExEX2llVmp0WUVxeWNSYjlPUHhJSy15YjRwbEFZQVl0YmRDZmJ4Mnc0aEdCSF94SUNSNEdVY3M4VWpZd0tOcHNidjlael82WVR5Uk10S3c4ZElEYjlB0gHKAUFVX3lxTE1jZzFtRW9pS0ktaHZYQWNHZzUtQVVONU1FS1djTGFyNzJQaUp1MnZGVlZ2YW1wSC1vdkN5bnNQb1hTZlNXcFJSckk0NWZLZlhDY0JOWnBLVWdXNHdKZ3JWZlFpXzZwQTM3S0hHNUh3eW9DZDBlWWJ2MkFTRzFNby12Y3EwcFRkNzdfRHJaWmw0R3Z5SjZSaC05WXhJMWlwVEhYbElpd0xqVnRiRW9EQXAzMXFTRWlpdDVlSzFoZXh0U01JdUcyTXNUV3c?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
@@ -127,24 +161,7 @@ tags:
 > **rank**：#3
 > **reason**：rank #3; source weight: Google News; hot terms: 美国, ai, china, us
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China derails consensus on communiqué after US-hosted G20 Financial Times
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 89** | China dissents as Bessent says 19 finance ministers agree to address 'cheap exports' - PBS
-> **标题**：China dissents as Bessent says 19 finance ministers agree to address 'cheap exports' - PBS
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcC1jbjZTNGM4eTM3RTJDSmptWnh6cE5nVEJfUnZ4ZWpnYzJ1YnE3NDBIT09CWU01d1VyaTNjZUpqYW5TMVpmbG5GcllUZnJhSEJtbjJ3NTUzNlhjWEViLWxfdnpQYUQ4R3BhdURhTGx2YTZIUFRZcnU1d010N3huR2kxSGNIRDV3dmVCNGVKbWVQbWszMUZSMmNQME5zb19KREtxZHhZcHBmUm9LSTZodl84WU5mRkZsMzVv0gHAAUFVX3lxTE9ZWDhQUWJCM2ZaVklXV19kQURvOE45dG5OZTQ4RWEyeHdXUjBDd3NrZDNRaVl3Y09yMDh1ZWt2U1c3dUs1M21iX0QwSFBQTjhtUHBDalNVV1pkazRvVG5Xdm5lRkY5MVp1VnF3dkZDOEVYbFNLSU1IeVZWSTJnWlN1WlhsUzBWbzJCNnJ2SGk5bGppN0lPeG5IeHE4WmNFc1hINDYyVXM4NWdBcFhWREFBaEtQSTNBQ1J4YXhlVFhGRA?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China dissents as Bessent says 19 finance ministers agree to address 'cheap exports' PBS
+> **summary**：Japan’s AI satellites and other space ambitions ‘a serious threat’, China warns South China Morning Post
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -168,26 +185,26 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 89** | Judge rebukes HHS over AI use in cutting teen pregnancy prevention grants - The Washington Post
-> **标题**：Judge rebukes HHS over AI use in cutting teen pregnancy prevention grants - The Washington Post
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxQZFlBR2lIQkRoR2FlVjNvYTFCbW1IS0xsbUQ3SU9FSTh4aXMtSVlXanUydkNGZHBBenl0YTVQWXIzSm1OeVdsb3NWdGV0SlhfcTVfQ0taN2EzN015dnQxR0RrT3poUllHT2MxYjJpcUppemJndFdBbml6YmtwRHh6bTZPQTlYYkNTUFhzTHh6Q3ZCa1BVM2t6cXBuQ2ZxcVBVcnI2MjlldXhCNU90NUwzRjJMOUhWelhUbkJLVw?oc=5)
-> **source**：Google News / Global Markets Tech
+> [!info]+ **今日必须看 / 87** | U.S. Military servicemember becomes citizen: 'I want to enjoy America' - WSTM
+> **标题**：U.S. Military servicemember becomes citizen: 'I want to enjoy America' - WSTM
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVmJ4VGZGT2FmYmpPeHV0RE1ORUpfREE5WmwxSWQtYzNaN293MmZURVVaN1Y2MUFNcl9KWS1QYXB3cmlTaDU4bnNHaXVwNUhJNkhIZHAzVFkxbWl6MXVXcmYzLVdiYUtOd2VTSEJyUU9sV3pEb1I3c2ppQXp4MnpoSU1BUDFyXzlsNW1XV1VSUWw5Z2pTU01UaE1YTEJ1SUVPUkxERVlpRXJHT2g3d1dnSDNGMjRra25Ldms4UGN2cUFQRDBJTmJLRnpwUXJ3X0tZNlJETWRPemVsOEtSV0VhMWV6MGU3N3cxaFN1Z1cxY3puUHhja2x1T0N1ZEY?oc=5)
+> **source**：Google News / China US Hot News
 > **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#3
-> **reason**：rank #3; source weight: Google News; hot terms: ai, us, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Judge rebukes HHS over AI use in cutting teen pregnancy prevention grants The Washington Post
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#4
+> **reason**：rank #4; source weight: Google News; hot terms: 美国, china, us, military
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：U.S. Military servicemember becomes citizen: 'I want to enjoy America' WSTM
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 87** | OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability - CNBC
-> **标题**：OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability - CNBC
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMib0FVX3lxTE9tRnVRNXpxZ0NmUjZibXQ2Y183dWI5dHlJcWhETElkdDB4cjhIUFNUaVlHYzlBZFRtMkhXcEM1aXdWeTZ5Z2xRbDh6YmlNN3h0N2VjenJILW5Ydm95aUliY0NEVkxSUldQWHBLVGUzVdIBdEFVX3lxTE92bmN2a3h0MGVUWGQ2SFZ3clE5emhJTGMxT3NpU0NFMWZGSVJaTXVidHI4YnIwZUNnQ2J1aDNNcFpUSkZybjczQ3VwN09zTGJYdU5LLWFBcGU3UEVrVjZGNzFTQm94S2liRUN1Q081SG1peVRo?oc=5)
+> [!info]+ **今日必须看 / 87** | Making sovereign, open-weight AI the technology frontier - mistral.ai
+> **标题**：Making sovereign, open-weight AI the technology frontier - mistral.ai
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
@@ -195,24 +212,7 @@ tags:
 > **rank**：#2
 > **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability CNBC
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 87** | Pentagon official overseeing military AI sold millions worth of stock in AI firm - The Guardian
-> **标题**：Pentagon official overseeing military AI sold millions worth of stock in AI firm - The Guardian
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMikAFBVV95cUxPb1FuRGFTMWxic0tscVRrOEc3NmdsX19JTDdLVHFwcHR3WnhYTnRaTUFkY005b0xEUVFQQW5RcnNGT2ZXamdKUVBDU1BQcm0yOGFWS2ZoTi1tQU8wRGVhV3lmd21KUWtIcy1nUlFuSDI2MXdJaWxvd2RsRFhUZTJPZTRHREliZnJlaDVBZk9MSmw?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: ai, military, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Pentagon official overseeing military AI sold millions worth of stock in AI firm The Guardian
+> **summary**：Making sovereign, open-weight AI the technology frontier mistral.ai
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -253,17 +253,17 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 83** | Amwell Receives Frost & Sullivan's 2026 United States Technology Innovation Leadership Recognition for Technology-Enabled Care Platforms - macaubusiness.com
-> **标题**：Amwell Receives Frost & Sullivan's 2026 United States Technology Innovation Leadership Recognition for Technology-Enabled Care Platforms - macaubusiness.com
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcFRFSXV0WkwxbjFoMnhRQmdycUU1UFpKU25iME5seWZ0WVdxUGhRMGh5Z3pJYTZ5UXNJbzFSM0lmNWRJVlQ4SjZkUnc4VmJGMHR2OUxLTEtxWGo5VUZPLWFrSTJhelJ3emVxd21DYVZNeGJJcGQwaVRwQ1dLd3F6NEtnZENZQVJMOUF4WFYyZzctaUZnbDRGQTI5MzMtNk41Z0lCd2RsVm1Vb2pGVi1DWXJsbmpJMXpkZk16LUlRcWRLanNGd3ZwX04yX2xPRGNjREZCUENNTlJ5enF3TFdjaWk3dTNiNjNES3pSMUlualFBZw?oc=5)
-> **source**：Google News / China US Hot News
+> [!info]+ **今日必须看 / 83** | AI Is Developing a Culture of Its Own. That Could Be Dangerous - Time Magazine
+> **标题**：AI Is Developing a Culture of Its Own. That Could Be Dangerous - Time Magazine
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzVRRjZmUmtoRHNwUDd4Mld2dFhqc2JFYnU1RUVPTzdNTVdlUHhtblpvYnc4SGJnYk5RNXlpeGxYV0UteFIyNy1pUjlGbzVNUWZjaFlNM3pNcVp1UTFsNnMyLUJwVU9fM0RESndDMURfZ3lWU3l2eGRkWEFVdHFUdVRSanU?oc=5)
+> **source**：Google News / Global Markets Tech
 > **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
+> **region**：国际
+> **category**：财经/科技
 > **rank**：#6
-> **reason**：rank #6; source weight: Google News; hot terms: 美国, china, united states, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Amwell Receives Frost & Sullivan's 2026 United States Technology Innovation Leadership Recognition for Technology-Enabled Care Platforms macaubusiness.com
+> **reason**：rank #6; source weight: Google News; hot terms: ai, us, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：AI Is Developing a Culture of Its Own. That Could Be Dangerous Time Magazine
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -279,8 +279,8 @@ tags:
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
-> **rank**：#1
-> **reason**：rank #1; cross-source x3; source weight: Google News; hot terms: ai, ai, markets
+> **rank**：#3
+> **reason**：rank #3; cross-source x4; source weight: Google News; hot terms: ai, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：The turbulent AI era is here. The choices we make now are critical. Gates Notes
 >
@@ -289,17 +289,102 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 95** | Bessent says 19 finance ministers agreed 'cheap exports' are unsustainable, but China dissented - SFGATE
-> **标题**：Bessent says 19 finance ministers agreed 'cheap exports' are unsustainable, but China dissented - SFGATE
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMimwFBVV95cUxPS2YxOVpMTmcwYWRBZTd6aEZUM3BkUk9aUC1RdUNPaE9lT1NaVE5iUGthYTJKNVNhVUVaQldCaER4MkxyU3YzeVFBTEdFRm01ZmR3cVBERmxmZ0tCcFplcEdjbmM5OXF1WFlnOTJpb1ozX1YyZ1RybnJrTExMX3h1di1mazNxSVE3WGJGZ1FsSkx5aDFRYVJiWUhMWQ?oc=5)
-> **source**：Google News / China US Hot News
+> [!info]+ **今日必须看 / 96** | پیش‌بینی بانک آمریکا از افزایش ۳ مرحله‌ای نرخ بهره فدرال رزرو
+> **标题**：پیش‌بینی بانک آمریکا از افزایش ۳ مرحله‌ای نرخ بهره فدرال رزرو
+> **原文链接**：🔗 [打开原文](https://banker.ir/%D9%BE%DB%8C%D8%B4%D8%A8%DB%8C%D9%86%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%B3-%D9%85%D8%B1%D8%AD%D9%84/)
+> **source**：GDELT / banker.ir
 > **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#7
-> **reason**：rank #7; cross-source x3; source weight: Google News; hot terms: 美国, ai, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Bessent says 19 finance ministers agreed 'cheap exports' are unsustainable, but China dissented SFGATE
+> **region**：国际
+> **category**：财经
+> **rank**：#1
+> **reason**：rank #1; cross-source x4; source weight: GDELT
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：20260623T080000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 82** | « بنك أوف أمريكا » يتوقع ثلاث زيادات للفائدة الأمريكية فى 2026
+> **标题**：« بنك أوف أمريكا » يتوقع ثلاث زيادات للفائدة الأمريكية فى 2026
+> **原文链接**：🔗 [打开原文](https://www.almasryalyoum.com/news/details/4299987)
+> **source**：GDELT / almasryalyoum.com
+> **kind**：`news`
+> **region**：国际
+> **category**：财经
+> **rank**：#8
+> **reason**：rank #8; cross-source x4; source weight: GDELT
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：20260623T174500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 81** | 같은 동결 , 다른 해석이번 FOMC가 비둘기로 읽힌 이유
+> **标题**：같은 동결 , 다른 해석이번 FOMC가 비둘기로 읽힌 이유
+> **原文链接**：🔗 [打开原文](https://www.fnnews.com/news/202607301043368140)
+> **source**：GDELT / fnnews.com
+> **kind**：`news`
+> **region**：国际
+> **category**：财经
+> **rank**：#3
+> **reason**：rank #3; cross-source x2; source weight: GDELT
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：20260730T030000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 77** | تثبيت الفائدة يشعل الأسواق .. هل يواجه كيفين وارش أول اختبار لمصداقيته ؟
+> **标题**：تثبيت الفائدة يشعل الأسواق .. هل يواجه كيفين وارش أول اختبار لمصداقيته ؟
+> **原文链接**：🔗 [打开原文](https://www.aljazeera.net/ebusiness/2026/7/31/%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%AF%D8%A9-%D9%8A%D8%B4%D8%B9%D9%84-%D8%A7%D9%84%D8%A3%D8%B3%D9%88%D8%A7%D9%82-%D9%87%D9%84-%D9%8A%D9%88%D8%A7%D8%AC%D9%87)
+> **source**：GDELT / aljazeera.net
+> **kind**：`news`
+> **region**：国际
+> **category**：财经
+> **rank**：#5
+> **reason**：rank #5; cross-source x2; source weight: GDELT
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：20260730T221500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 76** | 美 경제 마에스트로 그린스펀 … 비이성적 과열 경고 남기고 퇴장 [ 종합 ]
+> **标题**：美 경제 마에스트로 그린스펀 … 비이성적 과열 경고 남기고 퇴장 [ 종합 ]
+> **原文链接**：🔗 [打开原文](https://www.etoday.co.kr/news/view/2596268)
+> **source**：GDELT / etoday.co.kr
+> **kind**：`news`
+> **region**：国际
+> **category**：财经
+> **rank**：#11
+> **reason**：rank #11; cross-source x5; source weight: GDELT
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：20260623T014500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 69** | 한은 美 연준 통화정책 · 인플레이션 불확실성 커져
+> **标题**：한은 美 연준 통화정책 · 인플레이션 불확실성 커져
+> **原文链接**：🔗 [打开原文](https://www.fnnews.com/news/202607300903040652)
+> **source**：GDELT / fnnews.com
+> **kind**：`news`
+> **region**：国际
+> **category**：财经
+> **rank**：#9
+> **reason**：rank #9; cross-source x2; source weight: GDELT
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：20260730T013000Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -319,8 +404,8 @@ tags:
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
-> **rank**：#1
-> **reason**：rank #1; cross-source x3; source weight: Google News; hot terms: ai, ai, markets
+> **rank**：#3
+> **reason**：rank #3; cross-source x4; source weight: Google News; hot terms: ai, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：The turbulent AI era is here. The choices we make now are critical. Gates Notes
 >
@@ -329,17 +414,51 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 95** | Bessent says 19 finance ministers agreed 'cheap exports' are unsustainable, but China dissented - SFGATE
-> **标题**：Bessent says 19 finance ministers agreed 'cheap exports' are unsustainable, but China dissented - SFGATE
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMimwFBVV95cUxPS2YxOVpMTmcwYWRBZTd6aEZUM3BkUk9aUC1RdUNPaE9lT1NaVE5iUGthYTJKNVNhVUVaQldCaER4MkxyU3YzeVFBTEdFRm01ZmR3cVBERmxmZ0tCcFplcEdjbmM5OXF1WFlnOTJpb1ozX1YyZ1RybnJrTExMX3h1di1mazNxSVE3WGJGZ1FsSkx5aDFRYVJiWUhMWQ?oc=5)
+> [!info]+ **今日必须看 / 96** | پیش‌بینی بانک آمریکا از افزایش ۳ مرحله‌ای نرخ بهره فدرال رزرو
+> **标题**：پیش‌بینی بانک آمریکا از افزایش ۳ مرحله‌ای نرخ بهره فدرال رزرو
+> **原文链接**：🔗 [打开原文](https://banker.ir/%D9%BE%DB%8C%D8%B4%D8%A8%DB%8C%D9%86%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%B3-%D9%85%D8%B1%D8%AD%D9%84/)
+> **source**：GDELT / banker.ir
+> **kind**：`news`
+> **region**：国际
+> **category**：财经
+> **rank**：#1
+> **reason**：rank #1; cross-source x4; source weight: GDELT
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：20260623T080000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 93** | Detecting and countering misuse of AI: September 2026 - Anthropic
+> **标题**：Detecting and countering misuse of AI: September 2026 - Anthropic
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, us, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Detecting and countering misuse of AI: September 2026 Anthropic
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 93** | Albania Signs New Foreign Military Financing Direct Loan Agreement with the United States - dsca.mil
+> **标题**：Albania Signs New Foreign Military Financing Direct Loan Agreement with the United States - dsca.mil
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaUhHT0ViZHVydnJlNFdGbkI3UkFGaUZuR2dNbVpfZS1ZU29DeWZEY2tCbldfUk5USDE3elVfdW90clhJeVZWQlJSS1FMS3hiUl9od05xTXRmSmFyaF9oM0trODRnRjh1dEtUVWlNS1IzaTdZLWl1TzRiME5reXBVTS1XbEV2NEozS1djLUhaVmstYmxzdmFvWmgwLXR6SGVxSVJPVl9qak00cEh2cklTdW5teUxGcmFNaGt2cXZiQkNGMlFuZDZEeUhsVzY4WHVhMVdZZXIza1laS0ZE?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
 > **category**：综合
-> **rank**：#7
-> **reason**：rank #7; cross-source x3; source weight: Google News; hot terms: 美国, ai, china, us
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, united states, us
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Bessent says 19 finance ministers agreed 'cheap exports' are unsustainable, but China dissented SFGATE
+> **summary**：Albania Signs New Foreign Military Financing Direct Loan Agreement with the United States dsca.mil
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -363,23 +482,6 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 91** | China’s Expanding Military Reach in Africa: From Exercises to Expeditionary Power - Africa Center for Strategic Studies
-> **标题**：China’s Expanding Military Reach in Africa: From Exercises to Expeditionary Power - Africa Center for Strategic Studies
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMicEFVX3lxTFBKVTZxbnpjTW84UEJia3FFNEJMbXdIUVZYTzlyMDZPSkluazFlbVVEc2FQblo5SHVSUm1CdmlsZGpxMkxKVTB0VTF5a2VUX1FUaEJWWjdiRTNkRlZNS1JUMHV3bTdRdExEbGtnZm91VHk?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: 美国, china, us, military
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China’s Expanding Military Reach in Africa: From Exercises to Expeditionary Power Africa Center for Strategic Studies
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
 > [!info]+ **今日必须看 / 91** | Danny Boyle Confirms Use Of AI In New Movie ‘Ink’ - Deadline
 > **标题**：Danny Boyle Confirms Use Of AI In New Movie ‘Ink’ - Deadline
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMikgFBVV95cUxPMjlpU2hTX2R2elNWZmIyYUlIam5ScXlDejk4YUlqV1NVbnJhTkF4b2h0RUFwcnVoLW00bHMzMHNNa1RqOEIwV0daMkxITnQ4VkZQbzNtRFJzSElrRGlybHZPVGZocEdUYlNGRDAxbmQ2NW9xb1lza2Q3cXcyYmxtZkh4a1FpZFVFa0o3LUpOeHlqUQ?oc=5)
@@ -391,6 +493,23 @@ tags:
 > **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：Danny Boyle Confirms Use Of AI In New Movie ‘Ink’ Deadline
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 91** | Dangerous Partners: The Russia-China Military Embrace - Center for European Policy Analysis (CEPA)
+> **标题**：Dangerous Partners: The Russia-China Military Embrace - Center for European Policy Analysis (CEPA)
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihAFBVV95cUxQS29Xa3d2TkNfM3RHWTFtRkE0REwydG5FNHkwNFduTEg1VXZsdUdzQWNXbTdENDUtRERtekp3Xzk4THdJR3M1SXNKX3dpZmNpai1McmlKOGxqVkJKUlNUUWJQMVZ0T3JtM0RITE9NTlRxTkIwcFRXNlVRZUl6bVRGWnV5M1Q?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: 美国, china, us, military
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Dangerous Partners: The Russia-China Military Embrace Center for European Policy Analysis (CEPA)
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -414,9 +533,9 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 89** | China derails consensus on communiqué after US-hosted G20 - Financial Times
-> **标题**：China derails consensus on communiqué after US-hosted G20 - Financial Times
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihAFBVV95cUxPc0hRTUtBWjVacXN5NWo0ODNBY3QxUlZUX3lkZnYzbVFvblp6WFFORzIwR3Y2eXBnNk9uZS1QZEtobFJjR2U4WDduZk8yNDZFVlRBSEthaXUxMWF6bTlteEdTeWxFZGxYM01LSld3WmVtc1g0bmhDYUN3eV8yNl95MjFCemQ?oc=5)
+> [!info]+ **今日必须看 / 89** | Japan’s AI satellites and other space ambitions ‘a serious threat’, China warns - South China Morning Post
+> **标题**：Japan’s AI satellites and other space ambitions ‘a serious threat’, China warns - South China Morning Post
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiygFBVV95cUxOT0VJWkhHYUNGb253UGFtRHV4V2w3YXdGOWd4ZW4zZl9qM1UyRXI2bTloR0JNdEZVMl9idFdjM2c4bHhBTXRPdmNrY3BjRWl5SWRWa2o2TU9VNjcxVkVCN0gyNDBoenZxOU5tU0VJaDdydHQ1OExEX2llVmp0WUVxeWNSYjlPUHhJSy15YjRwbEFZQVl0YmRDZmJ4Mnc0aEdCSF94SUNSNEdVY3M4VWpZd0tOcHNidjlael82WVR5Uk10S3c4ZElEYjlB0gHKAUFVX3lxTE1jZzFtRW9pS0ktaHZYQWNHZzUtQVVONU1FS1djTGFyNzJQaUp1MnZGVlZ2YW1wSC1vdkN5bnNQb1hTZlNXcFJSckk0NWZLZlhDY0JOWnBLVWdXNHdKZ3JWZlFpXzZwQTM3S0hHNUh3eW9DZDBlWWJ2MkFTRzFNby12Y3EwcFRkNzdfRHJaWmw0R3Z5SjZSaC05WXhJMWlwVEhYbElpd0xqVnRiRW9EQXAzMXFTRWlpdDVlSzFoZXh0U01JdUcyTXNUV3c?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
@@ -424,24 +543,7 @@ tags:
 > **rank**：#3
 > **reason**：rank #3; source weight: Google News; hot terms: 美国, ai, china, us
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China derails consensus on communiqué after US-hosted G20 Financial Times
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 89** | China dissents as Bessent says 19 finance ministers agree to address 'cheap exports' - PBS
-> **标题**：China dissents as Bessent says 19 finance ministers agree to address 'cheap exports' - PBS
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcC1jbjZTNGM4eTM3RTJDSmptWnh6cE5nVEJfUnZ4ZWpnYzJ1YnE3NDBIT09CWU01d1VyaTNjZUpqYW5TMVpmbG5GcllUZnJhSEJtbjJ3NTUzNlhjWEViLWxfdnpQYUQ4R3BhdURhTGx2YTZIUFRZcnU1d010N3huR2kxSGNIRDV3dmVCNGVKbWVQbWszMUZSMmNQME5zb19KREtxZHhZcHBmUm9LSTZodl84WU5mRkZsMzVv0gHAAUFVX3lxTE9ZWDhQUWJCM2ZaVklXV19kQURvOE45dG5OZTQ4RWEyeHdXUjBDd3NrZDNRaVl3Y09yMDh1ZWt2U1c3dUs1M21iX0QwSFBQTjhtUHBDalNVV1pkazRvVG5Xdm5lRkY5MVp1VnF3dkZDOEVYbFNLSU1IeVZWSTJnWlN1WlhsUzBWbzJCNnJ2SGk5bGppN0lPeG5IeHE4WmNFc1hINDYyVXM4NWdBcFhWREFBaEtQSTNBQ1J4YXhlVFhGRA?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China dissents as Bessent says 19 finance ministers agree to address 'cheap exports' PBS
+> **summary**：Japan’s AI satellites and other space ambitions ‘a serious threat’, China warns South China Morning Post
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -465,23 +567,6 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 89** | Judge rebukes HHS over AI use in cutting teen pregnancy prevention grants - The Washington Post
-> **标题**：Judge rebukes HHS over AI use in cutting teen pregnancy prevention grants - The Washington Post
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxQZFlBR2lIQkRoR2FlVjNvYTFCbW1IS0xsbUQ3SU9FSTh4aXMtSVlXanUydkNGZHBBenl0YTVQWXIzSm1OeVdsb3NWdGV0SlhfcTVfQ0taN2EzN015dnQxR0RrT3poUllHT2MxYjJpcUppemJndFdBbml6YmtwRHh6bTZPQTlYYkNTUFhzTHh6Q3ZCa1BVM2t6cXBuQ2ZxcVBVcnI2MjlldXhCNU90NUwzRjJMOUhWelhUbkJLVw?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#3
-> **reason**：rank #3; source weight: Google News; hot terms: ai, us, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Judge rebukes HHS over AI use in cutting teen pregnancy prevention grants The Washington Post
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
 ## 财经科技观察
 
 > [!info]+ **今日必须看 / 100** | The turbulent AI era is here. The choices we make now are critical. - Gates Notes
@@ -491,10 +576,44 @@ tags:
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
-> **rank**：#1
-> **reason**：rank #1; cross-source x3; source weight: Google News; hot terms: ai, ai, markets
+> **rank**：#3
+> **reason**：rank #3; cross-source x4; source weight: Google News; hot terms: ai, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：The turbulent AI era is here. The choices we make now are critical. Gates Notes
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 96** | پیش‌بینی بانک آمریکا از افزایش ۳ مرحله‌ای نرخ بهره فدرال رزرو
+> **标题**：پیش‌بینی بانک آمریکا از افزایش ۳ مرحله‌ای نرخ بهره فدرال رزرو
+> **原文链接**：🔗 [打开原文](https://banker.ir/%D9%BE%DB%8C%D8%B4%D8%A8%DB%8C%D9%86%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%B3-%D9%85%D8%B1%D8%AD%D9%84/)
+> **source**：GDELT / banker.ir
+> **kind**：`news`
+> **region**：国际
+> **category**：财经
+> **rank**：#1
+> **reason**：rank #1; cross-source x4; source weight: GDELT
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：20260623T080000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 93** | Detecting and countering misuse of AI: September 2026 - Anthropic
+> **标题**：Detecting and countering misuse of AI: September 2026 - Anthropic
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, us, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Detecting and countering misuse of AI: September 2026 Anthropic
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -518,26 +637,9 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 89** | Judge rebukes HHS over AI use in cutting teen pregnancy prevention grants - The Washington Post
-> **标题**：Judge rebukes HHS over AI use in cutting teen pregnancy prevention grants - The Washington Post
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxQZFlBR2lIQkRoR2FlVjNvYTFCbW1IS0xsbUQ3SU9FSTh4aXMtSVlXanUydkNGZHBBenl0YTVQWXIzSm1OeVdsb3NWdGV0SlhfcTVfQ0taN2EzN015dnQxR0RrT3poUllHT2MxYjJpcUppemJndFdBbml6YmtwRHh6bTZPQTlYYkNTUFhzTHh6Q3ZCa1BVM2t6cXBuQ2ZxcVBVcnI2MjlldXhCNU90NUwzRjJMOUhWelhUbkJLVw?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#3
-> **reason**：rank #3; source weight: Google News; hot terms: ai, us, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Judge rebukes HHS over AI use in cutting teen pregnancy prevention grants The Washington Post
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 87** | OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability - CNBC
-> **标题**：OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability - CNBC
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMib0FVX3lxTE9tRnVRNXpxZ0NmUjZibXQ2Y183dWI5dHlJcWhETElkdDB4cjhIUFNUaVlHYzlBZFRtMkhXcEM1aXdWeTZ5Z2xRbDh6YmlNN3h0N2VjenJILW5Ydm95aUliY0NEVkxSUldQWHBLVGUzVdIBdEFVX3lxTE92bmN2a3h0MGVUWGQ2SFZ3clE5emhJTGMxT3NpU0NFMWZGSVJaTXVidHI4YnIwZUNnQ2J1aDNNcFpUSkZybjczQ3VwN09zTGJYdU5LLWFBcGU3UEVrVjZGNzFTQm94S2liRUN1Q081SG1peVRo?oc=5)
+> [!info]+ **今日必须看 / 87** | Making sovereign, open-weight AI the technology frontier - mistral.ai
+> **标题**：Making sovereign, open-weight AI the technology frontier - mistral.ai
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
@@ -545,24 +647,7 @@ tags:
 > **rank**：#2
 > **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability CNBC
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 87** | Pentagon official overseeing military AI sold millions worth of stock in AI firm - The Guardian
-> **标题**：Pentagon official overseeing military AI sold millions worth of stock in AI firm - The Guardian
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMikAFBVV95cUxPb1FuRGFTMWxic0tscVRrOEc3NmdsX19JTDdLVHFwcHR3WnhYTnRaTUFkY005b0xEUVFQQW5RcnNGT2ZXamdKUVBDU1BQcm0yOGFWS2ZoTi1tQU8wRGVhV3lmd21KUWtIcy1nUlFuSDI2MXdJaWxvd2RsRFhUZTJPZTRHREliZnJlaDVBZk9MSmw?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: ai, military, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Pentagon official overseeing military AI sold millions worth of stock in AI firm The Guardian
+> **summary**：Making sovereign, open-weight AI the technology frontier mistral.ai
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -586,6 +671,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 83** | AI Is Developing a Culture of Its Own. That Could Be Dangerous - Time Magazine
+> **标题**：AI Is Developing a Culture of Its Own. That Could Be Dangerous - Time Magazine
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzVRRjZmUmtoRHNwUDd4Mld2dFhqc2JFYnU1RUVPTzdNTVdlUHhtblpvYnc4SGJnYk5RNXlpeGxYV0UteFIyNy1pUjlGbzVNUWZjaFlNM3pNcVp1UTFsNnMyLUJwVU9fM0RESndDMURfZ3lWU3l2eGRkWEFVdHFUdVRSanU?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#6
+> **reason**：rank #6; source weight: Google News; hot terms: ai, us, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：AI Is Developing a Culture of Its Own. That Could Be Dangerous Time Magazine
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 83** | Why I Want More AI at Dartmouth - The Atlantic
 > **标题**：Why I Want More AI at Dartmouth - The Atlantic
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMikAFBVV95cUxON2E3S0ZlS25qUHdTQjJ0dU1pUXNJamNKZHFwUnNUM01OYndQekZ2OXZ1X1A5RXVKYUNCZHBxU0JNOUR3V3ZMRFpPbG1UZ1NuTG12NnJ4ZWdYWWlrc3dCVHE0Z3BhTk1BRVl3MUpwU1ltNzFsUWtSNUw5TWdMWktwQ040QjdPMDAzUW9TUjZJYlc?oc=5)
@@ -603,51 +705,34 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 81** | OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior - Reuters
-> **标题**：OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior - Reuters
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5)
-> **source**：Google News / Global Markets Tech
+> [!info]+ **今日必须看 / 82** | « بنك أوف أمريكا » يتوقع ثلاث زيادات للفائدة الأمريكية فى 2026
+> **标题**：« بنك أوف أمريكا » يتوقع ثلاث زيادات للفائدة الأمريكية فى 2026
+> **原文链接**：🔗 [打开原文](https://www.almasryalyoum.com/news/details/4299987)
+> **source**：GDELT / almasryalyoum.com
 > **kind**：`news`
 > **region**：国际
-> **category**：财经/科技
-> **rank**：#5
-> **reason**：rank #5; source weight: Google News; hot terms: ai, ai, markets
+> **category**：财经
+> **rank**：#8
+> **reason**：rank #8; cross-source x4; source weight: GDELT
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior Reuters
+> **summary**：20260623T174500Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 79** | 'It can outthink me': How a major manufacturer came to embrace AI - NPR
-> **标题**：'It can outthink me': How a major manufacturer came to embrace AI - NPR
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQTBMV2RmYmE1dExFQmlOZ1VId1VGWWE1M0k1cnczdVpDa2Q5TmdfT2ZWajhCaEpGM29ZcFN2c1FkTDRRZ2ZQUTNKRVJiNkRKTzZxRlh6NllWOFF2RmxoQXhRcHNSYVZYaHpQUHZGTVQwc3BNMDlIWFE2OV8tM3N0bEIxUVM0Zw?oc=5)
-> **source**：Google News / Global Markets Tech
+> [!info]+ **今日必须看 / 81** | 같은 동결 , 다른 해석이번 FOMC가 비둘기로 읽힌 이유
+> **标题**：같은 동결 , 다른 해석이번 FOMC가 비둘기로 읽힌 이유
+> **原文链接**：🔗 [打开原文](https://www.fnnews.com/news/202607301043368140)
+> **source**：GDELT / fnnews.com
 > **kind**：`news`
 > **region**：国际
-> **category**：财经/科技
-> **rank**：#6
-> **reason**：rank #6; source weight: Google News; hot terms: ai, ai, markets
+> **category**：财经
+> **rank**：#3
+> **reason**：rank #3; cross-source x2; source weight: GDELT
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：'It can outthink me': How a major manufacturer came to embrace AI NPR
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **可延后 / 77** | Dolly Parton’s sister slams ‘fake AI garbage’ flooding the internet since icon’s death - NBC News
-> **标题**：Dolly Parton’s sister slams ‘fake AI garbage’ flooding the internet since icon’s death - NBC News
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1VWdFM2RXpITnpxMEVEd2VPZTRzcG9wRUtmekRUZjZGYlBocC1wQV9xRmpvN0lTRi1SWXlVeFVucnIydEdXVmdHTUdZS3BTd1JodW9feWFBN2NadWFCS2lGeFN3OHNjbXlla2Z5RklfRm5wQnVLMmVsNENjZ2dubGtNeXdOSjN1M05oNmR0THZRQVBZWUZQVzhqSGE5UDBQQUcxblBrSUEwUQ?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#7
-> **reason**：rank #7; source weight: Google News; hot terms: ai, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Dolly Parton’s sister slams ‘fake AI garbage’ flooding the internet since icon’s death NBC News
+> **summary**：20260730T030000Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库

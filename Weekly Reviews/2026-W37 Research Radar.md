@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W37
-date: 2026-09-10
+date: 2026-09-12
 tags:
   - weekly-review
   - research-radar
@@ -185,6 +185,19 @@ tags:
 
 ## 论文到代码观察
 
+> [!info]+ **可延后 / 58** | Anthropic 评估 AI 模型的战术情报定位与常规武器能力
+> **标题**：Anthropic 评估 AI 模型的战术情报定位与常规武器能力
+> **原文链接**：🔗 [打开原文](https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities)
+> **source**：AI HOT / Anthropic：Research（发表成果 · 网页）
+> **kind**：`paper`
+> **reason**：matches topics: anthropic
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **可延后 / 58** | OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺
 > **标题**：OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺
 > **原文链接**：🔗 [打开原文](https://x.com/OpenAI/status/2097375276384567642)
