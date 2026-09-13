@@ -4772,19 +4772,19 @@
     },
     "04040b52ce8a512d": {
       "category": "只归档",
-      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
       "first_seen": "2026-09-11T08:09:40.135116+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "04040b52ce8a512d",
       "kind": "failure",
-      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 2,
+      "seen_count": 4,
       "source": "System",
       "sources": [
         "System"
@@ -12048,6 +12048,35 @@
       ],
       "title": "Teaching Claude Why",
       "url": "https://www.anthropic.com/research/teaching-claude-why"
+    },
+    "09e50792b59fb917": {
+      "category": "可延后",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
+      "first_seen": "2026-09-13T08:09:50.032492+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "09e50792b59fb917",
+      "kind": "article",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
+      "news_category": "",
+      "published": "2026-09-12T02:39:39.000Z",
+      "rank": 0,
+      "reason": "matches topics: agent; high-value terms: agent",
+      "region": "",
+      "score": 61,
+      "seen_count": 2,
+      "source": "AI HOT / Hacker News：AI 热帖",
+      "sources": [
+        "AI HOT / Hacker News：AI 热帖"
+      ],
+      "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
+      "tags": [
+        "aihot",
+        "article",
+        "industry",
+        "selected"
+      ],
+      "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
+      "url": "https://www.minitap.ai/blog/i-expected-better-from-google"
     },
     "09f4aab6e6c4d925": {
       "category": "只归档",
@@ -19757,6 +19786,34 @@
       "title": "The Whitepaper Thunderdome: NeuSymMS vs. State Contamination",
       "url": "https://dev.to/vektor_memory_43f51a32376/the-whitepaper-thunderdome-neusymms-vs-state-contamination-5cb5"
     },
+    "0fbb1d9ba33058e7": {
+      "category": "只归档",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
+      "first_seen": "2026-09-13T08:10:51.978821+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "0fbb1d9ba33058e7",
+      "kind": "github_repo",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "baseline source relevance",
+      "region": "",
+      "score": 46,
+      "seen_count": 1,
+      "source": "GitHub Trending",
+      "sources": [
+        "GitHub Trending"
+      ],
+      "summary": "",
+      "tags": [
+        "github",
+        "trending",
+        "python"
+      ],
+      "title": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE"
+    },
     "0fbe971bc1d923d2": {
       "category": "只归档",
       "discovered_at": "2026-05-29T08:17:40.628714+08:00",
@@ -24283,19 +24340,19 @@
     },
     "12c305c221420d2e": {
       "category": "只归档",
-      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
       "first_seen": "2026-09-06T08:49:22.805054+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "12c305c221420d2e",
       "kind": "failure",
-      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 3,
+      "seen_count": 5,
       "source": "System",
       "sources": [
         "System"
@@ -27500,19 +27557,19 @@
     },
     "15564f09a4741fae": {
       "category": "只归档",
-      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
       "first_seen": "2026-07-22T08:58:41.592408+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "15564f09a4741fae",
       "kind": "failure",
-      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 3,
+      "seen_count": 5,
       "source": "System",
       "sources": [
         "System"
@@ -28400,26 +28457,26 @@
       "url": "https://github.com/bluejfox/feishu-obsidian-sync"
     },
     "16169d530ca6c4a0": {
-      "category": "今日必须看",
-      "discovered_at": "2026-09-09T08:38:53.434512+08:00",
+      "category": "只归档",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
       "first_seen": "2026-07-22T08:58:41.592408+08:00",
       "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
       "id": "16169d530ca6c4a0",
       "kind": "github_repo",
-      "last_seen": "2026-09-09T08:38:53.434512+08:00",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
       "news_category": "",
-      "published": "2026-09-08T14:13:26Z",
+      "published": "",
       "rank": 0,
-      "reason": "matches topics: agent, agents; high-value terms: agent, agents; strong public engagement",
+      "reason": "baseline source relevance",
       "region": "",
-      "score": 88,
-      "seen_count": 2,
+      "score": 46,
+      "seen_count": 3,
       "source": "GitHub Trending",
       "sources": [
         "GitHub Trending",
         "Hacker News"
       ],
-      "summary": "299 points | 238 comments",
+      "summary": "",
       "tags": [
         "agents",
         "all",
@@ -30200,6 +30257,34 @@
       "title": "Antirez - streaming the Kimi K3 official hugging face weights on M5 max 128gb",
       "url": "https://twitter.com/antirez/status/2082136334160818528"
     },
+    "17f9c1077b76606b": {
+      "category": "可延后",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
+      "first_seen": "2026-09-13T08:09:50.032492+08:00",
+      "follow_up": "阅读摘要和方法，判断是否需要建立永久论文笔记。",
+      "id": "17f9c1077b76606b",
+      "kind": "paper",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
+      "news_category": "",
+      "published": "2026-09-12T00:24:20.561Z",
+      "rank": 0,
+      "reason": "matches topics: openai",
+      "region": "",
+      "score": 58,
+      "seen_count": 2,
+      "source": "AI HOT / Hacker News 热门（buzzing.cc 中文翻译）",
+      "sources": [
+        "AI HOT / Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "summary": "作者团队分析认为 2026 年 5 月 11 日前后数百个由 OpenAI 智能体上传的恶意包攻击了 RubyGems，5 月 11 至 12 日智能体提交超过 2，000 个包，RubyGems 关闭新用户注册四天并移除 500 多个恶意包，安全公司称之为 GemStuffer campaign。",
+      "tags": [
+        "aihot",
+        "paper",
+        "selected"
+      ],
+      "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
+      "url": "https://www.rubyhack.ai/"
+    },
     "17fbff6a8f82f501": {
       "category": "只归档",
       "discovered_at": "2026-05-26T08:19:11.769738+08:00",
@@ -31612,19 +31697,19 @@
     },
     "19219394bcf5ec6d": {
       "category": "只归档",
-      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
       "first_seen": "2026-05-18T09:02:34.539467+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "19219394bcf5ec6d",
       "kind": "failure",
-      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 4,
+      "seen_count": 6,
       "source": "System",
       "sources": [
         "System"
@@ -32124,6 +32209,35 @@
       ],
       "title": "Road To KiwiEngine #5: The Future of SaaS Might Be Operational Ownership",
       "url": "https://dev.to/stinklewinks/road-to-kiwiengine-5the-future-of-saas-might-be-operational-ownership-31k5"
+    },
+    "1966787cac9a22aa": {
+      "category": "可延后",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
+      "first_seen": "2026-09-13T08:09:50.032492+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "1966787cac9a22aa",
+      "kind": "article",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
+      "news_category": "",
+      "published": "2026-09-12T20:18:42.000Z",
+      "rank": 0,
+      "reason": "matches topics: anthropic",
+      "region": "",
+      "score": 54,
+      "seen_count": 2,
+      "source": "AI HOT / X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
+      "sources": [
+        "AI HOT / X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）"
+      ],
+      "summary": "Dario Amodei 发布新文章 We Must Pace the Frontier，主张 AI 行业应放慢速度，并提出三部分计划。Anthropic 单方面承诺第一步，为第三方评估者提供永久的员工级系统访问权限，以核实安全措施执行、报告事故并评估训练期间模型的 alignment。",
+      "tags": [
+        "aihot",
+        "article",
+        "selected",
+        "tip"
+      ],
+      "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
+      "url": "https://x.com/PeterMcCrory/status/2098868931071226252"
     },
     "1968340f8ecead84": {
       "category": "只归档",
@@ -34199,6 +34313,35 @@
       ],
       "title": "Hermes Agent's Kanban System Is the Most Underrated Feature in Open Source AI Agents",
       "url": "https://dev.to/_prshant01/hermes-agents-kanban-system-is-the-most-underrated-feature-in-open-source-ai-agents-3af6"
+    },
+    "1b45f71934b27124": {
+      "category": "可延后",
+      "discovered_at": "2026-09-13T08:09:50.032492+08:00",
+      "first_seen": "2026-09-13T08:09:50.032492+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "1b45f71934b27124",
+      "kind": "github_repo",
+      "last_seen": "2026-09-13T08:09:50.032492+08:00",
+      "news_category": "",
+      "published": "2026-09-13T00:10:12Z",
+      "rank": 0,
+      "reason": "matches topics: agent, llm; high-value terms: agent",
+      "region": "",
+      "score": 57,
+      "seen_count": 2,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "A coding agent that acts by writing programs: one JavaScript program per round — loops, branching, composition — run against your real checkout. Go, terminal UI, everything is a plugin.",
+      "tags": [
+        "github",
+        "search",
+        "topic-ai",
+        "topic-llm"
+      ],
+      "title": "andreylukin/bough",
+      "url": "https://github.com/andreylukin/bough"
     },
     "1b48712b904dc3fb": {
       "category": "只归档",
@@ -36950,6 +37093,32 @@
       ],
       "title": "RLPF: Reinforcement Learning from Performance Feedback for Code Generation",
       "url": "https://arxiv.org/abs/2607.27271"
+    },
+    "1d6c5762deb2d6de": {
+      "category": "只归档",
+      "discovered_at": "2026-09-13T08:09:50.032492+08:00",
+      "first_seen": "2026-09-13T08:09:50.032492+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "1d6c5762deb2d6de",
+      "kind": "failure",
+      "last_seen": "2026-09-13T08:09:50.032492+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=OpenAI&tags=story&numericFilters=created_at_i%3E1789150248&hitsPerPage=8"
     },
     "1d6dc7bf54ab829b": {
       "category": "只归档",
@@ -54600,6 +54769,32 @@
       "title": "TapCraft",
       "url": "https://www.producthunt.com/products/tapcraft-launch-videos-for-mobile-devs"
     },
+    "2a375ff85a7ddbc1": {
+      "category": "只归档",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
+      "first_seen": "2026-09-13T08:10:51.978821+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "2a375ff85a7ddbc1",
+      "kind": "failure",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=OpenAI&tags=story&numericFilters=created_at_i%3E1789150275&hitsPerPage=8"
+    },
     "2a39d8077d6ce417": {
       "category": "只归档",
       "discovered_at": "2026-06-16T08:10:41.948405+08:00",
@@ -65062,19 +65257,19 @@
     },
     "3247f488d93d0cef": {
       "category": "只归档",
-      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
       "first_seen": "2026-07-15T08:07:39.847476+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "3247f488d93d0cef",
       "kind": "failure",
-      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 5,
+      "seen_count": 7,
       "source": "System",
       "sources": [
         "System"
@@ -66272,19 +66467,19 @@
     },
     "3307457f1fbd940e": {
       "category": "只归档",
-      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
       "first_seen": "2026-08-28T08:09:03.714644+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "3307457f1fbd940e",
       "kind": "failure",
-      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 3,
+      "seen_count": 5,
       "source": "System",
       "sources": [
         "System"
@@ -68097,6 +68292,34 @@
       ],
       "title": "On intent of Code",
       "url": "https://why.degree/on-intent/"
+    },
+    "34c5b6926b953108": {
+      "category": "只归档",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
+      "first_seen": "2026-09-13T08:10:51.978821+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "34c5b6926b953108",
+      "kind": "github_repo",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "baseline source relevance",
+      "region": "",
+      "score": 46,
+      "seen_count": 1,
+      "source": "GitHub Trending",
+      "sources": [
+        "GitHub Trending"
+      ],
+      "summary": "",
+      "tags": [
+        "github",
+        "trending",
+        "python"
+      ],
+      "title": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red"
     },
     "34c82ebd63b18fa2": {
       "category": "可延后",
@@ -72055,6 +72278,32 @@
       "title": "0motionguy/starscreener",
       "url": "https://github.com/0motionguy/starscreener"
     },
+    "37e882786a545eb2": {
+      "category": "只归档",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
+      "first_seen": "2026-09-13T08:10:51.978821+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "37e882786a545eb2",
+      "kind": "failure",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=Anthropic&tags=story&numericFilters=created_at_i%3E1789150275&hitsPerPage=8"
+    },
     "37e929b953e974e1": {
       "category": "可延后",
       "discovered_at": "2026-08-21T08:09:50.924110+08:00",
@@ -74679,19 +74928,19 @@
     },
     "39e36fb9d49457d5": {
       "category": "只归档",
-      "discovered_at": "2026-07-08T08:13:27.634160+08:00",
+      "discovered_at": "2026-09-13T08:09:50.032492+08:00",
       "first_seen": "2026-07-08T08:13:27.634160+08:00",
       "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
       "id": "39e36fb9d49457d5",
       "kind": "github_repo",
-      "last_seen": "2026-07-08T08:13:27.634160+08:00",
+      "last_seen": "2026-09-13T08:09:50.032492+08:00",
       "news_category": "",
-      "published": "2026-07-08T00:13:29Z",
+      "published": "2026-09-13T00:10:14Z",
       "rank": 0,
-      "reason": "0 stars | pushed 2026-07-08",
+      "reason": "0 stars | pushed 2026-09-13",
       "region": "",
       "score": 34,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "GitHub Search",
       "sources": [
         "GitHub Search"
@@ -83952,6 +84201,34 @@
       "title": "Easy to use Entity Component System (ECS) crafted with Odin",
       "url": "https://github.com/helioscout/moecs"
     },
+    "40d34ab83f014fff": {
+      "category": "只归档",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
+      "first_seen": "2026-09-13T08:10:51.978821+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "40d34ab83f014fff",
+      "kind": "github_repo",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "baseline source relevance",
+      "region": "",
+      "score": 46,
+      "seen_count": 1,
+      "source": "GitHub Trending",
+      "sources": [
+        "GitHub Trending"
+      ],
+      "summary": "",
+      "tags": [
+        "github",
+        "trending",
+        "python"
+      ],
+      "title": "petergyang/no-ai-slop",
+      "url": "https://github.com/petergyang/no-ai-slop"
+    },
     "40d3d4983f7ce2b1": {
       "category": "只归档",
       "discovered_at": "2026-07-14T08:17:00+08:00",
@@ -86717,19 +86994,19 @@
     },
     "42c76e0796397aca": {
       "category": "可延后",
-      "discovered_at": "2026-08-26T08:08:52.353575+08:00",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
       "first_seen": "2026-07-15T00:04:24.889488+08:00",
       "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
       "id": "42c76e0796397aca",
       "kind": "github_repo",
-      "last_seen": "2026-08-26T08:08:52.353575+08:00",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "matches topics: llm",
       "region": "",
       "score": 54,
-      "seen_count": 9,
+      "seen_count": 10,
       "source": "GitHub Trending",
       "sources": [
         "GitHub Trending"
@@ -92085,6 +92362,34 @@
       "title": "Next.js SaaS Boilerplate with BetterAuth, RBAC, i18n & Production-Ready Setup",
       "url": "https://dev.to/salmanshahriar/nextjs-saas-boilerplate-with-betterauth-rbac-i18n-production-ready-setup-bao"
     },
+    "46fa3d9d0c516810": {
+      "category": "可延后",
+      "discovered_at": "2026-09-13T08:09:50.032492+08:00",
+      "first_seen": "2026-09-13T08:09:50.032492+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "46fa3d9d0c516810",
+      "kind": "github_repo",
+      "last_seen": "2026-09-13T08:09:50.032492+08:00",
+      "news_category": "",
+      "published": "2026-09-13T00:10:05Z",
+      "rank": 0,
+      "reason": "matches topics: agent, agents; high-value terms: agent, agents",
+      "region": "",
+      "score": 64,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "An eight-agent rule engine for on-chain risk analysis. Seven rules propose, one vetoes. Read-only, no keys, no execution.",
+      "tags": [
+        "github",
+        "search",
+        "topic-agents"
+      ],
+      "title": "jugqdc-sudo/warden-desk",
+      "url": "https://github.com/jugqdc-sudo/warden-desk"
+    },
     "46fe3b90e8d727a5": {
       "category": "只归档",
       "discovered_at": "2026-08-23T08:09:26.088714+08:00",
@@ -96534,6 +96839,34 @@
       "title": "Ask HN: What's the best LLM model that on a 24 GB VRAM GPU?",
       "url": "https://news.ycombinator.com/item?id=48494377"
     },
+    "4a038946366ce9fd": {
+      "category": "可延后",
+      "discovered_at": "2026-09-13T08:09:50.032492+08:00",
+      "first_seen": "2026-09-13T08:09:50.032492+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "4a038946366ce9fd",
+      "kind": "github_repo",
+      "last_seen": "2026-09-13T08:09:50.032492+08:00",
+      "news_category": "",
+      "published": "2026-09-13T00:10:12Z",
+      "rank": 0,
+      "reason": "matches topics: agent, llm; high-value terms: agent, eval, reasoning",
+      "region": "",
+      "score": 71,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "Understand long videos by decoupling perception and reasoning through hierarchical graph memory and an agentic retrieval mechanism.",
+      "tags": [
+        "github",
+        "search",
+        "topic-llm"
+      ],
+      "title": "Free-Soul/MemDreamer",
+      "url": "https://github.com/Free-Soul/MemDreamer"
+    },
     "4a03ebd373ee1a75": {
       "category": "只归档",
       "discovered_at": "2026-05-15T08:17:17.572182+08:00",
@@ -96560,19 +96893,19 @@
     },
     "4a088c3991e0b886": {
       "category": "可延后",
-      "discovered_at": "2026-09-09T08:38:53.434512+08:00",
+      "discovered_at": "2026-09-13T08:09:50.032492+08:00",
       "first_seen": "2026-07-08T08:13:27.634160+08:00",
       "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
       "id": "4a088c3991e0b886",
       "kind": "github_repo",
-      "last_seen": "2026-09-09T08:38:53.434512+08:00",
+      "last_seen": "2026-09-13T08:09:50.032492+08:00",
       "news_category": "",
-      "published": "2026-09-09T00:38:20Z",
+      "published": "2026-09-13T00:10:09Z",
       "rank": 0,
-      "reason": "matches topics: agent, agents; high-value terms: agent, agents",
+      "reason": "matches topics: agent, agents, llm; high-value terms: agent, agents",
       "region": "",
-      "score": 64,
-      "seen_count": 6,
+      "score": 72,
+      "seen_count": 7,
       "source": "GitHub Search",
       "sources": [
         "GitHub Search"
@@ -97704,6 +98037,34 @@
       ],
       "title": "Passing DBs Through Continuations",
       "url": "https://remy.wang/blog/cps.html"
+    },
+    "4ae538f96f6a0ab4": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-13T08:09:50.032492+08:00",
+      "first_seen": "2026-09-13T08:09:50.032492+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "4ae538f96f6a0ab4",
+      "kind": "github_repo",
+      "last_seen": "2026-09-13T08:09:50.032492+08:00",
+      "news_category": "",
+      "published": "2026-09-13T00:09:33Z",
+      "rank": 0,
+      "reason": "matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp",
+      "region": "",
+      "score": 79,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "Query U.S. Census Bureau data, variables, and geography using this Model Context Protocol server via STDIO or HTTP.",
+      "tags": [
+        "github",
+        "search",
+        "topic-agents"
+      ],
+      "title": "Taliawedged117/census-mcp-server",
+      "url": "https://github.com/Taliawedged117/census-mcp-server"
     },
     "4aeae4193ba4a556": {
       "category": "可延后",
@@ -100836,19 +101197,19 @@
     },
     "4d766eb799a55a62": {
       "category": "只归档",
-      "discovered_at": "2026-08-16T11:34:34.041266+08:00",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
       "first_seen": "2026-05-13T08:17:20.766821+08:00",
       "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
       "id": "4d766eb799a55a62",
       "kind": "github_repo",
-      "last_seen": "2026-08-16T11:34:34.041266+08:00",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "baseline source relevance",
       "region": "",
       "score": 46,
-      "seen_count": 8,
+      "seen_count": 9,
       "source": "GitHub Trending",
       "sources": [
         "GitHub Trending"
@@ -101481,19 +101842,19 @@
     },
     "4dede2d00763568d": {
       "category": "只归档",
-      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
       "first_seen": "2026-05-11T11:23:27.335489+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "4dede2d00763568d",
       "kind": "failure",
-      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 82,
+      "seen_count": 84,
       "source": "System",
       "sources": [
         "System"
@@ -101822,6 +102183,35 @@
       ],
       "title": "Show HN: Writekin – fine-tune a local LLM on your own writing, on your Mac",
       "url": "https://github.com/scouttyg/writekin"
+    },
+    "4e2dca866221883a": {
+      "category": "可延后",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
+      "first_seen": "2026-09-13T08:09:50.032492+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "4e2dca866221883a",
+      "kind": "article",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
+      "news_category": "",
+      "published": "2026-09-12T16:30:45.000Z",
+      "rank": 0,
+      "reason": "matches topics: openai, anthropic",
+      "region": "",
+      "score": 62,
+      "seen_count": 2,
+      "source": "AI HOT / X：Sam Altman (@sama)",
+      "sources": [
+        "AI HOT / X：Sam Altman (@sama)"
+      ],
+      "summary": "Sam Altman 回应 Dario Amodei 的《We Must Pace the Frontier》一文，同意需要为前沿 AI 发展设定节奏，称这是 OpenAI 近几周内部讨论的重要话题。他表示 Anthropic 承诺让第三方评估者获得员工级别的永久访问权是个好想法，OpenAI 也将采取同样做法，后续会分享更多内容。",
+      "tags": [
+        "aihot",
+        "article",
+        "selected",
+        "tip"
+      ],
+      "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+      "url": "https://x.com/sama/status/2098811563415150910"
     },
     "4e2ec6ba87a33394": {
       "category": "只归档",
@@ -107146,6 +107536,34 @@
       ],
       "title": "Google 更新隐私设置，默认用媒体数据训练 AI，用户可手动退出",
       "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out"
+    },
+    "52426009bda02923": {
+      "category": "只归档",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
+      "first_seen": "2026-09-13T08:10:51.978821+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "52426009bda02923",
+      "kind": "github_repo",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "baseline source relevance",
+      "region": "",
+      "score": 46,
+      "seen_count": 1,
+      "source": "GitHub Trending",
+      "sources": [
+        "GitHub Trending"
+      ],
+      "summary": "",
+      "tags": [
+        "github",
+        "trending",
+        "all"
+      ],
+      "title": "Sonarr/Sonarr",
+      "url": "https://github.com/Sonarr/Sonarr"
     },
     "524c05f988189a65": {
       "category": "可延后",
@@ -114219,6 +114637,34 @@
       "title": "Chinese AI's role in stopping rogue OpenAI agent shows cost of US guardrails",
       "url": "https://www.reuters.com/legal/litigation/chinese-ais-role-stopping-rogue-openai-agent-shows-cost-us-guardrails-2026-07-22/"
     },
+    "57a327dd1a53b3a8": {
+      "category": "只归档",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
+      "first_seen": "2026-09-13T08:10:51.978821+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "57a327dd1a53b3a8",
+      "kind": "github_repo",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "baseline source relevance",
+      "region": "",
+      "score": 46,
+      "seen_count": 1,
+      "source": "GitHub Trending",
+      "sources": [
+        "GitHub Trending"
+      ],
+      "summary": "",
+      "tags": [
+        "github",
+        "trending",
+        "all"
+      ],
+      "title": "nab138/iloader",
+      "url": "https://github.com/nab138/iloader"
+    },
     "57a77d794fa866d2": {
       "category": "只归档",
       "discovered_at": "2026-06-28T10:12:00.611037+08:00",
@@ -117018,6 +117464,34 @@
       "title": "megana05082003/review-analyzer-skill",
       "url": "https://github.com/megana05082003/review-analyzer-skill"
     },
+    "59c8df6b41e5884a": {
+      "category": "只归档",
+      "discovered_at": "2026-09-13T08:09:50.032492+08:00",
+      "first_seen": "2026-09-13T08:09:50.032492+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "59c8df6b41e5884a",
+      "kind": "github_repo",
+      "last_seen": "2026-09-13T08:09:50.032492+08:00",
+      "news_category": "",
+      "published": "2026-09-13T00:10:08Z",
+      "rank": 0,
+      "reason": "matches topics: local ai",
+      "region": "",
+      "score": 42,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "Organize your files and manage your Windows PC using a secure, local AI assistant that keeps your data private.",
+      "tags": [
+        "github",
+        "search",
+        "topic-ai"
+      ],
+      "title": "ycam4427/pebble-ai",
+      "url": "https://github.com/ycam4427/pebble-ai"
+    },
     "59d3068ab1aaf6c8": {
       "category": "今日必须看",
       "discovered_at": "2026-08-20T08:09:35.485268+08:00",
@@ -117151,6 +117625,32 @@
       ],
       "title": "Don't orchestrate your agents, give them the tools to do it themselves",
       "url": "https://aweb.ai/orchestration"
+    },
+    "59e38abe8848a2b0": {
+      "category": "只归档",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
+      "first_seen": "2026-09-13T08:10:51.978821+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "59e38abe8848a2b0",
+      "kind": "failure",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=agents&tags=story&numericFilters=created_at_i%3E1789150275&hitsPerPage=8"
     },
     "59e7302757cd0705": {
       "category": "只归档",
@@ -119413,19 +119913,19 @@
     },
     "5b7e6895167b09e8": {
       "category": "只归档",
-      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
       "first_seen": "2026-07-26T08:39:55.983391+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "5b7e6895167b09e8",
       "kind": "failure",
-      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 3,
+      "seen_count": 5,
       "source": "System",
       "sources": [
         "System"
@@ -119932,19 +120432,19 @@
     },
     "5be0e74376e80b5e": {
       "category": "只归档",
-      "discovered_at": "2026-07-08T08:13:27.634160+08:00",
+      "discovered_at": "2026-09-13T08:09:50.032492+08:00",
       "first_seen": "2026-07-08T08:13:27.634160+08:00",
       "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
       "id": "5be0e74376e80b5e",
       "kind": "github_repo",
-      "last_seen": "2026-07-08T08:13:27.634160+08:00",
+      "last_seen": "2026-09-13T08:09:50.032492+08:00",
       "news_category": "",
-      "published": "2026-07-08T00:13:27Z",
+      "published": "2026-09-13T00:10:13Z",
       "rank": 0,
       "reason": "matches topics: llm",
       "region": "",
       "score": 42,
-      "seen_count": 2,
+      "seen_count": 3,
       "source": "GitHub Search",
       "sources": [
         "GitHub Search"
@@ -121405,6 +121905,34 @@
       ],
       "title": "waynehoover/basalt-sync",
       "url": "https://github.com/waynehoover/basalt-sync"
+    },
+    "5ce07f383b888004": {
+      "category": "可延后",
+      "discovered_at": "2026-09-13T08:09:50.032492+08:00",
+      "first_seen": "2026-09-13T08:09:50.032492+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "5ce07f383b888004",
+      "kind": "github_repo",
+      "last_seen": "2026-09-13T08:09:50.032492+08:00",
+      "news_category": "",
+      "published": "2026-09-13T00:09:48Z",
+      "rank": 0,
+      "reason": "matches topics: agent, agents; high-value terms: agent, agents",
+      "region": "",
+      "score": 64,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "Add long-term memory to Cursor agents using the mem0 pipeline, local embeddings, and Qdrant storage.",
+      "tags": [
+        "github",
+        "search",
+        "topic-agents"
+      ],
+      "title": "Konstantincoldeyed787/cursor-mem0",
+      "url": "https://github.com/Konstantincoldeyed787/cursor-mem0"
     },
     "5ce8103476b1f3ac": {
       "category": "可延后",
@@ -127394,6 +127922,35 @@
       "title": "cordiverse/cordis",
       "url": "https://github.com/cordiverse/cordis"
     },
+    "61bf6ee1d5593670": {
+      "category": "只归档",
+      "discovered_at": "2026-09-13T08:09:50.032492+08:00",
+      "first_seen": "2026-09-13T08:09:50.032492+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "61bf6ee1d5593670",
+      "kind": "github_repo",
+      "last_seen": "2026-09-13T08:09:50.032492+08:00",
+      "news_category": "",
+      "published": "2026-09-13T00:10:10Z",
+      "rank": 0,
+      "reason": "matches topics: llm",
+      "region": "",
+      "score": 42,
+      "seen_count": 2,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "Export ChatGPT, Gemini, Claude, DeepSeek, and Grok conversations to formatted files using this browser extension.",
+      "tags": [
+        "github",
+        "search",
+        "topic-ai",
+        "topic-llm"
+      ],
+      "title": "Laciniate-publiusterentiusafer346/ai-chat-exporter",
+      "url": "https://github.com/Laciniate-publiusterentiusafer346/ai-chat-exporter"
+    },
     "61c954a2cd0bb0c4": {
       "category": "只归档",
       "discovered_at": "2026-08-20T08:09:35.485268+08:00",
@@ -129471,6 +130028,35 @@
       ],
       "title": "塔姆布勒岭校园枪击案受害者追加 30 起诉讼，OpenAI 面临诉讼超 50 起",
       "url": "https://www.ithome.com/0/998/758.htm"
+    },
+    "6386bec61fc7aaf8": {
+      "category": "可延后",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
+      "first_seen": "2026-09-13T08:10:51.978821+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "6386bec61fc7aaf8",
+      "kind": "github_repo",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "matches topics: agent; high-value terms: agent",
+      "region": "",
+      "score": 61,
+      "seen_count": 2,
+      "source": "GitHub Trending",
+      "sources": [
+        "GitHub Trending"
+      ],
+      "summary": "",
+      "tags": [
+        "all",
+        "github",
+        "python",
+        "trending"
+      ],
+      "title": "jihe520/MathModelAgent",
+      "url": "https://github.com/jihe520/MathModelAgent"
     },
     "63883b1fa54925ed": {
       "category": "只归档",
@@ -139977,6 +140563,32 @@
       "title": "Creative Integration: A Decidable Criterion of Creativity",
       "url": "https://arxiv.org/abs/2606.13977"
     },
+    "6b5f7ac9dcbf72e5": {
+      "category": "只归档",
+      "discovered_at": "2026-09-13T08:09:50.032492+08:00",
+      "first_seen": "2026-09-13T08:09:50.032492+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "6b5f7ac9dcbf72e5",
+      "kind": "failure",
+      "last_seen": "2026-09-13T08:09:50.032492+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=AI&tags=story&numericFilters=created_at_i%3E1789150248&hitsPerPage=8"
+    },
     "6b5fd81c2adac509": {
       "category": "只归档",
       "discovered_at": "2026-08-05T08:07:30.643184+08:00",
@@ -143434,6 +144046,34 @@
       ],
       "title": "Tdam5942/claude-code-notes",
       "url": "https://github.com/Tdam5942/claude-code-notes"
+    },
+    "6d90d6b71c5dfbfa": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-13T08:09:50.032492+08:00",
+      "first_seen": "2026-09-13T08:09:50.032492+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "6d90d6b71c5dfbfa",
+      "kind": "github_repo",
+      "last_seen": "2026-09-13T08:09:50.032492+08:00",
+      "news_category": "",
+      "published": "2026-09-13T00:09:41Z",
+      "rank": 0,
+      "reason": "matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code",
+      "region": "",
+      "score": 89,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "TypeScript CLI: extract any coding-agent session (Claude Code, Codex, Pi) into a compact, verified, provenance-linked handoff another agent can continue from.",
+      "tags": [
+        "github",
+        "search",
+        "topic-agents"
+      ],
+      "title": "ccompactor/ccompactor",
+      "url": "https://github.com/ccompactor/ccompactor"
     },
     "6d92afc88bb4b31a": {
       "category": "只归档",
@@ -150271,6 +150911,32 @@
       ],
       "title": "Eve – The Framework for Building Agents",
       "url": "https://vercel.com/eve"
+    },
+    "72f404c09f805192": {
+      "category": "只归档",
+      "discovered_at": "2026-09-13T08:09:50.032492+08:00",
+      "first_seen": "2026-09-13T08:09:50.032492+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "72f404c09f805192",
+      "kind": "failure",
+      "last_seen": "2026-09-13T08:09:50.032492+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=Anthropic&tags=story&numericFilters=created_at_i%3E1789150248&hitsPerPage=8"
     },
     "72f52ad1b9387ca6": {
       "category": "可延后",
@@ -158188,19 +158854,19 @@
     },
     "78f1ca2f1bfa0ed2": {
       "category": "只归档",
-      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
       "first_seen": "2026-07-22T08:58:41.592408+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "78f1ca2f1bfa0ed2",
       "kind": "failure",
-      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 3,
+      "seen_count": 5,
       "source": "System",
       "sources": [
         "System"
@@ -169306,6 +169972,35 @@
       "title": "在Claude Code中引入动态工作流",
       "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code"
     },
+    "8192fa7b935e444c": {
+      "category": "可延后",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
+      "first_seen": "2026-09-13T08:09:50.032492+08:00",
+      "follow_up": "检查模型卡、license、benchmark 和可部署性。",
+      "id": "8192fa7b935e444c",
+      "kind": "model",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
+      "news_category": "",
+      "published": "2026-09-12T23:16:27.000Z",
+      "rank": 0,
+      "reason": "matches topics: openai; high-value terms: api",
+      "region": "",
+      "score": 68,
+      "seen_count": 2,
+      "source": "AI HOT / X：OpenAI Developers (@OpenAIDevs)",
+      "sources": [
+        "AI HOT / X：OpenAI Developers (@OpenAIDevs)"
+      ],
+      "summary": "OpenAI 宣布 GPT-Live-1 正式登陆 API，即 1-800-ChatGPT 背后的语音能力。开发者可把它接入应用，获得边说边听的自然对话语音智能体，并搭配自选的模型与 harness 使用。",
+      "tags": [
+        "ai-models",
+        "aihot",
+        "model",
+        "selected"
+      ],
+      "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
+      "url": "https://x.com/OpenAIDevs/status/2098913661993603215"
+    },
     "819676967e93ba28": {
       "category": "只归档",
       "discovered_at": "2026-05-23T08:17:21.404730+08:00",
@@ -171798,6 +172493,35 @@
       ],
       "title": "Israel Is Paying Millions to Train AI Chatbots How to Talk About Gaza",
       "url": "https://www.dropsitenews.com/p/israel-brad-parscale-ai-chatbots-gaza"
+    },
+    "83b26543b0130720": {
+      "category": "可延后",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
+      "first_seen": "2026-09-13T08:09:50.032492+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "83b26543b0130720",
+      "kind": "article",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
+      "news_category": "",
+      "published": "2026-09-12T19:46:58.000Z",
+      "rank": 0,
+      "reason": "matches topics: anthropic",
+      "region": "",
+      "score": 54,
+      "seen_count": 2,
+      "source": "AI HOT / X：Thariq (@trq212)",
+      "sources": [
+        "AI HOT / X：Thariq (@trq212)"
+      ],
+      "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
+      "tags": [
+        "aihot",
+        "article",
+        "selected",
+        "tip"
+      ],
+      "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+      "url": "https://x.com/trq212/status/2098860941391872132"
     },
     "83b68d970fb3736e": {
       "category": "只归档",
@@ -175375,19 +176099,19 @@
     },
     "86145d73926cbc2e": {
       "category": "只归档",
-      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
       "first_seen": "2026-05-18T09:02:34.539467+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "86145d73926cbc2e",
       "kind": "failure",
-      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 4,
+      "seen_count": 5,
       "source": "System",
       "sources": [
         "System"
@@ -183326,6 +184050,35 @@
       "title": "OpenAI Foundation commits $250M to help navigate AI disruption",
       "url": "https://www.reuters.com/business/openai-foundation-commits-250-million-help-workers-economies-navigate-ai-2026-05-27/"
     },
+    "8c34122fcfb32480": {
+      "category": "可延后",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
+      "first_seen": "2026-09-13T08:09:50.032492+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "8c34122fcfb32480",
+      "kind": "product",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
+      "news_category": "",
+      "published": "2026-09-12T17:33:23.000Z",
+      "rank": 0,
+      "reason": "matches topics: openai",
+      "region": "",
+      "score": 56,
+      "seen_count": 2,
+      "source": "AI HOT / X：OpenAI Developers (@OpenAIDevs)",
+      "sources": [
+        "AI HOT / X：OpenAI Developers (@OpenAIDevs)"
+      ],
+      "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
+      "tags": [
+        "ai-products",
+        "aihot",
+        "product",
+        "selected"
+      ],
+      "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+      "url": "https://x.com/OpenAIDevs/status/2098827327832822014"
+    },
     "8c36570bfe1caee4": {
       "category": "只归档",
       "discovered_at": "2026-08-23T08:09:26.088714+08:00",
@@ -190999,6 +191752,34 @@
       "title": "Tanrianpurba09/FAIZ-AI",
       "url": "https://github.com/Tanrianpurba09/FAIZ-AI"
     },
+    "920c2e47fcaa79a6": {
+      "category": "只归档",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
+      "first_seen": "2026-09-13T08:10:51.978821+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "920c2e47fcaa79a6",
+      "kind": "github_repo",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "baseline source relevance",
+      "region": "",
+      "score": 46,
+      "seen_count": 1,
+      "source": "GitHub Trending",
+      "sources": [
+        "GitHub Trending"
+      ],
+      "summary": "",
+      "tags": [
+        "github",
+        "trending",
+        "all"
+      ],
+      "title": "alsk1992/CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot"
+    },
     "922181e7135fd8a9": {
       "category": "只归档",
       "discovered_at": "2026-08-12T08:09:28.673572+08:00",
@@ -191731,6 +192512,32 @@
       ],
       "title": "Balancing Fidelity and Diversity in Diffusion Models via Symmetric Attention Decomposition: Hopfield Perspective",
       "url": "https://arxiv.org/abs/2605.27476"
+    },
+    "92979a616af20691": {
+      "category": "只归档",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
+      "first_seen": "2026-09-13T08:10:51.978821+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "92979a616af20691",
+      "kind": "failure",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=LLM&tags=story&numericFilters=created_at_i%3E1789150275&hitsPerPage=8"
     },
     "929e1d0de1ffb53d": {
       "category": "只归档",
@@ -197175,19 +197982,19 @@
     },
     "96966717484b38c3": {
       "category": "只归档",
-      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
       "first_seen": "2026-09-06T08:49:22.805054+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "96966717484b38c3",
       "kind": "failure",
-      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 3,
+      "seen_count": 5,
       "source": "System",
       "sources": [
         "System"
@@ -209097,6 +209904,34 @@
       "title": "Pitchbar",
       "url": "https://www.producthunt.com/products/pitchbar"
     },
+    "9f8102349a35fd59": {
+      "category": "只归档",
+      "discovered_at": "2026-09-13T08:09:50.032492+08:00",
+      "first_seen": "2026-09-13T08:09:50.032492+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "9f8102349a35fd59",
+      "kind": "github_repo",
+      "last_seen": "2026-09-13T08:09:50.032492+08:00",
+      "news_category": "",
+      "published": "2026-09-13T00:10:03Z",
+      "rank": 0,
+      "reason": "matches topics: llm",
+      "region": "",
+      "score": 42,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "Intercept attackers across all network protocols with a single AI-driven honeypot using local LLMs.",
+      "tags": [
+        "github",
+        "search",
+        "topic-llm"
+      ],
+      "title": "Genusalsophilaeccehomo626/honey-ai",
+      "url": "https://github.com/Genusalsophilaeccehomo626/honey-ai"
+    },
     "9f861cd26e6925e7": {
       "category": "可延后",
       "discovered_at": "2026-06-12T08:08:33.497092+08:00",
@@ -214097,19 +214932,19 @@
     },
     "a3fcef5a730f7315": {
       "category": "只归档",
-      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
       "first_seen": "2026-07-15T08:07:39.847476+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "a3fcef5a730f7315",
       "kind": "failure",
-      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 6,
+      "seen_count": 8,
       "source": "System",
       "sources": [
         "System"
@@ -216291,19 +217126,19 @@
     },
     "a58fde932d86c8ed": {
       "category": "只归档",
-      "discovered_at": "2026-08-01T08:07:18.995057+08:00",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
       "first_seen": "2026-07-30T08:09:25.751428+08:00",
       "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
       "id": "a58fde932d86c8ed",
       "kind": "github_repo",
-      "last_seen": "2026-08-01T08:07:18.995057+08:00",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "baseline source relevance",
       "region": "",
       "score": 46,
-      "seen_count": 2,
+      "seen_count": 3,
       "source": "GitHub Trending",
       "sources": [
         "GitHub Trending"
@@ -217410,19 +218245,19 @@
     },
     "a699cca176201a64": {
       "category": "只归档",
-      "discovered_at": "2026-07-08T08:13:27.634160+08:00",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
       "first_seen": "2026-07-07T08:12:40.298788+08:00",
       "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
       "id": "a699cca176201a64",
       "kind": "github_repo",
-      "last_seen": "2026-07-08T08:13:27.634160+08:00",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "baseline source relevance",
       "region": "",
       "score": 46,
-      "seen_count": 2,
+      "seen_count": 3,
       "source": "GitHub Trending",
       "sources": [
         "GitHub Trending"
@@ -221834,6 +222669,32 @@
       "title": "Replit 专家级提示词技巧",
       "url": "https://x.com/Replit/status/2065192392718733327"
     },
+    "a9d6b42768b6fca0": {
+      "category": "只归档",
+      "discovered_at": "2026-09-13T08:09:50.032492+08:00",
+      "first_seen": "2026-09-13T08:09:50.032492+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "a9d6b42768b6fca0",
+      "kind": "failure",
+      "last_seen": "2026-09-13T08:09:50.032492+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=LLM&tags=story&numericFilters=created_at_i%3E1789150248&hitsPerPage=8"
+    },
     "a9dd6d12d568db0a": {
       "category": "只归档",
       "discovered_at": "2026-09-02T10:16:34.745113+08:00",
@@ -223737,6 +224598,32 @@
       ],
       "title": "music-assistant/server",
       "url": "https://github.com/music-assistant/server"
+    },
+    "aba62d0e41a58c6c": {
+      "category": "只归档",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
+      "first_seen": "2026-09-13T08:10:51.978821+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "aba62d0e41a58c6c",
+      "kind": "failure",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=AI&tags=story&numericFilters=created_at_i%3E1789150275&hitsPerPage=8"
     },
     "aba9b024392e382a": {
       "category": "只归档",
@@ -234402,19 +235289,19 @@
     },
     "b3bff48bf16c6b24": {
       "category": "只归档",
-      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
       "first_seen": "2026-09-11T08:09:40.135116+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "b3bff48bf16c6b24",
       "kind": "failure",
-      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 2,
+      "seen_count": 3,
       "source": "System",
       "sources": [
         "System"
@@ -238786,19 +239673,19 @@
     },
     "b73c276e8060d82c": {
       "category": "只归档",
-      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
       "first_seen": "2026-09-11T08:09:40.135116+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "b73c276e8060d82c",
       "kind": "failure",
-      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 2,
+      "seen_count": 4,
       "source": "System",
       "sources": [
         "System"
@@ -247151,19 +248038,19 @@
     },
     "bd3e9c3bfec27870": {
       "category": "只归档",
-      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
       "first_seen": "2026-05-18T09:02:34.539467+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "bd3e9c3bfec27870",
       "kind": "failure",
-      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 4,
+      "seen_count": 5,
       "source": "System",
       "sources": [
         "System"
@@ -262598,6 +263485,34 @@
       "title": "Running a 35B MoE (Qwen3.6-35B-A3B) on 2x GTX 1080 Ti in 2026 — Real Benchmarks, and Does the Second GPU Actually Help?",
       "url": "https://dev.to/sysoft/running-a-35b-moe-qwen36-35b-a3b-on-2x-gtx-1080-ti-in-2026-real-benchmarks-and-does-the-56on"
     },
+    "c8f03cae9f4c2db1": {
+      "category": "只归档",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
+      "first_seen": "2026-09-13T08:10:51.978821+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "c8f03cae9f4c2db1",
+      "kind": "github_repo",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "baseline source relevance",
+      "region": "",
+      "score": 46,
+      "seen_count": 1,
+      "source": "GitHub Trending",
+      "sources": [
+        "GitHub Trending"
+      ],
+      "summary": "",
+      "tags": [
+        "github",
+        "trending",
+        "all"
+      ],
+      "title": "Flowseal/zapret-discord-youtube",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube"
+    },
     "c8f45aed40a47bc7": {
       "category": "只归档",
       "discovered_at": "2026-05-21T08:17:20.735412+08:00",
@@ -264533,6 +265448,32 @@
       ],
       "title": "How Hard Does It Think? Analyzing Step-Aware Reasoning Energy in LLM Chain-of-Thought Trajectories",
       "url": "https://arxiv.org/abs/2607.28674"
+    },
+    "ca4e890a0d7835e3": {
+      "category": "只归档",
+      "discovered_at": "2026-09-13T08:09:50.032492+08:00",
+      "first_seen": "2026-09-13T08:09:50.032492+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "ca4e890a0d7835e3",
+      "kind": "failure",
+      "last_seen": "2026-09-13T08:09:50.032492+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=agents&tags=story&numericFilters=created_at_i%3E1789150248&hitsPerPage=8"
     },
     "ca54fa551094aa88": {
       "category": "可延后",
@@ -266739,6 +267680,34 @@
       "title": "AI is making me dumb",
       "url": "https://jpain.io/god-damn-ai-is-making-me-dumb/"
     },
+    "cc0ab829e99255c5": {
+      "category": "只归档",
+      "discovered_at": "2026-09-13T08:09:50.032492+08:00",
+      "first_seen": "2026-09-13T08:09:50.032492+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "cc0ab829e99255c5",
+      "kind": "github_repo",
+      "last_seen": "2026-09-13T08:09:50.032492+08:00",
+      "news_category": "",
+      "published": "2026-09-13T00:10:08Z",
+      "rank": 0,
+      "reason": "matches topics: llm",
+      "region": "",
+      "score": 42,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "Orchestrate local LLMs with Ollama using multi-model pipelines, structured outputs, memory management, and load balancing.",
+      "tags": [
+        "github",
+        "search",
+        "topic-ai"
+      ],
+      "title": "hermionenoncyclical848/lychee",
+      "url": "https://github.com/hermionenoncyclical848/lychee"
+    },
     "cc0c2481508c3754": {
       "category": "只归档",
       "discovered_at": "2026-09-02T10:16:34.745113+08:00",
@@ -267852,19 +268821,19 @@
     },
     "ccf092c44a5e428d": {
       "category": "只归档",
-      "discovered_at": "2026-07-08T08:13:27.634160+08:00",
+      "discovered_at": "2026-09-13T08:09:50.032492+08:00",
       "first_seen": "2026-07-08T08:13:27.634160+08:00",
       "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
       "id": "ccf092c44a5e428d",
       "kind": "github_repo",
-      "last_seen": "2026-07-08T08:13:27.634160+08:00",
+      "last_seen": "2026-09-13T08:09:50.032492+08:00",
       "news_category": "",
-      "published": "2026-07-08T00:13:27Z",
+      "published": "2026-09-13T00:10:13Z",
       "rank": 0,
       "reason": "matches topics: llm",
       "region": "",
       "score": 42,
-      "seen_count": 2,
+      "seen_count": 3,
       "source": "GitHub Search",
       "sources": [
         "GitHub Search"
@@ -269187,19 +270156,19 @@
     },
     "ce0e4865f8b4a298": {
       "category": "只归档",
-      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "discovered_at": "2026-09-13T08:09:50.032492+08:00",
       "first_seen": "2026-05-14T10:29:55.633079+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "ce0e4865f8b4a298",
       "kind": "failure",
-      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "last_seen": "2026-09-13T08:09:50.032492+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 11,
+      "seen_count": 12,
       "source": "System",
       "sources": [
         "System"
@@ -271276,6 +272245,34 @@
       ],
       "title": "A Persona-Based Evaluation Framework for Pluralistic Alignment in Generative AI",
       "url": "https://arxiv.org/abs/2605.31021"
+    },
+    "cfb8c2c3c89c5fc9": {
+      "category": "只归档",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
+      "first_seen": "2026-09-13T08:10:51.978821+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "cfb8c2c3c89c5fc9",
+      "kind": "github_repo",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "baseline source relevance",
+      "region": "",
+      "score": 46,
+      "seen_count": 1,
+      "source": "GitHub Trending",
+      "sources": [
+        "GitHub Trending"
+      ],
+      "summary": "",
+      "tags": [
+        "github",
+        "trending",
+        "all"
+      ],
+      "title": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM"
     },
     "cfcccf116d3f84e6": {
       "category": "只归档",
@@ -273863,19 +274860,19 @@
     },
     "d200248dcb7b9614": {
       "category": "可延后",
-      "discovered_at": "2026-07-08T08:13:27.634160+08:00",
+      "discovered_at": "2026-09-13T08:09:50.032492+08:00",
       "first_seen": "2026-07-08T08:13:27.634160+08:00",
       "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
       "id": "d200248dcb7b9614",
       "kind": "github_repo",
-      "last_seen": "2026-07-08T08:13:27.634160+08:00",
+      "last_seen": "2026-09-13T08:09:50.032492+08:00",
       "news_category": "",
-      "published": "2026-07-08T00:12:55Z",
+      "published": "2026-09-13T00:10:02Z",
       "rank": 0,
       "reason": "matches topics: agent, agents; high-value terms: agent, agents",
       "region": "",
       "score": 64,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "GitHub Search",
       "sources": [
         "GitHub Search"
@@ -283666,6 +284663,32 @@
       "title": "Coordinating multiple AI coding agents on one repo or multiple in your own ecosystem — without git worktrees",
       "url": "https://dev.to/anulum/coordinating-multiple-ai-coding-agents-on-one-repo-or-multiple-in-your-own-ecosystem-without-git-3fde"
     },
+    "d8f7e13fe76d66c2": {
+      "category": "只归档",
+      "discovered_at": "2026-09-13T08:09:50.032492+08:00",
+      "first_seen": "2026-09-13T08:09:50.032492+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "d8f7e13fe76d66c2",
+      "kind": "failure",
+      "last_seen": "2026-09-13T08:09:50.032492+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=Hugging+Face&tags=story&numericFilters=created_at_i%3E1789150248&hitsPerPage=8"
+    },
     "d8fb85b4ef055f0d": {
       "category": "可延后",
       "discovered_at": "2026-09-09T08:38:53.434512+08:00",
@@ -289562,6 +290585,32 @@
       "title": "wasp-lang/wasp",
       "url": "https://github.com/wasp-lang/wasp"
     },
+    "dd9b4c631dd9b69b": {
+      "category": "只归档",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
+      "first_seen": "2026-09-13T08:10:51.978821+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "dd9b4c631dd9b69b",
+      "kind": "failure",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=Hugging+Face&tags=story&numericFilters=created_at_i%3E1789150275&hitsPerPage=8"
+    },
     "dda37a3b26bcfbe5": {
       "category": "只归档",
       "discovered_at": "2026-07-07T08:12:40.298788+08:00",
@@ -291492,28 +292541,28 @@
     },
     "df489c10521cd2bd": {
       "category": "只归档",
-      "discovered_at": "2026-08-28T08:09:03.714644+08:00",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
       "first_seen": "2026-08-28T08:09:03.714644+08:00",
       "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
       "id": "df489c10521cd2bd",
       "kind": "github_repo",
-      "last_seen": "2026-08-28T08:09:03.714644+08:00",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "baseline source relevance",
       "region": "",
       "score": 46,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "GitHub Trending",
       "sources": [
         "GitHub Trending"
       ],
       "summary": "",
       "tags": [
+        "all",
         "github",
-        "trending",
-        "all"
+        "trending"
       ],
       "title": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view"
@@ -292992,6 +294041,34 @@
       ],
       "title": "Epilude",
       "url": "https://www.producthunt.com/products/epilude"
+    },
+    "e08812d5b07be97a": {
+      "category": "可延后",
+      "discovered_at": "2026-09-13T08:09:50.032492+08:00",
+      "first_seen": "2026-09-13T08:09:50.032492+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "e08812d5b07be97a",
+      "kind": "github_repo",
+      "last_seen": "2026-09-13T08:09:50.032492+08:00",
+      "news_category": "",
+      "published": "2026-09-13T00:09:29Z",
+      "rank": 0,
+      "reason": "matches topics: agent, agents; high-value terms: agent, agents",
+      "region": "",
+      "score": 64,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "A2A Nexus — a control plane for delegating, tracking, and recovering work across agent nodes",
+      "tags": [
+        "github",
+        "search",
+        "topic-agents"
+      ],
+      "title": "jinwon-int/a2a-nexus",
+      "url": "https://github.com/jinwon-int/a2a-nexus"
     },
     "e089793486ecac08": {
       "category": "可延后",
@@ -297894,19 +298971,19 @@
     },
     "e448ba1019d46724": {
       "category": "只归档",
-      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
       "first_seen": "2026-05-23T08:17:21.404730+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "e448ba1019d46724",
       "kind": "failure",
-      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 10,
+      "seen_count": 12,
       "source": "System",
       "sources": [
         "System"
@@ -301196,19 +302273,19 @@
     },
     "e707339e359deeaa": {
       "category": "只归档",
-      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
       "first_seen": "2026-09-06T08:49:22.805054+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "e707339e359deeaa",
       "kind": "failure",
-      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 3,
+      "seen_count": 5,
       "source": "System",
       "sources": [
         "System"
@@ -313214,19 +314291,19 @@
     },
     "f0cb621ff749d36d": {
       "category": "只归档",
-      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
       "first_seen": "2026-09-11T08:09:40.135116+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "f0cb621ff749d36d",
       "kind": "failure",
-      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 2,
+      "seen_count": 4,
       "source": "System",
       "sources": [
         "System"
@@ -319325,19 +320402,19 @@
     },
     "f5cf875edc95096d": {
       "category": "只归档",
-      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
       "first_seen": "2026-09-11T08:09:40.135116+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "f5cf875edc95096d",
       "kind": "failure",
-      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 2,
+      "seen_count": 4,
       "source": "System",
       "sources": [
         "System"
@@ -320945,24 +322022,24 @@
     },
     "f7ae132b726ef920": {
       "category": "只归档",
-      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "discovered_at": "2026-09-13T08:09:50.032492+08:00",
       "first_seen": "2026-05-27T08:18:46.600372+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "f7ae132b726ef920",
       "kind": "failure",
-      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "last_seen": "2026-09-13T08:09:50.032492+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 9,
+      "seen_count": 10,
       "source": "System",
       "sources": [
         "System"
       ],
-      "summary": "",
+      "summary": "The read operation timed out",
       "tags": [
         "failure"
       ],
@@ -325352,6 +326429,34 @@
       "title": "Automating and Scaling Behavioral Scientific Research on AI Agents",
       "url": "https://arxiv.org/abs/2608.10030"
     },
+    "fb3900369eebc052": {
+      "category": "可延后",
+      "discovered_at": "2026-09-13T08:09:50.032492+08:00",
+      "first_seen": "2026-09-13T08:09:50.032492+08:00",
+      "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
+      "id": "fb3900369eebc052",
+      "kind": "github_repo",
+      "last_seen": "2026-09-13T08:09:50.032492+08:00",
+      "news_category": "",
+      "published": "2026-09-13T00:10:06Z",
+      "rank": 0,
+      "reason": "matches topics: agent, llm; high-value terms: agent",
+      "region": "",
+      "score": 57,
+      "seen_count": 1,
+      "source": "GitHub Search",
+      "sources": [
+        "GitHub Search"
+      ],
+      "summary": "Connect MiniMax M-series models to VS Code Chat for full agentic tool-calling support.",
+      "tags": [
+        "github",
+        "search",
+        "topic-llm"
+      ],
+      "title": "anthemneedleblight824/mightymax-vscode",
+      "url": "https://github.com/anthemneedleblight824/mightymax-vscode"
+    },
     "fb4bacbd4a4fcf80": {
       "category": "只归档",
       "discovered_at": "2026-08-02T08:07:58.573826+08:00",
@@ -326956,6 +328061,35 @@
       ],
       "title": "All you need is PostgreSQL",
       "url": "https://ebellani.github.io/blog/2026/all-you-need-is-postgresql/"
+    },
+    "fc4b9c1c09505ae8": {
+      "category": "可延后",
+      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
+      "first_seen": "2026-09-13T08:09:50.032492+08:00",
+      "follow_up": "检查模型卡、license、benchmark 和可部署性。",
+      "id": "fc4b9c1c09505ae8",
+      "kind": "model",
+      "last_seen": "2026-09-13T08:10:51.978821+08:00",
+      "news_category": "",
+      "published": "2026-09-12T16:39:24.855Z",
+      "rank": 0,
+      "reason": "AI HOT selected item",
+      "region": "",
+      "score": 53,
+      "seen_count": 2,
+      "source": "AI HOT / Suno：Blog（网页）",
+      "sources": [
+        "AI HOT / Suno：Blog（网页）"
+      ],
+      "summary": "Suno 发布新一代音乐模型 v6，与 Warner Music Group、BMG、Believe 等行业伙伴合作开发，后续将全面替换旧模型。v6 分为三个版本：旗舰 v6 和探索向的 v6-wild 面向 Pro 与 Premier 订阅用户，更快的 v6-mini 向所有人开放。",
+      "tags": [
+        "ai-models",
+        "aihot",
+        "model",
+        "selected"
+      ],
+      "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
+      "url": "https://suno.com/blog/introducing-v6"
     },
     "fc4c196213ec92d2": {
       "category": "只归档",
@@ -331674,19 +332808,19 @@
     },
     "ff1bb75148eb959e": {
       "category": "可延后",
-      "discovered_at": "2026-07-08T08:13:27.634160+08:00",
+      "discovered_at": "2026-09-13T08:09:50.032492+08:00",
       "first_seen": "2026-07-08T08:13:27.634160+08:00",
       "follow_up": "查看 README、最近 release 和 issue，判断是否加入工具评估清单。",
       "id": "ff1bb75148eb959e",
       "kind": "github_repo",
-      "last_seen": "2026-07-08T08:13:27.634160+08:00",
+      "last_seen": "2026-09-13T08:09:50.032492+08:00",
       "news_category": "",
-      "published": "2026-07-08T00:12:58Z",
+      "published": "2026-09-13T00:09:59Z",
       "rank": 0,
       "reason": "matches topics: agent, agents; high-value terms: agent, agents",
       "region": "",
       "score": 64,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "GitHub Search",
       "sources": [
         "GitHub Search"
