@@ -1,0 +1,148 @@
+---
+title: AI HOT Daily 2026-09-15
+date: 2026-09-15
+tags:
+  - aihot
+  - daily
+  - research-radar
+---
+
+# 2026-09-15 AI HOT Daily
+
+## AI HOT 官方日报
+
+### matches topics: agent; high-value terms: agent
+
+> [!info]+ **今日必须看 / 86** | 小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先
+> **标题**：小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先
+> **原文链接**：🔗 [打开原文](https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496383&idx=1&sn=2db8607f797615a3647d9fec7e54f448)
+> **source**：AI HOT Daily / 公众号：小红书技术（dots.llm）
+> **kind**：`model`
+> **reason**：matches topics: agent; high-value terms: agent
+> **follow_up**：检查模型卡、license、benchmark 和可部署性。
+> **summary**：小红书 AllSpark 团队发布并开源 Search Agent 模型 Iris，权重和评测代码已公开，数据与训练配方将陆续公布。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 83** | DeepSeek-V4.1-Flash (Max) 进入 Agent Arena 开源模型第 3 名
+> **标题**：DeepSeek-V4.1-Flash (Max) 进入 Agent Arena 开源模型第 3 名
+> **原文链接**：🔗 [打开原文](https://x.com/arena/status/2099549108013006958)
+> **source**：AI HOT Daily / X：Arena (@arena)
+> **kind**：`paper`
+> **reason**：matches topics: agent; high-value terms: agent
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：DeepSeek-V4.1-Flash (Max) 进入 Agent Arena 开源模型第 3 名，净提升 +4.87%，每任务中位成本 $0.07，重塑 Pareto 前沿。其成本比第 2 名 Hy4 preview 低 68%、成绩仅差 0.09 个百分点；总榜排名第 12，Confirmed Success 信号排名 第 4（+13.75%）。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### matches topics: claude code, codex; high-value terms: codex, claude code
+
+> [!info]+ **今日必须看 / 100** | 硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文
+> **标题**：硅基流动上线开源模型 Hy4 preview，770B 总参数、1M 上下文
+> **原文链接**：🔗 [打开原文](https://x.com/SiliconFlowAI/status/2099536759168352634)
+> **source**：AI HOT Daily / X：硅基流动 SiliconFlow (@SiliconFlowAI)
+> **kind**：`model`
+> **reason**：matches topics: claude code, codex; high-value terms: codex, claude code
+> **follow_up**：检查模型卡、license、benchmark 和可部署性。
+> **summary**：硅基流动（SiliconFlow）宣布开源模型 Hy4 preview 上线其平台。该模型总参数 770B、每 token 激活 49B、支持 1M 上下文，采用 Apache 2.0 协议，面向编码、分析、研究和复杂实际工作。用户可将其接入 Claude Code、Codex、Cursor 等已有工具；图片显示定价为每 1M tokens 输入 $0.834、输出 $2.501、缓存 $0.042。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### 产品发布/更新
+
+> [!info]+ **可延后 / 66** | Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线
+> **标题**：Apple 发布新一代 Apple Intelligence，Siri AI 正式以测试版上线
+> **原文链接**：🔗 [打开原文](https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here)
+> **source**：AI HOT Daily / Apple：Newsroom（RSS）
+> **kind**：`product`
+> **reason**：AI HOT official daily section: 产品发布/更新
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Apple 发布新一代 Apple Intelligence，推出全面重构的 Siri AI，支持个人语境理解、屏幕感知、系统级应用操作和跨设备对话，今日起以英文测试版随 2027 系统更新推出，下月扩展至法语、日语、韩语、葡萄牙语和西班牙语。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### matches topics: anthropic
+
+> [!info]+ **可延后 / 72** | Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值
+> **标题**：Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值
+> **原文链接**：🔗 [打开原文](https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo)
+> **source**：AI HOT Daily / The Decoder：AI News（RSS）
+> **kind**：`article`
+> **reason**：matches topics: anthropic
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 72** | Anthropic 如何重构测试影响分析服务以应对智能体编码带来的 CI 压力
+> **标题**：Anthropic 如何重构测试影响分析服务以应对智能体编码带来的 CI 压力
+> **原文链接**：🔗 [打开原文](https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic)
+> **source**：AI HOT Daily / Claude：Blog（网页）
+> **kind**：`article`
+> **reason**：matches topics: anthropic
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Anthropic 工程师每季度交付的代码量是 2021-2025 年均值的 8 倍，其中 80% 由 Claude 编写，六个月内 CI 任务增长 25 倍。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+### 技巧与观点
+
+> [!info]+ **可延后 / 64** | 科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔
+> **标题**：科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔
+> **原文链接**：🔗 [打开原文](https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel)
+> **source**：AI HOT Daily / The Verge：AI（RSS）
+> **kind**：`article`
+> **reason**：AI HOT official daily section: 技巧与观点
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的“卡特尔”。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 64** | GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗
+> **标题**：GPT-5.6 Luna 对比 GPT-6 Astra：$1.20 的模型做代码评审够用吗
+> **原文链接**：🔗 [打开原文](https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review)
+> **source**：AI HOT Daily / Hacker News：AI 热帖
+> **kind**：`article`
+> **reason**：AI HOT official daily section: 技巧与观点
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Entelligence 在 50 个公开基准 PR 上用相同提示词对比 GPT-5.6 Luna 和 GPT-6 Astra 的代码评审能力，Luna 找到 69 个经验证 bug（Astra 92 个），总成本 $0.20 对 $5.66，精度 74% 对 96%。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **可延后 / 64** | Tomer Tunguz 解析 Amodei 放缓前沿提议背后的五派立场与算力监管难题
+> **标题**：Tomer Tunguz 解析 Amodei 放缓前沿提议背后的五派立场与算力监管难题
+> **原文链接**：🔗 [打开原文](https://tomtunguz.com/what-does-the-pause-mean)
+> **source**：AI HOT Daily / Tomer Tunguz 博客（VC 分析）
+> **kind**：`article`
+> **reason**：AI HOT official daily section: 技巧与观点
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Tomer Tunguz 分析 Dario Amodei 提出的放缓前沿 AI 发展号召，梳理出可解释性、劳工、经济、地缘政治和监管俘获五派立场，并指出没有任何一派给出具体速度。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
