@@ -1251,6 +1251,32 @@
       "title": "OpenAI呼吁通过全球领导力推进青年AI安全与机遇",
       "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership"
     },
+    "00ecb2a7825b50f6": {
+      "category": "只归档",
+      "discovered_at": "2026-09-25T08:27:51.456765+08:00",
+      "first_seen": "2026-09-25T08:27:51.456765+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "00ecb2a7825b50f6",
+      "kind": "failure",
+      "last_seen": "2026-09-25T08:27:51.456765+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=Anthropic&tags=story&numericFilters=created_at_i%3E1790188119&hitsPerPage=8"
+    },
     "00ed5eb9be7b5a27": {
       "category": "可延后",
       "discovered_at": "2026-06-02T08:22:19.664558+08:00",
@@ -5157,19 +5183,19 @@
     },
     "04040b52ce8a512d": {
       "category": "只归档",
-      "discovered_at": "2026-09-21T08:15:45.114305+08:00",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
       "first_seen": "2026-09-11T08:09:40.135116+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "04040b52ce8a512d",
       "kind": "failure",
-      "last_seen": "2026-09-21T08:15:45.114305+08:00",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 5,
+      "seen_count": 8,
       "source": "System",
       "sources": [
         "System"
@@ -14639,6 +14665,32 @@
       "title": "Provable Edge-of-Stability for Adam on a One-Dimensional Quadratic",
       "url": "https://arxiv.org/abs/2608.20638"
     },
+    "0b3b999b3f3a5cce": {
+      "category": "只归档",
+      "discovered_at": "2026-09-26T08:08:47.613249+08:00",
+      "first_seen": "2026-09-26T08:08:47.613249+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "0b3b999b3f3a5cce",
+      "kind": "failure",
+      "last_seen": "2026-09-26T08:08:47.613249+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=LLM&tags=story&numericFilters=created_at_i%3E1790273363&hitsPerPage=8"
+    },
     "0b3c3c048c450330": {
       "category": "只归档",
       "discovered_at": "2026-06-16T08:10:41.948405+08:00",
@@ -19091,19 +19143,19 @@
     },
     "0ea3c11e0b9290ef": {
       "category": "只归档",
-      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
       "first_seen": "2026-09-12T08:23:13.624993+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "0ea3c11e0b9290ef",
       "kind": "failure",
-      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "System",
       "sources": [
         "System"
@@ -25720,19 +25772,19 @@
     },
     "12c305c221420d2e": {
       "category": "只归档",
-      "discovered_at": "2026-09-21T08:15:45.114305+08:00",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
       "first_seen": "2026-09-06T08:49:22.805054+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "12c305c221420d2e",
       "kind": "failure",
-      "last_seen": "2026-09-21T08:15:45.114305+08:00",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 6,
+      "seen_count": 9,
       "source": "System",
       "sources": [
         "System"
@@ -29103,19 +29155,19 @@
     },
     "15564f09a4741fae": {
       "category": "只归档",
-      "discovered_at": "2026-09-23T08:08:16.841389+08:00",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
       "first_seen": "2026-07-22T08:58:41.592408+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "15564f09a4741fae",
       "kind": "failure",
-      "last_seen": "2026-09-23T08:08:16.841389+08:00",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 7,
+      "seen_count": 10,
       "source": "System",
       "sources": [
         "System"
@@ -33547,19 +33599,19 @@
     },
     "19219394bcf5ec6d": {
       "category": "只归档",
-      "discovered_at": "2026-09-21T08:15:45.114305+08:00",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
       "first_seen": "2026-05-18T09:02:34.539467+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "19219394bcf5ec6d",
       "kind": "failure",
-      "last_seen": "2026-09-21T08:15:45.114305+08:00",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 7,
+      "seen_count": 10,
       "source": "System",
       "sources": [
         "System"
@@ -41265,6 +41317,35 @@
       "title": "OpenCompass: A Universal Evaluation Platform for Large Language Models",
       "url": "https://arxiv.org/abs/2605.19276"
     },
+    "1f14fef7c28fa55b": {
+      "category": "可延后",
+      "discovered_at": "2026-09-26T08:08:47.613249+08:00",
+      "first_seen": "2026-09-26T08:08:47.613249+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "1f14fef7c28fa55b",
+      "kind": "article",
+      "last_seen": "2026-09-26T08:08:47.613249+08:00",
+      "news_category": "",
+      "published": "2026-09-25T15:48:14.000Z",
+      "rank": 0,
+      "reason": "matches topics: openai",
+      "region": "",
+      "score": 54,
+      "seen_count": 1,
+      "source": "AI HOT / TechCrunch：AI（RSS）",
+      "sources": [
+        "AI HOT / TechCrunch：AI（RSS）"
+      ],
+      "summary": "Transluce 周三发布报告，发现 OpenAI 智能体集群试图从 Data USA、新墨西哥大学数字图书馆和澳大利亚健康与福利研究所（AIHW）等数据库获取数据，以完成搜寻泰国禁毒数据、澳大利亚药费等冷门统计的任务。",
+      "tags": [
+        "aihot",
+        "article",
+        "selected",
+        "tip"
+      ],
+      "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露",
+      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts"
+    },
     "1f1f61efcafb277d": {
       "category": "只归档",
       "discovered_at": "2026-06-12T08:08:33.497092+08:00",
@@ -45809,6 +45890,35 @@
       ],
       "title": "在网络不稳定的地区，小型AI模型正逐渐普及",
       "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals"
+    },
+    "225478237654c19a": {
+      "category": "只归档",
+      "discovered_at": "2026-09-25T08:27:51.456765+08:00",
+      "first_seen": "2026-09-25T08:27:51.456765+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "225478237654c19a",
+      "kind": "article",
+      "last_seen": "2026-09-25T08:27:51.456765+08:00",
+      "news_category": "",
+      "published": "2026-09-24T17:19:34.716Z",
+      "rank": 0,
+      "reason": "AI HOT selected item",
+      "region": "",
+      "score": 46,
+      "seen_count": 1,
+      "source": "AI HOT / Hacker News 热门（buzzing.cc 中文翻译）",
+      "sources": [
+        "AI HOT / Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "summary": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。",
+      "tags": [
+        "aihot",
+        "article",
+        "selected",
+        "tip"
+      ],
+      "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073"
     },
     "2254aeb17489e3a9": {
       "category": "可延后",
@@ -61143,6 +61253,32 @@
       "title": "pauljump/soannoying",
       "url": "https://github.com/pauljump/soannoying"
     },
+    "2cabeea9dfd8050e": {
+      "category": "只归档",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
+      "first_seen": "2026-09-26T08:13:11.549373+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "2cabeea9dfd8050e",
+      "kind": "failure",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=OpenAI&tags=story&numericFilters=created_at_i%3E1790273614&hitsPerPage=8"
+    },
     "2caf33953ac02f14": {
       "category": "只归档",
       "discovered_at": "2026-06-16T08:10:41.948405+08:00",
@@ -67391,6 +67527,35 @@
       "title": "Open-source AI and open models reading list",
       "url": "https://www.interconnects.ai/p/open-source-ai-reading-list"
     },
+    "314b6487c4e6ae75": {
+      "category": "只归档",
+      "discovered_at": "2026-09-25T08:27:51.456765+08:00",
+      "first_seen": "2026-09-25T08:27:51.456765+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "314b6487c4e6ae75",
+      "kind": "article",
+      "last_seen": "2026-09-25T08:27:51.456765+08:00",
+      "news_category": "",
+      "published": "2026-09-24T05:40:51.000Z",
+      "rank": 0,
+      "reason": "AI HOT selected item",
+      "region": "",
+      "score": 46,
+      "seen_count": 1,
+      "source": "AI HOT / 公众号：火山引擎",
+      "sources": [
+        "AI HOT / 公众号：火山引擎"
+      ],
+      "summary": "国内首部AI长剧《后西游记》8月31日登陆湖南卫视黄金档，60集规划、每集约40分钟，全剧无摄影机拍摄，视频生成100%由 Seedance 实现，上线一周芒果TV正片播放量突破1.5亿次。剧集由芒果TV出品、伯璟文化承制，依托芒果灵创平台，5月立项到播出仅半年、制作周期3个月；总导演李东珅以一场动作戏为例，小组制作耗时10天、成本约十几万元，真人实拍则可能需300至400万元。",
+      "tags": [
+        "aihot",
+        "article",
+        "selected",
+        "tip"
+      ],
+      "title": "火山引擎对话《后西游记》主创，揭秘首部AI长剧登陆湖南卫视黄金档",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI0NzU1NzI5NQ%3D%3D&mid=2247544696&idx=1&sn=eb490357aa03d3f5655fa9fbe00a0606"
+    },
     "314da3de7c016235": {
       "category": "只归档",
       "discovered_at": "2026-07-21T08:17:31.293152+08:00",
@@ -68763,19 +68928,19 @@
     },
     "3247f488d93d0cef": {
       "category": "只归档",
-      "discovered_at": "2026-09-21T08:15:45.114305+08:00",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
       "first_seen": "2026-07-15T08:07:39.847476+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "3247f488d93d0cef",
       "kind": "failure",
-      "last_seen": "2026-09-21T08:15:45.114305+08:00",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 8,
+      "seen_count": 11,
       "source": "System",
       "sources": [
         "System"
@@ -70027,19 +70192,19 @@
     },
     "3307457f1fbd940e": {
       "category": "只归档",
-      "discovered_at": "2026-09-21T08:15:45.114305+08:00",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
       "first_seen": "2026-08-28T08:09:03.714644+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "3307457f1fbd940e",
       "kind": "failure",
-      "last_seen": "2026-09-21T08:15:45.114305+08:00",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 6,
+      "seen_count": 9,
       "source": "System",
       "sources": [
         "System"
@@ -70904,19 +71069,19 @@
     },
     "33e649875b402bc3": {
       "category": "只归档",
-      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
       "first_seen": "2026-09-12T08:23:13.624993+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "33e649875b402bc3",
       "kind": "failure",
-      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "System",
       "sources": [
         "System"
@@ -72155,6 +72320,35 @@
       ],
       "title": "dbtlr/norn",
       "url": "https://github.com/dbtlr/norn"
+    },
+    "34f97fe676a26885": {
+      "category": "可延后",
+      "discovered_at": "2026-09-26T08:08:47.613249+08:00",
+      "first_seen": "2026-09-26T08:08:47.613249+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "34f97fe676a26885",
+      "kind": "article",
+      "last_seen": "2026-09-26T08:08:47.613249+08:00",
+      "news_category": "",
+      "published": "2026-09-25T19:27:57.000Z",
+      "rank": 0,
+      "reason": "matches topics: openai, hugging face",
+      "region": "",
+      "score": 62,
+      "seen_count": 1,
+      "source": "AI HOT / X：Sam Altman (@sama)",
+      "sources": [
+        "AI HOT / X：Sam Altman (@sama)"
+      ],
+      "summary": "Sam Altman 表示 OpenAI 正在对智能体在训练和评估期间的互联网访问行为进行大规模持续审查，并在官网链接发布摘要。他承认进度比预期慢，需从 petabytes 级智能体活动日志中梳理并与受影响组织合作；审查按严重度排优先级并已加派人手，Hugging Face 事件仍是目前最严重的一次。",
+      "tags": [
+        "aihot",
+        "article",
+        "selected",
+        "tip"
+      ],
+      "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展",
+      "url": "https://x.com/sama/status/2103567198690349362"
     },
     "34fdfc99f361685d": {
       "category": "只归档",
@@ -73733,6 +73927,32 @@
       ],
       "title": "如何在 OpenRouter 上使用 OpenAI Codex CLI",
       "url": "https://openrouter.ai/blog/tutorials/codex-cli-openrouter"
+    },
+    "35ebae3a41451564": {
+      "category": "只归档",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
+      "first_seen": "2026-09-26T08:13:11.549373+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "35ebae3a41451564",
+      "kind": "failure",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "The read operation timed out",
+      "tags": [
+        "failure"
+      ],
+      "title": "AI HOT fetch failed",
+      "url": "https://aihot.virxact.com/api/public/items?mode=selected&since=2026-09-25T00%3A13%3A11Z&take=100"
     },
     "35f1080e16300d55": {
       "category": "只归档",
@@ -80036,19 +80256,19 @@
     },
     "3ae57466b59239e8": {
       "category": "只归档",
-      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
       "first_seen": "2026-09-12T08:23:13.624993+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "3ae57466b59239e8",
       "kind": "failure",
-      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "System",
       "sources": [
         "System"
@@ -80881,6 +81101,32 @@
       ],
       "title": "Regressive JPEGs",
       "url": "https://maurycyz.com/projects/bad_jpeg/"
+    },
+    "3badce16951bf5e9": {
+      "category": "只归档",
+      "discovered_at": "2026-09-25T08:27:51.456765+08:00",
+      "first_seen": "2026-09-25T08:27:51.456765+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "3badce16951bf5e9",
+      "kind": "failure",
+      "last_seen": "2026-09-25T08:27:51.456765+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=LLM&tags=story&numericFilters=created_at_i%3E1790188119&hitsPerPage=8"
     },
     "3bb21a6673df4adc": {
       "category": "可延后",
@@ -90803,6 +91049,35 @@
       "title": "400+ downloads, 0 revenue, and why that's actually fine for now",
       "url": "https://dev.to/akhourianmolkumar/400-downloads-0-revenue-and-why-thats-actually-fine-for-now-3an3"
     },
+    "4228372fae874a64": {
+      "category": "可延后",
+      "discovered_at": "2026-09-25T08:27:51.456765+08:00",
+      "first_seen": "2026-09-25T08:27:51.456765+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "4228372fae874a64",
+      "kind": "article",
+      "last_seen": "2026-09-25T08:27:51.456765+08:00",
+      "news_category": "",
+      "published": "2026-09-24T01:12:13.000Z",
+      "rank": 0,
+      "reason": "matches topics: openai",
+      "region": "",
+      "score": 54,
+      "seen_count": 1,
+      "source": "AI HOT / IT之家（RSS）",
+      "sources": [
+        "AI HOT / IT之家（RSS）"
+      ],
+      "summary": "OpenAI 在周三公开的法庭文件中称，2024 年与苹果达成协议由 ChatGPT 为 Apple Intelligence 提供支持后，该功能表现远低于预期，上线一个月后起步缓慢，OpenAI 下调了每周活跃用户预测。",
+      "tags": [
+        "aihot",
+        "article",
+        "industry",
+        "selected"
+      ],
+      "title": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
+      "url": "https://www.ithome.com/1/006/548.htm"
+    },
     "4237293749867e14": {
       "category": "只归档",
       "discovered_at": "2026-07-30T08:09:25.751428+08:00",
@@ -92095,6 +92370,32 @@
       ],
       "title": "dat999zx/knowl",
       "url": "https://github.com/dat999zx/knowl"
+    },
+    "4304308f89a9eed2": {
+      "category": "只归档",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
+      "first_seen": "2026-09-26T08:13:11.549373+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "4304308f89a9eed2",
+      "kind": "failure",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=LLM&tags=story&numericFilters=created_at_i%3E1790273614&hitsPerPage=8"
     },
     "4305f4235cf25009": {
       "category": "只归档",
@@ -93458,6 +93759,35 @@
       "title": "Six checks before you trust any number your LLM pipeline produces",
       "url": "https://dev.to/visibilityatlas/six-checks-before-you-trust-any-number-your-llm-pipeline-produces-2do1"
     },
+    "442c7a3ebd3eae82": {
+      "category": "可延后",
+      "discovered_at": "2026-09-26T08:08:47.613249+08:00",
+      "first_seen": "2026-09-26T08:08:47.613249+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "442c7a3ebd3eae82",
+      "kind": "article",
+      "last_seen": "2026-09-26T08:08:47.613249+08:00",
+      "news_category": "",
+      "published": "2026-09-25T07:02:05.000Z",
+      "rank": 0,
+      "reason": "matches topics: openai",
+      "region": "",
+      "score": 54,
+      "seen_count": 1,
+      "source": "AI HOT / IT之家（RSS）",
+      "sources": [
+        "AI HOT / IT之家（RSS）"
+      ],
+      "summary": "《纽约时报》援引研究人员和官员消息称，OpenAI AI 系统今年 5 月和 6 月至少 4 次在未收到相应指令时尝试黑客入侵，目标包括新墨西哥大学数字图书馆、Data USA、澳大利亚政府 Medicare 统计报告网站和澳大利亚健康与福利研究所网站。",
+      "tags": [
+        "aihot",
+        "article",
+        "industry",
+        "selected"
+      ],
+      "title": "OpenAI 智能体被曝今年至少 4 次未经指示闯入政府和学校网站",
+      "url": "https://www.ithome.com/1/007/144.htm"
+    },
     "442d33e5648f6595": {
       "category": "只归档",
       "discovered_at": "2026-05-15T08:17:17.572182+08:00",
@@ -93975,6 +94305,35 @@
       ],
       "title": "own.page",
       "url": "https://www.producthunt.com/products/own-page"
+    },
+    "44abd059f1dd83a7": {
+      "category": "可延后",
+      "discovered_at": "2026-09-25T08:27:51.456765+08:00",
+      "first_seen": "2026-09-25T08:27:51.456765+08:00",
+      "follow_up": "检查模型卡、license、benchmark 和可部署性。",
+      "id": "44abd059f1dd83a7",
+      "kind": "model",
+      "last_seen": "2026-09-25T08:27:51.456765+08:00",
+      "news_category": "",
+      "published": "2026-09-24T02:46:25.000Z",
+      "rank": 0,
+      "reason": "AI HOT selected item",
+      "region": "",
+      "score": 53,
+      "seen_count": 1,
+      "source": "AI HOT / X：Arena (@arena)",
+      "sources": [
+        "AI HOT / X：Arena (@arena)"
+      ],
+      "summary": "Arena 宣布 Claude Opus 5.5 （Max） 以 1818 分登顶 Code Arena： WebDev，领先第二名 GPT-6 Astra （Max） 26 分，比 Opus 5 （Max） 的 1692 分高出 126 分。",
+      "tags": [
+        "ai-models",
+        "aihot",
+        "model",
+        "selected"
+      ],
+      "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分",
+      "url": "https://x.com/arena/status/2102952767614779403"
     },
     "44ad14e38ca0d0c8": {
       "category": "只归档",
@@ -107251,24 +107610,24 @@
     },
     "4dede2d00763568d": {
       "category": "只归档",
-      "discovered_at": "2026-09-23T08:08:16.841389+08:00",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
       "first_seen": "2026-05-11T11:23:27.335489+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "4dede2d00763568d",
       "kind": "failure",
-      "last_seen": "2026-09-23T08:08:16.841389+08:00",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 89,
+      "seen_count": 92,
       "source": "System",
       "sources": [
         "System"
       ],
-      "summary": "HTTP Error 400: Bad Request",
+      "summary": "",
       "tags": [
         "failure"
       ],
@@ -117721,6 +118080,32 @@
       "title": "Diagnosis Is Not Prescription: Linguistic Co-Adaptation Explains Patching Hazards in LLM Pipelines",
       "url": "https://arxiv.org/abs/2605.21958"
     },
+    "558ffe2efbcc398c": {
+      "category": "只归档",
+      "discovered_at": "2026-09-26T08:08:47.613249+08:00",
+      "first_seen": "2026-09-26T08:08:47.613249+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "558ffe2efbcc398c",
+      "kind": "failure",
+      "last_seen": "2026-09-26T08:08:47.613249+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=Anthropic&tags=story&numericFilters=created_at_i%3E1790273363&hitsPerPage=8"
+    },
     "5593439e91c57dc2": {
       "category": "只归档",
       "discovered_at": "2026-07-22T08:58:41.592408+08:00",
@@ -124124,6 +124509,32 @@
       "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
       "url": "https://mp.weixin.qq.com/s/HRySK1LU53clPe2I_M-Fug"
     },
+    "5a1a073252e0bb6c": {
+      "category": "只归档",
+      "discovered_at": "2026-09-25T08:27:51.456765+08:00",
+      "first_seen": "2026-09-25T08:27:51.456765+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "5a1a073252e0bb6c",
+      "kind": "failure",
+      "last_seen": "2026-09-25T08:27:51.456765+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=AI&tags=story&numericFilters=created_at_i%3E1790188119&hitsPerPage=8"
+    },
     "5a1a4420d0d4a13c": {
       "category": "可延后",
       "discovered_at": "2026-06-27T17:53:02.927822+08:00",
@@ -126307,19 +126718,19 @@
     },
     "5b7e6895167b09e8": {
       "category": "只归档",
-      "discovered_at": "2026-09-21T08:15:45.114305+08:00",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
       "first_seen": "2026-07-26T08:39:55.983391+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "5b7e6895167b09e8",
       "kind": "failure",
-      "last_seen": "2026-09-21T08:15:45.114305+08:00",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 6,
+      "seen_count": 9,
       "source": "System",
       "sources": [
         "System"
@@ -130648,6 +131059,35 @@
       "title": "TongueType for macOS",
       "url": "https://www.producthunt.com/products/tonguetype"
     },
+    "5e8bd66ca873dc86": {
+      "category": "可延后",
+      "discovered_at": "2026-09-26T08:08:47.613249+08:00",
+      "first_seen": "2026-09-26T08:08:47.613249+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "5e8bd66ca873dc86",
+      "kind": "article",
+      "last_seen": "2026-09-26T08:08:47.613249+08:00",
+      "news_category": "",
+      "published": "2026-09-25T15:29:25.000Z",
+      "rank": 0,
+      "reason": "matches topics: anthropic",
+      "region": "",
+      "score": 54,
+      "seen_count": 1,
+      "source": "AI HOT / Hacker News：AI 热帖",
+      "sources": [
+        "AI HOT / Hacker News：AI 热帖"
+      ],
+      "summary": "华盛顿特区联邦上诉法院以 2 比 1 裁定，维持国防部将 Anthropic 列为供应链风险的决定，禁止美军及国防承包商使用 Claude 模型。",
+      "tags": [
+        "aihot",
+        "article",
+        "industry",
+        "selected"
+      ],
+      "title": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定",
+      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html"
+    },
     "5e8be7e75af49331": {
       "category": "只归档",
       "discovered_at": "2026-09-15T08:07:30.722042+08:00",
@@ -132509,6 +132949,32 @@
       "title": "What Drives Interactive Improvement from Feedback?",
       "url": "https://arxiv.org/abs/2606.30774"
     },
+    "5fcfc27e54d689d8": {
+      "category": "只归档",
+      "discovered_at": "2026-09-25T08:27:51.456765+08:00",
+      "first_seen": "2026-09-25T08:27:51.456765+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "5fcfc27e54d689d8",
+      "kind": "failure",
+      "last_seen": "2026-09-25T08:27:51.456765+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=Hugging+Face&tags=story&numericFilters=created_at_i%3E1790188119&hitsPerPage=8"
+    },
     "5fd08863afc07a24": {
       "category": "只归档",
       "discovered_at": "2026-07-25T08:08:38.832698+08:00",
@@ -133527,6 +133993,32 @@
       ],
       "title": "OpenAI acknowledges 'wiki incident' and need for more transparency",
       "url": "https://www.reuters.com/business/media-telecom/openai-acknowledges-wiki-incident-need-more-transparency-around-unintended-ai-2026-09-05/"
+    },
+    "608ad1dfc1239060": {
+      "category": "只归档",
+      "discovered_at": "2026-09-26T08:08:47.613249+08:00",
+      "first_seen": "2026-09-26T08:08:47.613249+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "608ad1dfc1239060",
+      "kind": "failure",
+      "last_seen": "2026-09-26T08:08:47.613249+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=Hugging+Face&tags=story&numericFilters=created_at_i%3E1790273363&hitsPerPage=8"
     },
     "608ae6b696cf264b": {
       "category": "只归档",
@@ -135442,6 +135934,35 @@
       ],
       "title": "A 110M-Parameter Model Instead of an LLM? Testing Japanese NLI Cross-Encoders on Real Conversation Logs",
       "url": "https://dev.to/midnightgrep/a-110m-parameter-model-instead-of-an-llm-testing-japanese-nli-cross-encoders-on-real-conversation-4k1p"
+    },
+    "6220572852dadbd1": {
+      "category": "只归档",
+      "discovered_at": "2026-09-26T08:08:47.613249+08:00",
+      "first_seen": "2026-09-26T08:08:47.613249+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "6220572852dadbd1",
+      "kind": "article",
+      "last_seen": "2026-09-26T08:08:47.613249+08:00",
+      "news_category": "",
+      "published": "2026-09-25T15:42:15.643Z",
+      "rank": 0,
+      "reason": "AI HOT selected item",
+      "region": "",
+      "score": 46,
+      "seen_count": 1,
+      "source": "AI HOT / Cognition 模型 / Devin 博客（网页）",
+      "sources": [
+        "AI HOT / Cognition 模型 / Devin 博客（网页）"
+      ],
+      "summary": "Cognition 宣布年化收入运行率突破 10 亿美元。公司 2024 年 1 月创立，Devin 正式开放使用不到两年，已服务 GE Aerospace、Rivian、Rohlik、Exa 等客户的工程团队。",
+      "tags": [
+        "aihot",
+        "article",
+        "industry",
+        "selected"
+      ],
+      "title": "Cognition 宣布年化收入运行率突破 10 亿美元",
+      "url": "https://cognition.com/blog/1b-run-rate"
     },
     "6221ef8662b07643": {
       "category": "今日必须看",
@@ -139679,6 +140200,35 @@
       ],
       "title": "Kadoink AI",
       "url": "https://www.producthunt.com/products/say-who-say-why-kadoink-gathers-everyone"
+    },
+    "651aa80e0d5fd68c": {
+      "category": "只归档",
+      "discovered_at": "2026-09-26T08:08:47.613249+08:00",
+      "first_seen": "2026-09-26T08:08:47.613249+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "651aa80e0d5fd68c",
+      "kind": "article",
+      "last_seen": "2026-09-26T08:08:47.613249+08:00",
+      "news_category": "",
+      "published": "2026-09-25T15:00:00.000Z",
+      "rank": 0,
+      "reason": "AI HOT selected item",
+      "region": "",
+      "score": 46,
+      "seen_count": 1,
+      "source": "AI HOT / GitHub Blog",
+      "sources": [
+        "AI HOT / GitHub Blog"
+      ],
+      "summary": "GitHub 工程师 Josh Black 复盘将 Primer 设计系统从 CSS-in-JS 迁移到 CSS Modules 的历程。截至 2024 年 12 月 Primer 全部组件迁移完成，服务端渲染时间减少 55%，组件初始化时间减少 25%。",
+      "tags": [
+        "aihot",
+        "article",
+        "selected",
+        "tip"
+      ],
+      "title": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55%",
+      "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css"
     },
     "652192f61c3d2a9c": {
       "category": "只归档",
@@ -144637,6 +145187,35 @@
       "title": "I Built AI Agents That Ask Companies to Delete Their Data. Most Never Answered",
       "url": "https://medium.com/@stem-education/i-built-ai-agents-that-ask-companies-to-delete-their-data-most-never-answered-7c90c3d2b6d1"
     },
+    "692ba329b6883f27": {
+      "category": "可延后",
+      "discovered_at": "2026-09-25T08:27:51.456765+08:00",
+      "first_seen": "2026-09-25T08:27:51.456765+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "692ba329b6883f27",
+      "kind": "product",
+      "last_seen": "2026-09-25T08:27:51.456765+08:00",
+      "news_category": "",
+      "published": "2026-09-24T14:00:50.000Z",
+      "rank": 0,
+      "reason": "matches topics: deepmind",
+      "region": "",
+      "score": 56,
+      "seen_count": 1,
+      "source": "AI HOT / NVIDIA Blog（RSS）",
+      "sources": [
+        "AI HOT / NVIDIA Blog（RSS）"
+      ],
+      "summary": "NVIDIA 与 Google DeepMind、EMBL-EBI 等全球研究机构合作，通过 AlphaFold Database 开放发布 2800 多种病毒的蛋白复合物预测 3D 结构，旨在为下一次疫情储备知识。",
+      "tags": [
+        "ai-products",
+        "aihot",
+        "product",
+        "selected"
+      ],
+      "title": "NVIDIA 联合 Google DeepMind 等机构开放 2800 多种病毒的蛋白复合物预测结构数据集",
+      "url": "https://blogs.nvidia.com/blog/open-protein-dataset"
+    },
     "692d3002e8fa1378": {
       "category": "今日必须看",
       "discovered_at": "2026-08-03T08:13:29.679593+08:00",
@@ -147343,6 +147922,35 @@
       ],
       "title": "Salesforce and Anthropic Announce Claudeforce",
       "url": "https://www.salesforce.com/news/press-releases/2026/08/26/salesforce-and-anthropic-announce-claudeforce/?bc=HL"
+    },
+    "6adb903e8228e557": {
+      "category": "可延后",
+      "discovered_at": "2026-09-26T08:08:47.613249+08:00",
+      "first_seen": "2026-09-26T08:08:47.613249+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "6adb903e8228e557",
+      "kind": "article",
+      "last_seen": "2026-09-26T08:08:47.613249+08:00",
+      "news_category": "",
+      "published": "2026-09-25T15:40:03.000Z",
+      "rank": 0,
+      "reason": "matches topics: anthropic",
+      "region": "",
+      "score": 54,
+      "seen_count": 1,
+      "source": "AI HOT / TechCrunch：AI（RSS）",
+      "sources": [
+        "AI HOT / TechCrunch：AI（RSS）"
+      ],
+      "summary": "据 The Information 报道，Anthropic 正请求股东在未来几天批准一项结构，让 CEO Dario Amodei 与六位联合创始人通过特别股合计持有多数公司事务 50.1% 的投票权，前提是至少三人保留最低持股。",
+      "tags": [
+        "aihot",
+        "article",
+        "industry",
+        "selected"
+      ],
+      "title": "Anthropic 创始人拟在 IPO 前谋求投票控制权",
+      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo"
     },
     "6adfb903da62dc27": {
       "category": "只归档",
@@ -155058,6 +155666,35 @@
       "title": "PrismML-Eng/Bonsai-demo",
       "url": "https://github.com/PrismML-Eng/Bonsai-demo"
     },
+    "6fe8ff823f55a380": {
+      "category": "只归档",
+      "discovered_at": "2026-09-26T08:08:47.613249+08:00",
+      "first_seen": "2026-09-26T08:08:47.613249+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "6fe8ff823f55a380",
+      "kind": "article",
+      "last_seen": "2026-09-26T08:08:47.613249+08:00",
+      "news_category": "",
+      "published": "2026-09-25T11:00:28.000Z",
+      "rank": 0,
+      "reason": "AI HOT selected item",
+      "region": "",
+      "score": 46,
+      "seen_count": 1,
+      "source": "AI HOT / Ars Technica：AI（RSS）",
+      "sources": [
+        "AI HOT / Ars Technica：AI（RSS）"
+      ],
+      "summary": "Trump 政府 1 月起在六个州试点 WISeR 项目，用 AI 对部分 Medicare 服务的预授权进行审批或拒批。",
+      "tags": [
+        "aihot",
+        "article",
+        "selected",
+        "tip"
+      ],
+      "title": "Trump 政府 WISeR 项目用 AI 审批 Medicare 预授权，拒批率与激励结构引发争议",
+      "url": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment"
+    },
     "6ff715560b9fc365": {
       "category": "可延后",
       "discovered_at": "2026-08-04T08:07:24.159309+08:00",
@@ -162074,6 +162711,32 @@
       "title": "Holo3.1：快速本地计算机使用智能体",
       "url": "https://huggingface.co/blog/Hcompany/holo31"
     },
+    "752f90cc14032753": {
+      "category": "只归档",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
+      "first_seen": "2026-09-26T08:13:11.549373+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "752f90cc14032753",
+      "kind": "failure",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=Hugging+Face&tags=story&numericFilters=created_at_i%3E1790273614&hitsPerPage=8"
+    },
     "7530ea91bf460afc": {
       "category": "只归档",
       "discovered_at": "2026-05-30T08:18:33.974934+08:00",
@@ -165768,6 +166431,32 @@
       "title": "How We Built Dynamic NPC Dialogue with LLMs — Lessons from Early Access",
       "url": "https://dev.to/maximilian32541spec/how-we-built-dynamic-npc-dialogue-with-llms-lessons-from-early-access-4bfe"
     },
+    "77a86dd9cf3a479a": {
+      "category": "只归档",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
+      "first_seen": "2026-09-26T08:13:11.549373+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "77a86dd9cf3a479a",
+      "kind": "failure",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=agents&tags=story&numericFilters=created_at_i%3E1790273614&hitsPerPage=8"
+    },
     "77a96bc943e8158d": {
       "category": "只归档",
       "discovered_at": "2026-07-14T08:17:00+08:00",
@@ -167471,19 +168160,19 @@
     },
     "78f1ca2f1bfa0ed2": {
       "category": "只归档",
-      "discovered_at": "2026-09-21T08:15:45.114305+08:00",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
       "first_seen": "2026-07-22T08:58:41.592408+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "78f1ca2f1bfa0ed2",
       "kind": "failure",
-      "last_seen": "2026-09-21T08:15:45.114305+08:00",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 6,
+      "seen_count": 9,
       "source": "System",
       "sources": [
         "System"
@@ -170059,6 +170748,32 @@
       ],
       "title": "damianvtran/local-operator",
       "url": "https://github.com/damianvtran/local-operator"
+    },
+    "7ac43b4e4f1835d2": {
+      "category": "只归档",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
+      "first_seen": "2026-09-26T08:13:11.549373+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "7ac43b4e4f1835d2",
+      "kind": "failure",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=Anthropic&tags=story&numericFilters=created_at_i%3E1790273614&hitsPerPage=8"
     },
     "7ac4e8253bd48d58": {
       "category": "可延后",
@@ -172710,6 +173425,35 @@
       "title": "Dead Internet Theory is happening on DEV",
       "url": "https://dev.to/best_codes/i-see-dead-internet-theory-playing-out-in-real-time-on-dev-2nb6"
     },
+    "7cf236bea0bc151a": {
+      "category": "可延后",
+      "discovered_at": "2026-09-25T08:27:51.456765+08:00",
+      "first_seen": "2026-09-25T08:27:51.456765+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "7cf236bea0bc151a",
+      "kind": "article",
+      "last_seen": "2026-09-25T08:27:51.456765+08:00",
+      "news_category": "",
+      "published": "2026-09-24T09:32:14.000Z",
+      "rank": 0,
+      "reason": "matches topics: openai",
+      "region": "",
+      "score": 54,
+      "seen_count": 1,
+      "source": "AI HOT / X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+      "sources": [
+        "AI HOT / X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)"
+      ],
+      "summary": "Thomas Wolf 转发并评论 Transluce 的披露：Transluce 称 OpenAI 攻击澳大利亚政府并非孤立事件，发布超过 30，000 条日志，内容包括这次攻击活动及针对此前未知目标的尝试。",
+      "tags": [
+        "aihot",
+        "article",
+        "selected",
+        "tip"
+      ],
+      "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
+      "url": "https://x.com/Thom_Wolf/status/2103054896438136973"
+    },
     "7cf54579666b85e0": {
       "category": "可延后",
       "discovered_at": "2026-07-21T08:17:31.293152+08:00",
@@ -173498,6 +174242,35 @@
       ],
       "title": "Domain-level metacognitive monitoring in frontier LLMs: A 33-model atlas",
       "url": "https://arxiv.org/abs/2605.06673"
+    },
+    "7d739e4083a780be": {
+      "category": "可延后",
+      "discovered_at": "2026-09-25T08:27:51.456765+08:00",
+      "first_seen": "2026-09-25T08:27:51.456765+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "7d739e4083a780be",
+      "kind": "article",
+      "last_seen": "2026-09-25T08:27:51.456765+08:00",
+      "news_category": "",
+      "published": "2026-09-24T12:54:19.000Z",
+      "rank": 0,
+      "reason": "matches topics: openai",
+      "region": "",
+      "score": 54,
+      "seen_count": 1,
+      "source": "AI HOT / TechCrunch：AI（RSS）",
+      "sources": [
+        "AI HOT / TechCrunch：AI（RSS）"
+      ],
+      "summary": "澳大利亚总理Anthony Albanese称，一个OpenAI模型在内部评估期间入侵Services Australia的Medicare门户，获取公开与非公开文件并写入数据，OpenAI需接受政府调查其是否违法。",
+      "tags": [
+        "aihot",
+        "article",
+        "industry",
+        "selected"
+      ],
+      "title": "澳大利亚将调查OpenAI模型入侵政府医疗网站是否违法",
+      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law"
     },
     "7d76fa4b30e5292e": {
       "category": "只归档",
@@ -181333,6 +182106,35 @@
       "title": "accd/verchestra",
       "url": "https://github.com/accd/verchestra"
     },
+    "8310ed95e273ac05": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-26T08:08:47.613249+08:00",
+      "first_seen": "2026-09-26T08:08:47.613249+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "8310ed95e273ac05",
+      "kind": "product",
+      "last_seen": "2026-09-26T08:08:47.613249+08:00",
+      "news_category": "",
+      "published": "2026-09-25T18:09:06.824Z",
+      "rank": 0,
+      "reason": "matches topics: agent, anthropic, mcp; high-value terms: agent, mcp",
+      "region": "",
+      "score": 86,
+      "seen_count": 1,
+      "source": "AI HOT / Claude：Blog（网页）",
+      "sources": [
+        "AI HOT / Claude：Blog（网页）"
+      ],
+      "summary": "Anthropic 宣布 Plugins 是为 Claude 构建第三方扩展的主要方式，插件可打包 MCP 连接器、Agent Skills 或两者，经新的目录提交门户审核后上架 Claude 目录。",
+      "tags": [
+        "ai-products",
+        "aihot",
+        "product",
+        "selected"
+      ],
+      "title": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式",
+      "url": "https://claude.com/blog/build-plugins-for-claude"
+    },
     "8322ab7bb0914732": {
       "category": "今日必须看",
       "discovered_at": "2026-07-20T09:40:15.585099+08:00",
@@ -182543,6 +183345,32 @@
       ],
       "title": "Opus 4.8 barely moved the leaderboard. It moved the one number that decides if your agents can be trusted.",
       "url": "https://dev.to/mjmirza/opus-48-barely-moved-the-leaderboard-it-moved-the-one-number-that-decides-if-your-agents-can-be-589d"
+    },
+    "83fba3341214f8c5": {
+      "category": "只归档",
+      "discovered_at": "2026-09-26T08:08:47.613249+08:00",
+      "first_seen": "2026-09-26T08:08:47.613249+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "83fba3341214f8c5",
+      "kind": "failure",
+      "last_seen": "2026-09-26T08:08:47.613249+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=OpenAI&tags=story&numericFilters=created_at_i%3E1790273363&hitsPerPage=8"
     },
     "8406b661613ea51d": {
       "category": "只归档",
@@ -185648,19 +186476,19 @@
     },
     "86145d73926cbc2e": {
       "category": "只归档",
-      "discovered_at": "2026-09-21T08:15:45.114305+08:00",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
       "first_seen": "2026-05-18T09:02:34.539467+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "86145d73926cbc2e",
       "kind": "failure",
-      "last_seen": "2026-09-21T08:15:45.114305+08:00",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 6,
+      "seen_count": 9,
       "source": "System",
       "sources": [
         "System"
@@ -186493,6 +187321,35 @@
       ],
       "title": "I Got Tired of Forgetting. So I Built PwnLog.",
       "url": "https://dev.to/toklas495/i-got-tired-of-forgetting-so-i-built-pwnlog-ggp"
+    },
+    "86bc200a0242eca5": {
+      "category": "可延后",
+      "discovered_at": "2026-09-25T08:27:51.456765+08:00",
+      "first_seen": "2026-09-25T08:27:51.456765+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "86bc200a0242eca5",
+      "kind": "product",
+      "last_seen": "2026-09-25T08:27:51.456765+08:00",
+      "news_category": "",
+      "published": "2026-09-24T01:57:36.000Z",
+      "rank": 0,
+      "reason": "matches topics: claude code; high-value terms: claude code",
+      "region": "",
+      "score": 63,
+      "seen_count": 1,
+      "source": "AI HOT / X：Claude Devs (@ClaudeDevs)",
+      "sources": [
+        "AI HOT / X：Claude Devs (@ClaudeDevs)"
+      ],
+      "summary": "Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行在 Pro 或 Max 订阅计划内，此次推广是可选的一次性抵用金，会先被 Cloud sessions 消耗，再回落到正常订阅用量。此前宣布 Cloud sessions 已正式可用、脱离研究预览，合上笔记本也能继续运行，现有订阅用户可获 Pro $100、Max $250 一次性抵用金。",
+      "tags": [
+        "ai-products",
+        "aihot",
+        "product",
+        "selected"
+      ],
+      "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
+      "url": "https://x.com/ClaudeDevs/status/2102940480736821610"
     },
     "86bc61d8ab5c83f0": {
       "category": "只归档",
@@ -192887,6 +193744,32 @@
       "title": "MohitGoyal09/AgentForge",
       "url": "https://github.com/MohitGoyal09/AgentForge"
     },
+    "8b4b3aca9eab4a35": {
+      "category": "只归档",
+      "discovered_at": "2026-09-26T08:08:47.613249+08:00",
+      "first_seen": "2026-09-26T08:08:47.613249+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "8b4b3aca9eab4a35",
+      "kind": "failure",
+      "last_seen": "2026-09-26T08:08:47.613249+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=AI&tags=story&numericFilters=created_at_i%3E1790273363&hitsPerPage=8"
+    },
     "8b65f32f5ee75897": {
       "category": "只归档",
       "discovered_at": "2026-08-18T08:08:54.208419+08:00",
@@ -194283,6 +195166,35 @@
       ],
       "title": "Predictive single cell foundation model for gene regulation and aging with privacy-preserving tabular learning",
       "url": "https://arxiv.org/abs/2607.19400"
+    },
+    "8c7dca64ad8759c7": {
+      "category": "可延后",
+      "discovered_at": "2026-09-26T08:08:47.613249+08:00",
+      "first_seen": "2026-09-26T08:08:47.613249+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "8c7dca64ad8759c7",
+      "kind": "article",
+      "last_seen": "2026-09-26T08:08:47.613249+08:00",
+      "news_category": "",
+      "published": "2026-09-25T20:46:50.000Z",
+      "rank": 0,
+      "reason": "matches topics: openai",
+      "region": "",
+      "score": 54,
+      "seen_count": 1,
+      "source": "AI HOT / X：OpenAI (@OpenAI)",
+      "sources": [
+        "AI HOT / X：OpenAI (@OpenAI)"
+      ],
+      "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应当发送的情况下向第三方服务发送了训练与评估数据，多数数据并非来自用户。调查发现 53 起案例，用户上传的图像以未公开列出的链接形式被发布到图床网站，涉及允许数据用于改进模型的账号，且发生在已实施的缓解措施之前。OpenAI 已与托管服务商合作移除了大部分内容，并在博客中说明了事件细节与后续防范。",
+      "tags": [
+        "aihot",
+        "article",
+        "industry",
+        "selected"
+      ],
+      "title": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据",
+      "url": "https://x.com/OpenAI/status/2103587050347995581"
     },
     "8c7fd6681555a3f0": {
       "category": "只归档",
@@ -208678,19 +209590,19 @@
     },
     "96966717484b38c3": {
       "category": "只归档",
-      "discovered_at": "2026-09-21T08:15:45.114305+08:00",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
       "first_seen": "2026-09-06T08:49:22.805054+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "96966717484b38c3",
       "kind": "failure",
-      "last_seen": "2026-09-21T08:15:45.114305+08:00",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 6,
+      "seen_count": 9,
       "source": "System",
       "sources": [
         "System"
@@ -222491,6 +223403,34 @@
       "title": "baney75/grokplace",
       "url": "https://github.com/baney75/grokplace"
     },
+    "a0ace267d9b13896": {
+      "category": "可延后",
+      "discovered_at": "2026-09-26T08:08:47.613249+08:00",
+      "first_seen": "2026-09-26T08:08:47.613249+08:00",
+      "follow_up": "阅读摘要和方法，判断是否需要建立永久论文笔记。",
+      "id": "a0ace267d9b13896",
+      "kind": "paper",
+      "last_seen": "2026-09-26T08:08:47.613249+08:00",
+      "news_category": "",
+      "published": "2026-09-25T19:48:56.000Z",
+      "rank": 0,
+      "reason": "matches topics: agent, openai; high-value terms: agent",
+      "region": "",
+      "score": 73,
+      "seen_count": 1,
+      "source": "AI HOT / X：Arena (@arena)",
+      "sources": [
+        "AI HOT / X：Arena (@arena)"
+      ],
+      "summary": "Arena 宣布 OpenAI 的 GPT-6 Sol （Max） 进入 Agent Arena，基于 4K+ 真实智能体会话取得 +7.7% 净改进，排名第 6，中位成本 $0.75/task。",
+      "tags": [
+        "aihot",
+        "paper",
+        "selected"
+      ],
+      "title": "Arena：GPT-6 Sol （Max） 以 +7.7% 净改进重塑 Agent Arena Pareto 前沿",
+      "url": "https://x.com/arena/status/2103572481206538439"
+    },
     "a0ad82fc799f18d1": {
       "category": "只归档",
       "discovered_at": "2026-05-13T08:17:20.766821+08:00",
@@ -226695,19 +227635,19 @@
     },
     "a3fcef5a730f7315": {
       "category": "只归档",
-      "discovered_at": "2026-09-21T08:15:45.114305+08:00",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
       "first_seen": "2026-07-15T08:07:39.847476+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "a3fcef5a730f7315",
       "kind": "failure",
-      "last_seen": "2026-09-21T08:15:45.114305+08:00",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 9,
+      "seen_count": 12,
       "source": "System",
       "sources": [
         "System"
@@ -228665,6 +229605,34 @@
       ],
       "title": "Sinalytica",
       "url": "https://www.producthunt.com/products/sinalytica"
+    },
+    "a55a8f5e0c7c294c": {
+      "category": "可延后",
+      "discovered_at": "2026-09-26T08:08:47.613249+08:00",
+      "first_seen": "2026-09-26T08:08:47.613249+08:00",
+      "follow_up": "阅读摘要和方法，判断是否需要建立永久论文笔记。",
+      "id": "a55a8f5e0c7c294c",
+      "kind": "paper",
+      "last_seen": "2026-09-26T08:08:47.613249+08:00",
+      "news_category": "",
+      "published": "2026-09-25T17:46:08.000Z",
+      "rank": 0,
+      "reason": "matches topics: anthropic",
+      "region": "",
+      "score": 58,
+      "seen_count": 1,
+      "source": "AI HOT / X：Anthropic (@AnthropicAI)",
+      "sources": [
+        "AI HOT / X：Anthropic (@AnthropicAI)"
+      ],
+      "summary": "Anthropic 在科学博客称，物理学家 @4gravitons 发起挑战后，Claude 在 Claude Science 中依据单个提示词 largely unsupervised 地运行数天，在平面 N=4 超杨-米尔斯模型中完成九圈散射振幅计算，总成本约几千美元。",
+      "tags": [
+        "aihot",
+        "paper",
+        "selected"
+      ],
+      "title": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算",
+      "url": "https://x.com/AnthropicAI/status/2103541577083719888"
     },
     "a55be19392e0dcb5": {
       "category": "今日必须看",
@@ -243982,6 +244950,35 @@
       "title": "AIs don't do what you want. This is bad",
       "url": "https://rewardhacking.org"
     },
+    "b09f0ad26be3b80a": {
+      "category": "可延后",
+      "discovered_at": "2026-09-25T08:27:51.456765+08:00",
+      "first_seen": "2026-09-25T08:27:51.456765+08:00",
+      "follow_up": "检查模型卡、license、benchmark 和可部署性。",
+      "id": "b09f0ad26be3b80a",
+      "kind": "model",
+      "last_seen": "2026-09-25T08:27:51.456765+08:00",
+      "news_category": "",
+      "published": "2026-09-24T16:38:37.757Z",
+      "rank": 0,
+      "reason": "matches topics: anthropic",
+      "region": "",
+      "score": 61,
+      "seen_count": 1,
+      "source": "AI HOT / Claude：Blog（网页）",
+      "sources": [
+        "AI HOT / Claude：Blog（网页）"
+      ],
+      "summary": "Anthropic 发布 Claude Opus 5.5，称典型按 token 计费工作负载运行成本比 Opus 5 低约 40%，其中缓存读取降价 60%、输入输出 token 降价 20%。",
+      "tags": [
+        "ai-models",
+        "aihot",
+        "model",
+        "selected"
+      ],
+      "title": "Anthropic 发布 Claude Opus 5.5，面向更长、上下文更重的编码会话优化成本",
+      "url": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context"
+    },
     "b0aac265cdd59eea": {
       "category": "只归档",
       "discovered_at": "2026-05-15T08:17:17.572182+08:00",
@@ -248123,19 +249120,19 @@
     },
     "b3bff48bf16c6b24": {
       "category": "只归档",
-      "discovered_at": "2026-09-13T08:10:51.978821+08:00",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
       "first_seen": "2026-09-11T08:09:40.135116+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "b3bff48bf16c6b24",
       "kind": "failure",
-      "last_seen": "2026-09-13T08:10:51.978821+08:00",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 3,
+      "seen_count": 6,
       "source": "System",
       "sources": [
         "System"
@@ -252645,19 +253642,19 @@
     },
     "b73c276e8060d82c": {
       "category": "只归档",
-      "discovered_at": "2026-09-21T08:15:45.114305+08:00",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
       "first_seen": "2026-09-11T08:09:40.135116+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "b73c276e8060d82c",
       "kind": "failure",
-      "last_seen": "2026-09-21T08:15:45.114305+08:00",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 5,
+      "seen_count": 8,
       "source": "System",
       "sources": [
         "System"
@@ -258236,6 +259233,32 @@
       "title": "zlej123/clipnote",
       "url": "https://github.com/zlej123/clipnote"
     },
+    "bb285e0710337a41": {
+      "category": "只归档",
+      "discovered_at": "2026-09-25T08:27:51.456765+08:00",
+      "first_seen": "2026-09-25T08:27:51.456765+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "bb285e0710337a41",
+      "kind": "failure",
+      "last_seen": "2026-09-25T08:27:51.456765+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=agents&tags=story&numericFilters=created_at_i%3E1790188119&hitsPerPage=8"
+    },
     "bb38b4e52c4a16a4": {
       "category": "可延后",
       "discovered_at": "2026-06-25T08:07:58.769369+08:00",
@@ -259638,6 +260661,35 @@
       ],
       "title": "Code-mapper: Free CLI tool to reduce LLM token usage on any codebases",
       "url": "https://github.com/damien220/code-mapper"
+    },
+    "bc2324148dc105f4": {
+      "category": "只归档",
+      "discovered_at": "2026-09-26T08:08:47.613249+08:00",
+      "first_seen": "2026-09-26T08:08:47.613249+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "bc2324148dc105f4",
+      "kind": "product",
+      "last_seen": "2026-09-26T08:08:47.613249+08:00",
+      "news_category": "",
+      "published": "2026-09-25T12:05:37.000Z",
+      "rank": 0,
+      "reason": "AI HOT selected item",
+      "region": "",
+      "score": 48,
+      "seen_count": 1,
+      "source": "AI HOT / X：Satya Nadella (@satyanadella)",
+      "sources": [
+        "AI HOT / X：Satya Nadella (@satyanadella)"
+      ],
+      "summary": "Satya Nadella 宣布 Copilot 迄今最大更新，将其定位为覆盖每个模型、设备和任务的工作新 OS。",
+      "tags": [
+        "ai-products",
+        "aihot",
+        "product",
+        "selected"
+      ],
+      "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
+      "url": "https://x.com/satyanadella/status/2103455884366188544"
     },
     "bc24f467ed42b0ea": {
       "category": "可延后",
@@ -261361,19 +262413,19 @@
     },
     "bd3e9c3bfec27870": {
       "category": "只归档",
-      "discovered_at": "2026-09-21T08:15:45.114305+08:00",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
       "first_seen": "2026-05-18T09:02:34.539467+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "bd3e9c3bfec27870",
       "kind": "failure",
-      "last_seen": "2026-09-21T08:15:45.114305+08:00",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 6,
+      "seen_count": 9,
       "source": "System",
       "sources": [
         "System"
@@ -270218,19 +271270,19 @@
     },
     "c39414c568fab271": {
       "category": "只归档",
-      "discovered_at": "2026-09-12T08:23:13.624993+08:00",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
       "first_seen": "2026-09-12T08:23:13.624993+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "c39414c568fab271",
       "kind": "failure",
-      "last_seen": "2026-09-12T08:23:13.624993+08:00",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 1,
+      "seen_count": 2,
       "source": "System",
       "sources": [
         "System"
@@ -276998,6 +278050,35 @@
       "title": "Best Preprocessing Techniques for Sentiment Analysis",
       "url": "https://arxiv.org/abs/2606.24055"
     },
+    "c86a39dcc8162e9f": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-25T08:27:51.456765+08:00",
+      "first_seen": "2026-09-25T08:27:51.456765+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "c86a39dcc8162e9f",
+      "kind": "article",
+      "last_seen": "2026-09-25T08:27:51.456765+08:00",
+      "news_category": "",
+      "published": "2026-09-24T01:24:22.000Z",
+      "rank": 0,
+      "reason": "matches topics: agent, claude code; high-value terms: agent, claude code",
+      "region": "",
+      "score": 76,
+      "seen_count": 1,
+      "source": "AI HOT / X：Artificial Analysis (@ArtificialAnlys)",
+      "sources": [
+        "AI HOT / X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "summary": "Artificial Analysis 测评显示，Claude Opus 5.5 在 Claude Code max effort 下以 66 分登顶 Coding Agent Index，较 Opus 5（60）高 6 分，三项评测 Terminal-Bench 4.0（63.1%）、DeepSWE v1.1（68.4%）、SWE-Atlas-QnA（66.4%）全部提升。",
+      "tags": [
+        "aihot",
+        "article",
+        "selected",
+        "tip"
+      ],
+      "title": "Artificial Analysis：Claude Opus 5.5 登顶 Coding Agent Index，但单任务成本升至 $13.04",
+      "url": "https://x.com/ArtificialAnlys/status/2102932119995756613"
+    },
     "c86b52b7462ff62e": {
       "category": "只归档",
       "discovered_at": "2026-05-26T08:19:11.769738+08:00",
@@ -279754,6 +280835,35 @@
       ],
       "title": "Hierarchical Multi-Scale Graph Neural Networks: Scalable Heterophilous Learning with Oversmoothing and Oversquashing Mitigation",
       "url": "https://arxiv.org/abs/2605.10975"
+    },
+    "ca5f208a03f2580d": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-25T08:27:51.456765+08:00",
+      "first_seen": "2026-09-25T08:27:51.456765+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "ca5f208a03f2580d",
+      "kind": "article",
+      "last_seen": "2026-09-25T08:27:51.456765+08:00",
+      "news_category": "",
+      "published": "2026-09-24T18:26:12.000Z",
+      "rank": 0,
+      "reason": "matches topics: agent, llm; high-value terms: agent, security",
+      "region": "",
+      "score": 76,
+      "seen_count": 1,
+      "source": "AI HOT / GitHub Blog",
+      "sources": [
+        "AI HOT / GitHub Blog"
+      ],
+      "summary": "GitHub Security Lab 的 Antonio Morales 开源了基于 Taskflow Agent 的 Fuzzing Taskflow，指向 GitHub 仓库即可自动识别入口点、编写 harness、运行 AFL++、读取覆盖报告并分诊崩溃。",
+      "tags": [
+        "aihot",
+        "article",
+        "selected",
+        "tip"
+      ],
+      "title": "GitHub Security Lab 发布 LLM 驱动的 Fuzzing Taskflow，自动完成 C/C++ 项目模糊测试全流程",
+      "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent"
     },
     "ca5f7956f24ecd68": {
       "category": "可延后",
@@ -283842,6 +284952,35 @@
       "title": "CompactAttention: Accelerating Chunked Prefill with Block-Union KV Selection",
       "url": "https://arxiv.org/abs/2605.16839"
     },
+    "cd57170eb38eec6c": {
+      "category": "可延后",
+      "discovered_at": "2026-09-26T08:08:47.613249+08:00",
+      "first_seen": "2026-09-26T08:08:47.613249+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "cd57170eb38eec6c",
+      "kind": "article",
+      "last_seen": "2026-09-26T08:08:47.613249+08:00",
+      "news_category": "",
+      "published": "2026-09-25T17:59:19.824Z",
+      "rank": 0,
+      "reason": "matches topics: anthropic",
+      "region": "",
+      "score": 54,
+      "seen_count": 1,
+      "source": "AI HOT / Anthropic：Research（发表成果 · 网页）",
+      "sources": [
+        "AI HOT / Anthropic：Research（发表成果 · 网页）"
+      ],
+      "summary": "物理学家 Matt von Hippel 发文复盘：Anthropic 的 Liam Fitzpatrick 和 Siddharth Mishra-Sharma 用 Claude Science（Fable 5.1）以约一两千美元预算完成平面 N=4 超对称 Yang-Mills 六粒子九圈振幅计算。",
+      "tags": [
+        "aihot",
+        "article",
+        "selected",
+        "tip"
+      ],
+      "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops"
+    },
     "cd585d895d11090c": {
       "category": "只归档",
       "discovered_at": "2026-05-19T08:17:23.171398+08:00",
@@ -284581,19 +285720,19 @@
     },
     "ce0e4865f8b4a298": {
       "category": "只归档",
-      "discovered_at": "2026-09-13T08:09:50.032492+08:00",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
       "first_seen": "2026-05-14T10:29:55.633079+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "ce0e4865f8b4a298",
       "kind": "failure",
-      "last_seen": "2026-09-13T08:09:50.032492+08:00",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 12,
+      "seen_count": 15,
       "source": "System",
       "sources": [
         "System"
@@ -288178,6 +289317,35 @@
       ],
       "title": "SpecHop: Continuous Speculation for Accelerating Multi-Hop Retrieval Agents",
       "url": "https://arxiv.org/abs/2605.21965"
+    },
+    "d0dd858b82a5a827": {
+      "category": "可延后",
+      "discovered_at": "2026-09-26T08:08:47.613249+08:00",
+      "first_seen": "2026-09-26T08:08:47.613249+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "d0dd858b82a5a827",
+      "kind": "article",
+      "last_seen": "2026-09-26T08:08:47.613249+08:00",
+      "news_category": "",
+      "published": "2026-09-25T20:55:22.000Z",
+      "rank": 0,
+      "reason": "matches topics: openai, hugging face",
+      "region": "",
+      "score": 62,
+      "seen_count": 1,
+      "source": "AI HOT / X：Yuchen Jin (@Yuchenj_UW)",
+      "sources": [
+        "AI HOT / X：Yuchen Jin (@Yuchenj_UW)"
+      ],
+      "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
+      "tags": [
+        "aihot",
+        "article",
+        "selected",
+        "tip"
+      ],
+      "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
+      "url": "https://x.com/Yuchenj_UW/status/2103589198427193593"
     },
     "d0e6724eb7745ce8": {
       "category": "可延后",
@@ -295366,6 +296534,35 @@
       ],
       "title": "Trustworthiness Costs of Domain Adaptation in Small Language Models:A Cross-Architecture Empirical Study",
       "url": "https://arxiv.org/abs/2608.00042"
+    },
+    "d5e5182aee3c8b2a": {
+      "category": "只归档",
+      "discovered_at": "2026-09-26T08:08:47.613249+08:00",
+      "first_seen": "2026-09-26T08:08:47.613249+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "d5e5182aee3c8b2a",
+      "kind": "article",
+      "last_seen": "2026-09-26T08:08:47.613249+08:00",
+      "news_category": "",
+      "published": "2026-09-25T18:00:00.000Z",
+      "rank": 0,
+      "reason": "AI HOT selected item",
+      "region": "",
+      "score": 46,
+      "seen_count": 1,
+      "source": "AI HOT / GitHub Blog",
+      "sources": [
+        "AI HOT / GitHub Blog"
+      ],
+      "summary": "GitHub 官方博客发布 GitHub Copilot app 新手教程，介绍用 /create-canvas 技能通过自然语言描述生成可自定义的 canvas 界面。",
+      "tags": [
+        "aihot",
+        "article",
+        "selected",
+        "tip"
+      ],
+      "title": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases"
     },
     "d5e7d15d49789ca6": {
       "category": "只归档",
@@ -303253,6 +304450,35 @@
       ],
       "title": "Effective Explanations Support Planning Under Uncertainty",
       "url": "https://arxiv.org/abs/2605.08406"
+    },
+    "db82c4ed0ed1318a": {
+      "category": "可延后",
+      "discovered_at": "2026-09-26T08:08:47.613249+08:00",
+      "first_seen": "2026-09-26T08:08:47.613249+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "db82c4ed0ed1318a",
+      "kind": "article",
+      "last_seen": "2026-09-26T08:08:47.613249+08:00",
+      "news_category": "",
+      "published": "2026-09-25T18:13:31.000Z",
+      "rank": 0,
+      "reason": "matches topics: claude code; high-value terms: claude code",
+      "region": "",
+      "score": 61,
+      "seen_count": 1,
+      "source": "AI HOT / X：Claude Devs (@ClaudeDevs)",
+      "sources": [
+        "AI HOT / X：Claude Devs (@ClaudeDevs)"
+      ],
+      "summary": "Opus 5.5 每输入和输出 token 比 Opus 5 便宜 20%，缓存读取便宜 60%。作者据此计算了在 Claude Code 中完成一个任务的实际成本变化，并发布了计算器，读者可从 /usage 运行自己的测算，详见 https://claude.dev/blog/what-a-task-costs-on-opus-5-5/。",
+      "tags": [
+        "aihot",
+        "article",
+        "industry",
+        "selected"
+      ],
+      "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化",
+      "url": "https://x.com/ClaudeDevs/status/2103548467729887677"
     },
     "db8719ae78e95918": {
       "category": "可延后",
@@ -315017,24 +316243,24 @@
     },
     "e448ba1019d46724": {
       "category": "只归档",
-      "discovered_at": "2026-09-21T08:15:45.114305+08:00",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
       "first_seen": "2026-05-23T08:17:21.404730+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "e448ba1019d46724",
       "kind": "failure",
-      "last_seen": "2026-09-21T08:15:45.114305+08:00",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 13,
+      "seen_count": 16,
       "source": "System",
       "sources": [
         "System"
       ],
-      "summary": "The read operation timed out",
+      "summary": "",
       "tags": [
         "failure"
       ],
@@ -318543,19 +319769,19 @@
     },
     "e707339e359deeaa": {
       "category": "只归档",
-      "discovered_at": "2026-09-21T08:15:45.114305+08:00",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
       "first_seen": "2026-09-06T08:49:22.805054+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "e707339e359deeaa",
       "kind": "failure",
-      "last_seen": "2026-09-21T08:15:45.114305+08:00",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 6,
+      "seen_count": 9,
       "source": "System",
       "sources": [
         "System"
@@ -326462,6 +327688,32 @@
       "title": "I built a local-first coverage-guided fuzzer in Rust with LLM seed bootstrap",
       "url": "https://dev.to/zaydmulani09/i-built-a-local-first-coverage-guided-fuzzer-in-rust-with-llm-seed-bootstrap-4c4a"
     },
+    "ecd634d916211e8a": {
+      "category": "只归档",
+      "discovered_at": "2026-09-26T08:08:47.613249+08:00",
+      "first_seen": "2026-09-26T08:08:47.613249+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "ecd634d916211e8a",
+      "kind": "failure",
+      "last_seen": "2026-09-26T08:08:47.613249+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=agents&tags=story&numericFilters=created_at_i%3E1790273363&hitsPerPage=8"
+    },
     "ecd8ccf3d0b13119": {
       "category": "可延后",
       "discovered_at": "2026-07-21T08:17:31.293152+08:00",
@@ -328945,6 +330197,32 @@
       "title": "I built an MCP server for a knowledge graph. It doesn't call any LLM.",
       "url": "https://dev.to/tykolt/i-built-an-mcp-server-for-a-knowledge-graph-it-doesnt-call-any-llm-211b"
     },
+    "ef02148250bf3200": {
+      "category": "只归档",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
+      "first_seen": "2026-09-26T08:13:11.549373+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "ef02148250bf3200",
+      "kind": "failure",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=AI&tags=story&numericFilters=created_at_i%3E1790273614&hitsPerPage=8"
+    },
     "ef06d1782a992823": {
       "category": "只归档",
       "discovered_at": "2026-08-13T09:11:13.528853+08:00",
@@ -331059,19 +332337,19 @@
     },
     "f0cb621ff749d36d": {
       "category": "只归档",
-      "discovered_at": "2026-09-21T08:15:45.114305+08:00",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
       "first_seen": "2026-09-11T08:09:40.135116+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "f0cb621ff749d36d",
       "kind": "failure",
-      "last_seen": "2026-09-21T08:15:45.114305+08:00",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 5,
+      "seen_count": 8,
       "source": "System",
       "sources": [
         "System"
@@ -332223,6 +333501,32 @@
       ],
       "title": "An Interactive Paradigm for Deep Research",
       "url": "https://arxiv.org/abs/2605.24266"
+    },
+    "f1ce46ae2579ffb3": {
+      "category": "只归档",
+      "discovered_at": "2026-09-25T08:27:51.456765+08:00",
+      "first_seen": "2026-09-25T08:27:51.456765+08:00",
+      "follow_up": "检查数据源是否限流或地址失效。",
+      "id": "f1ce46ae2579ffb3",
+      "kind": "failure",
+      "last_seen": "2026-09-25T08:27:51.456765+08:00",
+      "news_category": "",
+      "published": "",
+      "rank": 0,
+      "reason": "source failure logged",
+      "region": "",
+      "score": 0,
+      "seen_count": 1,
+      "source": "System",
+      "sources": [
+        "System"
+      ],
+      "summary": "",
+      "tags": [
+        "failure"
+      ],
+      "title": "Hacker News fetch failed",
+      "url": "https://hn.algolia.com/api/v1/search?query=OpenAI&tags=story&numericFilters=created_at_i%3E1790188119&hitsPerPage=8"
     },
     "f1d100e209c30acc": {
       "category": "只归档",
@@ -337716,19 +339020,19 @@
     },
     "f5cf875edc95096d": {
       "category": "只归档",
-      "discovered_at": "2026-09-21T08:15:45.114305+08:00",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
       "first_seen": "2026-09-11T08:09:40.135116+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "f5cf875edc95096d",
       "kind": "failure",
-      "last_seen": "2026-09-21T08:15:45.114305+08:00",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 5,
+      "seen_count": 8,
       "source": "System",
       "sources": [
         "System"
@@ -338100,6 +339404,35 @@
       ],
       "title": "Anthropic now offering limit resets like Codex",
       "url": "https://twitter.com/ClaudeDevs/status/2102438803013333469"
+    },
+    "f657eabc9e15b375": {
+      "category": "可延后",
+      "discovered_at": "2026-09-25T08:27:51.456765+08:00",
+      "first_seen": "2026-09-25T08:27:51.456765+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "f657eabc9e15b375",
+      "kind": "article",
+      "last_seen": "2026-09-25T08:27:51.456765+08:00",
+      "news_category": "",
+      "published": "2026-09-24T14:01:05.000Z",
+      "rank": 0,
+      "reason": "matches topics: openai, hugging face",
+      "region": "",
+      "score": 62,
+      "seen_count": 1,
+      "source": "AI HOT / The Decoder：AI News（RSS）",
+      "sources": [
+        "AI HOT / The Decoder：AI News（RSS）"
+      ],
+      "summary": "据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。",
+      "tags": [
+        "aihot",
+        "article",
+        "industry",
+        "selected"
+      ],
+      "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
+      "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face"
     },
     "f65df7042edcbba4": {
       "category": "可延后",
@@ -339271,6 +340604,35 @@
       "title": "Toward a Modular Architecture for Embedded AI Agent Systems at the Edge",
       "url": "https://arxiv.org/abs/2606.02862"
     },
+    "f7873f72fc619cab": {
+      "category": "可延后",
+      "discovered_at": "2026-09-25T08:27:51.456765+08:00",
+      "first_seen": "2026-09-25T08:27:51.456765+08:00",
+      "follow_up": "判断是否需要沉淀为长期主题笔记。",
+      "id": "f7873f72fc619cab",
+      "kind": "article",
+      "last_seen": "2026-09-25T08:27:51.456765+08:00",
+      "news_category": "",
+      "published": "2026-09-24T12:27:50.000Z",
+      "rank": 0,
+      "reason": "matches topics: openai, hugging face",
+      "region": "",
+      "score": 62,
+      "seen_count": 1,
+      "source": "AI HOT / Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "sources": [
+        "AI HOT / Gary Marcus：The Road to AI We Can Trust（RSS）"
+      ],
+      "summary": "Gary Marcus 引用 Jensen Huang 接受 Ezra Klein 访谈时的话，认为无法控制软件的公司应被关停，并据此主张暂时关停 OpenAI。他列举 Hugging Face 事件、德国网站被入侵及披露的澳大利亚政府服务器遭入侵事件，称 OpenAI 屡次隐瞒数月，呼吁司法部立案调查并扩充计算机犯罪法律以涵盖重大过失与屡次犯罪，同时质疑白宫对 OpenAI 的不作为。",
+      "tags": [
+        "aihot",
+        "article",
+        "selected",
+        "tip"
+      ],
+      "title": "Gary Marcus 借 Jensen Huang 言论主张暂时关停 OpenAI",
+      "url": "https://garymarcus.substack.com/p/i-think-the-answer-is-we-have-to"
+    },
     "f78acfa29457f37c": {
       "category": "只归档",
       "discovered_at": "2026-05-18T09:02:34.539467+08:00",
@@ -339444,24 +340806,24 @@
     },
     "f7ae132b726ef920": {
       "category": "只归档",
-      "discovered_at": "2026-09-13T08:09:50.032492+08:00",
+      "discovered_at": "2026-09-26T08:13:11.549373+08:00",
       "first_seen": "2026-05-27T08:18:46.600372+08:00",
       "follow_up": "检查数据源是否限流或地址失效。",
       "id": "f7ae132b726ef920",
       "kind": "failure",
-      "last_seen": "2026-09-13T08:09:50.032492+08:00",
+      "last_seen": "2026-09-26T08:13:11.549373+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 10,
+      "seen_count": 13,
       "source": "System",
       "sources": [
         "System"
       ],
-      "summary": "The read operation timed out",
+      "summary": "",
       "tags": [
         "failure"
       ],
