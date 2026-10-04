@@ -1,16 +1,16 @@
 ---
-title: News Radar Week 2026-W40
-date: 2026-10-04
+title: News Radar Last 30 Days 2026-09-30
+date: 2026-09-30
 tags:
   - news-radar
-  - weekly-review
+  - last30days-review
 ---
 
-# 2026-W40 News Radar
+# 2026-09-30 Last 30 Days News Review
 
 ## 复盘方法
 
-- 汇总过去 7 天持续升温和跨来源重复出现的议题。
+- 借鉴 last30days-skill：近期变化、关键节点、趋势判断、后续观察。
 - 排序原则：先看热度和重复出现，再看分类标签。
 
 ## 过去阶段最高热度
@@ -26,6 +26,23 @@ tags:
 > **reason**：rank #3; cross-source x8; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260812T021500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | The turbulent AI era is here. The choices we make now are critical. - Gates Notes
+> **标题**：The turbulent AI era is here. The choices we make now are critical. - Gates Notes
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; cross-source x8; source weight: Google News; hot terms: ai, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：The turbulent AI era is here. The choices we make now are critical. Gates Notes
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -100,6 +117,108 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 100** | Taïwan : enquête sur 17 entreprises financées par la Chine pour débaucher des talents technologiques
+> **标题**：Taïwan : enquête sur 17 entreprises financées par la Chine pour débaucher des talents technologiques
+> **原文链接**：🔗 [打开原文](https://www.sudouest.fr:443/international/asie/taiwan/taiwan-enquete-sur-17-entreprises-financees-par-la-chine-pour-debaucher-des-talents-technologiques-30168162.php)
+> **source**：GDELT / sudouest.fr
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#1
+> **reason**：rank #1; cross-source x4; source weight: GDELT; hot terms: 美国
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260805T080000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | Military academies won't give tenure to civilian faculty, Hegseth says - Spectrum News
+> **标题**：Military academies won't give tenure to civilian faculty, Hegseth says - Spectrum News
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiywFBVV95cUxPb195b0NYRVM0Q3BpWmhKZG9NLVUzT09XX0xzcWVCVDVka3dlNFQxdnRCdk80N2V4VTdIaTRVcnQ3YVotcl9zb3k0NGZrMWhZdW1jNTdpTTBFN044TWl0MzBTUWhGV2hJRllEQ1ptZTR6X21scjQzbjI2TnN4SEVnQWRkQm1jRjFzY0lIeEt0czlJaHhnbUlZRmQ2SV91bmVma0laWWlVSnpySk81N19YRjhzWGtIcnNqOUV3RjUtQllvbzJIOUdmQ3dyTQ?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#3
+> **reason**：rank #3; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Military academies won't give tenure to civilian faculty, Hegseth says Spectrum News
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | Exclusive: US military had close call after using AI for false intelligence report, sources say - CNN
+> **标题**：Exclusive: US military had close call after using AI for false intelligence report, sources say - CNN
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNURhdTZha1pnekJvMjV5cE9VQ0tpQmZuSXVfbFVzLVBDbDY1b28zMUluUVNzMUlPZnE2Qk5OLXRVcUVsRkVfZ3d2ZVpvaW9JOGFZUE00SV9uQ0xWcE5QOGlzXzB2bkRaWjZiZVpKblZBU2tsOTdvMllIdTRKb21ScUlwNlIzSDdaTFR0Rg?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#1
+> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Exclusive: US military had close call after using AI for false intelligence report, sources say CNN
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | China expands overseas military presence with new Laos air force centre - South China Morning Post
+> **标题**：China expands overseas military presence with new Laos air force centre - South China Morning Post
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb1NoSm44amxqZWllLWRhRjBpR3RKQ2RWRXNTQ2JFZm9hSWhfMW1XUEJfVGVRUXpLRkIyLTJRc1R1R0llNUwtTnZhajJKVkFrVjFzazBRaDJ6SV9TZUdwZUxWVG9SMDlYak1oNzlKZXNrN3BJRElXU2hDLUtUWlNkVWxlT2lUOGVhaDh6VWQ4dGpwV25KMWNZVTdscUNGN2hoc1VPY3FvQnNNQnphVDliUUNtS2d2ZWdDMWtuOXkxZGrSAcABQVVfeXFMTUpjeHdzS1JVak5rVXk0MDdmYVZQLTR0RUIzTkZJdjVfQzFwV3dYMVczQjZ3WmF3RXRoYUJXc1c0emRpcmg2TVczUWhVY1ZNS3dGSFZibTZXekZza01SSGxWa2U4ZjJnTkFSVlZKOWEzYUliWFFaT0hTQmtzaFBBMENGWUp0MGVJc1YwcllwRGlKYjczWVB2VXhFTTFhYXozREEtSklyMWdqUTNSNXN0SExTeC0zZzdLZk1tY29XelNa?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：China expands overseas military presence with new Laos air force centre South China Morning Post
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 97** | China's AI agents can lie and scheme - just like their US rivals - Reuters
+> **标题**：China's AI agents can lie and scheme - just like their US rivals - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiugFBVV95cUxQcV91dFhINlctVXNLUDJtUDE4SFRwdTBUVUJLYW9Ed09WSXlhZzB0RWFqRldma2FjVGd5NXBFWkMyQldUMGVPcTd5MjM0VjJ1TERaY0dfZkF5VklnbTZ6VzNBcmJkTmROUTJWVWkzRGhMbkZ1RktfX1BfNVBTUzFGMEljaElSUHU5Vnd6S25NZGVCUXpYYnJocnBPTG9Na0VxSnpLbGlWclk2TmlMRjcyelFhT0pIc0NpRFE?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: ai, china, us, ai; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：China's AI agents can lie and scheme - just like their US rivals Reuters
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 97** | Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue - CNBC
+> **标题**：Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue - CNBC
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMickFVX3lxTE5UNXFhZTZhVFdfYnJGdFJmOVlfSl9Na21BY2ItZDFQa0FvY05xUWx1NzU5dlc5U0ZMeGxDRXQycHgtelNGbWVtZEExTzBlcHBQMzNZdWg4VnZNbDFQNnluYjNOOTlPQnUxSGpMSkpidzRZZ9IBd0FVX3lxTE9UaTd0ZFJWSEd3WE91WUFiM0h5UWVEOWxvQk9iZmJHMTVhRk1GQm5vRjVIZEJ0Y09wNG55bndieDk3MFpoZl9ucHN6MWRLa3hYRzQzRm0wYWRsYkE2Y2hwam52eEpDejV4MFVQY0dhaG40Y3UySWtB?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue CNBC
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 96** | 制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 西部网 （ 陕西新闻网 ）
 > **标题**：制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 西部网 （ 陕西新闻网 ）
 > **原文链接**：🔗 [打开原文](http://news.cnwest.com/szyw/a/2026/08/12/23411732.html)
@@ -117,9 +236,26 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 96** | Military academies won't give tenure to civilian faculty, Hegseth says - Spectrum News
-> **标题**：Military academies won't give tenure to civilian faculty, Hegseth says - Spectrum News
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiywFBVV95cUxPb195b0NYRVM0Q3BpWmhKZG9NLVUzT09XX0xzcWVCVDVka3dlNFQxdnRCdk80N2V4VTdIaTRVcnQ3YVotcl9zb3k0NGZrMWhZdW1jNTdpTTBFN044TWl0MzBTUWhGV2hJRllEQ1ptZTR6X21scjQzbjI2TnN4SEVnQWRkQm1jRjFzY0lIeEt0czlJaHhnbUlZRmQ2SV91bmVma0laWWlVSnpySk81N19YRjhzWGtIcnNqOUV3RjUtQllvbzJIOUdmQ3dyTQ?oc=5)
+> [!info]+ **今日必须看 / 96** | پیش‌بینی بانک آمریکا از افزایش ۳ مرحله‌ای نرخ بهره فدرال رزرو
+> **标题**：پیش‌بینی بانک آمریکا از افزایش ۳ مرحله‌ای نرخ بهره فدرال رزرو
+> **原文链接**：🔗 [打开原文](https://banker.ir/%D9%BE%DB%8C%D8%B4%D8%A8%DB%8C%D9%86%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%B3-%D9%85%D8%B1%D8%AD%D9%84/)
+> **source**：GDELT / banker.ir
+> **kind**：`news`
+> **region**：国际
+> **category**：财经
+> **rank**：#1
+> **reason**：rank #1; cross-source x4; source weight: GDELT
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：20260623T080000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 96** | At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict - The Guardian
+> **标题**：At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict - The Guardian
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMinwFBVV95cUxObWZQTjhjMFdDMERwWVlvODFMMXo0dHAwd3QxOHRkYVhSd1d6aktSemFqZWZFQTFDaV9LVzFUekVWVnllRURsYXczUkJrTC1tWkpEcVhXX1htT29MZjk2ZGpCZXlGeUJGVmxCaVZwMldpZnNkNEE4dFg0NDZwZUdPZzktM0tNN1ZzQWp2WWpsYlVJdl8tNURJNE1KbS1nWFE?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
@@ -127,143 +263,7 @@ tags:
 > **rank**：#3
 > **reason**：rank #3; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Military academies won't give tenure to civilian faculty, Hegseth says Spectrum News
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 93** | Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns - WSJ
-> **标题**：Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns - WSJ
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxNcC0xNDExdTJodUowZi1yeWdFN3M5RlpvY3FvZ1lQeHltWGVkeG01ZTVlaHJ0TldqVVRhekJhWl9ZRTRLNHRqX1NQQVFKMW5NRnhBTmlUNWNpX1FBX3Myc3VlaGIxbFZTZDZYRlYwTGNVLTUtNnJScGJWcm5rX0hMMmNadFFmZw?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, us, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns WSJ
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 93** | China expands overseas military presence with new Laos air force centre - South China Morning Post
-> **标题**：China expands overseas military presence with new Laos air force centre - South China Morning Post
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb1NoSm44amxqZWllLWRhRjBpR3RKQ2RWRXNTQ2JFZm9hSWhfMW1XUEJfVGVRUXpLRkIyLTJRc1R1R0llNUwtTnZhajJKVkFrVjFzazBRaDJ6SV9TZUdwZUxWVG9SMDlYak1oNzlKZXNrN3BJRElXU2hDLUtUWlNkVWxlT2lUOGVhaDh6VWQ4dGpwV25KMWNZVTdscUNGN2hoc1VPY3FvQnNNQnphVDliUUNtS2d2ZWdDMWtuOXkxZGrSAcABQVVfeXFMTUpjeHdzS1JVak5rVXk0MDdmYVZQLTR0RUIzTkZJdjVfQzFwV3dYMVczQjZ3WmF3RXRoYUJXc1c0emRpcmg2TVczUWhVY1ZNS3dGSFZibTZXekZza01SSGxWa2U4ZjJnTkFSVlZKOWEzYUliWFFaT0hTQmtzaFBBMENGWUp0MGVJc1YwcllwRGlKYjczWVB2VXhFTTFhYXozREEtSklyMWdqUTNSNXN0SExTeC0zZzdLZk1tY29XelNa?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: 美国, ai, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China expands overseas military presence with new Laos air force centre South China Morning Post
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 92** | 川普 「 經濟決戰 」 對伊朗造成多大打擊 ？ 關鍵恐不在德黑蘭 - 政治圈
-> **标题**：川普 「 經濟決戰 」 對伊朗造成多大打擊 ？ 關鍵恐不在德黑蘭 - 政治圈
-> **原文链接**：🔗 [打开原文](https://www.chinatimes.com/realtimenews/20260821001870-260408)
-> **source**：GDELT / chinatimes.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#7
-> **reason**：rank #7; cross-source x6; source weight: GDELT; hot terms: 美国, 军事
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260821T030000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 91** | China Claims Expanded Zone Around Scarborough Shoal, Deploys New Drone - USNI News
-> **标题**：China Claims Expanded Zone Around Scarborough Shoal, Deploys New Drone - USNI News
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMipAFBVV95cUxPOTdXdnZMSHNiMlhsTjNxODJQS2E1Ul84T2pvWUliYThaMklaTkp0eC1JM0UzdVZmMlFhNE1QSW10UFhmT0FnMHJiVDJ3VFNuN2NnM1VRc09NU3hTb1ZuR0hvUU1Fd1ZtSW8tTWpDT2JKLUpZZ0RZWkFUWHdOY0M5NlAzU2pKNUtKZnFXcDR2YkhTbGV0ZGhhTU9DTnVOQ1pEbVVrcQ?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: 美国, ai, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China Claims Expanded Zone Around Scarborough Shoal, Deploys New Drone USNI News
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 90** | 中方接连驳斥美方单边制裁打压 制度化反击展现坚定立场 _ 军事频道 _ 中华网
-> **标题**：中方接连驳斥美方单边制裁打压 制度化反击展现坚定立场 _ 军事频道 _ 中华网
-> **原文链接**：🔗 [打开原文](https://military.china.com/news/13004177/20260803/49651156.html)
-> **source**：GDELT / military.china.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#10
-> **reason**：rank #10; cross-source x6; source weight: GDELT; hot terms: 美国, 军事, 制裁
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260803T063000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 90** | 回应美国 中国 ： 对伊朗制裁施压无助解决问题 | 国际
-> **标题**：回应美国 中国 ： 对伊朗制裁施压无助解决问题 | 国际
-> **原文链接**：🔗 [打开原文](https://www.orientaldaily.com.my/news/international/2026/08/21/842263)
-> **source**：GDELT / orientaldaily.com.my
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#12
-> **reason**：rank #12; cross-source x6; source weight: GDELT; hot terms: 中国, 美国, 军事, 制裁
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260821T103000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 90** | 4국 4색 , 한반도 안보 지형 흔드는 주변 4망 ( 網 ) 의 디지털 지정학 - 오피니언ㅣ한국일보
-> **标题**：4국 4색 , 한반도 안보 지형 흔드는 주변 4망 ( 網 ) 의 디지털 지정학 - 오피니언ㅣ한국일보
-> **原文链接**：🔗 [打开原文](https://www.hankookilbo.com/news/article/A2026082009430001494)
-> **source**：GDELT / hankookilbo.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#8
-> **reason**：rank #8; cross-source x4; source weight: GDELT; hot terms: 美国, 军事
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260823T213000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 89** | China's AI agents can lie and scheme - just like their US rivals - Reuters
-> **标题**：China's AI agents can lie and scheme - just like their US rivals - Reuters
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiugFBVV95cUxQcV91dFhINlctVXNLUDJtUDE4SFRwdTBUVUJLYW9Ed09WSXlhZzB0RWFqRldma2FjVGd5NXBFWkMyQldUMGVPcTd5MjM0VjJ1TERaY0dfZkF5VklnbTZ6VzNBcmJkTmROUTJWVWkzRGhMbkZ1RktfX1BfNVBTUzFGMEljaElSUHU5Vnd6S25NZGVCUXpYYnJocnBPTG9Na0VxSnpLbGlWclk2TmlMRjcyelFhT0pIc0NpRFE?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#3
-> **reason**：rank #3; source weight: Google News; hot terms: ai, china, us, ai
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：China's AI agents can lie and scheme - just like their US rivals Reuters
+> **summary**：At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict The Guardian
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -289,6 +289,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 100** | The turbulent AI era is here. The choices we make now are critical. - Gates Notes
+> **标题**：The turbulent AI era is here. The choices we make now are critical. - Gates Notes
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; cross-source x8; source weight: Google News; hot terms: ai, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：The turbulent AI era is here. The choices we make now are critical. Gates Notes
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 100** | 伊朗回应美国经济战威胁 ： 美方 注定失败 ， 中国表态 ： 反对非法单边制裁
 > **标题**：伊朗回应美国经济战威胁 ： 美方 注定失败 ， 中国表态 ： 反对非法单边制裁
 > **原文链接**：🔗 [打开原文](https://wallstreetcn.com/articles/3780032)
@@ -357,6 +374,57 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 100** | Taïwan : enquête sur 17 entreprises financées par la Chine pour débaucher des talents technologiques
+> **标题**：Taïwan : enquête sur 17 entreprises financées par la Chine pour débaucher des talents technologiques
+> **原文链接**：🔗 [打开原文](https://www.sudouest.fr:443/international/asie/taiwan/taiwan-enquete-sur-17-entreprises-financees-par-la-chine-pour-debaucher-des-talents-technologiques-30168162.php)
+> **source**：GDELT / sudouest.fr
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#1
+> **reason**：rank #1; cross-source x4; source weight: GDELT; hot terms: 美国
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260805T080000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | Military academies won't give tenure to civilian faculty, Hegseth says - Spectrum News
+> **标题**：Military academies won't give tenure to civilian faculty, Hegseth says - Spectrum News
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiywFBVV95cUxPb195b0NYRVM0Q3BpWmhKZG9NLVUzT09XX0xzcWVCVDVka3dlNFQxdnRCdk80N2V4VTdIaTRVcnQ3YVotcl9zb3k0NGZrMWhZdW1jNTdpTTBFN044TWl0MzBTUWhGV2hJRllEQ1ptZTR6X21scjQzbjI2TnN4SEVnQWRkQm1jRjFzY0lIeEt0czlJaHhnbUlZRmQ2SV91bmVma0laWWlVSnpySk81N19YRjhzWGtIcnNqOUV3RjUtQllvbzJIOUdmQ3dyTQ?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#3
+> **reason**：rank #3; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Military academies won't give tenure to civilian faculty, Hegseth says Spectrum News
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 100** | Exclusive: US military had close call after using AI for false intelligence report, sources say - CNN
+> **标题**：Exclusive: US military had close call after using AI for false intelligence report, sources say - CNN
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNURhdTZha1pnekJvMjV5cE9VQ0tpQmZuSXVfbFVzLVBDbDY1b28zMUluUVNzMUlPZnE2Qk5OLXRVcUVsRkVfZ3d2ZVpvaW9JOGFZUE00SV9uQ0xWcE5QOGlzXzB2bkRaWjZiZVpKblZBU2tsOTdvMllIdTRKb21ScUlwNlIzSDdaTFR0Rg?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#1
+> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Exclusive: US military had close call after using AI for false intelligence report, sources say CNN
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 96** | 制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 西部网 （ 陕西新闻网 ）
 > **标题**：制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 西部网 （ 陕西新闻网 ）
 > **原文链接**：🔗 [打开原文](http://news.cnwest.com/szyw/a/2026/08/12/23411732.html)
@@ -374,9 +442,26 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 96** | Military academies won't give tenure to civilian faculty, Hegseth says - Spectrum News
-> **标题**：Military academies won't give tenure to civilian faculty, Hegseth says - Spectrum News
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiywFBVV95cUxPb195b0NYRVM0Q3BpWmhKZG9NLVUzT09XX0xzcWVCVDVka3dlNFQxdnRCdk80N2V4VTdIaTRVcnQ3YVotcl9zb3k0NGZrMWhZdW1jNTdpTTBFN044TWl0MzBTUWhGV2hJRllEQ1ptZTR6X21scjQzbjI2TnN4SEVnQWRkQm1jRjFzY0lIeEt0czlJaHhnbUlZRmQ2SV91bmVma0laWWlVSnpySk81N19YRjhzWGtIcnNqOUV3RjUtQllvbzJIOUdmQ3dyTQ?oc=5)
+> [!info]+ **今日必须看 / 96** | پیش‌بینی بانک آمریکا از افزایش ۳ مرحله‌ای نرخ بهره فدرال رزرو
+> **标题**：پیش‌بینی بانک آمریکا از افزایش ۳ مرحله‌ای نرخ بهره فدرال رزرو
+> **原文链接**：🔗 [打开原文](https://banker.ir/%D9%BE%DB%8C%D8%B4%D8%A8%DB%8C%D9%86%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%B3-%D9%85%D8%B1%D8%AD%D9%84/)
+> **source**：GDELT / banker.ir
+> **kind**：`news`
+> **region**：国际
+> **category**：财经
+> **rank**：#1
+> **reason**：rank #1; cross-source x4; source weight: GDELT
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：20260623T080000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 96** | At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict - The Guardian
+> **标题**：At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict - The Guardian
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMinwFBVV95cUxObWZQTjhjMFdDMERwWVlvODFMMXo0dHAwd3QxOHRkYVhSd1d6aktSemFqZWZFQTFDaV9LVzFUekVWVnllRURsYXczUkJrTC1tWkpEcVhXX1htT29MZjk2ZGpCZXlGeUJGVmxCaVZwMldpZnNkNEE4dFg0NDZwZUdPZzktM0tNN1ZzQWp2WWpsYlVJdl8tNURJNE1KbS1nWFE?oc=5)
 > **source**：Google News / China US Hot News
 > **kind**：`news`
 > **region**：美国/国际
@@ -384,7 +469,41 @@ tags:
 > **rank**：#3
 > **reason**：rank #3; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Military academies won't give tenure to civilian faculty, Hegseth says Spectrum News
+> **summary**：At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict The Guardian
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 95** | Bessent says 19 finance ministers agreed 'cheap exports' are unsustainable, but China dissented - SFGATE
+> **标题**：Bessent says 19 finance ministers agreed 'cheap exports' are unsustainable, but China dissented - SFGATE
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMimwFBVV95cUxPS2YxOVpMTmcwYWRBZTd6aEZUM3BkUk9aUC1RdUNPaE9lT1NaVE5iUGthYTJKNVNhVUVaQldCaER4MkxyU3YzeVFBTEdFRm01ZmR3cVBERmxmZ0tCcFplcEdjbmM5OXF1WFlnOTJpb1ozX1YyZ1RybnJrTExMX3h1di1mazNxSVE3WGJGZ1FsSkx5aDFRYVJiWUhMWQ?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#7
+> **reason**：rank #7; cross-source x3; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Bessent says 19 finance ministers agreed 'cheap exports' are unsustainable, but China dissented SFGATE
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 94** | Tech Self - Reliance Eludes Beijing
+> **标题**：Tech Self - Reliance Eludes Beijing
+> **原文链接**：🔗 [打开原文](https://www.theepochtimes.com/opinion/tech-self-reliance-eludes-beijing-6060662)
+> **source**：GDELT / theepochtimes.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#4
+> **reason**：rank #4; cross-source x5; source weight: GDELT; hot terms: 美国
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260716T221500Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -402,125 +521,6 @@ tags:
 > **reason**：rank #7; cross-source x6; source weight: GDELT; hot terms: 美国, 军事
 > **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
 > **summary**：20260821T030000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 90** | 中方接连驳斥美方单边制裁打压 制度化反击展现坚定立场 _ 军事频道 _ 中华网
-> **标题**：中方接连驳斥美方单边制裁打压 制度化反击展现坚定立场 _ 军事频道 _ 中华网
-> **原文链接**：🔗 [打开原文](https://military.china.com/news/13004177/20260803/49651156.html)
-> **source**：GDELT / military.china.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#10
-> **reason**：rank #10; cross-source x6; source weight: GDELT; hot terms: 美国, 军事, 制裁
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260803T063000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 90** | 回应美国 中国 ： 对伊朗制裁施压无助解决问题 | 国际
-> **标题**：回应美国 中国 ： 对伊朗制裁施压无助解决问题 | 国际
-> **原文链接**：🔗 [打开原文](https://www.orientaldaily.com.my/news/international/2026/08/21/842263)
-> **source**：GDELT / orientaldaily.com.my
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#12
-> **reason**：rank #12; cross-source x6; source weight: GDELT; hot terms: 中国, 美国, 军事, 制裁
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260821T103000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 90** | 4국 4색 , 한반도 안보 지형 흔드는 주변 4망 ( 網 ) 의 디지털 지정학 - 오피니언ㅣ한국일보
-> **标题**：4국 4색 , 한반도 안보 지형 흔드는 주변 4망 ( 網 ) 의 디지털 지정학 - 오피니언ㅣ한국일보
-> **原文链接**：🔗 [打开原文](https://www.hankookilbo.com/news/article/A2026082009430001494)
-> **source**：GDELT / hankookilbo.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#8
-> **reason**：rank #8; cross-source x4; source weight: GDELT; hot terms: 美国, 军事
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260823T213000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 88** | Trump Offered to Sell Arms to China, U.S. Ambassador Says - The New York Times
-> **标题**：Trump Offered to Sell Arms to China, U.S. Ambassador Says - The New York Times
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiggFBVV95cUxOM0dRZWdFN1pwcTNsbV81WDEtVHAtazBXRF9IM2M5NFdxUjMxYlBWMTM4S1lYMVdvcFZINTdEeE5kMnVmNll2aVkyRXhadHZWMGoyM0tQQXdzNUx3WlpHVUM0SDlaeDNZWVA1aTNVazlPRzhSUXpfbjUxbTlMMVJ1SnFB?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#5
-> **reason**：rank #5; cross-source x2; source weight: Google News; hot terms: 美国, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Trump Offered to Sell Arms to China, U.S. Ambassador Says The New York Times
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 86** | Week in Politics: Trump faces Republican defections; U.S.-China summit; press feud - NPR
-> **标题**：Week in Politics: Trump faces Republican defections; U.S.-China summit; press feud - NPR
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRm43dk0tcGtwMkJ4Q2E0MmU2QklNTFRBNXExRVZWR2VWNmtWZGtmRnEtdWNsOHA3SGxndmdjVVFBZ3Flc1NZajNibzZTV1ZRNW1wc1dKQ1U5R09lOERFcjhnMVBHbW40OEM4VFphOGJDZHYyOUFrZGdraGpzUktHZzZNekFvSFdBaXZUZzByRVBxMEVoLTI0emZfT0pGY1o3a1hHLUhZaFRsdm5QeU5DVGx3NF83azlCek1mSVR0Z1I?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#6
-> **reason**：rank #6; cross-source x2; source weight: Google News; hot terms: 美国, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Week in Politics: Trump faces Republican defections; U.S.-China summit; press feud NPR
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 84** | China Conducts Military Exercise in South China Sea After Confrontation at Disputed Shoal - The Diplomat – Asia-Pacific Current Affairs Magazine
-> **标题**：China Conducts Military Exercise in South China Sea After Confrontation at Disputed Shoal - The Diplomat – Asia-Pacific Current Affairs Magazine
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivwFBVV95cUxNdnNyYlI3N05Nd0l0SmMwd3I0SkNjVG1DSXN5YWVNM29nblFUaXp1WTAzeVJKVzE2SkJQdTRpSVp1ejc0SU9SbExoZ1JHU1R1cWRjanFNUGhrS2hJRGpweHpuQks4bXlxNzl5VGZPcWgtckdWWUN3V05EUk5YNDhWc25JMVNxazZ6U0JJak9JWnlOZk9CTEZrN2VtWFJjZUJfVGdpNGFfMmZfYXVEWHJnY1NnOW1Pd25MSTd2eHRNbw?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#9
-> **reason**：rank #9; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China Conducts Military Exercise in South China Sea After Confrontation at Disputed Shoal The Diplomat – Asia-Pacific Current Affairs Magazine
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **可延后 / 77** | 分析 ： 川普看准习软肋 拿外交筹码换大订单
-> **标题**：分析 ： 川普看准习软肋 拿外交筹码换大订单
-> **原文链接**：🔗 [打开原文](https://www.epochtimes.com/gb/26/9/4/n14842543.htm)
-> **source**：GDELT / epochtimes.com
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#11
-> **reason**：rank #11; cross-source x2; source weight: GDELT; hot terms: 美国, 军事, 外交
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260904T071500Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -550,6 +550,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 100** | The turbulent AI era is here. The choices we make now are critical. - Gates Notes
+> **标题**：The turbulent AI era is here. The choices we make now are critical. - Gates Notes
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; cross-source x8; source weight: Google News; hot terms: ai, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：The turbulent AI era is here. The choices we make now are critical. Gates Notes
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 100** | 伊朗回应美国经济战威胁 ： 美方 注定失败 ， 中国表态 ： 反对非法单边制裁
 > **标题**：伊朗回应美国经济战威胁 ： 美方 注定失败 ， 中国表态 ： 反对非法单边制裁
 > **原文链接**：🔗 [打开原文](https://wallstreetcn.com/articles/3780032)
@@ -618,24 +635,24 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 96** | 制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 西部网 （ 陕西新闻网 ）
-> **标题**：制裁成 瘾 ， 让美国外交丧失理性思考｜真相 - 西部网 （ 陕西新闻网 ）
-> **原文链接**：🔗 [打开原文](http://news.cnwest.com/szyw/a/2026/08/12/23411732.html)
-> **source**：GDELT / news.cnwest.com
+> [!info]+ **今日必须看 / 100** | Taïwan : enquête sur 17 entreprises financées par la Chine pour débaucher des talents technologiques
+> **标题**：Taïwan : enquête sur 17 entreprises financées par la Chine pour débaucher des talents technologiques
+> **原文链接**：🔗 [打开原文](https://www.sudouest.fr:443/international/asie/taiwan/taiwan-enquete-sur-17-entreprises-financees-par-la-chine-pour-debaucher-des-talents-technologiques-30168162.php)
+> **source**：GDELT / sudouest.fr
 > **kind**：`news`
 > **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#9
-> **reason**：rank #9; cross-source x6; source weight: GDELT; hot terms: 美国, 军事, 外交, 制裁
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260812T041500Z
+> **category**：科技
+> **rank**：#1
+> **reason**：rank #1; cross-source x4; source weight: GDELT; hot terms: 美国
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260805T080000Z
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 96** | Military academies won't give tenure to civilian faculty, Hegseth says - Spectrum News
+> [!info]+ **今日必须看 / 100** | Military academies won't give tenure to civilian faculty, Hegseth says - Spectrum News
 > **标题**：Military academies won't give tenure to civilian faculty, Hegseth says - Spectrum News
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiywFBVV95cUxPb195b0NYRVM0Q3BpWmhKZG9NLVUzT09XX0xzcWVCVDVka3dlNFQxdnRCdk80N2V4VTdIaTRVcnQ3YVotcl9zb3k0NGZrMWhZdW1jNTdpTTBFN044TWl0MzBTUWhGV2hJRllEQ1ptZTR6X21scjQzbjI2TnN4SEVnQWRkQm1jRjFzY0lIeEt0czlJaHhnbUlZRmQ2SV91bmVma0laWWlVSnpySk81N19YRjhzWGtIcnNqOUV3RjUtQllvbzJIOUdmQ3dyTQ?oc=5)
 > **source**：Google News / China US Hot News
@@ -643,7 +660,7 @@ tags:
 > **region**：美国/国际
 > **category**：综合
 > **rank**：#3
-> **reason**：rank #3; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military
+> **reason**：rank #3; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
 > **summary**：Military academies won't give tenure to civilian faculty, Hegseth says Spectrum News
 >
@@ -652,24 +669,24 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 93** | Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns - WSJ
-> **标题**：Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns - WSJ
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxNcC0xNDExdTJodUowZi1yeWdFN3M5RlpvY3FvZ1lQeHltWGVkeG01ZTVlaHJ0TldqVVRhekJhWl9ZRTRLNHRqX1NQQVFKMW5NRnhBTmlUNWNpX1FBX3Myc3VlaGIxbFZTZDZYRlYwTGNVLTUtNnJScGJWcm5rX0hMMmNadFFmZw?oc=5)
-> **source**：Google News / Global Markets Tech
+> [!info]+ **今日必须看 / 100** | Exclusive: US military had close call after using AI for false intelligence report, sources say - CNN
+> **标题**：Exclusive: US military had close call after using AI for false intelligence report, sources say - CNN
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxQNURhdTZha1pnekJvMjV5cE9VQ0tpQmZuSXVfbFVzLVBDbDY1b28zMUluUVNzMUlPZnE2Qk5OLXRVcUVsRkVfZ3d2ZVpvaW9JOGFZUE00SV9uQ0xWcE5QOGlzXzB2bkRaWjZiZVpKblZBU2tsOTdvMllIdTRKb21ScUlwNlIzSDdaTFR0Rg?oc=5)
+> **source**：Google News / China US Hot News
 > **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
+> **region**：美国/国际
+> **category**：综合
 > **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, us, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns WSJ
+> **reason**：rank #1; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Exclusive: US military had close call after using AI for false intelligence report, sources say CNN
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 93** | China expands overseas military presence with new Laos air force centre - South China Morning Post
+> [!info]+ **今日必须看 / 100** | China expands overseas military presence with new Laos air force centre - South China Morning Post
 > **标题**：China expands overseas military presence with new Laos air force centre - South China Morning Post
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb1NoSm44amxqZWllLWRhRjBpR3RKQ2RWRXNTQ2JFZm9hSWhfMW1XUEJfVGVRUXpLRkIyLTJRc1R1R0llNUwtTnZhajJKVkFrVjFzazBRaDJ6SV9TZUdwZUxWVG9SMDlYak1oNzlKZXNrN3BJRElXU2hDLUtUWlNkVWxlT2lUOGVhaDh6VWQ4dGpwV25KMWNZVTdscUNGN2hoc1VPY3FvQnNNQnphVDliUUNtS2d2ZWdDMWtuOXkxZGrSAcABQVVfeXFMTUpjeHdzS1JVak5rVXk0MDdmYVZQLTR0RUIzTkZJdjVfQzFwV3dYMVczQjZ3WmF3RXRoYUJXc1c0emRpcmg2TVczUWhVY1ZNS3dGSFZibTZXekZza01SSGxWa2U4ZjJnTkFSVlZKOWEzYUliWFFaT0hTQmtzaFBBMENGWUp0MGVJc1YwcllwRGlKYjczWVB2VXhFTTFhYXozREEtSklyMWdqUTNSNXN0SExTeC0zZzdLZk1tY29XelNa?oc=5)
 > **source**：Google News / China US Hot News
@@ -677,7 +694,7 @@ tags:
 > **region**：美国/国际
 > **category**：综合
 > **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: 美国, ai, china, us
+> **reason**：rank #1; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
 > **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
 > **summary**：China expands overseas military presence with new Laos air force centre South China Morning Post
 >
@@ -686,24 +703,160 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 92** | 川普 「 經濟決戰 」 對伊朗造成多大打擊 ？ 關鍵恐不在德黑蘭 - 政治圈
-> **标题**：川普 「 經濟決戰 」 對伊朗造成多大打擊 ？ 關鍵恐不在德黑蘭 - 政治圈
-> **原文链接**：🔗 [打开原文](https://www.chinatimes.com/realtimenews/20260821001870-260408)
-> **source**：GDELT / chinatimes.com
+## 财经科技观察
+
+> [!info]+ **今日必须看 / 100** | The turbulent AI era is here. The choices we make now are critical. - Gates Notes
+> **标题**：The turbulent AI era is here. The choices we make now are critical. - Gates Notes
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMif0FVX3lxTE5vNHRZblJwZHNZZEZfZ285LUdncWl0YUk0UHVfTDM1b05YSU9rVHRhYUpkQ1VwV1RJaXZ4SzZwV2dBd2ZYeEZtbUpGNkpDdng5WjRTa28yOVdIM3drTERSVVVoeWI0WnpWT3dQbGVQcVhvdEZIZE1oaTB4cHdRb0E?oc=5)
+> **source**：Google News / Global Markets Tech
 > **kind**：`news`
-> **region**：美国/国际
-> **category**：政治/军事
-> **rank**：#7
-> **reason**：rank #7; cross-source x6; source weight: GDELT; hot terms: 美国, 军事
-> **follow_up**：等待第二来源确认，并观察官方回应与区域影响。
-> **summary**：20260821T030000Z
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; cross-source x8; source weight: Google News; hot terms: ai, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：The turbulent AI era is here. The choices we make now are critical. Gates Notes
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-## 财经科技观察
+> [!info]+ **今日必须看 / 100** | Taïwan : enquête sur 17 entreprises financées par la Chine pour débaucher des talents technologiques
+> **标题**：Taïwan : enquête sur 17 entreprises financées par la Chine pour débaucher des talents technologiques
+> **原文链接**：🔗 [打开原文](https://www.sudouest.fr:443/international/asie/taiwan/taiwan-enquete-sur-17-entreprises-financees-par-la-chine-pour-debaucher-des-talents-technologiques-30168162.php)
+> **source**：GDELT / sudouest.fr
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#1
+> **reason**：rank #1; cross-source x4; source weight: GDELT; hot terms: 美国
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260805T080000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 97** | China's AI agents can lie and scheme - just like their US rivals - Reuters
+> **标题**：China's AI agents can lie and scheme - just like their US rivals - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiugFBVV95cUxQcV91dFhINlctVXNLUDJtUDE4SFRwdTBUVUJLYW9Ed09WSXlhZzB0RWFqRldma2FjVGd5NXBFWkMyQldUMGVPcTd5MjM0VjJ1TERaY0dfZkF5VklnbTZ6VzNBcmJkTmROUTJWVWkzRGhMbkZ1RktfX1BfNVBTUzFGMEljaElSUHU5Vnd6S25NZGVCUXpYYnJocnBPTG9Na0VxSnpLbGlWclk2TmlMRjcyelFhT0pIc0NpRFE?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: ai, china, us, ai; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：China's AI agents can lie and scheme - just like their US rivals Reuters
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 97** | Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue - CNBC
+> **标题**：Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue - CNBC
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMickFVX3lxTE5UNXFhZTZhVFdfYnJGdFJmOVlfSl9Na21BY2ItZDFQa0FvY05xUWx1NzU5dlc5U0ZMeGxDRXQycHgtelNGbWVtZEExTzBlcHBQMzNZdWg4VnZNbDFQNnluYjNOOTlPQnUxSGpMSkpidzRZZ9IBd0FVX3lxTE9UaTd0ZFJWSEd3WE91WUFiM0h5UWVEOWxvQk9iZmJHMTVhRk1GQm5vRjVIZEJ0Y09wNG55bndieDk3MFpoZl9ucHN6MWRLa3hYRzQzRm0wYWRsYkE2Y2hwam52eEpDejV4MFVQY0dhaG40Y3UySWtB?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue CNBC
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 96** | پیش‌بینی بانک آمریکا از افزایش ۳ مرحله‌ای نرخ بهره فدرال رزرو
+> **标题**：پیش‌بینی بانک آمریکا از افزایش ۳ مرحله‌ای نرخ بهره فدرال رزرو
+> **原文链接**：🔗 [打开原文](https://banker.ir/%D9%BE%DB%8C%D8%B4%D8%A8%DB%8C%D9%86%DB%8C-%D8%A8%D8%A7%D9%86%DA%A9-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A7%D8%B2-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DB%B3-%D9%85%D8%B1%D8%AD%D9%84/)
+> **source**：GDELT / banker.ir
+> **kind**：`news`
+> **region**：国际
+> **category**：财经
+> **rank**：#1
+> **reason**：rank #1; cross-source x4; source weight: GDELT
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：20260623T080000Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 95** | WATCH: Trump announces accord signed by top AI companies to 'self-police' development - pbs.org
+> **标题**：WATCH: Trump announces accord signed by top AI companies to 'self-police' development - pbs.org
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxNT2FiTFl5M2Z2WUZrckd2QmlfSEI3TVY5b183TjhQLVV1aG5fUnJyNXctLXJVNEtldGtiYlpfeURrLVc0cHN1UVREMzEzcFA1M2I1WkVGQ3Q1VUQ3eVhTWFd2Z09sOV9BQ2pFelM3MlNrNURFZXl2ZF9taTNwQlBhN1hRQlZLNlMteF9oTjhfVXlCdnVfUnRzR2JNTGF3X3ZBLThhbTZmWi1hRVRDWU9YRFdRb3hJNm0yb0p0aA?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：WATCH: Trump announces accord signed by top AI companies to 'self-police' development pbs.org
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 94** | Tech Self - Reliance Eludes Beijing
+> **标题**：Tech Self - Reliance Eludes Beijing
+> **原文链接**：🔗 [打开原文](https://www.theepochtimes.com/opinion/tech-self-reliance-eludes-beijing-6060662)
+> **source**：GDELT / theepochtimes.com
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：科技
+> **rank**：#4
+> **reason**：rank #4; cross-source x5; source weight: GDELT; hot terms: 美国
+> **follow_up**：检查是否影响 AI、芯片、平台生态或开发者工具链。
+> **summary**：20260716T221500Z
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 93** | Detecting and countering misuse of AI: September 2026 - Anthropic
+> **标题**：Detecting and countering misuse of AI: September 2026 - Anthropic
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMidkFVX3lxTFBBeTNVQy1tcnZPVW9SM3drbmxGN1UxRktiY3JfLW9rMDdIMm9SOUd3b3RJNHpSRXVzS1JKckctcFUyZHpNTVE3aEtWVFhka3o3UmlLUzk1ZEs3dUhyVmRJYVctb0IyN1JuNDB6N0hZdTR2TWJTVXc?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, us, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Detecting and countering misuse of AI: September 2026 Anthropic
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 93** | The AI safety debate is confusing. Here's our guide to the different factions - NPR
+> **标题**：The AI safety debate is confusing. Here's our guide to the different factions - NPR
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxNcEN3Zm9SZ3VwcmhRTnV1cG5DX0JPTGhkT1VOSkZMUE5ZS3R2eENaeTJCc1NpTVJ2NjNOZTlMa1hwWndmbUZyUGp2ZkZaOWlfOXZ3YnRzN3Z6cExGcDFpN1JaVzgzSWxKdlNGN2VuSWlRakFQTWpjMmsxR0RUY1lrb2tfZ0lIblQ3Ymdya0pIYW1uRWNIVEVvOEpNTXR4dkl1eHhLc05ObHRCM2thTTViSnl1UXZ4OXNHZkttRA?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, us, ai, markets
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：The AI safety debate is confusing. Here's our guide to the different factions NPR
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 
 > [!info]+ **今日必须看 / 93** | Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns - WSJ
 > **标题**：Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns - WSJ
@@ -716,159 +869,6 @@ tags:
 > **reason**：rank #1; source weight: Google News; hot terms: ai, us, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns WSJ
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 89** | China's AI agents can lie and scheme - just like their US rivals - Reuters
-> **标题**：China's AI agents can lie and scheme - just like their US rivals - Reuters
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiugFBVV95cUxQcV91dFhINlctVXNLUDJtUDE4SFRwdTBUVUJLYW9Ed09WSXlhZzB0RWFqRldma2FjVGd5NXBFWkMyQldUMGVPcTd5MjM0VjJ1TERaY0dfZkF5VklnbTZ6VzNBcmJkTmROUTJWVWkzRGhMbkZ1RktfX1BfNVBTUzFGMEljaElSUHU5Vnd6S25NZGVCUXpYYnJocnBPTG9Na0VxSnpLbGlWclk2TmlMRjcyelFhT0pIc0NpRFE?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#3
-> **reason**：rank #3; source weight: Google News; hot terms: ai, china, us, ai
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：China's AI agents can lie and scheme - just like their US rivals Reuters
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 89** | Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue - CNBC
-> **标题**：Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue - CNBC
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMickFVX3lxTE5UNXFhZTZhVFdfYnJGdFJmOVlfSl9Na21BY2ItZDFQa0FvY05xUWx1NzU5dlc5U0ZMeGxDRXQycHgtelNGbWVtZEExTzBlcHBQMzNZdWg4VnZNbDFQNnluYjNOOTlPQnUxSGpMSkpidzRZZ9IBd0FVX3lxTE9UaTd0ZFJWSEd3WE91WUFiM0h5UWVEOWxvQk9iZmJHMTVhRk1GQm5vRjVIZEJ0Y09wNG55bndieDk3MFpoZl9ucHN6MWRLa3hYRzQzRm0wYWRsYkE2Y2hwam52eEpDejV4MFVQY0dhaG40Y3UySWtB?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue CNBC
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 89** | and is not – using AI in our work - Pew Research Center
-> **标题**：and is not – using AI in our work - Pew Research Center
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirAFBVV95cUxOM0t1U0o4NWl3YUJQVkpqNnlBcF9RRldQbU1JRURFRG50NTNfTkFxT2otU2N3eWJCLWR1UUZLa2tlRXRVMXNKanlIdTJPZkgzSndHYk00S1VacC1nRlJmWXhmV3prZU5td2Vhck9pcEpVVllNOHllelJBaktmdVh5QmtaY0xpeVozX1VpM0tId1hRb3FTSElqd21QVHhWWmE1MF9VeDlEaG5vN2lf?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#3
-> **reason**：rank #3; source weight: Google News; hot terms: ai, us, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：and is not – using AI in our work Pew Research Center
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 87** | WATCH: Trump announces accord signed by top AI companies to 'self-police' development - pbs.org
-> **标题**：WATCH: Trump announces accord signed by top AI companies to 'self-police' development - pbs.org
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxNT2FiTFl5M2Z2WUZrckd2QmlfSEI3TVY5b183TjhQLVV1aG5fUnJyNXctLXJVNEtldGtiYlpfeURrLVc0cHN1UVREMzEzcFA1M2I1WkVGQ3Q1VUQ3eVhTWFd2Z09sOV9BQ2pFelM3MlNrNURFZXl2ZF9taTNwQlBhN1hRQlZLNlMteF9oTjhfVXlCdnVfUnRzR2JNTGF3X3ZBLThhbTZmWi1hRVRDWU9YRFdRb3hJNm0yb0p0aA?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：WATCH: Trump announces accord signed by top AI companies to 'self-police' development pbs.org
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 87** | Michael Burry believes the AI bubble 'may burst' sooner than he first believed - CNBC
-> **标题**：Michael Burry believes the AI bubble 'may burst' sooner than he first believed - CNBC
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiswFBVV95cUxNOUVVY1JFeTZYS3JGNGFCNlItUlYxMlByQ2tGOVduVzFLNDdpQzk4bXl6dklUWlRrUkRhRzI5VGt1R0V4Y0h6T0ZXa0kzVWZnUkdBbzFSWFFZc2FWdHFoYUQ5bzZQYVNCV2RLNGxiMzc4VWt4Tnh2QzdkeTFJMzVkWTVLM0RfSWdUVkRkaXRvalZ5OGQ3ZXpyMHF1ejRUejQ2UmNyYVFBWmZHSkJmU0hKRHVvTdIBuAFBVV95cUxOTXJSdXlIZWJGcjdGWjk0Zy1UbkdmYXhZYzI3M2tHY05NYnBpa0MwcHNMX2MydDJtakxUSC1ySEtHVk5IZzJ3WGxiME5DcEhGNll1bkJOOTRBcmd4MHJRdmVjYno3TXhBSkVoeFdQSmlxVU1Ddm80Qk4xWmRfTGxqZFB6NS1kVDlHYS1YWmZIRm1tVmdUdEh0bUhidGt5SEluVkVReDFlZUJDU1JOTmlfcnMwWWRQNmlm?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Michael Burry believes the AI bubble 'may burst' sooner than he first believed CNBC
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 83** | OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models - The New York Times
-> **标题**：OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models - The New York Times
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMigAFBVV95cUxNN0RzVDRlOVNUaHZteVZrWEkxYVNJckVZbzYtU1NfNEhveGNuUnUwMW5aNHZFN3Etd1ZlMXVrLXJIODZfLWp5M0tjV19NT2tCMGxDWWFqRmVOVWhxVWhydjJVQkV4WXY2ekNYLUpueWVxY21yYy1DSU9tc3JKOW1qMg?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: ai, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models The New York Times
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 83** | Nvidia unveils security platform to stop AI agents from going rogue - AP News
-> **标题**：Nvidia unveils security platform to stop AI agents from going rogue - AP News
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUs1WDRHbkRJcDEzM0tsZ1BWNlZzS2pMVm94RkllS3hiR0Q2UUlPTnc0SVZUcGRCMUVoNDhvTjVKdkhuajJ3RXR2WnJRS2xoRTFwNUREV09yc0dFMjc2YVpCY0RTMW1JbXdDOGpXY283UFVBcG1YRlh6UzBaS0lPOEYwck9UanNBM1dDdXRvVjhQNWtNR1NJWENoemNqNmtHMi1zZWt5UFZwdw?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: ai, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Nvidia unveils security platform to stop AI agents from going rogue AP News
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 81** | Schools are experimenting with AI with little evidence or policy to guide them - NPR
-> **标题**：Schools are experimenting with AI with little evidence or policy to guide them - NPR
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMigAFBVV95cUxOOWNZbE4tY1FmOHFscFk2Yy1aU3JORnJrbDZRckc2amkzajd6UTF5eFJ6ZWs5UmtTMDVvdTVzWTFPZ2k4UDZVdmlLenNxMUpUZlBQV3RnSU5aQkFpaUFPa0Vual85aHJ1bk9YOWl2XzVFQVN6RWdqamx4MXJiLWhHRw?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#5
-> **reason**：rank #5; source weight: Google News; hot terms: ai, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Schools are experimenting with AI with little evidence or policy to guide them NPR
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 81** | Trump's AI meeting with tech CEOs to focus on finding balance, US House speaker says - Reuters
-> **标题**：Trump's AI meeting with tech CEOs to focus on finding balance, US House speaker says - Reuters
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcHJGOXJ5VG45UUJaOEZ4MWNFZDQwd3BpUEtsWkFCeFhPbVd5UmFDaDFCelYwaTduR3h2TEsyUTlCeFFReHNtc3h2Y0p4Zi1BVUs2Qnk4ZjZPV2hnSUZEMlVrVWRxbThlT25RdUNVbHEyVHJ6R1dwVlZ5VzlORVZzRGNVbnpxZWZxWXpVMEhEeFpaUGxCRW8zVDRDaHp1R19HbUE5M3dWaERBU2N2aGtsRldiT3RPbDBheUI1VFBjU2FiV2sxOUNvUw?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#7
-> **reason**：rank #7; source weight: Google News; hot terms: ai, us, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Trump's AI meeting with tech CEOs to focus on finding balance, US House speaker says Reuters
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库

@@ -60,6 +60,36 @@
       "title": "Is A.I. ‘Scheming’ Against Us? - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jWDZqc2pLTU1peVM2Y1J0cEIyNFZpN0kwWHRiOVVZeVp5RjVJU1p4UGdPdXozOUx0Y05fa1J1SlNuR3hBSnFOc2REaEZQRGw3bmdKOXhVRllRaFVKU3V4UGR1dmd6clFNU2dsRA?oc=5"
     },
+    "005fc9997358df75": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
+      "first_seen": "2026-09-30T08:08:23.487943+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "005fc9997358df75",
+      "kind": "news",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-29T20:55:48+00:00",
+      "rank": 2,
+      "reason": "rank #2; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h",
+      "region": "国际",
+      "score": 95,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "WATCH: Trump announces accord signed by top AI companies to 'self-police' development pbs.org",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "WATCH: Trump announces accord signed by top AI companies to 'self-police' development - pbs.org",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT2FiTFl5M2Z2WUZrckd2QmlfSEI3TVY5b183TjhQLVV1aG5fUnJyNXctLXJVNEtldGtiYlpfeURrLVc0cHN1UVREMzEzcFA1M2I1WkVGQ3Q1VUQ3eVhTWFd2Z09sOV9BQ2pFelM3MlNrNURFZXl2ZF9taTNwQlBhN1hRQlZLNlMteF9oTjhfVXlCdnVfUnRzR2JNTGF3X3ZBLThhbTZmWi1hRVRDWU9YRFdRb3hJNm0yb0p0aA?oc=5"
+    },
     "006c9995ee5ca39b": {
       "category": "今日必须看",
       "discovered_at": "2026-07-30T08:09:24.324824+08:00",
@@ -838,6 +868,36 @@
       ],
       "title": "Exclusive: Anthropic CEO calls for stronger regulation of AI - ABC News - Breaking News, Latest News and Videos",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTnFDeXdUaGRRY3FzRWFMbVpRbFBrVXVhOHNDWDRMaFQ1T1kzclBENEtWa3R5UDBDQktzb3Z3N0FYUjJsejBwZUY5eURuejdvaFg4eXJrSndRLWdvTGtDcVdwOFdXeHZlVWo4eXJDc3ZGWlg0aTZwak1ySWwtS3hkSzNmdVR3MEhGXzdGRDRjV3dpMzVTOFhDX0o1Z3FBSDBqamfSAacBQVVfeXFMTzVVZEpXZk9NbHhzV241am1weGozclJlMUV6WFd1VFFQSnhoLXhibFlnVnNQaGRsUm5QNjFtT2F4ZXdQUk9BN0VCbHgweEUySVhkMjRHZDROSmRoem1FUGwzTXVVd2wxZWkycDdWZld1RW5JaFJJd0tQMkx2VlkwNG9wS3Z6blByVkFpLV9lbEhjMjNSTDdoQzROTDhPbnlGbTdlRHJIUE0?oc=5"
+    },
+    "03526ccbc966e681": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
+      "first_seen": "2026-09-30T08:08:23.487943+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "03526ccbc966e681",
+      "kind": "news",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-29T21:33:14+00:00",
+      "rank": 8,
+      "reason": "rank #8; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h",
+      "region": "国际",
+      "score": 87,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "After summit with tech titans, Trump calls for ‘tremendous self-regulation’ by AI companies NBC News",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "After summit with tech titans, Trump calls for ‘tremendous self-regulation’ by AI companies - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTjV0bUtBZ25mSXdRaS1vSkdYdnptUk9kdEpaLTg5dlhMZWVUMExuM01LYTU3cWxRT01yLWFnMmlQT0lfakgwdGpRUGZKX3haZF9NbXA1Zk01U2t0ME1QaVhxQV9EYVBZY05Pd0hOS2ZBUDJlY2NFdmVyOUppZzNzUVpiN1lsc3E3WV8tWml4TTU4aS1Sb1p3MkxaVTFZMi1udUE?oc=5"
     },
     "0379826763a07c10": {
       "category": "可延后",
@@ -2165,6 +2225,36 @@
       "title": "Trump plans to form ‘AI Force,’ appoint ‘AI Czar’ - The Hill",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUTdLQTgwckdxakFDNk41Z2JLd3E5aGVYVXlDa3NqS2RyckxGVjNpZk1uMG10RU5icHB6TV9YUVZwVWxVNmtkYmdqTTNUTGNqb0d0akV3NVdUNkNrY3NxTTBiME9WdjZqRjF1NG9mbEpfZ01yTWhjb1hJSTBQVU81NW16Wmd1OUZy0gGOAUFVX3lxTFBJT3ZYR1d2SDlYOWZGbVlzY2FGZ2pmN3ZKUFNnUDdXcy02QkRUUUwtZXlGWTdXSkRiR3htQS1sUU9TejJrMlJpQjZMdzFQLV80aXkwLXE0NERSSmw4MWpTZjdZRm43dF9zMDFRU1djTUppY0l1cjZSNXNzTFE3ai1iSmN6dlBEWFdQNkgwY1E?oc=5"
     },
+    "0c289bc1d63adb24": {
+      "category": "可延后",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
+      "first_seen": "2026-09-30T08:08:23.487943+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "0c289bc1d63adb24",
+      "kind": "news",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
+      "news_category": "综合",
+      "published": "2026-09-29T10:00:09+00:00",
+      "rank": 14,
+      "reason": "rank #14; source weight: Google News; hot terms: 美国, china, us",
+      "region": "美国/国际",
+      "score": 63,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "Can China’s new satellite coordination standards speed up PLA targeting? South China Morning Post",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "Can China’s new satellite coordination standards speed up PLA targeting? - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMFU3ZmdBTVpLRm9oVldDSU9xZVBmNkdLMGlwYkJOU0xOTHBDc3k4VXBiSWFtUmlKR3NhYWFhUk1xblpDZXVoeEFXNFJzXzlWNi1CbFA5a0pVQmpydlNEVEFXWWpCUzFXc011VW5QZjJiWTh0S0gtN0YwQkU0aXdoeFdJYTFrRlN3TllHdk5EZWoxWURzWG5KdWowZHJ0R3dfMTN0Rk1RSnBfQmtSNDdzVk9SeVZMejl2cjVNaVpiM25QMTJPX0tHdzBSN1V3QXFWcXo3dFpn0gHWAUFVX3lxTE1wQ1VvNnFFOEV2Z2N4MHpNSGdFNVUxUWUzV01lVUZJMG9NSHFuR1JFV0hJS1NfTjFZMEs4clpkR25LZ0xtWXJfQ3JCNG5XNG93TFBYc0tISVAwa2VRY1d4eWRwSzJfWGpSN3V1elRsWERXNGZNQkYxYTlXR1d3S185TnlGRDlad1R5YjBqZ0lwdmw4by1FTkNNT2FyV0hXR3JHSGVHRkpzS1dWb054cnFLVlVlTFZ3WlZBdlRPaE4tZUlRTlRoUnl2dTFmTFExWHAxZlNyT3c?oc=5"
+    },
     "0c2955eede7da8aa": {
       "category": "可延后",
       "discovered_at": "2026-05-20T08:17:36.068720+08:00",
@@ -2584,6 +2674,36 @@
       ],
       "title": "China’s Military Vows to Raise Trust With US After Xi-Trump Meet - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZmd3bHJhbng1SUgxeGcxVnlPX0JKcE1EdFRGYTZOS2ZacG9waHNWTEllUzRuSHd6R2lpeHdsZ2Z5eGRQMzZKdWtkQ0U2VEY1WF84T19yNWdYY2JmQVJzMTJ0YW5iMVRGeWZ1anhWaVpZWjJ6c3B4SkY4bGJGNHgzSTZlVXZWN2NXWVFVbzJhenYycElwQ1BNXy1xeFNUM0RHaDJ0b1pTUldMRVczdEdxaUNXNmk2dw?oc=5"
+    },
+    "0eea3334cc86bcb1": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
+      "first_seen": "2026-09-30T08:08:23.487943+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "0eea3334cc86bcb1",
+      "kind": "news",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
+      "news_category": "综合",
+      "published": "2026-09-29T09:45:30+00:00",
+      "rank": 4,
+      "reason": "rank #4; source weight: Google News; hot terms: 美国, china, us, military",
+      "region": "美国/国际",
+      "score": 87,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "China Expands Military Footprint With New Support Base in Laos bloomberg.com",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "China Expands Military Footprint With New Support Base in Laos - bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdFdnY3U0ZlJTM2ZjQ0NoVFIyOVowdk9oRF9keHVlYTlLWXNEbHl6ZzRSSzM1ZnhSdTZvUmMxT2hMZThJcm56RC1nT1JhOTh0SXBma2ktUTFVVUt3M1JCcXNqakVsMFMyeE9GNXZnS1JyS3hyTHZzV2N6ME9ON0VicEJIaEw4aDhzUzZ4S2NXbnJsa2s4MFV5OWlIcUtBZkxJVkxxWXRsSGk4Y1FrcFF4UkFZRQ?oc=5"
     },
     "0f03966bf98fc104": {
       "category": "可延后",
@@ -3125,6 +3245,36 @@
       "title": "PATH to boost AI training and career opportunities for industry-aligned jobs - MIT News",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYmVjb2ZubXB2LUVwYXFqU0hyZU04cVlMbTJKOHJ0ZVdFeFZKM1pRSUwxbV9DYkdjQ3lHaml1OG5RSWpHdkZfc0dSX09tZ3Y0TGp6MWlkX05YSzZ1MXVPOVpHQkxpTElzNDNyWFREcmlVN293cTJzYVktSWtzVllrT3FIMl9tQQ?oc=5"
     },
+    "11278519487ee3b0": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
+      "first_seen": "2026-09-30T08:08:23.487943+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "11278519487ee3b0",
+      "kind": "news",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
+      "news_category": "综合",
+      "published": "2026-09-29T20:46:00+00:00",
+      "rank": 3,
+      "reason": "rank #3; cross-source x2; source weight: Google News; hot terms: 美国, china, us, military; fresh within 12h",
+      "region": "美国/国际",
+      "score": 100,
+      "seen_count": 2,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "Military academies won't give tenure to civilian faculty, Hegseth says Spectrum News",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "Military academies won't give tenure to civilian faculty, Hegseth says - Spectrum News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb195b0NYRVM0Q3BpWmhKZG9NLVUzT09XX0xzcWVCVDVka3dlNFQxdnRCdk80N2V4VTdIaTRVcnQ3YVotcl9zb3k0NGZrMWhZdW1jNTdpTTBFN044TWl0MzBTUWhGV2hJRllEQ1ptZTR6X21scjQzbjI2TnN4SEVnQWRkQm1jRjFzY0lIeEt0czlJaHhnbUlZRmQ2SV91bmVma0laWWlVSnpySk81N19YRjhzWGtIcnNqOUV3RjUtQllvbzJIOUdmQ3dyTQ?oc=5"
+    },
     "11460c8f5d9dc5cd": {
       "category": "今日必须看",
       "discovered_at": "2026-08-26T08:08:28.211053+08:00",
@@ -3334,6 +3484,36 @@
       ],
       "title": "Trump says he approved new fuel economy standards, rolling back Biden-era rules - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44SjFYLW50LXlpYTlGdXJVdTg4Y1l2MkRSNmtqUFVtdG95YjBySXB1ZXk4TjZ6SGs1NXdNV0ZMcjYzYUlfZTlCb25ldjlvd1JCMjdSUlh2alBnQVhnNW5UVzBzUnNnX0ZhcmJWY29ZSkxsYkVmaW9JeUR30gF_QVVfeXFMTVVfaktTbFNTRHZNamV4ekg3V05RZXFMNFViRnZ3NUN4TTZjZC1UN19Wb3VVTGh1NjFvZ1JCM1NQTDMtX0k5ZEZfY3VLYzZWdXhRVWRscjV6UTEtZ25oUTJtWFdMRFlZQ3VacUx3Mmp6Rl80TElGWDhwNmJIQm0xaw?oc=5"
+    },
+    "11ff1f4cc6e606d7": {
+      "category": "可延后",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
+      "first_seen": "2026-09-30T08:08:23.487943+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "11ff1f4cc6e606d7",
+      "kind": "news",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
+      "news_category": "综合",
+      "published": "2026-09-29T09:07:05+00:00",
+      "rank": 10,
+      "reason": "rank #10; source weight: Google News; hot terms: 美国, china, us, military",
+      "region": "美国/国际",
+      "score": 75,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "China's Military Modernisation in 2026: What Matters Now and What's Next Janes",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "China's Military Modernisation in 2026: What Matters Now and What's Next - Janes",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSGpmTW1BY1JxbVNEVmhjOHo2T3VsVEJkdk5yZFVqWXFkTDluOVdaaS1OS0lpME5Sd0Ffc1Vlal9yMTJpTUFaRFpIS1czb0hPMEF2akdheUEyTG5lOXpFVURVbkFqYmlpYjgtbHdRZXFjRWd6T0xkLWlIOWZrUkFUbUhIc1hKQmRVRnY0QXVHVjhpLXBTU3BKLWM0aEd6czZwSVoxOVAzV1V6S0h1YXgzUXpZM0FVTlAzYlJicU9ycTNkeHBfeHRFNm9IdTYzQkFSTU5HblJPSWZqd25UWWtmZjZOYUVqQnB0MWFF?oc=5"
     },
     "1225d447621a935b": {
       "category": "今日必须看",
@@ -4651,6 +4831,36 @@
       ],
       "title": "The rise of China in Middle East politics - Middle East Monitor",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa3lhMkwtSXRTVFdteEVpYWJ5VVhublk2NDBzTXVKVWR6TFBSbUNyYWxwWk5ucEkwN2lRVjluZl9tNGtDRndXY29WYjJSSW5LVEJQZDVGTnFfSnptTFMxbjJacmV1ZXNGaS0yQkVZMHo1TEM0RGVPbFBhaTJJcjdEWWdfbU5QbFhoeFdPVm9R0gGTAUFVX3lxTE4wUzJtUUNVa2V2aWpZTldTbzhLNnNPYXNzNkRuQ3NXREtwNjVySnBaV2FZblhIazg2WUN4YXhYUTVTakZ6TEVwV2VxaXlrekx4T25LTDRaMFhKRWVOQVZETHIya3ZtUkRPeVI2eEFuNk1PeUNWYjdXZTZERnNrbjBITUlISno3YXFWaXdwLUVRejZrbw?oc=5"
+    },
+    "1798145e13246921": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
+      "first_seen": "2026-09-30T08:08:23.487943+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "1798145e13246921",
+      "kind": "news",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
+      "news_category": "综合",
+      "published": "2026-09-28T20:04:48+00:00",
+      "rank": 6,
+      "reason": "rank #6; source weight: Google News; hot terms: 美国, ai, china, us",
+      "region": "美国/国际",
+      "score": 83,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "WATCH: Trump says Perdue 'was probably talking about Taiwan' in saying Trump offered Xi arms sales pbs.org",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "WATCH: Trump says Perdue 'was probably talking about Taiwan' in saying Trump offered Xi arms sales - pbs.org",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZTlGNUpQOHpVNTdkVXliUXR4WTNZbWVvOGNyMnR6cjcxdnEwRjRMX0ZoRkFXTTY2Nld5d0JqOHNTU3FVMG5takJfUFN1RS1tdGZKamVrR1FLLVNrS3o5UHhMcWFjcGZfV0dZUk1BXzVhSnJuMExYbFlQWGtNUHlfbVRiZF85UVltNzB0M3ZtdW4tcFdCTEhEOE9xNzc1Q1N1NFgwSDJEOWdSYWEyRktEUF9Jd0VpMWlZSGdrSUhkUlBncGU1eE5zUThXWUJoUdIB0wFBVV95cUxNeXdtME9sYzBTcEhXd3Q2dzZnSnZZTV9CWFBnVGg4bDRTdmREcFpvRWJIZklOY0txOFpLZEN5YlNidi1GMDdyX2JNWS1hcDY3aHl4cnA0ZGhnWlF5YVJJVnBHVU9saUt1cGc2WWNGUnRwRlJpS0ZVZWx1TDlmelpyMVFIcG5JR1JlX3c5SVRFVnRrVDNoV25uY1NDSjBCOHZXc0lOUWFITmxBX005R25MbnpvOHRSLV9EU2owSU9hTmoyY2s4dEh3YW4wOUQxSjJaU3ZV?oc=5"
     },
     "179ea63f5d64ad8c": {
       "category": "今日必须看",
@@ -6984,6 +7194,36 @@
       "title": "Department of Commerce Announces Letters of Intent With 9 Companies for $2 Billion to Accelerate U.S. Leadership in Quantum Computing - National Institute of Standards and Technology (.gov)",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS25USHlZNExEcm85NGhWVE52dUVGTkdhbGd2RkNyTVN4RzFKbW44QWVDZmQ4ZW9Ddnlsb3d0dzBRVGpkVHdxRFhSa3FLaVlNeG9ocVNPTUlyZlNHUmQ5TnpZaDljUnFyX3RvV3pXZUdWS3ZXUUw4SmFvVlZVN1Jqa1JTa0s4TER4cFZDcVhmMHk3TXVLVTBLSHYyRWNQeXBkWmZsSmpDSkU2LXNiT3EwcnR3?oc=5"
     },
+    "2366a8050a24243f": {
+      "category": "可延后",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
+      "first_seen": "2026-09-30T08:08:23.487943+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "2366a8050a24243f",
+      "kind": "news",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
+      "news_category": "综合",
+      "published": "2026-09-29T10:51:16+00:00",
+      "rank": 11,
+      "reason": "rank #11; source weight: Google News; hot terms: 美国, china, united states, us",
+      "region": "美国/国际",
+      "score": 73,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "United States - Market Insights (Finance) The Global Legal Post",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "United States - Market Insights (Finance) - The Global Legal Post",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQzlQY05kblZVOTdQOEZjQ1pZdFBBMEpUalctblM4V3d5S1p3TGxvR3FhWHhLeDQ4QmRVTHExZzFRcm9WRmVaRGR4UFlnZ2VDVEpMYVpFODQ5Q2JOTXFJTVZXdUU1STRESkZDdUM0RnQwclNib3NXOFlkdTR6OGdEMG9OY0lvWE5ocnU2bmxIVnRIV3phNEZSUGlPN3NQMFMwaGhRV1UzdFI1b29FUWtEeW05RDVQYXBNRzFMenprejRDQmtaUHJPNUI3SE9NcHk4VUVYVnloT2I?oc=5"
+    },
     "23762765eb8ff043": {
       "category": "今日必须看",
       "discovered_at": "2026-06-20T08:10:28.891728+08:00",
@@ -8331,6 +8571,36 @@
       "title": "تعرف على تداعيات الحرب في الشرق الأوسط على الاقتصاد العالمي | اقتصاد",
       "url": "https://www.aljazeera.net/ebusiness/2026/5/16/%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D8%AA%D8%AF%D8%A7%D8%B9%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7"
     },
+    "293c66ec8baa2d4f": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
+      "first_seen": "2026-09-30T08:08:23.487943+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "293c66ec8baa2d4f",
+      "kind": "news",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-29T20:47:00+00:00",
+      "rank": 9,
+      "reason": "rank #9; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h",
+      "region": "国际",
+      "score": 81,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "Trump says tech execs signed ‘morally binding’ accord to help police AI Politico",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "Trump says tech execs signed ‘morally binding’ accord to help police AI - Politico",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbEFFMV84ZVlYUUJrbjI2WmowTkExMHJKal9ueE1WY2NWdWtjNzhsUVl1MFpueS1xcERvUU12OEktQ1NteGxrRE1SeVdaaUFMMVJFRzNWN1NVaHJ4MXVMTTVNbHdTdTQ4NDRQT1l0Z04wd3hjc2RPQVZVT3FZMXBlY3ZrZ2VRbmxmSmZwSzUtRFg?oc=5"
+    },
     "29ddcc05a7c1c9ca": {
       "category": "可延后",
       "discovered_at": "2026-09-02T10:09:24.772530+08:00",
@@ -8420,6 +8690,36 @@
       ],
       "title": "Trump announces new 'AI Force,' vows to protect industry as AI czar announcement nears - Fox News",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQWtrY3RYV3hQMlBUaEZ3NGk5aEtLUF82LWZ5RnJtNWRYZmhIcW9zUnVsNHk2NzZQSmdOY2VwcjA2dEFwUU1rX3ctYTBLbjRUQWFSMmpCZzlfVjRYc3JEUzhlcE1LcU1YMXoybmk0UDVKaEI4aFRuRE1HQ3Bub1Zxb1ZRSjBiSmFyR2daTkc3VmlHbExnN3ZTUmt4TnBKYTA0cTgyNncyMzF0RGNOUmhN0gG0AUFVX3lxTE80NHZ2cmJEZVNsNk1wc2tBd01rcDNVcXdKQl9IdTQ3cjhzRDZjbVhiVFNvMnNlYVU0c2xxT3JYbkU1aWZ4X3MwWllYUzNBSWR6c2VFa1JObTJSVmxHbV9RalgxWlNMVWltTEVwTlBlbHItZHlCdXFBZ1BVN3FXbTJXVGZFblp4NzZQTVBDMXFQU2lIcC1ZWU55dlY1SXhhQmFqMlJ5VU9vbU5QQTJDUnNLSHFXaw?oc=5"
+    },
+    "2a15476f62feee9d": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
+      "first_seen": "2026-09-30T08:08:23.487943+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "2a15476f62feee9d",
+      "kind": "news",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-29T23:36:59+00:00",
+      "rank": 10,
+      "reason": "rank #10; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h",
+      "region": "国际",
+      "score": 79,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "Trump and major AI executives sign \"morally binding\" voluntary controls: \"It's almost like a constitution\" CBS News",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "Trump and major AI executives sign \"morally binding\" voluntary controls: \"It's almost like a constitution\" - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2FRdkxwUDU3by00WnJpTG94ZnJBS18tOHBuNnhvaU9lM29LandSODBCQklsaW9YMVU5bmFBVk1qeTVPalJpWU9zeGt0RUZibnE2RVIzOGFKLURVdnNBRDBHTEZhMTdGd2hLVWlXZzRmdFQyWXhIcVR4VkU2U0tGUlRabEl1aEVhNkNpU0xubmF6V3pfdjE2YUNScEEzbWM?oc=5"
     },
     "2a58f05593a54cef": {
       "category": "今日必须看",
@@ -16024,6 +16324,36 @@
       "title": "Demis Hassabis has a plan to harness AI safely - The Economist",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcTVyR2RuZXBVM3N2UF9oWXpyVlF1S19xakNXVlFmUGJIc0kwWXIyOXllSGh3UGc0UVF5cTdfUWI1OHRsSklKazJlSEFSRk1WUnlFUTUyQy1ackpkRm4zVkRNc2NwSjhYOHVzdW1kSWhSaHBqZW40c2dLc0wweXJtLUQxQjdkMGpaUEt6NmxQNFNyOEM4Ui1v?oc=5"
     },
+    "50a8e7181045b61f": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
+      "first_seen": "2026-09-30T08:08:23.487943+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "50a8e7181045b61f",
+      "kind": "news",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-29T23:46:28+00:00",
+      "rank": 3,
+      "reason": "rank #3; source weight: Google News; hot terms: ai, china, us, ai; fresh within 12h",
+      "region": "国际",
+      "score": 97,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "China's AI agents can lie and scheme - just like their US rivals Reuters",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "China's AI agents can lie and scheme - just like their US rivals - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcV91dFhINlctVXNLUDJtUDE4SFRwdTBUVUJLYW9Ed09WSXlhZzB0RWFqRldma2FjVGd5NXBFWkMyQldUMGVPcTd5MjM0VjJ1TERaY0dfZkF5VklnbTZ6VzNBcmJkTmROUTJWVWkzRGhMbkZ1RktfX1BfNVBTUzFGMEljaElSUHU5Vnd6S25NZGVCUXpYYnJocnBPTG9Na0VxSnpLbGlWclk2TmlMRjcyelFhT0pIc0NpRFE?oc=5"
+    },
     "50e121cf2902eb24": {
       "category": "今日必须看",
       "discovered_at": "2026-06-16T08:09:47.956586+08:00",
@@ -17193,6 +17523,36 @@
       "title": "US stock market hits record highs as AI profits pile and oil prices ease - theguardian.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYkxGTktpd3RhcFI2bzdDWDc0OU5XdlpQdU4xSWtOaVdzZVgtc3VLbXg0NHM2ZkVocVRLam5rVXFuV1FPYmRoY1hqdGFWdWdWYTFvMUhWVExIbHlXc0tJc2lVVjhIODVaRDhFMHdHU05hSElLQ0dqWHg3ODAtcTloYTl4LVFLSEo4ZHl4QnY2aVF4X1Y4TjNYT1h5T08?oc=5"
     },
+    "57246c6d9c564613": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
+      "first_seen": "2026-09-30T08:08:23.487943+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "57246c6d9c564613",
+      "kind": "news",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-29T23:25:37+00:00",
+      "rank": 12,
+      "reason": "rank #12; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h",
+      "region": "国际",
+      "score": 79,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "AI sector signed 'accord' on technology standards, US House speaker says Reuters",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "AI sector signed 'accord' on technology standards, US House speaker says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcjZFalBsd0NoTHFrcUl4ZVQzMUMxX01hbE9mMkR6TTB3cXpCYlN5ME4ybkhwVWlhVXoySFI1SUV2WkNJYnBRVDIxb3hCVFRFekw3RDJFdzVXa2U3NThmc1F2N0pCNThkRDh5UnNpY3JER0dUbksxWEhFUnJHVF9ORndRQTdOSFdpWGFNdDhiaFpqNnZnWW13YlpxRm1Kb0NjQVRlald4TGNiUUoxdFpqZ0xYMnplZXV2TkE?oc=5"
+    },
     "572ceb5bfe1483b8": {
       "category": "今日必须看",
       "discovered_at": "2026-07-26T08:39:44.123235+08:00",
@@ -17252,6 +17612,36 @@
       ],
       "title": "China derails consensus on communiqué after US-hosted G20 - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc0hRTUtBWjVacXN5NWo0ODNBY3QxUlZUX3lkZnYzbVFvblp6WFFORzIwR3Y2eXBnNk9uZS1QZEtobFJjR2U4WDduZk8yNDZFVlRBSEthaXUxMWF6bTlteEdTeWxFZGxYM01LSld3WmVtc1g0bmhDYUN3eV8yNl95MjFCemQ?oc=5"
+    },
+    "5770d6f8b8d35510": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
+      "first_seen": "2026-09-30T08:08:23.487943+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "5770d6f8b8d35510",
+      "kind": "news",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-29T21:07:20+00:00",
+      "rank": 1,
+      "reason": "rank #1; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h",
+      "region": "国际",
+      "score": 97,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue CNBC",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "Trump tries to rename AI 'super intelligence' as polls show him sinking on key issue - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UNXFhZTZhVFdfYnJGdFJmOVlfSl9Na21BY2ItZDFQa0FvY05xUWx1NzU5dlc5U0ZMeGxDRXQycHgtelNGbWVtZEExTzBlcHBQMzNZdWg4VnZNbDFQNnluYjNOOTlPQnUxSGpMSkpidzRZZ9IBd0FVX3lxTE9UaTd0ZFJWSEd3WE91WUFiM0h5UWVEOWxvQk9iZmJHMTVhRk1GQm5vRjVIZEJ0Y09wNG55bndieDk3MFpoZl9ucHN6MWRLa3hYRzQzRm0wYWRsYkE2Y2hwam52eEpDejV4MFVQY0dhaG40Y3UySWtB?oc=5"
     },
     "579d46c4e7bbc7a5": {
       "category": "今日必须看",
@@ -18576,19 +18966,19 @@
     },
     "5d4611d5cd2ebea3": {
       "category": "只归档",
-      "discovered_at": "2026-09-29T08:38:15.424127+08:00",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
       "first_seen": "2026-05-15T15:27:55.874811+08:00",
       "follow_up": "检查 NewsNow 本地服务或新闻兜底源是否可访问。",
       "id": "5d4611d5cd2ebea3",
       "kind": "failure",
-      "last_seen": "2026-09-29T08:38:15.424127+08:00",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 88,
+      "seen_count": 89,
       "source": "System",
       "sources": [
         "System"
@@ -20668,6 +21058,36 @@
       "title": "‘Godfather of AI’ predicts mass unemployment is on its way - Fortune",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQmxheVQtQ3RYOGwwbkpaWmpyZlIzVmdmemJkS2F4bVBsUEs0NW5zRW80RFNYZ2hUbjlxMnBxZHc2VzMwVDVWZGp3bEtVQ2JFdWFMUTIzbHVvdEJiekc3MTNOeEhCRVo4eFBBWkVldW5pbUZzQkEyS3RoV3EyRkhUVmlDd1hnS0ltbm9QOHg3eC1SUVFEeVNEdERXYnRTM3NDbzQ5Um1GaEhfOGFUMmtLbk5TeWxzVjg?oc=5"
     },
+    "68112b08561fd08c": {
+      "category": "可延后",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
+      "first_seen": "2026-09-30T08:08:23.487943+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "68112b08561fd08c",
+      "kind": "news",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
+      "news_category": "综合",
+      "published": "2026-09-28T23:11:58+00:00",
+      "rank": 13,
+      "reason": "rank #13; source weight: Google News; hot terms: 美国, china, us",
+      "region": "美国/国际",
+      "score": 65,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "Fortress Guam: The Environmental Cost of Preparing For War With China The War Horse",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "Fortress Guam: The Environmental Cost of Preparing For War With China - The War Horse",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwSW5KellDd1BicWxGTlFueElRUFF6b3B5ZWJlZE1KUjUtdXRDU0h1VUxsUmROTnJ4MGdTMVJtZmRuTmRiaFp3VUw3alRWbkFzcmVLN3dPRHpnb0JiQXdTY2lkNFFjRTJFTXc?oc=5"
+    },
     "6868caa0d52a7618": {
       "category": "可延后",
       "discovered_at": "2026-08-19T08:08:47.433033+08:00",
@@ -20935,6 +21355,36 @@
       ],
       "title": "Chinese Navy Hospital Ship Auspicious Ark: for life for friendship - China Military Online",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CTHdDWGxzUXN6VDlGME5NQ25JUU1Bc1B4RkFqNWJqR0ZEVE1ZOC1VTkE2amh6VEp3djRJWC1ZbGpmRE0tZ0dfRnhZQXlGUWZFeDk4TlMzSjROVEpWZGFYUGJkZ3VEOVE4Zjl3Nlk4MnFyRXM?oc=5"
+    },
+    "69cf62ed82713bdb": {
+      "category": "可延后",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
+      "first_seen": "2026-09-30T08:08:23.487943+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "69cf62ed82713bdb",
+      "kind": "news",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-29T22:34:24+00:00",
+      "rank": 15,
+      "reason": "rank #15; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h",
+      "region": "国际",
+      "score": 69,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "Trump releases AI accord with tech executives Reuters",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "Trump releases AI accord with tech executives - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLWFxb3Vsc1pSQlJBMjF2MHFDc3VldTcyWmp6OXUtbVZUNkJqRXlnY2pmR1ZhSktTSl9QTVlLMEVoblVtSlJZMVBNZG1jTFB0clhWV1NOOGRCa2NYd2Q2WUY3X05sOFMzRnNnOVhhS0dXZm5fa05iY0NVVUZRdk1WU0JmYndpZjYwRUJFcmlyNmJkS1BO?oc=5"
     },
     "6a1c1ca013234d8b": {
       "category": "可延后",
@@ -21208,19 +21658,19 @@
     },
     "6b557c06b8e0e597": {
       "category": "只归档",
-      "discovered_at": "2026-09-29T08:38:15.424127+08:00",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
       "first_seen": "2026-05-18T09:03:50.508358+08:00",
       "follow_up": "检查 NewsNow 本地服务或新闻兜底源是否可访问。",
       "id": "6b557c06b8e0e597",
       "kind": "failure",
-      "last_seen": "2026-09-29T08:38:15.424127+08:00",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 68,
+      "seen_count": 69,
       "source": "System",
       "sources": [
         "System"
@@ -22096,6 +22546,36 @@
       ],
       "title": "美연준 , 3연속 기준금리 동결 … 이란戰 고유가에 인플레이션 높은 수준",
       "url": "https://biz.heraldcorp.com/article/10728832"
+    },
+    "705205f4b7e85f03": {
+      "category": "可延后",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
+      "first_seen": "2026-09-30T08:08:23.487943+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "705205f4b7e85f03",
+      "kind": "news",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-29T21:13:05+00:00",
+      "rank": 11,
+      "reason": "rank #11; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h",
+      "region": "国际",
+      "score": 77,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "Trump gathers with AI leaders and floats ‘self-regulation’ as the way to deal with the technology’s dangers Yahoo Finance",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "Trump gathers with AI leaders and floats ‘self-regulation’ as the way to deal with the technology’s dangers - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVGM1M0Q3OVg3TlR0QllZQkhiZHAzOWxaOFF6Z0JkTU1EbWFrUEFMYlhHajR3NkdjZEVDOFBMeVAzc09aalJJTVViUDNPWFJOMDY4VENuVlh0bGVBSXJ0MnZUZUtJSjVVRHdzUmFnSWNlZXI2T01JV3lWc3lfYmhDNXlFRWV6S2pTUDEzUWJEbnlzQUt1WTNkRzdoc2NGb0hPZ0sxcTA0N1BscGxIVDhhTFc5RDd2LVZQcWZ6U1g0OVpDZ2NqTi1YbmZnd2QyQ2FDNG9sSk5CR2lBSDNFN0pvdXFtT096UjMyVnU3X2Y3WXpGZw?oc=5"
     },
     "70a44f21194b8845": {
       "category": "今日必须看",
@@ -24824,6 +25304,36 @@
       "title": "Introducing AI Futures - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pZlh4LWwzcDRQZW1LZHFOeDdkZ0h2aFFVbmF1U3VnRzN3NzR6d1VBZjZBODBfWVlId1BQOFR2anNwVWxCd2huNDBTdUNFaVBBSzA5Rm9FYnhIY0NI?oc=5"
     },
+    "7b6cb87744601db5": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
+      "first_seen": "2026-09-30T08:08:23.487943+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "7b6cb87744601db5",
+      "kind": "news",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-29T21:33:45+00:00",
+      "rank": 6,
+      "reason": "rank #6; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h",
+      "region": "国际",
+      "score": 87,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "Trump says AI leaders signed a 'constitution' to police themselves ABC News - Breaking News, Latest News and Videos",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "Trump says AI leaders signed a 'constitution' to police themselves - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOanlhb3luTWNPUUpYbzhHV2tQdUF1dEVhN3d5VDJZdGwzRU1fT1Nsb2ZrNjRNeHNiem1HNTZaSzdQcU80MTVwSE44a0pvR1J3eTZIRG0yRjhnSWdVVjJuek1qTDVIOVAwTDZRRXlPR25xUU83NWkyd2swVWFsbE5ELVYyNzFCU1RETWY2S21pVlNBYVEw0gGaAUFVX3lxTE5qYlFleHFIUHFxbnkxTDVvZmx5RmI5SHRCY1Bnc0wxejY5emRkd2RsWDA4WUNndklFbG1qVzBBRkdreUtGZ0VLc3hlNWVHc3d1NHdiUzRKZkhNczhTZTBBSXdzZlZGM2ZTbndUaFlob0R4Q2pQT0t0aXlUTnhfYnJPQkRNWlVGOG80U240NHR1U3hnSVpCN0Y4QVE?oc=5"
+    },
     "7b75db5961274090": {
       "category": "今日必须看",
       "discovered_at": "2026-08-20T08:09:11.859379+08:00",
@@ -26111,6 +26621,36 @@
       ],
       "title": "AI Now Summit 2026 - Mistral AI",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WamJ4WnhZZVN3dFFSMWZ3Zk5kdk5tTE1kLUxkSExoOGVqM09aYlJPdEp4SnB4Ukt1eFFlZVdPM1pIQkRpcFNUdXNvc1VvUEJoRmdxSmRn?oc=5"
+    },
+    "7f5ed9883df442f1": {
+      "category": "可延后",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
+      "first_seen": "2026-09-30T08:08:23.487943+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "7f5ed9883df442f1",
+      "kind": "news",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-29T21:20:37+00:00",
+      "rank": 13,
+      "reason": "rank #13; source weight: Google News; hot terms: us, markets; fresh within 12h",
+      "region": "国际",
+      "score": 69,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "Dartmouth Provost Is the Latest College Professor Examined for A.I. Use The New York Times",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "Dartmouth Provost Is the Latest College Professor Examined for A.I. Use - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZW51NjY4amtqRklUaEJsejNlbnpUdTlMdWNRWDhVdDJLTmZEYmdRei1XcXBnTm1iZVNpekhyQWFFRUR5dGNjMk9lOWo5dER3UGhOQjl2VFJCX1QzV1YzQ1VqdkxZSUlYbEUxZjRhcVNOZ2FTc3BjXzBCYlh6NDNzQ0VDa25nOGFJRDhaYjVEbnJDbDQ?oc=5"
     },
     "7f6c4dc10f8bfcd4": {
       "category": "可延后",
@@ -29559,6 +30099,36 @@
       "title": "People are flooding AI chatbots with health questions. Microsoft is teaming up with Mayo Clinic to help - CNN",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQXc1ZGhLSkRXVGJ3TC14WHAyTk1GV0xqclpLOTVIeXBiTDFvN1d2ZGhweUpEcFc2ekxBSkE1YmxQdEZfNS03Y0M2b0hzUmZUdHBIRUowYVpkd0tCQ2JLM0IxWjNWaW9xVGhNb1M0dFRlM3pQcFlIRm0zd09yM3RDWA?oc=5"
     },
+    "91f3ab9cf7877277": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
+      "first_seen": "2026-09-30T08:08:23.487943+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "91f3ab9cf7877277",
+      "kind": "news",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-29T22:53:40+00:00",
+      "rank": 4,
+      "reason": "rank #4; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h",
+      "region": "国际",
+      "score": 91,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models The New York Times",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN0RzVDRlOVNUaHZteVZrWEkxYVNJckVZbzYtU1NfNEhveGNuUnUwMW5aNHZFN3Etd1ZlMXVrLXJIODZfLWp5M0tjV19NT2tCMGxDWWFqRmVOVWhxVWhydjJVQkV4WXY2ekNYLUpueWVxY21yYy1DSU9tc3JKOW1qMg?oc=5"
+    },
     "92191b99afbf9981": {
       "category": "可延后",
       "discovered_at": "2026-09-15T08:09:11.503064+08:00",
@@ -32765,6 +33335,36 @@
       "title": "The Informal Empire and Its Hard Edge: Extending the Argument to China’s Military Reach - Defense.info",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTG5uQndOTmVEXzFWNENWOWM0b1JSeldVV1psWUFwTWVCQ1JGa00xcFlOQlFuNGRlbTBzNmJucnQzRUotWDN2SmNFdVdaVnJyV0EzSTFVc3FpWDdiRnB1WGxoNTd2ZjY3WmNrRml0SU1PVmFhbFlZUlVjVjE4MkFIUVJTLUwzaVF2a3BWSEg2elBvSm5XU0tIZ1Q3ZEdyZjZqOVZNMzhpUUxqdm9LanpkTVpGZ3J2cE5hOW5xY2hoSnFtT1JWWm5wdlBB?oc=5"
     },
+    "a13f25bfa8312cea": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
+      "first_seen": "2026-09-30T08:08:23.487943+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "a13f25bfa8312cea",
+      "kind": "news",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-29T22:37:00+00:00",
+      "rank": 7,
+      "reason": "rank #7; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h",
+      "region": "国际",
+      "score": 89,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "Here’s The White House’s 308-Word AI ‘Accord’ In Full Forbes",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "Here’s The White House’s 308-Word AI ‘Accord’ In Full - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZFdnNTlSVEltSHJuRDZtRkM5WDlEdDBlLUtHSTRNcE84ajVfYk1KS1A3N3UzMm1ZUkxjSWpyQ3lRZkhNaVUxQkdYNF96NjZ2VGhzS2JFM0lpcnF0YUFic09ZX2FjdXRUWkhiX3RwWnJjNXRIeERMZEtxRzM4UVh5YWc0YXp3d0ttcFJCMkNSOHQ1d0pkSlBMS1lFRkQ3NThTcERYSk5MWHA5bGlhXzNWaENsUEVTTGl5NTdESXpPX3RCTzg?oc=5"
+    },
     "a14d150c96b06b7f": {
       "category": "可延后",
       "discovered_at": "2026-06-24T08:09:36.603820+08:00",
@@ -33037,19 +33637,19 @@
     },
     "a26ff36d24e06a36": {
       "category": "今日必须看",
-      "discovered_at": "2026-09-29T08:38:15.424127+08:00",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
       "first_seen": "2026-09-29T08:38:15.424127+08:00",
       "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
       "id": "a26ff36d24e06a36",
       "kind": "news",
-      "last_seen": "2026-09-29T08:38:15.424127+08:00",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
       "news_category": "综合",
-      "published": "2026-09-28T17:22:00+00:00",
-      "rank": 1,
-      "reason": "rank #1; source weight: Google News; hot terms: 美国, china, us; fresh within 12h",
+      "published": "2026-09-27T22:52:12+00:00",
+      "rank": 5,
+      "reason": "rank #5; source weight: Google News; hot terms: 美国, china, us",
       "region": "美国/国际",
-      "score": 97,
-      "seen_count": 1,
+      "score": 81,
+      "seen_count": 2,
       "source": "Google News / China US Hot News",
       "sources": [
         "Google News / China US Hot News"
@@ -33064,6 +33664,36 @@
       ],
       "title": "Trump Offered to Sell Arms to China, U.S. Ambassador Says - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM0dRZWdFN1pwcTNsbV81WDEtVHAtazBXRF9IM2M5NFdxUjMxYlBWMTM4S1lYMVdvcFZINTdEeE5kMnVmNll2aVkyRXhadHZWMGoyM0tQQXdzNUx3WlpHVUM0SDlaeDNZWVA1aTNVazlPRzhSUXpfbjUxbTlMMVJ1SnFB?oc=5"
+    },
+    "a28795b6462aaafa": {
+      "category": "可延后",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
+      "first_seen": "2026-09-30T08:08:23.487943+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "a28795b6462aaafa",
+      "kind": "news",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
+      "news_category": "综合",
+      "published": "2026-09-29T20:01:00+00:00",
+      "rank": 12,
+      "reason": "rank #12; source weight: Google News; hot terms: 美国, china, us; fresh within 12h",
+      "region": "美国/国际",
+      "score": 75,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "TriLink BioTechnologies® Secures Additional China Patent for CleanCap® Technology, Adding Broad Composition-of-Matter Protection to Reinforce Its Global IP Yahoo Finance Singapore",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "TriLink BioTechnologies® Secures Additional China Patent for CleanCap® Technology, Adding Broad Composition-of-Matter Protection to Reinforce Its Global IP - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdXRDdDFmZnVkNS0ya3hyb0I1QjZ3RUZveFN2Y3l0YU5DTlFuTVJwOXp5ZGdIb2NWRklKRDBTWXFza3c4Q3FTTVIzM1JEYTAxM3BWdVN0V01mSVRGR0o4eHpOYjM1U3hrQzk3RjJSbmo5aXZ6YmpiMF9GakhZOUNjMmFhV1ZCRUdCbUJVWTY1MTFOTlJEaTJoV0lqZ2NMQQ?oc=5"
     },
     "a2a0c95bafb7a32a": {
       "category": "可延后",
@@ -34537,6 +35167,36 @@
       "title": "How China is preparing for the risk of AI escaping human control - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1FUWERnbmM3dlBucFJQMmJmSEp5UVlXUVp0UEI0eU9aV1VzSnVoX3pNZUtWcFZsXzAtNUVXQmdOakFVNUYzZWVwSm9laXBTU2pvRXVaendNSFU3XzJmeGxrdDlKN0N3OUwxd1VSSEhfcWVTQTRNMV9hRnZkVk9WaUowMmtPdC1HTmhIOG9BRHpucDZHTk1KTnVLdXRfU1NVclVibTlCU1hjQQ?oc=5"
     },
+    "a8d83f8a4e80a5d5": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
+      "first_seen": "2026-09-30T08:08:23.487943+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "a8d83f8a4e80a5d5",
+      "kind": "news",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
+      "news_category": "综合",
+      "published": "2026-09-29T19:08:41+00:00",
+      "rank": 1,
+      "reason": "rank #1; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h",
+      "region": "美国/国际",
+      "score": 100,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "China expands overseas military presence with new Laos air force centre South China Morning Post",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "China expands overseas military presence with new Laos air force centre - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb1NoSm44amxqZWllLWRhRjBpR3RKQ2RWRXNTQ2JFZm9hSWhfMW1XUEJfVGVRUXpLRkIyLTJRc1R1R0llNUwtTnZhajJKVkFrVjFzazBRaDJ6SV9TZUdwZUxWVG9SMDlYak1oNzlKZXNrN3BJRElXU2hDLUtUWlNkVWxlT2lUOGVhaDh6VWQ4dGpwV25KMWNZVTdscUNGN2hoc1VPY3FvQnNNQnphVDliUUNtS2d2ZWdDMWtuOXkxZGrSAcABQVVfeXFMTUpjeHdzS1JVak5rVXk0MDdmYVZQLTR0RUIzTkZJdjVfQzFwV3dYMVczQjZ3WmF3RXRoYUJXc1c0emRpcmg2TVczUWhVY1ZNS3dGSFZibTZXekZza01SSGxWa2U4ZjJnTkFSVlZKOWEzYUliWFFaT0hTQmtzaFBBMENGWUp0MGVJc1YwcllwRGlKYjczWVB2VXhFTTFhYXozREEtSklyMWdqUTNSNXN0SExTeC0zZzdLZk1tY29XelNa?oc=5"
+    },
     "a8d9eef2186e3349": {
       "category": "可延后",
       "discovered_at": "2026-08-04T08:07:29.926647+08:00",
@@ -35849,6 +36509,36 @@
       ],
       "title": "FSU economics professor studying AI’s impact on hiring as Microsoft AI Economy Institute Senior Fellow - Florida State University News",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNclkxWWRLWmZiMEJkdmk1WmdfeU8tRHJ5aWNmY1k1WE1XbFZvbHJzNzZxb2hxUFowWFRsOWtuSnFkYXVOLU1qbTg0VmpSNkdTUGFxZy1xekxURmJkV2ZiZlpFUk1oeUk2TkZjbEhjbnlMbUFBUzBnMTJFdEx4N0FleHo4bThzTXRSeXdCalFPU3BZN0pBVEJLVkZUbklYZ0pfYlByUENhNVZqN3dfOXFLM3hERzAzMUNlZ2lYMk9hMlhGR1lOYUZUX043Zmk4eDdUa0kta2FvUFZHcTFVaTdQcVd3ZTBpdEdUYXZDRnFfTQ?oc=5"
+    },
+    "afe6b9d8a89f724d": {
+      "category": "可延后",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
+      "first_seen": "2026-09-30T08:08:23.487943+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "afe6b9d8a89f724d",
+      "kind": "news",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
+      "news_category": "综合",
+      "published": "2026-09-28T00:52:00+00:00",
+      "rank": 15,
+      "reason": "rank #15; source weight: Google News; hot terms: 美国, china, us",
+      "region": "美国/国际",
+      "score": 61,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "Trump asked Xi Jinping if China would like to buy US weapons, American ambassador says theguardian.com",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "Trump asked Xi Jinping if China would like to buy US weapons, American ambassador says - theguardian.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOelRqcWtQX1BYWFlaN1FtYkRTc0g0eU55WGcwcWpMdEtDdjd5NENXb2FDUjRYVklwR3gxYzRQaWZmSXJHUjlnQldYN2ExZXFPZ3ZCTzFuLXpZNGNRd0dmVGM1Y3M4dXpQeXlvVnpBeUtzaDZmdGoxREcxalZLcmhKdUVCNVZrdzA?oc=5"
     },
     "afec1af111f6c4ec": {
       "category": "可延后",
@@ -40435,19 +41125,19 @@
     },
     "c5ab94a8980b47c6": {
       "category": "只归档",
-      "discovered_at": "2026-09-27T08:13:14.763285+08:00",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
       "first_seen": "2026-05-17T08:17:40.313400+08:00",
       "follow_up": "检查 NewsNow 本地服务或新闻兜底源是否可访问。",
       "id": "c5ab94a8980b47c6",
       "kind": "failure",
-      "last_seen": "2026-09-27T08:13:14.763285+08:00",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 70,
+      "seen_count": 71,
       "source": "System",
       "sources": [
         "System"
@@ -41625,6 +42315,36 @@
       ],
       "title": "How Companies Are Managing AI Token Spend - WSJ",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNzNwRkk2cmFtNFB4YXRlQW5UdjFtcTdDN3VXTXJCenlqY3FkWEhzbE1nZFlWOFhqYmxHM0pGNUtfYjNOSVlmejZHYm5CazRDcWdoMmYyWWRjY2tlamRRZVNxSDZDS3NJN2FnVEJpT09abGNUTmo0MEVHNzZyTnZFN2dzdGd2YWhzOXc?oc=5"
+    },
+    "cb54e20b420fd50c": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
+      "first_seen": "2026-09-30T08:08:23.487943+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "cb54e20b420fd50c",
+      "kind": "news",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
+      "news_category": "综合",
+      "published": "2026-09-28T18:51:00+00:00",
+      "rank": 2,
+      "reason": "rank #2; source weight: Google News; hot terms: 美国, ai, china, us",
+      "region": "美国/国际",
+      "score": 91,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "China Claims Expanded Zone Around Scarborough Shoal, Deploys New Drone USNI News",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "China Claims Expanded Zone Around Scarborough Shoal, Deploys New Drone - USNI News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOTdXdnZMSHNiMlhsTjNxODJQS2E1Ul84T2pvWUliYThaMklaTkp0eC1JM0UzdVZmMlFhNE1QSW10UFhmT0FnMHJiVDJ3VFNuN2NnM1VRc09NU3hTb1ZuR0hvUU1Fd1ZtSW8tTWpDT2JKLUpZZ0RZWkFUWHdOY0M5NlAzU2pKNUtKZnFXcDR2YkhTbGV0ZGhhTU9DTnVOQ1pEbVVrcQ?oc=5"
     },
     "cb9939ee67a6bc66": {
       "category": "可延后",
@@ -46779,6 +47499,36 @@
       "title": "Fears of unfettered hacking spurred by Anthropic's Mythos AI model overstated - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYzVKYk5iNHZiZE5HeXlCTW1VQmxBVlBfYmEtQVo5STRud3hFMTg4aWtESWdEckV5VzE5U3pYNkdxUDZUVnZIRnpqZWMxTDRZMVlpclRVY09aM2h6VWRRZUxudWN5U20tc1dNVl9Cakg4bGptc3dHUlRNS1FsZHY2Z1htZkZWUFQyY3hVX1NGR3dLU21TUWtXaTJ2Q0dBXzAyN2RDVDg1MGRIUXhEUW1DTjk2TnAxMEVNVnc?oc=5"
     },
+    "e3d03b1692112667": {
+      "category": "可延后",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
+      "first_seen": "2026-09-30T08:08:23.487943+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "e3d03b1692112667",
+      "kind": "news",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-29T17:08:40+00:00",
+      "rank": 14,
+      "reason": "rank #14; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h",
+      "region": "国际",
+      "score": 71,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "Trump says he and tech leaders signed AI agreement that is 'morally binding' CNBC",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "Trump says he and tech leaders signed AI agreement that is 'morally binding' - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzZUtiZGlERGZmYTdrbWdNUEFvYnR2WTdTVnRlYTNkR0J1Z09pQ3BqUzA2bE5XdFBvdTByeTQ3SVZHOUtkRVVGSlF5YzJYYi1CcHA1TExxSzF5bEt2NGVaV241dGhmOEhnVzRBRVB2RGZnOXdhOW1N0gF8QVVfeXFMTmZ4WTA5cFd2Tk9Zbk1xcXVlcEtPcjFYS1pVMFBOSU5sNlphd056Z3NzclNGNWR1eDd3NG5ZM2lodnVjMC1yVENpYXZPMnVGM3I0b3FuUmszNnBZSWQ5V21OMjhzY1Q4VG9FNkdIRUFOUFZ6QUsyajFuOHEyTA?oc=5"
+    },
     "e3f669b1e2c308d4": {
       "category": "可延后",
       "discovered_at": "2026-09-20T08:11:10.289838+08:00",
@@ -47408,6 +48158,36 @@
       ],
       "title": "AI Hardware Rallied While Adobe and Palantir Sank. Which Side Is Right? - finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSmVSMTUzMGtOcDVCX1FweTVWRGctQUNXUXkwdHVMbV9TZ1NfbGl3TktWZ0ZJX1VKQnVTeG9vdHlBOWo0anFpU2d4bV94anF1OUNVTVRrWklMQXdPSmhNazZkQXhHRzdkQ2hrTTM1M0pMcV9UMzJteXRnNXg2aWtMMWNyTThFNmI0ZFV5SHpGZmo2bGpKdlYwUDhUYl8?oc=5"
+    },
+    "e70343309a7c4ccd": {
+      "category": "可延后",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
+      "first_seen": "2026-09-30T08:08:23.487943+08:00",
+      "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
+      "id": "e70343309a7c4ccd",
+      "kind": "news",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
+      "news_category": "综合",
+      "published": "2026-09-28T00:55:00+00:00",
+      "rank": 7,
+      "reason": "rank #7; source weight: Google News; hot terms: 美国, china, us",
+      "region": "美国/国际",
+      "score": 77,
+      "seen_count": 1,
+      "source": "Google News / China US Hot News",
+      "sources": [
+        "Google News / China US Hot News"
+      ],
+      "summary": "Momenta and Stellantis' China JV with Dongfeng to co-develop intelligent driving technology Reuters",
+      "tags": [
+        "china-us-hot-news",
+        "google-news",
+        "news",
+        "综合",
+        "美国/国际"
+      ],
+      "title": "Momenta and Stellantis' China JV with Dongfeng to co-develop intelligent driving technology - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMzByVUtHMHlIWGhiUzl5Vzd0YXhiWnZ6R25pMzVUTjlLSW1SaDFnRy1fSnAwd1BlUWwzb0dBa3ljWnZLRWlKNmdIYXpXUTM3QUg3MjByLVZSd042VkZZT2F1LXVaM2xaZzN1X01WWWE1LS1wVG9hNlY4TjE1MmtKb1YzR1NoTTBhRHNwSzMzYW9LSDhTMlFjQ3g2NWtNYWdfSmFpX3c5bHlBSkxPUnFnbDBpb1ppS2ZQNHM3NQ?oc=5"
     },
     "e708870594e8a837": {
       "category": "今日必须看",
@@ -49091,20 +49871,20 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT3NOUzlaNFVpOXNKLW9yQUsydFhEX0hlRWRpT1E5MFNqNm9acHcyQmQwNXpDUURUZGZ5NnNsbHdBNElnRUJXSEtWTUlHSkRIVnhLc2ZmOUhaeGlvNHVpcEZWdFg3TEJLSzdpRl9JNng3ZHNHaUxCM3RSWEtySGpkN2E4ZV9ubTEtLXJQdUZDZnphTXZid0VWQldwOG5BeVZzcWRKbUdEbGNmZkhWTDE5ZUpvQ1JJbDNqN2ZDaGo3cnktemtlTFFzbGlxVFfSAcwBQVVfeXFMTl90R0N4SUc5c2E3QzBTM1JrSzJWOGpscmdSWXFqMDBTVTF2b2RoSzB5anoyRFJjN0xMZUh2Qk14S0o4eG5FaXNmZjVISEtaZjdRU3llNm5ocHlYTHc0WFdGMkt5aUw2TXF4VklIZktiRENfNDNjejRNTlBxajFXR01JZlJSSFB0bnJfQ2FIRHV2VENYVG5kZEZkanpZZjMzUjNoS3l3MEpRLU9GLTd2UHMtb1FhLVJ6MmNzTDRnMjM2Z0thb1NiSFpsQ3Zj?oc=5"
     },
     "ee95798e900feae6": {
-      "category": "今日必须看",
-      "discovered_at": "2026-09-29T08:38:15.424127+08:00",
+      "category": "可延后",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
       "first_seen": "2026-09-29T08:38:15.424127+08:00",
       "follow_up": "判断热度是否持续，必要时纳入长期主题跟踪。",
       "id": "ee95798e900feae6",
       "kind": "news",
-      "last_seen": "2026-09-29T08:38:15.424127+08:00",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
       "news_category": "综合",
       "published": "2026-09-28T06:53:20+00:00",
-      "rank": 4,
-      "reason": "rank #4; source weight: Google News; hot terms: 美国, ai, china, us",
+      "rank": 9,
+      "reason": "rank #9; source weight: Google News; hot terms: 美国, ai, china, us",
       "region": "美国/国际",
-      "score": 87,
-      "seen_count": 1,
+      "score": 77,
+      "seen_count": 2,
       "source": "Google News / China US Hot News",
       "sources": [
         "Google News / China US Hot News"
@@ -50976,6 +51756,36 @@
       "title": "AWS CEO Matt Garman says AI displacing junior employees is bad for business - Fortune",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWE9Od3F5S1p3UFNGM1Rwbm9ha2dWUEpDQmdTdERsLXR2cERNMW1JMFI2NEN1VWkxcm9ydHg3Q0QwVEVvd3pjZFNXTUpMU0hfaTV5TFA4eFIyV0lHZU5ZWVpyUTVfcThEZkxrWkY1S2ZudzBNMElGN1B6TkJyc2FDWGpKM0xIc0JhRVBtREFIWDJoUkxxMS1SdWd5MUZOc1MxV21jN2xQNFdJQ3ZjZDNkOVd0NGxBaVNMUndKOXMwcTNFT2lqWnNYQjdXcGc?oc=5"
     },
+    "f7830403cf224bd0": {
+      "category": "可延后",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
+      "first_seen": "2026-09-30T08:08:23.487943+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "f7830403cf224bd0",
+      "kind": "news",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-29T23:03:56+00:00",
+      "rank": 16,
+      "reason": "rank #16; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h",
+      "region": "国际",
+      "score": 71,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "OpenAI takes on Meta with dots agent in autonomous AI push Reuters",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "OpenAI takes on Meta with dots agent in autonomous AI push - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHpSWDN2U2FHZk9uM2NIZVVkQjVWQXBudENFN09DM3ZWdWlBdVdCdndKTFlQa2duMmpYcDVYamdOSGNhTnBkQmQ1dG01T3ZYU2Zyb2VEXzg1VG05N1dwR0FWZlNqWDlNNldWS2VEcGlDby1TQ1JUMy1La1R1TncwQkN1OVRIN2lEeDJpQTQ2VkNXZ2lmVG12bHBPOU5sZW9sX2FvSlk5VGhTU3c?oc=5"
+    },
     "f7875bfcd0b7f237": {
       "category": "可延后",
       "discovered_at": "2026-08-20T08:09:11.859379+08:00",
@@ -51848,19 +52658,19 @@
     },
     "fb9a73e9cef9414f": {
       "category": "只归档",
-      "discovered_at": "2026-09-29T08:38:15.424127+08:00",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
       "first_seen": "2026-05-15T15:27:55.874811+08:00",
       "follow_up": "检查 NewsNow 本地服务或新闻兜底源是否可访问。",
       "id": "fb9a73e9cef9414f",
       "kind": "failure",
-      "last_seen": "2026-09-29T08:38:15.424127+08:00",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
       "news_category": "",
       "published": "",
       "rank": 0,
       "reason": "source failure logged",
       "region": "",
       "score": 0,
-      "seen_count": 73,
+      "seen_count": 74,
       "source": "System",
       "sources": [
         "System"
@@ -52295,6 +53105,36 @@
       ],
       "title": "U.S.-China 2026 Tech Race: 2 AI Stocks & 2 Quantum Stocks to Watch - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcVlXSjFETzA2bkF0VG5tQ1FSU3QtVER0Rnd0Ym1FUUlEY2FGZldTeDI5X1NmX3gxQkEya09mcU9IVVo1dThIRDFPMkFxc29aTmN4aURfNDZ3aGVpQk00QUJfTjd4UTNJU2kxZ0I2d3hER296QXBKbGxhWkkyUUtmRGdNdTZKc1RyN3lEWVQxaw?oc=5"
+    },
+    "fd86c639a8001557": {
+      "category": "今日必须看",
+      "discovered_at": "2026-09-30T08:08:23.487943+08:00",
+      "first_seen": "2026-09-30T08:08:23.487943+08:00",
+      "follow_up": "关注后续市场反应、政策表态和相关资产波动。",
+      "id": "fd86c639a8001557",
+      "kind": "news",
+      "last_seen": "2026-09-30T08:08:23.487943+08:00",
+      "news_category": "财经/科技",
+      "published": "2026-09-29T21:55:00+00:00",
+      "rank": 5,
+      "reason": "rank #5; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h",
+      "region": "国际",
+      "score": 89,
+      "seen_count": 1,
+      "source": "Google News / Global Markets Tech",
+      "sources": [
+        "Google News / Global Markets Tech"
+      ],
+      "summary": "Trump says top tech firms have signed accord to ‘self-police’ AI development apnews.com",
+      "tags": [
+        "global-markets-tech",
+        "google-news",
+        "news",
+        "国际",
+        "财经/科技"
+      ],
+      "title": "Trump says top tech firms have signed accord to ‘self-police’ AI development - apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORUtqYURpWThrQ2d5ZC02TTJXX2dLajBXTjdhTGJaSEJ6VlRVNkVUYWl5MzNNdmppZGtqQ3FLOEIyalhQeDFHTDNKMElZaTBRckh1aS1idWo4bnhramhObnVqQkhiUFBoLUhqeXZOeHBueUpVYWJPbjN3dmExVW1oYTh1TTgtSGR5QTBB?oc=5"
     },
     "fe3529259fb8b3ec": {
       "category": "可延后",
