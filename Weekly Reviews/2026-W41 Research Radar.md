@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W41
-date: 2026-10-07
+date: 2026-10-08
 tags:
   - weekly-review
   - research-radar
@@ -49,6 +49,32 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | SanvioLabs/sanvio-harness-starter
+> **标题**：SanvioLabs/sanvio-harness-starter
+> **原文链接**：🔗 [打开原文](https://github.com/SanvioLabs/sanvio-harness-starter)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：The smallest useful agent harness: instructions, a skill, a gate, a hook and a review agent. Works with Claude Code, Codex and Kiro.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | curie-eng/curie
+> **标题**：curie-eng/curie
+> **原文链接**：🔗 [打开原文](https://github.com/curie-eng/curie)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, mcp; high-value terms: agent, agents, mcp, claude code
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Open-source, self-hostable delivery platform for Claude Code style agents. Connect Slack today, with more channels next. Run the same bundle locally and on Kubernetes, and ship it with git push.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 87** | Finding the Move Is Not Winning the Game: XiangqiBench for Closed-Loop Evaluation of LLM Agents
 > **标题**：Finding the Move Is Not Winning the Game: XiangqiBench for Closed-Loop Evaluation of LLM Agents
 > **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2610.02425)
@@ -75,6 +101,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 85** | AstroQuestStudio/cortex
+> **标题**：AstroQuestStudio/cortex
+> **原文链接**：🔗 [打开原文](https://github.com/AstroQuestStudio/cortex)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Cortex by AstroQuest — the code-context engine for AI agents. find, card, read, impact: understand a codebase in a few calls and ~10x fewer tokens. CLI + MCP server, local, Rust.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 85** | emiliano-go/totem
 > **标题**：emiliano-go/totem
 > **原文链接**：🔗 [打开原文](https://github.com/emiliano-go/totem)
@@ -96,45 +135,6 @@ tags:
 > **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp, security
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Run Docker-based security test agents for nmap, sqlmap, Metasploit, and more with three-layer task routing and live output
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 81** | CUEing User Simulators: Calibrated User Embeddings for Multi-Turn Benchmarking
-> **标题**：CUEing User Simulators: Calibrated User Embeddings for Multi-Turn Benchmarking
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2610.02460)
-> **source**：cs.CL updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, benchmark; high-value terms: benchmark, agent, agents, eval
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2610.02460v1 Announce Type: new Abstract: Recent benchmarks rely on user simulators to evaluate AI agents in multi-turn interaction. While existing simulation techniques demonstrate surface fidelity to human style and behavior, ecologically valid interactive benchmarking also requires alignme...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | OpenDigitalProductFactory/opendigitalproductfactory
-> **标题**：OpenDigitalProductFactory/opendigitalproductfactory
-> **原文链接**：🔗 [打开原文](https://github.com/OpenDigitalProductFactory/opendigitalproductfactory)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：This is the official open digital product factory
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | kjames2001/authyouragent
-> **标题**：kjames2001/authyouragent
-> **原文链接**：🔗 [打开原文](https://github.com/kjames2001/authyouragent)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Auth Your Agent: let AI agents act for a person on websites, with the person's approval on their phone. Take over lets the owner drive a stuck agent's browser from their phone.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -169,14 +169,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 85** | buildd-ai/buildd
-> **标题**：buildd-ai/buildd
-> **原文链接**：🔗 [打开原文](https://github.com/buildd-ai/buildd)
+> [!info]+ **今日必须看 / 89** | SanvioLabs/sanvio-harness-starter
+> **标题**：SanvioLabs/sanvio-harness-starter
+> **原文链接**：🔗 [打开原文](https://github.com/SanvioLabs/sanvio-harness-starter)
 > **source**：GitHub Search
 > **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Task coordination for AI coding agents. Create or schedule tasks; agents claim them, branch, code, and open PRs. Missions, roles, shared memory, and MCP-native.
+> **summary**：The smallest useful agent harness: instructions, a skill, a gate, a hook and a review agent. Works with Claude Code, Codex and Kiro.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -211,6 +211,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 77** | EPOCH: Reliable Discovery through Evidence-Governed Search
+> **标题**：EPOCH: Reliable Discovery through Evidence-Governed Search
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2610.06986)
+> **source**：cs.AI updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, research; high-value terms: agent, agents, eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2610.06986v1 Announce Type: new Abstract: AI research agents are increasingly used to search over programs, mathematical constructions, and proofs. However, existing systems typically optimize evaluator feedback without adequately governing how that feedback is interpreted, challenged, and re...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 77** | EpiWorld: Grounding LLM Policy Agents in Epidemiological World Models
 > **标题**：EpiWorld: Grounding LLM Policy Agents in Epidemiological World Models
 > **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2610.02744)
@@ -237,6 +250,19 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **可延后 / 73** | Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架
+> **标题**：Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架
+> **原文链接**：🔗 [打开原文](https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/)
+> **source**：AI HOT / Microsoft Research 博客（RSS）
+> **kind**：`paper`
+> **reason**：matches topics: agent, research; high-value terms: agent
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：Microsoft Research Asia 提出 Harnessed Agentic RL 训练范式并开源重建的 Agent Lightning v1.0，让部署时使用的同一 agent harness 直接参与强化学习，无需在训练框架内重写 agent。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **可延后 / 70** | Silent Dissent: LLM Agents That Yield to the Majority Still Represent Their Original Premise
 > **标题**：Silent Dissent: LLM Agents That Yield to the Majority Still Represent Their Original Premise
 > **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2610.02702)
@@ -250,40 +276,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **可延后 / 70** | Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents
-> **标题**：Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2610.02330)
+> [!info]+ **可延后 / 70** | Principles that Guide, Actions that Inform: Agent Evolution via Knowledge Abstraction
+> **标题**：Principles that Guide, Actions that Inform: Agent Evolution via Knowledge Abstraction
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2610.06964)
 > **source**：cs.AI updates on arXiv.org
 > **kind**：`paper`
 > **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2610.02330v1 Announce Type: new Abstract: Large language models (LLMs) rely on long-horizon tool invocation sequences for complex tasks, where each invocation can alter the task state and condition subsequent decisions. In long-horizon tool use, final-outcome rewards provide weak credit assig...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **可延后 / 62** | Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses
-> **标题**：Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2610.02267)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, llm; high-value terms: agent, eval
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2610.02267v1 Announce Type: new Abstract: Agent harnesses make many small, typed decisions per task: which model to call, which tool to use, whether retrieved text is relevant, whether an input carries an injection. System-1 decision models answer such questions in a single forward pass with...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **可延后 / 62** | What Does a Token Cost? A Mixture-of-Agents Measurement of Sufficient Per-Token Compute
-> **标题**：What Does a Token Cost? A Mixture-of-Agents Measurement of Sufficient Per-Token Compute
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2610.02491)
-> **source**：cs.AI updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents; high-value terms: agent, agents
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2610.02491v1 Announce Type: new Abstract: Large language models spend the same amount of computation on every token they generate, regardless of how difficult each token is to produce. Methods such as speculative decoding and model routing are built on the premise that much of this computatio...
+> **summary**：arXiv:2610.06964v1 Announce Type: new Abstract: Large language model (LLM) agents have demonstrated strong capabilities in interactive environments, yet their ability to continually evolve from experience remains limited. Although fine-tuning enables adaptation, its dependence on parameter access a...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -339,6 +339,19 @@ tags:
 > **reason**：matches topics: agent, agents, llm, mcp; high-value terms: agent, agents, mcp
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Task coordination for AI coding agents. Create or schedule tasks; agents claim them, branch, code, and open PRs. Missions, roles, shared memory, and MCP-native.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 79** | heygen-com/hyperframes
+> **标题**：heygen-com/hyperframes
+> **原文链接**：🔗 [打开原文](https://github.com/heygen-com/hyperframes)
+> **source**：GitHub Search, GitHub Trending
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Write HTML. Render video. Built for agents.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -404,19 +417,6 @@ tags:
 > **reason**：matches topics: agent, agents; high-value terms: agent, agents
 > **follow_up**：判断是否需要沉淀为长期主题笔记。
 > **summary**：Sierra 与 Meta 联合 Genesys、Instinct、Rocket、Shopify、Stripe、Walmart 等伙伴宣布开发 Personal Agent Protocol，一个定义个人 AI 智能体如何与企业交互的开放标准，任何人都可实现。
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **可延后 / 74** | OpenAI "rogue" agent activities found on Wikimedia projects
-> **标题**：OpenAI "rogue" agent activities found on Wikimedia projects
-> **原文链接**：🔗 [打开原文](https://wikimediafoundation.org/news/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/)
-> **source**：Hacker News
-> **kind**：`community`
-> **reason**：matches topics: agent, agents, openai; high-value terms: agent, agents
-> **follow_up**：阅读讨论区，提炼争议点和实践经验。
-> **summary**：6 points | 0 comments
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
