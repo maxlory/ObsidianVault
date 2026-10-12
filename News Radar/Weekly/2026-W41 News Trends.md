@@ -1,6 +1,6 @@
 ---
 title: News Radar Week 2026-W41
-date: 2026-10-10
+date: 2026-10-11
 tags:
   - news-radar
   - weekly-review
