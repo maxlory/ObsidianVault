@@ -1,6 +1,6 @@
 ---
 title: News Radar Week 2026-W42
-date: 2026-10-13
+date: 2026-10-14
 tags:
   - news-radar
   - weekly-review
@@ -32,7 +32,92 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 100** | Microsoft plans huge deployment of its own AI chips, with an eye on saving costs - Reuters
+> [!info]+ **今日必须看 / 100** | US chip stocks extend slide as China memory report, AI spending jitters hit sector - Reuters
+> **标题**：US chip stocks extend slide as China memory report, AI spending jitters hit sector - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMixAFBVV95cUxQdjlLc0J0QjMyZmZRZWM1SldodnE0RV8xUWN0S0EzdUtWX1VjNXRiTVRKdDJQQVNkNkNadU50bGFueTItd3V0Zk43aFRiV2xsMVdCS1lFbFh3TVI3b05yd253VjBLSWdlYmwyb3VIOFBLQm5VbFRlR1ZQczRlekUyWHNOMjUwdmhvMXA2MWl1UUp6aDFydkZRZWdjUzZnRUR2NXAteDNMZS1zdDNUWm1HRVBxYlo3TXh6ZGZKT1lNOXFHUjBp?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：US chip stocks extend slide as China memory report, AI spending jitters hit sector Reuters
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 99** | Is this the best time for US strategists to push to abandon ambiguity on Taiwan? - South China Morning Post
+> **标题**：Is this the best time for US strategists to push to abandon ambiguity on Taiwan? - South China Morning Post
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTZaeUVZZVAxLTlBV2ItdENDN0hBWVQ3MHY3WlVmaDJjS0VyLU9SNzF2Y1hjc19uS3ZtajN4dHhpV2ljWVJLcEZZdVhWd3VJWlo2YlRmeF9HQWp2X0NOWDRraURveEdkZ1RydFpoNTd4R2tOeU55aS1QWDVXdEdLSUxkRjl2ZWw0NWNUSVY3YkNYUnZaRXdKemdfa3hQaFlHSGdVSzZoQjJXU2YxVXVrSkloUkjSAbQBQVVfeXFMT3I1ZVJjdjJPOURuSmdOT2JNYklwM0JVTlBrZFFIeUhkZkNGRW9wcHNuaWFyUzdBek15ZGhDWExmNkZiaHBpSGNLaDJvbnJfQ3EwNjI1UVZUUThpTFVweXZCN21uLTlCUHBQdHBCQ244MklsRFZTTk8zWTJIRldva0xFNm9HQ0JUT2Fya29YcFMwbnU1WUd5UGRKRzdFcHRvcXpjbGpWbVpxX0N6NW1Eb0RoMThp?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Is this the best time for US strategists to push to abandon ambiguity on Taiwan? South China Morning Post
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 97** | JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts - CNBC
+> **标题**：JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts - CNBC
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiekFVX3lxTE50RmxUSE5meHNnY241Q0xkdGEtbDNzZHFFR0lnTWhZTVhPV1YyWkRjN0FkdUFUWlZSckh4ODVNSHFRazlTQlA1SGlsckEwaXlheUt0clZoYjR0RnVvMl9IZWc1cHM5MnA1Q1AzM0tucjk0Ujc2LVltb3l30gF_QVVfeXFMTjRGWklGa21nZTlTdDRXRVRqdFlWXzZUVGJ0ODMxRkRQNUxxeVJscHltWnhSQllvRThCck1XNGo5LUI2cnl4SHFNU3hRQ3dWTThvd2tnZnU5MnRaeU9PblJXb1NYbW9zMndEcWppU2g3TGZ4Y2Fvam4xQlFfeDFBYw?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts CNBC
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 97** | Brutal session for chip stocks shows AI trade is turning - Reuters
+> **标题**：Brutal session for chip stocks shows AI trade is turning - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMimAFBVV95cUxPM1RJWWJHTmtIMnhaYWVyeFFpYV8wZndZMUFOVXM2NkpJdUNfRGlyQzdHeVcwMXkxcXkyWFFZQ3hXS3RpM0NqZUtNcmxNd3NkSGZETmlvTjRRYjJ3X3BXa0FEamh0NDExSTZieGRHam9BdFBiZXdOcTBSUXRPNlFEeTVKOEtkN3JiV25QUEsyekp0OTJRaU5nVA?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Brutal session for chip stocks shows AI trade is turning Reuters
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 95** | The AI race with China the US is losing - The Hill
+> **标题**：The AI race with China the US is losing - The Hill
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMifEFVX3lxTE5YRzh2d0tYX2owRmlnTzJRSVhTM1B4em5mdW1iSHVBdEoxM1p4ME9MeExJd0s3TjVwUUFpcUFrSFpLNUhWa1lIT3FVcTFXWnJwVV9uUXI1UDdWRzU3cUF0WVhkYWRrdV9WODJLX0xRaDNIX015Rm5OVENNc0XSAYIBQVVfeXFMTVFVZlU4RVNSdzZmUGMwcG1ZWlNmempzOG1Ta1JnanViM0lxN3VOd2VlM0doMWVkQUIzMGdKTWYyV3NkcU83SXRyYmpXOVlmLXIySVdYWGM1TjFOVUpqbUlPbVlJWjhaZHl0YjJCeHBwQXNSRXlnRWFsZ3hFZmF0ZDcyZw?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#4
+> **reason**：rank #4; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：The AI race with China the US is losing The Hill
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 93** | Microsoft plans huge deployment of its own AI chips, with an eye on saving costs - Reuters
 > **标题**：Microsoft plans huge deployment of its own AI chips, with an eye on saving costs - Reuters
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHVSM1ltUmRIUHVldm04ZU5JX2hLc0lhYjZVaDMzMDlkVkxXNUM3OTFFVU1kdlM1R3BneGN5cXp3Ui1Yc211TFF0VUU3ZlpRWjhBRy0yOGJjdlZxR3FmdmFHdFNMRDM3Rnh3WjJMd0d1MHNINEdvdWpBVEc5TTJNMjk1Xy1JNEY2b1g5RkYzWXYtakQ0SmNnMHdoUlRnbjFMSWVBUm9QaVBXbkFNUVgwSDVLdURleTBwMHc?oc=5)
 > **source**：Google News / Global Markets Tech
@@ -40,43 +125,9 @@ tags:
 > **region**：国际
 > **category**：财经/科技
 > **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, chips, ai, markets; fresh within 12h
+> **reason**：rank #1; source weight: Google News; hot terms: ai, chips, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：Microsoft plans huge deployment of its own AI chips, with an eye on saving costs Reuters
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter - WSJ
-> **标题**：Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter - WSJ
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirAFBVV95cUxNQVkxbnFYRFlRdVIwVm5MX2hxakc1a29XeFM2d3E2X1Z6YS15M21mSHB2LVBjVFRTaV9TYkhodklCcTc3R1ZQTk41NWc1LXR4TS1Gc1pzc1FtOFl3TlJRWnF2cm1DT1lWcnhUOG1IWi1YQkJTY3FyRl9SNUl3WnlVb2preFJFeHdhb3JDRkRtdDV1NkxkV3JhQWNJeUpVYjJpV09rWkhtZmVPOXpv?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter WSJ
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories - NVIDIA Newsroom
-> **标题**：NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories - NVIDIA Newsroom
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMitwFBVV95cUxOU25leElMeUlqdXdSV1pBVElBWWh2aU5tSElwcG9RSFR4d1A3TlRSeE40M3N2a1htZ25BcDlyMHJsdmRwcWRmSDlXbTBha1J5RkFwVzVGMjdNVjJ0RDBWX3lpTXBrQW51MnhGa2xBX0kxell3QlFKNG9vTERORmd6TDdLbDlwUFg5bGRmVXh3Z2VTbGhCQk4yd1hkRHlUZFNvclR4MG1LUFlkcktHUDZWNEJyTjlPckU?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories NVIDIA Newsroom
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -151,17 +202,17 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 91** | Memory chip stocks slide as China’s CXMT advances chip technology - Fox Business
-> **标题**：Memory chip stocks slide as China’s CXMT advances chip technology - Fox Business
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHZUJuT0syWDItMGNZbEhKcGpuazEtRGVESlJmYmt3aG1od3JISlEtcEZHMzFpNjRlZmZ3M1oyUkI2SEdFWFlLU0NQZU8zdlFfaW9Oc3FHeHpaR3M?oc=5)
-> **source**：Google News / China US Hot News
+> [!info]+ **今日必须看 / 91** | Anthropic warns AI could 'self-replicate' across smart home devices, become 'challenging' to shut down - Yahoo Finance
+> **标题**：Anthropic warns AI could 'self-replicate' across smart home devices, become 'challenging' to shut down - Yahoo Finance
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOX2R2bllxcFlSUGdEZmZSNXBXRjZyck5zZjVTZThULXo4RDQ5YXp4QmxNOXYwdDFXeUtCd2Nwc2pfZ0pabkx0ZnJ3QXIzUXhSQy01SVRYUDN5VnBJVDFwcWtWRHBON2RZMHpyeTE2NlhXenVvNnBPRzl0SnRNV1otclo5Z3BfS0EyUG1tTk10WFFsZTJ1dzMtMDd5emxTX0lnd192SHZCUVRQMlotQzUybzlqaGdsczJISUh4R09jSjNvVlBsSnlFd0ZfQ3J5Q1R0eE1fdllmMHRlUEYzZk1yTzBsel85TVhTXzlSdWVR?oc=5)
+> **source**：Google News / Global Markets Tech
 > **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
+> **region**：国际
+> **category**：财经/科技
 > **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: 美国, china, us; fresh within 12h
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Memory chip stocks slide as China’s CXMT advances chip technology Fox Business
+> **reason**：rank #4; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Anthropic warns AI could 'self-replicate' across smart home devices, become 'challenging' to shut down Yahoo Finance
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -213,57 +264,6 @@ tags:
 > **reason**：rank #2; source weight: Google News; hot terms: ai, us, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：Most US voters say Trump, Congress don't take AI risks seriously, Reuters/Ipsos poll finds Reuters
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 89** | Sharing AI progress in mathematics - OpenAI
-> **标题**：Sharing AI progress in mathematics - OpenAI
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE9HRmFiYm1mWTNPVTVGTk9faFRwRVZyTjhmejJwa0U3QjU3djh5SlpXT3ZhUlF2M0lXcV9jNkNka1kzY3RKNkRTTnpJVW16ZG1QdmdPU3owRXdCYzFLSkdTb3pIZWdJV0k1R3o3dw?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Sharing AI progress in mathematics OpenAI
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 89** | The Strategic Implications of China’s Military Facility in Laos - The Diplomat – Asia-Pacific Current Affairs Magazine
-> **标题**：The Strategic Implications of China’s Military Facility in Laos - The Diplomat – Asia-Pacific Current Affairs Magazine
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMimwFBVV95cUxObnp0OHgtT2luWXJQQTZyS0lUUzZTbVE1VVZwRWQ1N09tanU0ZXZoUU14ZGRzNjE2azFKenNfenRRWGdJRjZMY1BFM012cndDVkpGQlUyci1QeXFTdnd4WFl0bjhBNjlYaUxjNy1pdm43NkNxWXNqNTJPT0oyb3ZLVjRtMWpiNTY5XzNoM3c0bmNxbHlyLU85NUNfRQ?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#3
-> **reason**：rank #3; source weight: Google News; hot terms: 美国, ai, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：The Strategic Implications of China’s Military Facility in Laos The Diplomat – Asia-Pacific Current Affairs Magazine
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 89** | China’s CXMT makes progress in chip design pursued by Samsung, SK Hynix - South China Morning Post
-> **标题**：China’s CXMT makes progress in chip design pursued by Samsung, SK Hynix - South China Morning Post
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZmZHS080emE3cTZyaHozcTJmTTBYUk1GZEhNX3drTUh1S29LZWJRaWpUMlplQWd4STZzZFRNWFZkeEp4UVdiSHdaZlZPWVdHUnFHUDRrTDlWbzIzTU9LeUpoTDZ4ZjNxY1FBemZaVnRaOFlxNjJWcm9RaVR2ZWtldTlQWWhUczc4LUxmTG8tMGpUNTNvQ2lDUHd1RGZ5b3IyYzd5MUZqcU16NnN0aUIycmVIdlhZT2NseFBCaDFhdW_SAcABQVVfeXFMTU1TVTBjV2xjdGFob3d3R3VVTE0tczZyLXA3elItTmN3OVNHUm5OeER4SUxNVVdCNEZESTBzUE41dGNqWWd2SGt3czNTUW5kcWxZN3RIblpGQWtfTHZ3UnNzYm1QWUdVckUzYkp5ZkpyMUxLLXdDNFZROHdjMGFST0tsLVcxWlVETUkyMjVZaHpkTkZEN01URzUyRjZlOWV6T1hVX0FvaHVVTVM2ME45QWI5QXdHYzQ1b1dJVElDZGNG?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: 美国, china, us
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：China’s CXMT makes progress in chip design pursued by Samsung, SK Hynix South China Morning Post
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -357,6 +357,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 84** | FTSE China A50: Technology moves into the large-cap mainstream - LSEG
+> **标题**：FTSE China A50: Technology moves into the large-cap mainstream - LSEG
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVV9uZWxFbjdyV2RBTzhxY210U1l0Q0R4eTBGTTFmWDFRQjZieWlyVkVDVGtDTmlkM05WWjI0RHFjNEtmOVFQcEZEZEJFS19JblItREs1bW52S1ExZjl4cXBiRTZOb1RYTXpwNjl1NjdFRDhiaFZFZE93SzJBdThkNEtMTjJCQjdHUXFoZVFqR0NLRGNuRnBnNEthblE4RXVIY1RiOC04UkRjVkE?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#9
+> **reason**：rank #9; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：FTSE China A50: Technology moves into the large-cap mainstream LSEG
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 82** | 한은 美 연준 통화정책 · 인플레이션 불확실성 커져
 > **标题**：한은 美 연준 통화정책 · 인플레이션 불확실성 커져
 > **原文链接**：🔗 [打开原文](https://www.fnnews.com/news/202607300903040652)
@@ -442,6 +459,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 78** | Taiwan says it is closely monitoring a series of Chinese live-fire drills - Reuters
+> **标题**：Taiwan says it is closely monitoring a series of Chinese live-fire drills - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMitwFBVV95cUxNbzdVRzBOYnM4YWQ3Z0g2QTc2OTZwM0t0TUI3SUlGeTdBbXJ1amlQV0IyS2F2cGxmMk1hdW1HTElpV0pmaS1JUUt5N1lwdXdJUkNpYThnLVpvTEdsYjhnTVpqb015TTRDWWRZTTV6Ylo5c0pFbVRPeUM2YzNIdExpd1hRLWt6ZWR4bXZUeTRLZnJnNDlLVnAyX1JDdUxCajE3akRNMnpaUlpaVVRoWFJEWkh0MHEya28?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#12
+> **reason**：rank #12; cross-source x2; source weight: Google News; hot terms: 美国, ai, china, us
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Taiwan says it is closely monitoring a series of Chinese live-fire drills Reuters
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **可延后 / 74** | 물가 안 내려가면 금리 올려야 ... 7월 연준 의사록 공개
 > **标题**：물가 안 내려가면 금리 올려야 ... 7월 연준 의사록 공개
 > **原文链接**：🔗 [打开原文](https://newsway.co.kr/news/view?ud=2026082008471951488)
@@ -516,7 +550,92 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 100** | Microsoft plans huge deployment of its own AI chips, with an eye on saving costs - Reuters
+> [!info]+ **今日必须看 / 100** | US chip stocks extend slide as China memory report, AI spending jitters hit sector - Reuters
+> **标题**：US chip stocks extend slide as China memory report, AI spending jitters hit sector - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMixAFBVV95cUxQdjlLc0J0QjMyZmZRZWM1SldodnE0RV8xUWN0S0EzdUtWX1VjNXRiTVRKdDJQQVNkNkNadU50bGFueTItd3V0Zk43aFRiV2xsMVdCS1lFbFh3TVI3b05yd253VjBLSWdlYmwyb3VIOFBLQm5VbFRlR1ZQczRlekUyWHNOMjUwdmhvMXA2MWl1UUp6aDFydkZRZWdjUzZnRUR2NXAteDNMZS1zdDNUWm1HRVBxYlo3TXh6ZGZKT1lNOXFHUjBp?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：US chip stocks extend slide as China memory report, AI spending jitters hit sector Reuters
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 99** | Is this the best time for US strategists to push to abandon ambiguity on Taiwan? - South China Morning Post
+> **标题**：Is this the best time for US strategists to push to abandon ambiguity on Taiwan? - South China Morning Post
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMitAFBVV95cUxNbTZaeUVZZVAxLTlBV2ItdENDN0hBWVQ3MHY3WlVmaDJjS0VyLU9SNzF2Y1hjc19uS3ZtajN4dHhpV2ljWVJLcEZZdVhWd3VJWlo2YlRmeF9HQWp2X0NOWDRraURveEdkZ1RydFpoNTd4R2tOeU55aS1QWDVXdEdLSUxkRjl2ZWw0NWNUSVY3YkNYUnZaRXdKemdfa3hQaFlHSGdVSzZoQjJXU2YxVXVrSkloUkjSAbQBQVVfeXFMT3I1ZVJjdjJPOURuSmdOT2JNYklwM0JVTlBrZFFIeUhkZkNGRW9wcHNuaWFyUzdBek15ZGhDWExmNkZiaHBpSGNLaDJvbnJfQ3EwNjI1UVZUUThpTFVweXZCN21uLTlCUHBQdHBCQ244MklsRFZTTk8zWTJIRldva0xFNm9HQ0JUT2Fya29YcFMwbnU1WUd5UGRKRzdFcHRvcXpjbGpWbVpxX0N6NW1Eb0RoMThp?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#2
+> **reason**：rank #2; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：Is this the best time for US strategists to push to abandon ambiguity on Taiwan? South China Morning Post
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 97** | JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts - CNBC
+> **标题**：JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts - CNBC
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiekFVX3lxTE50RmxUSE5meHNnY241Q0xkdGEtbDNzZHFFR0lnTWhZTVhPV1YyWkRjN0FkdUFUWlZSckh4ODVNSHFRazlTQlA1SGlsckEwaXlheUt0clZoYjR0RnVvMl9IZWc1cHM5MnA1Q1AzM0tucjk0Ujc2LVltb3l30gF_QVVfeXFMTjRGWklGa21nZTlTdDRXRVRqdFlWXzZUVGJ0ODMxRkRQNUxxeVJscHltWnhSQllvRThCck1XNGo5LUI2cnl4SHFNU3hRQ3dWTThvd2tnZnU5MnRaeU9PblJXb1NYbW9zMndEcWppU2g3TGZ4Y2Fvam4xQlFfeDFBYw?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts CNBC
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 97** | Brutal session for chip stocks shows AI trade is turning - Reuters
+> **标题**：Brutal session for chip stocks shows AI trade is turning - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMimAFBVV95cUxPM1RJWWJHTmtIMnhaYWVyeFFpYV8wZndZMUFOVXM2NkpJdUNfRGlyQzdHeVcwMXkxcXkyWFFZQ3hXS3RpM0NqZUtNcmxNd3NkSGZETmlvTjRRYjJ3X3BXa0FEamh0NDExSTZieGRHam9BdFBiZXdOcTBSUXRPNlFEeTVKOEtkN3JiV25QUEsyekp0OTJRaU5nVA?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Brutal session for chip stocks shows AI trade is turning Reuters
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 95** | The AI race with China the US is losing - The Hill
+> **标题**：The AI race with China the US is losing - The Hill
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMifEFVX3lxTE5YRzh2d0tYX2owRmlnTzJRSVhTM1B4em5mdW1iSHVBdEoxM1p4ME9MeExJd0s3TjVwUUFpcUFrSFpLNUhWa1lIT3FVcTFXWnJwVV9uUXI1UDdWRzU3cUF0WVhkYWRrdV9WODJLX0xRaDNIX015Rm5OVENNc0XSAYIBQVVfeXFMTVFVZlU4RVNSdzZmUGMwcG1ZWlNmempzOG1Ta1JnanViM0lxN3VOd2VlM0doMWVkQUIzMGdKTWYyV3NkcU83SXRyYmpXOVlmLXIySVdYWGM1TjFOVUpqbUlPbVlJWjhaZHl0YjJCeHBwQXNSRXlnRWFsZ3hFZmF0ZDcyZw?oc=5)
+> **source**：Google News / China US Hot News
+> **kind**：`news`
+> **region**：美国/国际
+> **category**：综合
+> **rank**：#4
+> **reason**：rank #4; source weight: Google News; hot terms: 美国, ai, china, us; fresh within 12h
+> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
+> **summary**：The AI race with China the US is losing The Hill
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 93** | Microsoft plans huge deployment of its own AI chips, with an eye on saving costs - Reuters
 > **标题**：Microsoft plans huge deployment of its own AI chips, with an eye on saving costs - Reuters
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHVSM1ltUmRIUHVldm04ZU5JX2hLc0lhYjZVaDMzMDlkVkxXNUM3OTFFVU1kdlM1R3BneGN5cXp3Ui1Yc211TFF0VUU3ZlpRWjhBRy0yOGJjdlZxR3FmdmFHdFNMRDM3Rnh3WjJMd0d1MHNINEdvdWpBVEc5TTJNMjk1Xy1JNEY2b1g5RkYzWXYtakQ0SmNnMHdoUlRnbjFMSWVBUm9QaVBXbkFNUVgwSDVLdURleTBwMHc?oc=5)
 > **source**：Google News / Global Markets Tech
@@ -524,43 +643,9 @@ tags:
 > **region**：国际
 > **category**：财经/科技
 > **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, chips, ai, markets; fresh within 12h
+> **reason**：rank #1; source weight: Google News; hot terms: ai, chips, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：Microsoft plans huge deployment of its own AI chips, with an eye on saving costs Reuters
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter - WSJ
-> **标题**：Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter - WSJ
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirAFBVV95cUxNQVkxbnFYRFlRdVIwVm5MX2hxakc1a29XeFM2d3E2X1Z6YS15M21mSHB2LVBjVFRTaV9TYkhodklCcTc3R1ZQTk41NWc1LXR4TS1Gc1pzc1FtOFl3TlJRWnF2cm1DT1lWcnhUOG1IWi1YQkJTY3FyRl9SNUl3WnlVb2preFJFeHdhb3JDRkRtdDV1NkxkV3JhQWNJeUpVYjJpV09rWkhtZmVPOXpv?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter WSJ
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories - NVIDIA Newsroom
-> **标题**：NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories - NVIDIA Newsroom
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMitwFBVV95cUxOU25leElMeUlqdXdSV1pBVElBWWh2aU5tSElwcG9RSFR4d1A3TlRSeE40M3N2a1htZ25BcDlyMHJsdmRwcWRmSDlXbTBha1J5RkFwVzVGMjdNVjJ0RDBWX3lpTXBrQW51MnhGa2xBX0kxell3QlFKNG9vTERORmd6TDdLbDlwUFg5bGRmVXh3Z2VTbGhCQk4yd1hkRHlUZFNvclR4MG1LUFlkcktHUDZWNEJyTjlPckU?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories NVIDIA Newsroom
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -618,60 +703,43 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 92** | Тръмп засилва натиска върху Уорш преди срещата на Фед за лихвите
-> **标题**：Тръмп засилва натиска върху Уорш преди срещата на Фед за лихвите
-> **原文链接**：🔗 [打开原文](https://www.investor.bg/a/539-banki-i-zastrahovateli/436156-tramp-zasilva-natiska-varhu-uorsh-predi-sreshtata-na-fed-za-lihvite)
-> **source**：GDELT / investor.bg
-> **kind**：`news`
-> **region**：国际
-> **category**：财经
-> **rank**：#1
-> **reason**：rank #1; cross-source x3; source weight: GDELT
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：20260906T083000Z
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 91** | Memory chip stocks slide as China’s CXMT advances chip technology - Fox Business
-> **标题**：Memory chip stocks slide as China’s CXMT advances chip technology - Fox Business
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHZUJuT0syWDItMGNZbEhKcGpuazEtRGVESlJmYmt3aG1od3JISlEtcEZHMzFpNjRlZmZ3M1oyUkI2SEdFWFlLU0NQZU8zdlFfaW9Oc3FHeHpaR3M?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: 美国, china, us; fresh within 12h
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Memory chip stocks slide as China’s CXMT advances chip technology Fox Business
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 91** | Satellite images show attack jets at Chinese military facility in Laos - The Guardian
-> **标题**：Satellite images show attack jets at Chinese military facility in Laos - The Guardian
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMipgFBVV95cUxNR3hDYXZCUUZYd2wybVhqN1pORzQ5N1UyU3dXNHl4NjNHUzdCU0kyRndyOWJsMzU4ZGFDVHdqUlNyNnB1WmN0OGdEQXRIMVpVcDVOZjhtUFJFR1RtUmZ5aW9JcVNOQVNYY3lZa3FTbWtpd1NVeWtmS0JhNXJDdktfRGZYdXVCMjhXYmNrQ3p1eUF6Y18yQWRsenNEUGo3RUdhbUs0cE9R?oc=5)
-> **source**：Google News / China US Hot News
-> **kind**：`news`
-> **region**：美国/国际
-> **category**：综合
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: 美国, china, us, military
-> **follow_up**：判断热度是否持续，必要时纳入长期主题跟踪。
-> **summary**：Satellite images show attack jets at Chinese military facility in Laos The Guardian
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
 ## 财经科技观察
 
-> [!info]+ **今日必须看 / 100** | Microsoft plans huge deployment of its own AI chips, with an eye on saving costs - Reuters
+> [!info]+ **今日必须看 / 97** | JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts - CNBC
+> **标题**：JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts - CNBC
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiekFVX3lxTE50RmxUSE5meHNnY241Q0xkdGEtbDNzZHFFR0lnTWhZTVhPV1YyWkRjN0FkdUFUWlZSckh4ODVNSHFRazlTQlA1SGlsckEwaXlheUt0clZoYjR0RnVvMl9IZWc1cHM5MnA1Q1AzM0tucjk0Ujc2LVltb3l30gF_QVVfeXFMTjRGWklGa21nZTlTdDRXRVRqdFlWXzZUVGJ0ODMxRkRQNUxxeVJscHltWnhSQllvRThCck1XNGo5LUI2cnl4SHFNU3hRQ3dWTThvd2tnZnU5MnRaeU9PblJXb1NYbW9zMndEcWppU2g3TGZ4Y2Fvam4xQlFfeDFBYw?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#3
+> **reason**：rank #3; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts CNBC
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 97** | Brutal session for chip stocks shows AI trade is turning - Reuters
+> **标题**：Brutal session for chip stocks shows AI trade is turning - Reuters
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMimAFBVV95cUxPM1RJWWJHTmtIMnhaYWVyeFFpYV8wZndZMUFOVXM2NkpJdUNfRGlyQzdHeVcwMXkxcXkyWFFZQ3hXS3RpM0NqZUtNcmxNd3NkSGZETmlvTjRRYjJ3X3BXa0FEamh0NDExSTZieGRHam9BdFBiZXdOcTBSUXRPNlFEeTVKOEtkN3JiV25QUEsyekp0OTJRaU5nVA?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#1
+> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Brutal session for chip stocks shows AI trade is turning Reuters
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+> [!info]+ **今日必须看 / 93** | Microsoft plans huge deployment of its own AI chips, with an eye on saving costs - Reuters
 > **标题**：Microsoft plans huge deployment of its own AI chips, with an eye on saving costs - Reuters
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHVSM1ltUmRIUHVldm04ZU5JX2hLc0lhYjZVaDMzMDlkVkxXNUM3OTFFVU1kdlM1R3BneGN5cXp3Ui1Yc211TFF0VUU3ZlpRWjhBRy0yOGJjdlZxR3FmdmFHdFNMRDM3Rnh3WjJMd0d1MHNINEdvdWpBVEc5TTJNMjk1Xy1JNEY2b1g5RkYzWXYtakQ0SmNnMHdoUlRnbjFMSWVBUm9QaVBXbkFNUVgwSDVLdURleTBwMHc?oc=5)
 > **source**：Google News / Global Markets Tech
@@ -679,43 +747,9 @@ tags:
 > **region**：国际
 > **category**：财经/科技
 > **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, chips, ai, markets; fresh within 12h
+> **reason**：rank #1; source weight: Google News; hot terms: ai, chips, ai, markets
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
 > **summary**：Microsoft plans huge deployment of its own AI chips, with an eye on saving costs Reuters
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter - WSJ
-> **标题**：Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter - WSJ
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMirAFBVV95cUxNQVkxbnFYRFlRdVIwVm5MX2hxakc1a29XeFM2d3E2X1Z6YS15M21mSHB2LVBjVFRTaV9TYkhodklCcTc3R1ZQTk41NWc1LXR4TS1Gc1pzc1FtOFl3TlJRWnF2cm1DT1lWcnhUOG1IWi1YQkJTY3FyRl9SNUl3WnlVb2preFJFeHdhb3JDRkRtdDV1NkxkV3JhQWNJeUpVYjJpV09rWkhtZmVPOXpv?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#4
-> **reason**：rank #4; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Meta Says New AI Model Is State-of-the-Art, Will Make Muse Agent Smarter WSJ
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 95** | NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories - NVIDIA Newsroom
-> **标题**：NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories - NVIDIA Newsroom
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMitwFBVV95cUxOU25leElMeUlqdXdSV1pBVElBWWh2aU5tSElwcG9RSFR4d1A3TlRSeE40M3N2a1htZ25BcDlyMHJsdmRwcWRmSDlXbTBha1J5RkFwVzVGMjdNVjJ0RDBWX3lpTXBrQW51MnhGa2xBX0kxell3QlFKNG9vTERORmd6TDdLbDlwUFg5bGRmVXh3Z2VTbGhCQk4yd1hkRHlUZFNvclR4MG1LUFlkcktHUDZWNEJyTjlPckU?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#2
-> **reason**：rank #2; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories NVIDIA Newsroom
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -773,6 +807,23 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
+> [!info]+ **今日必须看 / 91** | Anthropic warns AI could 'self-replicate' across smart home devices, become 'challenging' to shut down - Yahoo Finance
+> **标题**：Anthropic warns AI could 'self-replicate' across smart home devices, become 'challenging' to shut down - Yahoo Finance
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOX2R2bllxcFlSUGdEZmZSNXBXRjZyck5zZjVTZThULXo4RDQ5YXp4QmxNOXYwdDFXeUtCd2Nwc2pfZ0pabkx0ZnJ3QXIzUXhSQy01SVRYUDN5VnBJVDFwcWtWRHBON2RZMHpyeTE2NlhXenVvNnBPRzl0SnRNV1otclo5Z3BfS0EyUG1tTk10WFFsZTJ1dzMtMDd5emxTX0lnd192SHZCUVRQMlotQzUybzlqaGdsczJISUh4R09jSjNvVlBsSnlFd0ZfQ3J5Q1R0eE1fdllmMHRlUEYzZk1yTzBsel85TVhTXzlSdWVR?oc=5)
+> **source**：Google News / Global Markets Tech
+> **kind**：`news`
+> **region**：国际
+> **category**：财经/科技
+> **rank**：#4
+> **reason**：rank #4; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
+> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
+> **summary**：Anthropic warns AI could 'self-replicate' across smart home devices, become 'challenging' to shut down Yahoo Finance
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
 > [!info]+ **今日必须看 / 91** | Most US voters say Trump, Congress don't take AI risks seriously, Reuters/Ipsos poll finds - Reuters
 > **标题**：Most US voters say Trump, Congress don't take AI risks seriously, Reuters/Ipsos poll finds - Reuters
 > **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMivwFBVV95cUxNN2p1M1ZHTVBGQXhwSXJMYWp2SXBVWGZzVnV1V3JaWjJWTjI0RnVKS2t2OGdRc1VCYVBwTTljSk9EQ2xINUtZbl9IMDZDZTZWc3hodFYzckxmaldPNC1taDFwcTJxcTJFdjk1eTl0LVpoYlBEREJnX2U0ajB0V0FXRXE2QWlvTllvWVRFaU43SlJRQlhiVVNhVDR4WkdGMi1mSnAtUXprYmZHV1ZfT3RMdTc1emNYVEtCZkNSeFdXZw?oc=5)
@@ -790,34 +841,17 @@ tags:
 > - [ ] 稍后复盘
 > - [ ] 忽略
 
-> [!info]+ **今日必须看 / 89** | Sharing AI progress in mathematics - OpenAI
-> **标题**：Sharing AI progress in mathematics - OpenAI
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE9HRmFiYm1mWTNPVTVGTk9faFRwRVZyTjhmejJwa0U3QjU3djh5SlpXT3ZhUlF2M0lXcV9jNkNka1kzY3RKNkRTTnpJVW16ZG1QdmdPU3owRXdCYzFLSkdTb3pIZWdJV0k1R3o3dw?oc=5)
+> [!info]+ **今日必须看 / 89** | What If AI Is the End of the World? - The Atlantic
+> **标题**：What If AI Is the End of the World? - The Atlantic
+> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMifkFVX3lxTFBzbDY0NmNJYWRHd0ZXM3Ntd0hRQTl4cGZmUEZkQlFzeF84Wl9nNjRSaS1kZFZCZ1JMa2dhc3dpNDBXenIxdzJfMjctVk1CWG1LUGx0Q3Y3T2d0Ym83Y3BXd2NiSVJ2eVIzYmM3S1BCbmR6VUpMSnItczFPQUgzdw?oc=5)
 > **source**：Google News / Global Markets Tech
 > **kind**：`news`
 > **region**：国际
 > **category**：财经/科技
-> **rank**：#1
-> **reason**：rank #1; source weight: Google News; hot terms: ai, ai, markets
+> **rank**：#5
+> **reason**：rank #5; source weight: Google News; hot terms: ai, ai, markets; fresh within 12h
 > **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：Sharing AI progress in mathematics OpenAI
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **今日必须看 / 89** | AI’s mathematics blitz pushes science into strange new territory - The Economist
-> **标题**：AI’s mathematics blitz pushes science into strange new territory - The Economist
-> **原文链接**：🔗 [打开原文](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX2xkTTk5TzZPSFVTcU9vdklZbEdGZFM4LUY5R2U0ZnN1T1ZHZE5ZSUlwaEMxOHBVR2VOR0xUbU5YUUR2T0lMS3N5NFFWRGRnUGhmdUFtbjlWMzhYU1VJNUlSbU9SN3Y4VGNvRDlvNVVjN0Q4WFQ0ckQ3YkJmU1NFUVhsTDdKMHBqZnV1RWJOYm5WcWFFanZKRHhJM1JaLVZ0ZEdUVXRzNmxMQVpneUR6MXNGU0lvV1BzWmp4YTVVVkM?oc=5)
-> **source**：Google News / Global Markets Tech
-> **kind**：`news`
-> **region**：国际
-> **category**：财经/科技
-> **rank**：#7
-> **reason**：rank #7; source weight: Google News; hot terms: ai, us, ai, markets; fresh within 12h
-> **follow_up**：关注后续市场反应、政策表态和相关资产波动。
-> **summary**：AI’s mathematics blitz pushes science into strange new territory The Economist
+> **summary**：What If AI Is the End of the World? The Atlantic
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库

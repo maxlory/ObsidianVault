@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W42
-date: 2026-10-13
+date: 2026-10-14
 tags:
   - weekly-review
   - research-radar
@@ -10,19 +10,6 @@ tags:
 
 ## 本周趋势
 
-> [!info]+ **今日必须看 / 89** | dork-labs/dorkos
-> **标题**：dork-labs/dorkos
-> **原文链接**：🔗 [打开原文](https://github.com/dork-labs/dorkos)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：You, multiplied. One place for every AI agent you run: Claude Code, Codex, and OpenCode side by side. See every session, approve what your agents do, and run them on a schedule. Self-hosted, MIT.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | DanielC000/loom
 > **标题**：DanielC000/loom
 > **原文链接**：🔗 [打开原文](https://github.com/DanielC000/loom)
@@ -31,19 +18,6 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, obsidian; high-value terms: agent, agents, claude code, api
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Orchestrate a fleet of real Claude Code agents on your Claude subscription, not per-token API bills - local-first.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | codecast-sh/codecast
-> **标题**：codecast-sh/codecast
-> **原文链接**：🔗 [打开原文](https://github.com/codecast-sh/codecast)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Your team and its agents, in one workspace. Chat, calls, tasks, docs, pull requests and decisions, with Claude Code, Codex, Cursor, Gemini, OpenCode and pi as teammates. Everything links back to the session that did it.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -140,22 +114,35 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-
-## 值得试用的工具 / 模型
-
-> [!info]+ **今日必须看 / 89** | dork-labs/dorkos
-> **标题**：dork-labs/dorkos
-> **原文链接**：🔗 [打开原文](https://github.com/dork-labs/dorkos)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：You, multiplied. One place for every AI agent you run: Claude Code, Codex, and OpenCode side by side. See every session, approve what your agents do, and run them on a schedule. Self-hosted, MIT.
+> [!info]+ **今日必须看 / 84** | Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南
+> **标题**：Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南
+> **原文链接**：🔗 [打开原文](https://claude.dev/blog/building-effective-agent-automations/)
+> **source**：AI HOT / Anthropic：Claude.dev 开发者博客（RSS）
+> **kind**：`article`
+> **reason**：matches topics: agent, agents, anthropic; high-value terms: agent, agents
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：Anthropic 发布基于 Claude Managed Agents（beta）的每日简报参考实现，按计划读取 Slack 和 GitHub 来源并向 Slack 发布简报。
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 83** | 【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移
+> **标题**：【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移
+> **原文链接**：🔗 [打开原文](https://aihot.news/agent?tab=api#legacy-api-migration)
+> **source**：AI HOT / AIHOT
+> **kind**：`article`
+> **reason**：matches topics: agent, mcp; high-value terms: agent, mcp, api
+> **follow_up**：判断是否需要沉淀为长期主题笔记。
+> **summary**：这条消息来自 AIHOT 旧版接口 /api/public/*：它将于 2026 年 10 月 31 日停用，之后这里不会再有新资讯。如果它是群机器人或脚本推送来的，请转告维护的人把地址换成 https://aihot.news/api/v1，字段一一对应；迁移指南和可以直接交给 AI 改写代码的提示词见 https://aihot.news/agent?tab=api#legacy-api-migration 。同一天起旧域名 aihot.virxact.com 的所有地址都只跳转到 aihot.news，RSS、MCP 等地址也请换成新域名；收藏的网页链接照样能打开。
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+
+## 值得试用的工具 / 模型
+
 > [!info]+ **今日必须看 / 89** | DanielC000/loom
 > **标题**：DanielC000/loom
 > **原文链接**：🔗 [打开原文](https://github.com/DanielC000/loom)
@@ -169,14 +156,27 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | codecast-sh/codecast
-> **标题**：codecast-sh/codecast
-> **原文链接**：🔗 [打开原文](https://github.com/codecast-sh/codecast)
+> [!info]+ **今日必须看 / 89** | SanvioLabs/sanvio-harness-starter
+> **标题**：SanvioLabs/sanvio-harness-starter
+> **原文链接**：🔗 [打开原文](https://github.com/SanvioLabs/sanvio-harness-starter)
 > **source**：GitHub Search
 > **kind**：`github_repo`
 > **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Your team and its agents, in one workspace. Chat, calls, tasks, docs, pull requests and decisions, with Claude Code, Codex, Cursor, Gemini, OpenCode and pi as teammates. Everything links back to the session that did it.
+> **summary**：The smallest useful agent harness: instructions, a skill, a gate, a hook and a review agent. Works with Claude Code, Codex and Kiro.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | wangyan9110/wombat
+> **标题**：wangyan9110/wombat
+> **原文链接**：🔗 [打开原文](https://github.com/wangyan9110/wombat)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, codex, mcp; high-value terms: agent, agents, mcp, codex
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Review Codex token usage and task timing locally. Estimate API costs, inspect AGENTS.md, Skills, MCP, and Hooks, and send evidence-backed recommendations to Codex.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -198,19 +198,6 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 81** | ToolRACER: A Robust Agentic Conversation Emulation Resource for Agent Training and Evaluation
-> **标题**：ToolRACER: A Robust Agentic Conversation Emulation Resource for Agent Training and Evaluation
-> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2610.09163)
-> **source**：cs.CL updates on arXiv.org
-> **kind**：`paper`
-> **reason**：matches topics: agent, agents, benchmark; high-value terms: benchmark, agent, agents, eval
-> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
-> **summary**：arXiv:2610.09163v1 Announce Type: new Abstract: Task-oriented conversational agents remain fragile under real world conversation scenarios as they rarely follow a predictable script, especially when users exhibit non-cooperative behavior. Existing function-calling benchmarks often emphasize success...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 81** | SWE-Duel: Towards a Self-Scaling Arena for Coding Agents
 > **标题**：SWE-Duel: Towards a Self-Scaling Arena for Coding Agents
 > **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2610.12569)
@@ -219,6 +206,19 @@ tags:
 > **reason**：matches topics: agent, agents, benchmark; high-value terms: release, benchmark, agent, agents
 > **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
 > **summary**：arXiv:2610.12569v1 Announce Type: new Abstract: Static coding benchmarks are fixed at release. Over time their tasks leak into training data, and stronger agents eventually saturate them. We argue that a benchmark should instead aim to be self-scaling: its tasks and oracles are created at evaluatio...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 81** | ToolRACER: A Robust Agentic Conversation Emulation Resource for Agent Training and Evaluation
+> **标题**：ToolRACER: A Robust Agentic Conversation Emulation Resource for Agent Training and Evaluation
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2610.09163)
+> **source**：cs.CL updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, benchmark; high-value terms: benchmark, agent, agents, eval
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2610.09163v1 Announce Type: new Abstract: Task-oriented conversational agents remain fragile under real world conversation scenarios as they rarely follow a predictable script, especially when users exhibit non-cooperative behavior. Existing function-calling benchmarks often emphasize success...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -292,19 +292,6 @@ tags:
 
 ## 反复出现的信号
 
-> [!info]+ **今日必须看 / 89** | dork-labs/dorkos
-> **标题**：dork-labs/dorkos
-> **原文链接**：🔗 [打开原文](https://github.com/dork-labs/dorkos)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：You, multiplied. One place for every AI agent you run: Claude Code, Codex, and OpenCode side by side. See every session, approve what your agents do, and run them on a schedule. Self-hosted, MIT.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
 > [!info]+ **今日必须看 / 89** | DanielC000/loom
 > **标题**：DanielC000/loom
 > **原文链接**：🔗 [打开原文](https://github.com/DanielC000/loom)
@@ -313,19 +300,6 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, obsidian; high-value terms: agent, agents, claude code, api
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Orchestrate a fleet of real Claude Code agents on your Claude subscription, not per-token API bills - local-first.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 89** | codecast-sh/codecast
-> **标题**：codecast-sh/codecast
-> **原文链接**：🔗 [打开原文](https://github.com/codecast-sh/codecast)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, codex, claude code
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Your team and its agents, in one workspace. Chat, calls, tasks, docs, pull requests and decisions, with Claude Code, Codex, Cursor, Gemini, OpenCode and pi as teammates. Everything links back to the session that did it.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -357,6 +331,32 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
+> [!info]+ **今日必须看 / 81** | Show HN: Agor, multiplayer AI – stop running agents alone
+> **标题**：Show HN: Agor, multiplayer AI – stop running agents alone
+> **原文链接**：🔗 [打开原文](https://github.com/preset-io/agor)
+> **source**：GitHub Search, Hacker News
+> **kind**：`community`
+> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
+> **follow_up**：阅读讨论区，提炼争议点和实践经验。
+> **summary**：9 points | 2 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 81** | When Charts Deceive Web Agents: A Paired Benchmark for Misleading Visualization-Grounded Tasks
+> **标题**：When Charts Deceive Web Agents: A Paired Benchmark for Misleading Visualization-Grounded Tasks
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2610.12823)
+> **source**：cs.CL updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, benchmark; high-value terms: benchmark, agent, agents, api
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2610.12823v1 Announce Type: new Abstract: Web agents increasingly browse, interpret, and act on web content on behalf of users. In many realistic workflows, however, the visual evidence they consume is not neutral: charts and dashboards can be misleading, shaping judgments without issuing any...
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
 > [!info]+ **今日必须看 / 81** | Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes
 > **标题**：Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes
 > **原文链接**：🔗 [打开原文](https://github.com/edgedelta/project-arena)
@@ -370,27 +370,14 @@ tags:
 > - [ ] 纳入长期知识库
 > - [ ] 稍后复盘
 > - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | heygen-com/hyperframes
-> **标题**：heygen-com/hyperframes
-> **原文链接**：🔗 [打开原文](https://github.com/heygen-com/hyperframes)
-> **source**：GitHub Search, GitHub Trending
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：Write HTML. Render video. Built for agents.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 79** | OpenDigitalProductFactory/opendigitalproductfactory
-> **标题**：OpenDigitalProductFactory/opendigitalproductfactory
-> **原文链接**：🔗 [打开原文](https://github.com/OpenDigitalProductFactory/opendigitalproductfactory)
-> **source**：GitHub Search
-> **kind**：`github_repo`
-> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
-> **summary**：This is the official open digital product factory
+> [!info]+ **今日必须看 / 81** | SWE-Duel: Towards a Self-Scaling Arena for Coding Agents
+> **标题**：SWE-Duel: Towards a Self-Scaling Arena for Coding Agents
+> **原文链接**：🔗 [打开原文](https://arxiv.org/abs/2610.12569)
+> **source**：cs.CL updates on arXiv.org
+> **kind**：`paper`
+> **reason**：matches topics: agent, agents, benchmark; high-value terms: release, benchmark, agent, agents
+> **follow_up**：阅读摘要和方法，判断是否需要建立永久论文笔记。
+> **summary**：arXiv:2610.12569v1 Announce Type: new Abstract: Static coding benchmarks are fixed at release. Over time their tasks leak into training data, and stronger agents eventually saturate them. We argue that a benchmark should instead aim to be self-scaling: its tasks and oracles are created at evaluatio...
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -417,6 +404,19 @@ tags:
 > **reason**：matches topics: agent, agents; high-value terms: agent, agents; strong public engagement
 > **follow_up**：阅读讨论区，提炼争议点和实践经验。
 > **summary**：303 points | 262 comments
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 78** | dp-web4/SAGE
+> **标题**：dp-web4/SAGE
+> **原文链接**：🔗 [打开原文](https://github.com/dp-web4/SAGE)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, llm, research; high-value terms: agent, agents
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：A cognition kernel that wraps a frozen LLM in a persistent identity + trust + governance loop — testing whether capability comes from structure, not weights. Research-stage; honest about what's real vs mocked.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
