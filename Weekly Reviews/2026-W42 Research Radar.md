@@ -1,6 +1,6 @@
 ---
 title: Research Radar Week 2026-W42
-date: 2026-10-16
+date: 2026-10-17
 tags:
   - weekly-review
   - research-radar
@@ -57,6 +57,19 @@ tags:
 > **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, mcp, codex
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Open source, self-hosted GitHub orchestration for AI coding agents. Runs Claude Code, Codex, Antigravity, OpenCode and Mistral Vibe on your server and ships every change as a reviewed pull request: issue to PR, AI code review, automated fix loops.
+>
+> **人工选择**：
+> - [ ] 纳入长期知识库
+> - [ ] 稍后复盘
+> - [ ] 忽略
+> [!info]+ **今日必须看 / 89** | ashlrai/phantom-secrets
+> **标题**：ashlrai/phantom-secrets
+> **原文链接**：🔗 [打开原文](https://github.com/ashlrai/phantom-secrets)
+> **source**：GitHub Search
+> **kind**：`github_repo`
+> **reason**：matches topics: agent, agents, claude code, codex; high-value terms: agent, agents, mcp, codex
+> **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
+> **summary**：Stop AI coding agents from leaking your API keys. Local proxy + MCP that swaps real secrets for phm_ tokens — works with Claude Code, Cursor, Windsurf, and Codex.
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
@@ -122,19 +135,6 @@ tags:
 > **reason**：matches topics: agent, agents, llm; high-value terms: agent, agents, api, eval
 > **follow_up**：查看 README、最近 release 和 issue，判断是否加入工具评估清单。
 > **summary**：Writer — independent third-party profile of a public API surface, by API Evangelist. Writer is a generative AI platform purpose-built for the enterprise. The Writer AI Studio Platform API exposes the proprietary Palmyra family of LLMs, knowledge-graph retrieval, no-code Applicat...
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-> [!info]+ **今日必须看 / 81** | Show HN: Agor, multiplayer AI – stop running agents alone
-> **标题**：Show HN: Agor, multiplayer AI – stop running agents alone
-> **原文链接**：🔗 [打开原文](https://github.com/preset-io/agor)
-> **source**：GitHub Search, Hacker News
-> **kind**：`community`
-> **reason**：matches topics: agent, agents, mcp; high-value terms: agent, agents, mcp
-> **follow_up**：阅读讨论区，提炼争议点和实践经验。
-> **summary**：9 points | 2 comments
 >
 > **人工选择**：
 > - [ ] 纳入长期知识库
