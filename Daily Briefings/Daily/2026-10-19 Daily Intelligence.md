@@ -3,495 +3,69 @@ title: Daily Intelligence 2026-10-19
 date: 2026-10-19
 tags:
   - daily-briefing
-  - research-radar
   - workbuddy
+  - github-trending
+  - ai-news
+generated_by: WorkBuddy Daily Intelligence Automation
 ---
 
 # 2026-10-19 Daily Intelligence
 
 ## 今日概览
 
-- 今日信号总数：32
-- 今日必须看：0
-- 可延后：0
-- 处理建议：先看高分条目的 README / paper / release notes，再决定是否建立永久笔记。
+- GitHub 今日优先扫：MadsLorentzen/ai-job-search, anomalyco/opencode, akitaonrails/ai-memory
+- AI 动态优先读：暂无 AI 动态
+- 时政新闻优先核验：Connecticut General Election 2026 Voter Guide - CT Mirror, The midterm election outcomes that could shape Trump's final two years - Reuters, Where to vote early in Harris County for 2026 midterm election - Houston Public Media
 
-## AI HOT 官方日报
+## GitHub Trending
 
-### source failure logged
+- [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) (all)
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) (all)
+- [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) (all)
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) (all)
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) (all)
+- [stablyai/orca](https://github.com/stablyai/orca) (all)
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) (all)
+- [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) (all)
+- [Kruk2/jasna](https://github.com/Kruk2/jasna) (python)
+- [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) (python)
+- [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) (python)
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) (python)
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) (python)
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) (typescript)
+- [DmNote-App/DmNote](https://github.com/DmNote-App/DmNote) (typescript)
+- [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) (typescript)
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) (typescript)
+- [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) (typescript)
 
-> [!info]+ **只归档 / 0** | AI HOT Daily fetch failed
-> **标题**：AI HOT Daily fetch failed
-> **原文链接**：🔗 [打开原文](https://aihot.virxact.com/api/public/daily)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
+## AI 动态
 
-## 今日必须看
+- 今日未采集到相关条目。
 
-- 暂无。
+## 时政新闻
 
-## 可延后
+- [Connecticut General Election 2026 Voter Guide - CT Mirror](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNS1TckstcGpPTlBGUWozUURlSzRWZkhGMllOSXdkWFZ6OVNJQThnemUwaTY1NnRULVdPOFFjeWNsVnZhb2NnSGlYeFlESlJRY1BSYmRrRERFa1NuQmNDNWdPQ1JwTFVzWXRlczdqMVVIWlFZTGR6OWlIUDlTWDR6T0tKNmI?oc=5)：Connecticut General Election 2026 Voter Guide CT Mirror
+- [The midterm election outcomes that could shape Trump's final two years - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxQaEV4NHdWNVNlYU41Q0ZMbVJEbGl1bC1Sb3Y1aW9pWE5pR083em1jeXphd1RfSlkxdW4ySzR1ekdpMUNta3JXenJQOGR4VkNMektwRXlhcVRISTZqci1sNDRMYTNzbk5aRWc4WTJKaWZfazFGRXNMdG1fR1BjWnJRdHNoZ3NMWjVMU0tzTTNsNTUyWEhIc0FvN2tleXFlemx6RFBqWE9vRUtFWU91V3JxRHE3UUphdUoyV0E?oc=5)：The midterm election outcomes that could shape Trump's final two years Reuters
+- [Where to vote early in Harris County for 2026 midterm election - Houston Public Media](https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcTJGckFEcXlDNlE4RnZyR1RtVGNwT2VnSWQ3ZjVJU1JRTjU1WGxUYXZVRmYzMjVJMFlpUU9uUWx4eU11QUZ4a0haRjJKVkYydjBFeU1ISVA2RDlqbTA4akN0SXNQZFh4dFQwNVJ1elBuekFtT29GbURidlF5SHFfX1A4cXFuLTQwU1pVWlVrLTBsZ29zaUFvakd2UjdkdFJJaUZ5SGVkTzh2T3Qyb3dMSzdzMHU0aV9oOVBhM0Y5cXplOXlLOTFKLUJfMDVYTjJ0ZEdnM1NxcTQ0T0ZBczFrcGszd9IB6wFBVV95cUxPTE9DcUlEZFVYZENqNk1GN3pnNF9BaXdXTnRoN0Jha0VLdnpoeGVfU2o5N3VYWkZCZXprR2JLVi1FbV9mQ1Z2MmxoR19TaTBwdFVDM0NVNWVhOUk4TmhkblVWdW5QVFRDU0Z4WXpYeDdCcERIY1dRbkZmZW4waTRob2ROR3k1VnlPOW9LakFPeGZvQjBqSTR0d2s1OEdRLVFsRkNBbW1wWHl0ZGhtUjZhbkNnMC00UUYtUHRwUUJfb3JtWll3VERoQTNtNDc0OUZVQVJkY2M1V2VFbzVWeU5SWkxqdm1SYklDcW1v?oc=5)：Where to vote early in Harris County for 2026 midterm election Houston Public Media
+- [Arkansas Explained: How to vote early in the 2026 midterm election - Arkansas Advocate](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeXZQa3VsY2VOdi1QbTdWZWRPLWlWY3NTSEdUci1fYkp6enhoU3B1YjNzdTZyY0laNHNkZ2ZNNzBraGhmYVZCa0pBVVREd1V4NzNzbTk3RmQzM2dNcFZFQXdOR19JRjM2NHZXTFZDQk1uSFRQX3M0MDYySVhkZTFscnJCbVhrWjIxWm9hbDJsS2JSUDE2X3VCRi16eVVpYTdrSFlXdC10cGEwUQ?oc=5)：Arkansas Explained: How to vote early in the 2026 midterm election Arkansas Advocate
+- [Planet Earth and Brazil’s Election - The New York Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxOdzlHaDVCUEk1TGdNV1RWVDlFYnFnY256T3RiWWpwcmtHb1R6S0Zyb1BvODBCVU5VMDc2MFBxYUVkSFQwazAwcWY4VFhxdWpNWnpoRWtZVS1rbUhkQ1RMWXhsOHUxcjRXMmtkeWRzdThUMUNvQkdYTW9JQ19obVN2NHJrUDExb0ktUndVa0wtdWxsLXNHTXc?oc=5)：Planet Earth and Brazil’s Election The New York Times
+- [Early voting for Alaska’s general election opens in Juneau, Nome and across the Railbelt - Alaska Beacon](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQnU4VjZQeVF6RjlCcjh6Rk54ZnA1VWVWcU9Bc0Z3WXZWeFJFMV9JZVFyZ3BLcVpVaGZmWEp2RUVDbjNITTBoMlA2TGdVaElZU1o0OTNwVlhxRVRMcU52aHpqSDZGelFaZzFfeGhwYVVma0pIbVZGaG1kZ3l0TGVwNUQ0LW50YUNsN1djWlpwTVNhZ3YxVEo5TTVTWHJoLURnSFlDOUxtU0k1V2ZVU3FZWHVyczQ0OW05enBtS2E3U08?oc=5)：Early voting for Alaska’s general election opens in Juneau, Nome and across the Railbelt Alaska Beacon
+- [Michigan advocates work to ease election security anxieties as Nov. 3 approaches - Michigan Advance](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOazd2NGJSbHF6b0RXYTNWeVl3MUdDMV9faDRCekFLek5hVWpTQmtZOENoRU1MMkJjckpPS1VTOFd5S3RRcmFZbUhvQzZEX0VKc0FTSDY1UW5FdS1XNW91dHNrczliSnZJbmZwQldhM0hLWUFyYURnY05KRjYzUG13SW95Sll3M09obUF0QXMxbXpFMG5ZRm45WG4tOXN6dlQzb1VGeGFWeUxEcmpYYUlraTlSNzdWa29LYkhrTm1MTVgzZw?oc=5)：Michigan advocates work to ease election security anxieties as Nov.
+- [Election 2026: Rice experts available for media interviews - Rice University](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUjJjZUY0ZE1EeTFoOHZiQi03bEVOV3J1alB4QzlIai1PVko2OUk3ODBmUlJpNDV1VnBTUGZ3aWFPaV9zUEk3UFlmbmdMQjNxUklFQ1h0dl9Zck5YRHVBbDFyLUYzQk83SVVnN3RDSEpEejRDb2d1b3c1YmdhaWRCYmRaMkE0WEhxZGU3SWhn?oc=5)：Election 2026: Rice experts available for media interviews Rice University
+- [A look at key parties in Israel’s Oct. 27 election seen as a referendum on Netanyahu - AP News](https://news.google.com/rss/articles/CBMipgFBVV95cUxNcGk5VFgzaHFPd0pWRjJqRFZIRXU5RXQzRldRekNfRDFHYmpmbndKNjUtMDNXX2pfOHpsZEVLYWZ4aW1ZRGxySUhCYUlHcW9yYzFLdnRJeHZqVjhhbzI1YnptbmlxaXQ5S2d0b0I3aEk3Q2pGRjVTQjhya3FzZTRfM0U3emlvdm1mMUc4OV83OXVkRnpvUXdjekw3YjhOZUgtZzdSYjhR?oc=5)：A look at key parties in Israel’s Oct.
+- [This Cybersecurity Agency Is Supposed to Protect U.S. Elections. Officials Fear It’s Been Compromised by Trump. - ProPublica](https://news.google.com/rss/articles/CBMiekFVX3lxTE40Y0diSHM2SWs5aUJzdHFmRUdGQ25pcS1KVDVtV0Nqc0ZlcEtjVTFJWTRXMHpsY00waEFjc0NYaS1ScFZLbGFUOEtfTG1UY0o4U0tCQ3RYenZGLWY5THlBRTRaUGlfSzM0N0FnNHBjZUZLd2o1Rm83NVNn?oc=5)：This Cybersecurity Agency Is Supposed to Protect U.S.
+- [The real reason it's going to take a while to know who won in some midterm races - NPR](https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGZTOUFyNE5HQ1J3WFdwTVFtcHNmVkFtSUlQNlBHVjV5OFlKU3ZneE1BUmhTY1VTc3hpeTh0Smc3VzRiQWNERXg3S3dfRHdwX19EMFVmR3FPVUhiSGQ4WEFaRWtDUHdvdE9EdVR5bHotamFPQmszdURLb1R0QS0ycE1VUQ?oc=5)：The real reason it's going to take a while to know who won in some midterm races NPR
+- [The race for Idaho’s top election official, the secretary of state, is a rematch - Idaho Capital Sun](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbUQyd3ZINVB5cXVkWk13NndXS3dZUHlUb1VwWW5ZNDRtbm5CbTVzTmRpdFZVbUVDT3g1NGtMOEF3OHZQNWpSbjVNV3RlUWNuYm9aZXNKM1FfTVhEU3dtQzVPUktXQ0phTTUwRWQ0b1dxUnBQUXRfelhGeXl4TVZDdl85eU9jZkFyNGhYcy1kWEZvcGJ5XzhmVzVnWmRrbEt1a0k1b0ZTSDltTG11bGJXOUpQWVpnVzU2?oc=5)：The race for Idaho’s top election official, the secretary of state, is a rematch Idaho Capital Sun
 
-- 暂无。
+## 可行动事项
 
-## 只归档
-
-> [!info]+ **只归档 / 0** | AI HOT fetch failed
-> **标题**：AI HOT fetch failed
-> **原文链接**：🔗 [打开原文](https://aihot.virxact.com/api/public/items?mode=selected&since=2026-10-18T00%3A11%3A57Z&take=100)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | OpenAI fetch failed
-> **标题**：OpenAI fetch failed
-> **原文链接**：🔗 [打开原文](https://openai.com/news/rss.xml)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | Google DeepMind fetch failed
-> **标题**：Google DeepMind fetch failed
-> **原文链接**：🔗 [打开原文](https://deepmind.google/blog/rss.xml)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | Google AI Blog fetch failed
-> **标题**：Google AI Blog fetch failed
-> **原文链接**：🔗 [打开原文](https://blog.google/technology/ai/rss/)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | Hugging Face Blog fetch failed
-> **标题**：Hugging Face Blog fetch failed
-> **原文链接**：🔗 [打开原文](https://huggingface.co/blog/feed.xml)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | GitHub Trending fetch failed
-> **标题**：GitHub Trending fetch failed
-> **原文链接**：🔗 [打开原文](https://github.com/trending?since=daily)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | GitHub Trending fetch failed
-> **标题**：GitHub Trending fetch failed
-> **原文链接**：🔗 [打开原文](https://github.com/trending/python?since=daily)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | GitHub Trending fetch failed
-> **标题**：GitHub Trending fetch failed
-> **原文链接**：🔗 [打开原文](https://github.com/trending/typescript?since=daily)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | GitHub Search fetch failed
-> **标题**：GitHub Search fetch failed
-> **原文链接**：🔗 [打开原文](https://api.github.com/search/repositories?q=topic%3Aai&sort=updated&order=desc&per_page=8)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | GitHub Search fetch failed
-> **标题**：GitHub Search fetch failed
-> **原文链接**：🔗 [打开原文](https://api.github.com/search/repositories?q=topic%3Allm&sort=updated&order=desc&per_page=8)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | GitHub Search fetch failed
-> **标题**：GitHub Search fetch failed
-> **原文链接**：🔗 [打开原文](https://api.github.com/search/repositories?q=topic%3Aagents&sort=updated&order=desc&per_page=8)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | GitHub Search fetch failed
-> **标题**：GitHub Search fetch failed
-> **原文链接**：🔗 [打开原文](https://api.github.com/search/repositories?q=topic%3Amcp&sort=updated&order=desc&per_page=8)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | GitHub Search fetch failed
-> **标题**：GitHub Search fetch failed
-> **原文链接**：🔗 [打开原文](https://api.github.com/search/repositories?q=topic%3Aobsidian&sort=updated&order=desc&per_page=8)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | Hacker News fetch failed
-> **标题**：Hacker News fetch failed
-> **原文链接**：🔗 [打开原文](https://hn.algolia.com/api/v1/search?query=AI&tags=story&numericFilters=created_at_i%3E1792260729&hitsPerPage=8)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | Hacker News fetch failed
-> **标题**：Hacker News fetch failed
-> **原文链接**：🔗 [打开原文](https://hn.algolia.com/api/v1/search?query=LLM&tags=story&numericFilters=created_at_i%3E1792260729&hitsPerPage=8)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | Hacker News fetch failed
-> **标题**：Hacker News fetch failed
-> **原文链接**：🔗 [打开原文](https://hn.algolia.com/api/v1/search?query=agents&tags=story&numericFilters=created_at_i%3E1792260729&hitsPerPage=8)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | Hacker News fetch failed
-> **标题**：Hacker News fetch failed
-> **原文链接**：🔗 [打开原文](https://hn.algolia.com/api/v1/search?query=OpenAI&tags=story&numericFilters=created_at_i%3E1792260729&hitsPerPage=8)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | Hacker News fetch failed
-> **标题**：Hacker News fetch failed
-> **原文链接**：🔗 [打开原文](https://hn.algolia.com/api/v1/search?query=Anthropic&tags=story&numericFilters=created_at_i%3E1792260729&hitsPerPage=8)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | Hacker News fetch failed
-> **标题**：Hacker News fetch failed
-> **原文链接**：🔗 [打开原文](https://hn.algolia.com/api/v1/search?query=Hugging+Face&tags=story&numericFilters=created_at_i%3E1792260729&hitsPerPage=8)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | Hugging Face fetch failed
-> **标题**：Hugging Face fetch failed
-> **原文链接**：🔗 [打开原文](https://huggingface.co/api/models?sort=trending&direction=-1&limit=20)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | arXiv cs.AI fetch failed
-> **标题**：arXiv cs.AI fetch failed
-> **原文链接**：🔗 [打开原文](https://export.arxiv.org/rss/cs.AI)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | arXiv cs.CL fetch failed
-> **标题**：arXiv cs.CL fetch failed
-> **原文链接**：🔗 [打开原文](https://export.arxiv.org/rss/cs.CL)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | arXiv cs.LG fetch failed
-> **标题**：arXiv cs.LG fetch failed
-> **原文链接**：🔗 [打开原文](https://export.arxiv.org/rss/cs.LG)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | Product Hunt fetch failed
-> **标题**：Product Hunt fetch failed
-> **原文链接**：🔗 [打开原文](https://www.producthunt.com/feed)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | Dev.to fetch failed
-> **标题**：Dev.to fetch failed
-> **原文链接**：🔗 [打开原文](https://dev.to/api/articles?tag=ai&top=1&per_page=6)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | Dev.to fetch failed
-> **标题**：Dev.to fetch failed
-> **原文链接**：🔗 [打开原文](https://dev.to/api/articles?tag=machinelearning&top=1&per_page=6)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | Dev.to fetch failed
-> **标题**：Dev.to fetch failed
-> **原文链接**：🔗 [打开原文](https://dev.to/api/articles?tag=llm&top=1&per_page=6)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | Dev.to fetch failed
-> **标题**：Dev.to fetch failed
-> **原文链接**：🔗 [打开原文](https://dev.to/api/articles?tag=opensource&top=1&per_page=6)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | Lobste.rs fetch failed
-> **标题**：Lobste.rs fetch failed
-> **原文链接**：🔗 [打开原文](https://lobste.rs/t/ai.json)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | Lobste.rs fetch failed
-> **标题**：Lobste.rs fetch failed
-> **原文链接**：🔗 [打开原文](https://lobste.rs/t/ml.json)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | Lobste.rs fetch failed
-> **标题**：Lobste.rs fetch failed
-> **原文链接**：🔗 [打开原文](https://lobste.rs/t/programming.json)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
-
-> [!info]+ **只归档 / 0** | Anthropic fetch failed
-> **标题**：Anthropic fetch failed
-> **原文链接**：🔗 [打开原文](https://www.anthropic.com/sitemap.xml)
-> **source**：System
-> **kind**：`failure`
-> **reason**：source failure logged
-> **follow_up**：检查数据源是否限流或地址失效。
-> **summary**：No summary.
->
-> **人工选择**：
-> - [ ] 纳入长期知识库
-> - [ ] 稍后复盘
-> - [ ] 忽略
+- 对 GitHub Trending 中连续出现的工具，加入本周工具评估清单。
+- 对 AI 动态中的产品发布、模型更新、API 变更，补一条永久笔记。
+- 对时政新闻只保留事实和来源，避免未核实观点进入知识库。
 
 ## 运行信息
 
-- 生成方式：Research Radar daily_digest
+- 生成时间：2026-10-19T23:55:23.303782+08:00
+- GitHub 条目：18
+- AI 动态条目：0
+- 时政条目：12
